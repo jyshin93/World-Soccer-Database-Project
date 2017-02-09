@@ -1,0 +1,616 @@
+Season,League,Club,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place
+2014,a001,Augsburg,1,Alex Manninger,AUT,G,1.88,84,04-06-77,Salzburg
+2014,a001,Augsburg,2,Paul Verhaegh,NED,D,1.78,68,01-09-83,Kronenberg
+2014,a001,Augsburg,3,Ronny Philp,GER,D,1.83,78,28-01-89,Sibiu
+2014,a001,Augsburg,4,Dominik Reinhardt,GER,D,1.88,80,19-12-84,Nuremburg
+2014,a001,Augsburg,5,Ragnar Klavan,EST,M,1.86,78,30-10-85,Viljandi
+2014,a001,Augsburg,6,Kevin Vogt,GER,M,1.94,80,23-09-91,Bochum
+2014,a001,Augsburg,7,Halil Altıntop,TUR,F,1.86,82,08-12-82,Gelsenkirchen
+2014,a001,Augsburg,8,Raphael Holzhauser,AUT,M,1.93,85,16-02-93,Wiener Neustadt
+2014,a001,Augsburg,9,Arkadiusz Milik,POL,F,1.83,73,28-02-94,Tychy
+2014,a001,Augsburg,10,Daniel Baier,GER,M,1.75,73,18-05-84,Cologne
+2014,a001,Augsburg,11,Alexander Esswein,GER,F,1.81,76,25-03-90,Worms
+2014,a001,Augsburg,13,Tobias Werner,GER,M,1.77,67,19-07-85,Gera
+2014,a001,Augsburg,14,Jan Morávek,CZE,M,1.79,71,01-11-89,Prague
+2014,a001,Augsburg,16,Andreas Ottl,GER,M,1.85,77,01-03-85,Munich
+2014,a001,Augsburg,17,Marcel de Jong,CAN,F,1.74,73,15-10-86,New Market
+2014,a001,Augsburg,18,Jan-Ingwer Callsen-Bracker,GER,D,1.87,81,23-09-84,Schleswig
+2014,a001,Augsburg,19,Matthias Ostrzolek,GER,D,1.78,71,05-06-90,Bochum
+2014,a001,Augsburg,20,Hong Jeong-Ho,KOR,D,1.86,77,12-08-89,Jeju
+2014,a001,Augsburg,21,Dominik Kohr,GER,M,1.83,75,31-01-94,Trier
+2014,a001,Augsburg,24,Ji Dong-Won,KOR,F,1.87,78,28-05-91,Jeju
+2014,a001,Augsburg,25,Raúl Bobadilla,ARG,F,1.8,82,18-06-87,Formosa
+2014,a001,Augsburg,28,André Hahn,GER,F,1.85,75,13-08-90,Otterndorf
+2014,a001,Augsburg,29,Maik Uhde,GER,D,1.82,70,23-05-94,Schwabmünchen
+2014,a001,Augsburg,30,Mohamed Amsif,MAR,G,1.87,81,07-02-89,Düsseldorf
+2014,a001,Augsburg,31,Arif Ekin,TUR,F,1.76,69,14-09-95,Augsburg
+2014,a001,Augsburg,32,Raphael Framberger,GER,D,1.79,73,06-09-95,Augsburg
+2014,a001,Augsburg,33,Sascha Mölders,GER,F,1.85,79,20-03-85,Essen
+2014,a001,Augsburg,34,Bajram Nebihi,GER,F,1.88,88,05-08-88,Mitrovica
+2014,a001,Augsburg,35,Marwin Hitz,SUI,G,1.92,89,18-09-87,St. Gallen
+2014,a001,Augsburg,37,Ioannis Gelios,GRE,G,1.9,76,24-04-92,Augsburg
+2014,a001,Augsburg,39,Erik Thommy,GER,M,1.74,64,20-08-94,Ulm
+2014,a001,Augsburg,23,Aristide Bancé,BFA,F,1.92,90,19-09-84,Abidjan
+2014,a001,Augsburg,11,Panagiotis Vlachodimos,GRE,F,1.84,74,12-10-91,Stuttgart
+2014,a001,Augsburg,21,Mathias Fetsch,GER,F,1.89,81,30-09-88,Malsch
+2014,a001,Augsburg,24,Michael Parkhurst,USA,D,1.82,72,24-01-84,Providence
+2014,a001,Bayer Leverkusen,1,Bernd Leno,GER,G,1.89,78,04-03-92,Bietigheim-Bissingen
+2014,a001,Bayer Leverkusen,2,Kostas Stafylidis,GRE,D,1.76,74,02-12-93,Koufalia
+2014,a001,Bayer Leverkusen,3,Stefan Reinartz,GER,D,1.88,75,01-01-89,Engelskirchen
+2014,a001,Bayer Leverkusen,4,Philipp Wollscheid,GER,D,1.94,84,06-03-89,Wadern
+2014,a001,Bayer Leverkusen,5,Emir Spahić,BIH,D,1.83,77,18-08-80,Dubrovnik
+2014,a001,Bayer Leverkusen,6,Simon Rolfes,GER,M,1.89,82,21-01-82,Ibbenbüren
+2014,a001,Bayer Leverkusen,7,Son Heung-Min,KOR,F,1.83,76,08-07-92,Chuncheon
+2014,a001,Bayer Leverkusen,8,Lars Bender,GER,M,1.84,77,27-04-89,Rosenheim
+2014,a001,Bayer Leverkusen,9,Eren Derdiyok,SUI,F,1.9,83,12-06-88,Basel
+2014,a001,Bayer Leverkusen,10,Emre Can,GER,M,1.86,76,12-1-94,Frankfurt am Main
+2014,a001,Bayer Leverkusen,11,Stephan Kießling,GER,F,1.9,80,25-01-84,Lichtenfels
+2014,a001,Bayer Leverkusen,13,Jens Hegeler,GER,D,1.93,80,22-01-88,Cologne
+2014,a001,Bayer Leverkusen,14,Roberto Hilbert,GER,M,1.82,80,16-10-84,Forchheim
+2014,a001,Bayer Leverkusen,15,Levin Öztunali,GER,M,1.76,70,15-03-96,Hamburg
+2014,a001,Bayer Leverkusen,17,Sebastian Boenisch,POL,D,1.91,86,01-02-87,Gliwice
+2014,a001,Bayer Leverkusen,18,Sidney Sam,GER,M,1.74,66,31-01-88,Kiel
+2014,a001,Bayer Leverkusen,19,Julian Brandt,GER,M,1.83,80,02-05-96,Bremen
+2014,a001,Bayer Leverkusen,20,Andrés Guardado,MEX,M,1.69,60,28-09-86,Guadalajara
+2014,a001,Bayer Leverkusen,21,Ömer Toprak,TUR,D,1.86,81,21-07-89,Ravensburg
+2014,a001,Bayer Leverkusen,22,David Yelldell,USA,G,1.94,85,01-10-81,Stuttgart
+2014,a001,Bayer Leverkusen,23,Robbie Kruse,AUS,F,1.79,72,05-10-88,Brisbane
+2014,a001,Bayer Leverkusen,24,Ryu Seung-Woo,KOR,F,1.72,67,17-12-93,Busan
+2014,a001,Bayer Leverkusen,25,Andrés Palop,ESP,G,1.84,75,22-10-73,Valencia
+2014,a001,Bayer Leverkusen,26,Giulio Donati,ITA,D,1.75,70,5-2-90,Pietrasanta
+2014,a001,Bayer Leverkusen,27,Gonzalo Castro,GER,D,1.7,74,11-6-87,Wuppertal
+2014,a001,Bayer Leverkusen,30,Malcolm Cacutalua,GER,D,1.86,77,15-11-94,Troisdorf
+2014,a001,Bayer Leverkusen,32,Jonas Meffert,GER,M,1.86,77,04-09-94,Cologne
+2014,a001,Bayer Leverkusen,35,Alexander Bieler,GER,M,1.86,81,05-09-92,Oberhausen
+2014,a001,Bayer Leverkusen,36,Niklas Lomb,GER,G,1.88,84,28-07-93,Cologne
+2014,a001,Bayer Leverkusen,37,Maximilian Wagener,GER,M,1.81,74,03-01-95,Wülfrath
+2014,a001,Bayer Leverkusen,38,Karim Bellarabi,GER,F,1.83,72,08-04-90,Berlin
+2014,a001,Bayer Leverkusen,16,Arkadiusz Milik,POL,F,1.83,73,28-02-94,Tychy
+2014,a001,Bayer Leverkusen,31,Dominik Kohr,GER,M,1.83,75,31-01-94,Trier
+2014,a001,Bayern Munich,1,Manuel Neuer,GER,G,1.92,90,27-03-86,Gelsenkirchen
+2014,a001,Bayern Munich,4,Dante,BRA,D,1.87,82,18-10-83,Salvador
+2014,a001,Bayern Munich,5,Daniel van Buyten,BEL,D,1.96,96,07-02-78,Chimay
+2014,a001,Bayern Munich,6,Thiago Alcántara,ESP,M,1.65,60,11-04-91,Bari
+2014,a001,Bayern Munich,7,Franck Ribéry,FRA,M,1.7,73,01-04-83,Boulogne-sur-Mer
+2014,a001,Bayern Munich,8,Javi Martínez,ESP,M,1.9,81,02-09-88,Lizarra
+2014,a001,Bayern Munich,9,Mario Mandžukić,CRO,F,1.86,76,21-05-86,Slavonski Brod
+2014,a001,Bayern Munich,10,Arjen Robben,NED,F,1.81,75,23-01-84,Bedum
+2014,a001,Bayern Munich,11,Xherdan Shaqiri,SUI,M,1.68,61,10-10-91,Gnjilane
+2014,a001,Bayern Munich,13,Rafinha,BRA,D,1.72,68,07-09-85,Londrina
+2014,a001,Bayern Munich,14,Claudio Pizarro,PER,F,1.84,79,03-10-78,Lima
+2014,a001,Bayern Munich,17,Jérôme Boateng,GER,D,1.92,90,03-09-88,Berlin
+2014,a001,Bayern Munich,19,Mario Götze,GER,M,1.76,64,03-06-92,Memmingen
+2014,a001,Bayern Munich,20,Patrick Weihrauch,GER,F,1.82,73,03-03-94,Gräfelfing
+2014,a001,Bayern Munich,21,Philipp Lahm,GER,D,1.7,62,11-11-83,Munich
+2014,a001,Bayern Munich,22,Tom Starke,GER,G,1.94,91,18-03-81,Dresden
+2014,a001,Bayern Munich,23,Mitchell Weiser,GER,D,1.76,70,21-04-94,Troisdorf
+2014,a001,Bayern Munich,25,Thomas Müller,GER,M,1.86,74,13-09-89,Weilheim in Oberbayern
+2014,a001,Bayern Munich,26,Diego Contento,ITA,D,1.76,70,01-05-90,Munich
+2014,a001,Bayern Munich,27,David Alaba,AUT,M,1.75,70,24-06-92,Vienna
+2014,a001,Bayern Munich,28,Holger Badstuber,GER,D,1.89,78,13-03-89,Memmingen
+2014,a001,Bayern Munich,29,Leopold Zingerle,GER,G,1.88,78,10-4-94,
+2014,a001,Bayern Munich,31,Bastian Schweinsteiger,GER,M,1.83,79,01-08-84,Kolbermoor
+2014,a001,Bayern Munich,32,Lukas Raeder,GER,G,1.94,92,30-12-93,Essen
+2014,a001,Bayern Munich,33,Raif Husić,GER,G,1.9,80,05-02-96,Zusmarshausen
+2014,a001,Bayern Munich,34,Pierre-Emile Højbjerg,DEN,M,1.87,81,05-08-95,Copenhagen
+2014,a001,Bayern Munich,35,Benno Schmitz,GER,D,1.82,75,17-11-94,Munich
+2014,a001,Bayern Munich,36,Alessandro Schöpf,AUT,M,1.71,61,07-02-94,Umhausen
+2014,a001,Bayern Munich,37,Julian Green,USA,M,1.72,60,06-06-95,Tampa
+2014,a001,Bayern Munich,38,Ylli Sallahi,AUT,D,1.79,81,06-04-94,Skenderaj
+2014,a001,Bayern Munich,39,Toni Kroos,GER,M,1.82,71,04-01-90,Greifswald
+2014,a001,Bayern Munich,40,Vladimir Ranković,GER,D,1.72,65,27-06-93,Munich
+2014,a001,Bayern Munich,30,Luiz Gustavo,BRA,M,1.87,82,23-07-87,Pindamonhangaba
+2014,a001,Bayern Munich,15,Jan Kirchhoff,GER,D,1.93,78,01-10-90,Frankfurt am Main
+2014,a001,Borussia Dortmund,1,Roman Weidenfeller,GER,G,1.88,85,06-08-80,Dietz
+2014,a001,Borussia Dortmund,2,Manuel Friedrich,GER,D,1.89,82,13-09-79,Bad Kreuznach
+2014,a001,Borussia Dortmund,4,Neven Subotić,SRB,D,1.93,88,10-12-88,Banja Luka
+2014,a001,Borussia Dortmund,5,Sebastian Kehl,GER,M,1.88,80,13-02-80,Fulda
+2014,a001,Borussia Dortmund,6,Sven Bender,GER,M,1.85,72,27-04-89,Rosenheim
+2014,a001,Borussia Dortmund,7,Jonas Hofmann,GER,M,1.76,65,14-07-92,Heidelberg
+2014,a001,Borussia Dortmund,8,İlkay Gündogan,GER,M,1.8,70,24-10-90,Gelsenkirchen
+2014,a001,Borussia Dortmund,9,Robert Lewandowski,POL,F,1.81,79,21-08-88,Warsaw
+2014,a001,Borussia Dortmund,10,Henrikh Mkhitaryan,ARM,M,1.74,74,21-01-89,Yerevan
+2014,a001,Borussia Dortmund,11,Marco Reus,GER,M,1.8,75,31-05-89,Dortmund
+2014,a001,Borussia Dortmund,14,Miloš Jojić,SRB,M,1.77,73,19-03-92,Stara Pazova
+2014,a001,Borussia Dortmund,15,Mats Hummels,GER,D,1.92,90,16-12-88,Bensberg
+2014,a001,Borussia Dortmund,16,Jakub Błaszczykowski,POL,M,1.75,71,14-12-85,Częstochowa
+2014,a001,Borussia Dortmund,17,Pierre-Emerick Aubameyang,GAB,F,1.85,74,18-06-89,Laval
+2014,a001,Borussia Dortmund,18,Nuri Şahin,TUR,M,1.8,73,05-09-88,Lüdenscheid
+2014,a001,Borussia Dortmund,19,Kevin Großkreutz,GER,D,1.86,70,19-07-88,Dortmund
+2014,a001,Borussia Dortmund,20,Mitchell Langerak,AUS,G,1.91,77,22-08-88,Emerald
+2014,a001,Borussia Dortmund,21,Oliver Kirch,GER,M,1.82,73,21-08-82,Soest
+2014,a001,Borussia Dortmund,22,Tammo Harder,GER,F,1.74,67,04-01-94,Dülmen
+2014,a001,Borussia Dortmund,23,Julian Schieber,GER,F,1.86,83,13-02-89,Backnang
+2014,a001,Borussia Dortmund,24,Marian Sarr,GER,D,1.88,75,30-01-95,Essen
+2014,a001,Borussia Dortmund,25,Sokratis Papastathopoulos,GRE,D,1.83,82,09-06-88,Kalamata
+2014,a001,Borussia Dortmund,26,Łukasz Piszczek,POL,D,1.84,73,03-06-85,Czechowice- Dziedzice
+2014,a001,Borussia Dortmund,28,Mustafa Amini,AUS,M,1.73,75,20-04-93,Sydney
+2014,a001,Borussia Dortmund,29,Marcel Schmelzer,GER,D,1.81,74,22-01-88,Magdeburg
+2014,a001,Borussia Dortmund,33,Zlatan Alomerović,GER,G,1.87,88,15-06-91,Priboj
+2014,a001,Borussia Dortmund,34,Marvin Ducksch,GER,F,1.86,79,07-03-94,Dortmund
+2014,a001,Borussia Dortmund,35,Jannik Bandowski,GER,M,1.92,85,30-03-94,Korbach
+2014,a001,Borussia Dortmund,37,Eric Durm,GER,D,1.83,73,12-05-92,Pirmasens
+2014,a001,Borussia Dortmund,39,Hendrik Bonmann,GER,G,1.91,76,22-01-94,Essen
+2014,a001,Borussia Dortmund,30,Koray Günter,GER,D,1.85,77,16-08-94,Höxter
+2014,a001,Borussia Mönchengladbach,1,Marc-André ter Stegen,GER,G,1.85,82,30-04-92,Mönchengladbach
+2014,a001,Borussia Mönchengladbach,3,Filip Daems,BEL,D,1.81,79,31-10-78,Turnhout
+2014,a001,Borussia Mönchengladbach,4,Roel Brouwers,NED,D,1.9,81,28-11-81,Heerlen
+2014,a001,Borussia Mönchengladbach,7,Patrick Herrmann,GER,M,1.79,69,12-02-91,Saarbrücken
+2014,a001,Borussia Mönchengladbach,8,Lukas Rupp,GER,M,1.78,64,08-01-91,Heidelberg
+2014,a001,Borussia Mönchengladbach,10,Max Kruse,GER,M,1.8,77,19-03-88,Reinbek
+2014,a001,Borussia Mönchengladbach,11,Raffael,BRA,F,1.74,69,28-03-85,Fortaleza
+2014,a001,Borussia Mönchengladbach,14,Thorben Marx,GER,M,1.84,83,01-06-81,Berlin
+2014,a001,Borussia Mönchengladbach,15,Įlvaro Domķnguez,ESP,D,1.89,83,16-05-89,Madrid
+2014,a001,Borussia Mönchengladbach,16,Håvard Nordtveit,NOR,D,1.86,72,21-06-90,Vats
+2014,a001,Borussia Mönchengladbach,17,Oscar Wendt,SWE,D,1.81,83,24-10-85,Gothenburg
+2014,a001,Borussia Mönchengladbach,18,Juan Arango,VEN,M,1.79,74,17-05-80,Maracay
+2014,a001,Borussia Mönchengladbach,19,Mahmoud Dahoud,GER,M,1.76,76,01-01-96,Amuda
+2014,a001,Borussia Mönchengladbach,20,Nico Brandenburger,GER,M,1.79,77,17-01-95,Berlin
+2014,a001,Borussia Mönchengladbach,21,Janis Blaswich,GER,G,1.93,83,02-05-91,Mehrhoog
+2014,a001,Borussia Mönchengladbach,22,Peniel Kokou Mlapa,TOG,F,1.93,85,20-02-91,Lomé
+2014,a001,Borussia Mönchengladbach,23,Christoph Kramer,GER,M,1.9,73,19-02-91,Solingen
+2014,a001,Borussia Mönchengladbach,24,Tony Jantschke,GER,M,1.77,69,07-04-90,Hoyerswerda
+2014,a001,Borussia Mönchengladbach,25,Amin Younes,GER,M,1.68,65,06-08-93,Düsseldorf
+2014,a001,Borussia Mönchengladbach,26,Kwame Yeboah,AUS,F,1.82,74,06-06-94,Gold Coast
+2014,a001,Borussia Mönchengladbach,27,Julian Korb,GER,M,1.77,68,21-03-92,Essen
+2014,a001,Borussia Mönchengladbach,28,Joel Mero,FIN,D,1.91,87,07-02-95,Lahti
+2014,a001,Borussia Mönchengladbach,31,Branimir Hrgota,SWE,F,1.82,62,12-01-93,Jajce
+2014,a001,Borussia Mönchengladbach,33,Christofer Heimeroth,GER,G,1.94,91,01-08-81,Unna
+2014,a001,Borussia Mönchengladbach,34,Granit Xhaka,SUI,M,1.83,70,27-09-92,Gnjilane
+2014,a001,Borussia Mönchengladbach,39,Martin Stranzl,AUT,D,1.9,81,16-06-80,Güssing
+2014,a001,Borussia Mönchengladbach,9,Luuk de Jong,NED,F,1.88,80,27-08-90,Aigle
+2014,a001,Eintracht Braunschweig,1,Marjan Petković,GER,G,1.86,85,22-05-79,Brackenheim
+2014,a001,Eintracht Braunschweig,3,Ermin Bičakčić,BIH,D,1.85,81,24-01-90,Zvornik
+2014,a001,Eintracht Braunschweig,4,Matthias Henn,GER,D,1.87,82,28-04-85,Birkenfeld
+2014,a001,Eintracht Braunschweig,5,Benjamin Kessel,GER,D,1.91,81,01-10-87,Bad Kreuznach
+2014,a001,Eintracht Braunschweig,6,Damir Vrančić,BIH,M,1.84,77,04-10-85,Slavonski Brod
+2014,a001,Eintracht Braunschweig,7,Håvard Nielsen,NOR,F,1.87,80,15-07-93,Oslo
+2014,a001,Eintracht Braunschweig,8,Deniz Dogan,TUR,M,1.82,76,20-10-79,Lübeck
+2014,a001,Eintracht Braunschweig,9,Orhan Ademi,SUI,F,1.88,82,28-10-91,Kumanovo
+2014,a001,Eintracht Braunschweig,10,Mirko Boland,GER,M,1.74,68,23-04-87,Wesel
+2014,a001,Eintracht Braunschweig,11,Jan Hochscheidt,GER,M,1.8,78,04-10-87,Trier
+2014,a001,Eintracht Braunschweig,12,Dominick Kumbela,COD,F,1.72,69,20-04-84,Kinshasa
+2014,a001,Eintracht Braunschweig,14,Omar Elabdellaoui,NOR,M,1.79,72,05-12-91,Skien
+2014,a001,Eintracht Braunschweig,15,Norman Theuerkauf,GER,D,1.83,73,24-01-87,Nordhausen
+2014,a001,Eintracht Braunschweig,17,Kevin Kratz,GER,M,1.73,72,21-01-87,Eschweiler
+2014,a001,Eintracht Braunschweig,19,Ken Reichel,GER,D,1.84,84,19-12-86,Berlin
+2014,a001,Eintracht Braunschweig,20,Torsten Oehrl,GER,F,1.92,83,07-01-86,Lichtenfels
+2014,a001,Eintracht Braunschweig,21,Jan Washausen,GER,D,1.85,75,12-10-88,Göttingen
+2014,a001,Eintracht Braunschweig,22,Selim Khelifi,TUN,M,1.72,60,26-01-94,Lausanne
+2014,a001,Eintracht Braunschweig,23,Jonas Erwig-Drüppel,GER,D,1.72,68,20-07-91,Dorsten
+2014,a001,Eintracht Braunschweig,24,Timo Perthel,GER,M,1.83,73,11-02-89,Kaiserslautern
+2014,a001,Eintracht Braunschweig,25,Marcel Correia,POR,D,1.86,80,16-05-89,Kaiserslautern
+2014,a001,Eintracht Braunschweig,26,Daniel Davari,IRN,G,1.92,85,06-01-88,Gießen
+2014,a001,Eintracht Braunschweig,27,Gianluca Korte,GER,F,1.77,69,29-08-90,Speyer
+2014,a001,Eintracht Braunschweig,31,Marc Pfitzner,GER,M,1.83,78,28-08-84,Braunschweig
+2014,a001,Eintracht Braunschweig,32,Dennis Kruppke,GER,F,1.79,75,01-04-80,Münster
+2014,a001,Eintracht Braunschweig,33,Marco Caligiuri,GER,M,1.8,75,14-04-84,Villingen- Schwenningen
+2014,a001,Eintracht Braunschweig,35,Benjamin Later,GER,G,1.94,92,30-08-86,Braunschweig
+2014,a001,Eintracht Braunschweig,36,Mohammed Baghdadi,GER,D,1.79,65,30-10-96,
+2014,a001,Eintracht Braunschweig,38,Karim Bellarabi,GER,F,1.83,72,08-04-90,Berlin
+2014,a001,Eintracht Braunschweig,7,Björn Kluft,GER,M,1.8,70,11-01-90,Wuppertal
+2014,a001,Eintracht Braunschweig,18,Simeon Jackson,CAN,F,1.7,72,28-03-87,Kingston
+2014,a001,Eintracht Frankfurt,1,Kevin Trapp,GER,G,1.89,83,08-07-90,Merzig
+2014,a001,Eintracht Frankfurt,4,Marco Russ,GER,D,1.9,75,04-08-85,Großauheim
+2014,a001,Eintracht Frankfurt,5,Carlos Zambrano,PER,D,1.85,77,10-07-89,Callao
+2014,a001,Eintracht Frankfurt,6,Bastian Oczipka,GER,D,1.84,81,12-01-89,Bergisch Gladbach
+2014,a001,Eintracht Frankfurt,7,Jan Rosenthal,GER,M,1.84,76,07-04-86,Sulingen
+2014,a001,Eintracht Frankfurt,8,Takashi Inui,JPN,M,1.69,59,02-06-88,Shiga
+2014,a001,Eintracht Frankfurt,9,Joselu,ESP,F,1.91,79,27-03-90,Stuttgart
+2014,a001,Eintracht Frankfurt,10,Václav Kadlec,CZE,F,1.79,67,20-05-92,Prague
+2014,a001,Eintracht Frankfurt,13,Martin Lanig,GER,M,1.9,76,11-07-84,Bad Mergentheim
+2014,a001,Eintracht Frankfurt,14,Alexander Meier,GER,M,1.96,84,17-01-83,Buchholz
+2014,a001,Eintracht Frankfurt,15,Constant Djakpa,CIV,D,1.77,73,17-10-86,Abidjan
+2014,a001,Eintracht Frankfurt,16,Stefan Aigner,GER,M,1.85,72,20-08-87,Munich
+2014,a001,Eintracht Frankfurt,17,Stephan Schröck,PHI,M,1.7,68,21-08-86,Schweinfurt
+2014,a001,Eintracht Frankfurt,18,Johannes Flum,GER,M,1.89,80,25-02-88,Waldshut
+2014,a001,Eintracht Frankfurt,20,Sebastian Rode,GER,M,1.79,67,11-10-90,Frankfurt am Main
+2014,a001,Eintracht Frankfurt,21,Marc Stendera,GER,M,1.71,70,10-12-95,Kassel
+2014,a001,Eintracht Frankfurt,22,Stefano Celozzi,GER,D,1.71,65,02-11-88,Günzburg
+2014,a001,Eintracht Frankfurt,23,Anderson,BRA,D,1.88,76,10-01-88,São Gonçalo
+2014,a001,Eintracht Frankfurt,24,Sebastian Jung,GER,D,1.79,68,22-06-90,Königstein
+2014,a001,Eintracht Frankfurt,25,Tranquillo Barnetta,SUI,M,1.78,69,22-05-85,Rotmonten
+2014,a001,Eintracht Frankfurt,26,Tobias Weis,GER,M,1.7,68,30-07-85,Schwäbisch Hall
+2014,a001,Eintracht Frankfurt,27,Pirmin Schwegler,SUI,M,1.76,74,09-03-87,Ettiswil
+2014,a001,Eintracht Frankfurt,28,Sonny Kittel,GER,M,1.76,64,06-01-93,Gießen
+2014,a001,Eintracht Frankfurt,30,Felix Wiedwald,GER,G,1.9,82,15-03-90,Thedinghausen
+2014,a001,Eintracht Frankfurt,32,Aykut Özer,TUR,G,1.89,80,01-01-93,Hanau
+2014,a001,Eintracht Frankfurt,33,Alexander Hien,GER,M,1.83,72,03-04-93,Heppenheim
+2014,a001,Eintracht Frankfurt,34,Erik Wille,GER,D,1.83,74,28-03-93,Frankfurt am Main
+2014,a001,Eintracht Frankfurt,35,Marco Aulbach,GER,G,1.91,86,25-07-93,Aschaffenburg
+2014,a001,Eintracht Frankfurt,36,Marc-Oliver Kempf,GER,D,1.86,88,28-01-95,Lich
+2014,a001,Eintracht Frankfurt,37,Luca Waldschmift,GER,F,1.77,70,19-05-96,Siegen
+2014,a001,Eintracht Frankfurt,39,Alexander Madlung,GER,D,1.93,87,11-07-82,Braunschweig
+2014,a001,Eintracht Frankfurt,19,Marvin Bakalorz,GER,M,1.8,73,13-09-89,Offenbach
+2014,a001,Eintracht Frankfurt,11,Srdjan Lakić,CRO,F,1.88,83,02-10-83,Dubrovnik
+2014,a001,SC Freiburg,1,Oliver Baumann,GER,G,1.87,72,02-06-90,Breisach
+2014,a001,SC Freiburg,2,Pavel Krmaš,CZE,D,1.93,86,03-03-80,Broumov
+2014,a001,SC Freiburg,3,Fallou Diagné,SEN,D,1.85,75,14-08-89,Pikine
+2014,a001,SC Freiburg,4,Gelson Fernandes,SUI,M,1.83,70,02-09-86,Praia
+2014,a001,SC Freiburg,5,Christopher Jullien,FRA,D,1.95,82,22-03-93,Lagny-sur-Marne
+2014,a001,SC Freiburg,6,Vegar Eggen Hedenstad,NOR,M,1.75,72,26-06-91,Elverum
+2014,a001,SC Freiburg,7,Vladimír Darida,CZE,M,1.7,60,08-08-90,Plzeň
+2014,a001,SC Freiburg,8,Václav Pilař,CZE,M,1.69,69,13-10-88,Chlumec nad Cidlinou
+2014,a001,SC Freiburg,9,Mike Hanke,GER,F,1.83,75,05-11-83,Hamm/Westphalia
+2014,a001,SC Freiburg,11,Hendrick Zuck,GER,M,1.76,64,21-07-90,Püttlingen
+2014,a001,SC Freiburg,14,Admir Mehmedi,SUI,F,1.83,77,16-03-91,Gostivar
+2014,a001,SC Freiburg,15,Philipp Zulechner,AUT,F,1.82,73,12-04-90,VIenna
+2014,a001,SC Freiburg,17,Jonathan Schmid,FRA,M,1.77,69,26-06-90,Strasbourg
+2014,a001,SC Freiburg,19,Daniel Batz,GER,G,1.9,86,12-01-91,Erlangen
+2014,a001,SC Freiburg,20,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval
+2014,a001,SC Freiburg,21,Alexander Schwolow,GER,G,1.89,83,02-06-92,Wiesbaden
+2014,a001,SC Freiburg,22,Marco Terrazzino,GER,F,1.81,67,15-04-91,Mannheim
+2014,a001,SC Freiburg,23,Julian Schuster,GER,M,1.9,77,15-04-85,Bietigheim-Bissingen
+2014,a001,SC Freiburg,24,Mensur Mujdža,BIH,D,1.84,74,28-03-84,Zagreb
+2014,a001,SC Freiburg,25,Oliver Sorg,GER,D,1.74,70,29-05-90,Singen
+2014,a001,SC Freiburg,26,Nicolai Lorenzoni,GER,M,1.8,70,01-05-92,Liestal
+2014,a001,SC Freiburg,27,Nicolas Höfler,GER,M,1.81,78,09-03-90,Überlingen
+2014,a001,SC Freiburg,28,Matthias Ginter,GER,M,1.87,82,19-01-94,March
+2014,a001,SC Freiburg,29,Tim Albutat,GER,M,1.84,66,23-09-92,Taunusstein
+2014,a001,SC Freiburg,30,Christian Günter,GER,D,1.84,81,28-02-93,Villingen
+2014,a001,SC Freiburg,31,Karim Guédé,SVK,D,1.84,77,07-01-85,Hamburg
+2014,a001,SC Freiburg,32,Charles-Elie Laprevotte,FRA,M,1.79,73,05-10-92,Nancy
+2014,a001,SC Freiburg,35,Sebastien Freis,GER,F,1.83,75,23-04-85,Karlsruhe
+2014,a001,SC Freiburg,36,Felix Klaus,GER,F,1.79,72,13-09-92,Osnabrück
+2014,a001,SC Freiburg,37,Sebastian Kerk,GER,M,1.85,70,17-04-94,Bad Wurzach
+2014,a001,SC Freiburg,39,Tim Schraml,GER,D,1.89,72,18-03-93,Göppingen
+2014,a001,SC Freiburg,41,Immanuel Höhn,GER,D,1.83,72,23-12-91,Mainz
+2014,a001,SC Freiburg,42,Maximilian Philipp,GER,F,1.79,74,01-03-94,Berlin
+2014,a001,SC Freiburg,50,Caleb Stanko,USA,M,1.8,70,26-07-93,Holly
+2014,a001,Hamburger SV,1,Jaroslav Drobný,CZE,G,1.92,88,18-10-79,Počátky
+2014,a001,Hamburger SV,2,Dennis Diekmeier,GER,D,1.88,78,20-10-89,Thedinghausen
+2014,a001,Hamburger SV,3,Michael Mancienne,ENG,D,1.8,74,08-01-88,Isleworth
+2014,a001,Hamburger SV,4,Heiko Westermann,GER,D,1.9,85,14-08-83,Alzenau
+2014,a001,Hamburger SV,5,Johan Djourou,SUI,D,1.91,83,18-01-87,Abidjan
+2014,a001,Hamburger SV,6,Ouasim Bouy,NED,M,1.8,72,11-06-93,Amsterdam
+2014,a001,Hamburger SV,7,Marcell Jansen,GER,D,1.91,84,04-11-85,Mönchengladbach
+2014,a001,Hamburger SV,8,Tomás Rincón,VEN,M,1.75,75,13-01-88,San Cristóbal
+2014,a001,Hamburger SV,9,Hakan Çalhanoğlu,TUR,M,1.78,69,08-02-94,Mannheim
+2014,a001,Hamburger SV,11,Ivo Iličević,CRO,M,1.74,65,14-11-86,Aschaffenburg
+2014,a001,Hamburger SV,14,Milan Badelj,CRO,M,1.86,79,25-02-89,Zagreb
+2014,a001,Hamburger SV,15,René Adler,GER,G,1.9,85,15-01-85,Leipzig
+2014,a001,Hamburger SV,16,Lasse Sobiech,GER,D,1.85,74,18-01-91,Schwerte
+2014,a001,Hamburger SV,17,Zhi Gin Lam,GER,D,1.77,67,04-06-91,Hamburg
+2014,a001,Hamburger SV,18,Tolgay Arslan,TUR,M,1.79,75,16-08-90,Paderborn
+2014,a001,Hamburger SV,19,Petr Jiráček,CZE,M,1.8,75,02-03-86,Tuchořice
+2014,a001,Hamburger SV,20,Pierre-Michel Lasogga,GER,F,1.89,88,15-12-91,Gladbeck
+2014,a001,Hamburger SV,21,Maximilian Beister,GER,F,1.8,78,06-09-90,Göttingen
+2014,a001,Hamburger SV,23,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk
+2014,a001,Hamburger SV,24,Slobodan Rajković,SRB,D,1.95,85,03-02-89,Belgrade
+2014,a001,Hamburger SV,25,Ola John,NED,F,1.8,80,19-05-92,Zwedru
+2014,a001,Hamburger SV,27,Kerem Demirbay,TUR,M,1.85,80,03-07-93,Gelsenkirchen
+2014,a001,Hamburger SV,28,Jonathan Tah,GER,D,1.92,90,11-2-96,Hamburg
+2014,a001,Hamburger SV,29,Florian Stritzel,GER,G,1.96,92,31-01-94,Neubrandenburg
+2014,a001,Hamburger SV,30,Sven Neuhaus,GER,G,1.94,90,04-04-78,Essen
+2014,a001,Hamburger SV,31,Jacques Zoua,CMR,F,1.86,78,06-09-91,Garoua
+2014,a001,Hamburger SV,32,Matti Steinmann,GER,M,1.88,78,08-01-95,Hamburg
+2014,a001,Hamburger SV,33,Mattia Maggio,ITA,F,1.84,78,22-02-94,Nürtingen
+2014,a001,Hamburger SV,34,Valmir Nafiu,MKD,F,1.75,75,23-04-94,Tetovo
+2014,a001,Hamburger SV,37,Robert Tesche,GER,M,1.8,71,27-05-87,Wismar
+2014,a001,Hamburger SV,20,Paul Scharner,AUT,M,1.91,80,11-03-80,Scheibbs
+2014,a001,Hamburger SV,33,Christian Nřrgaard,DEN,M,1.86,75,10-03-94,Copenhagen
+2014,a001,Hamburger SV,6,Dennis Aogo,GER,D,1.83,85,14-01-87,Karlsruhe
+2014,a001,Hamburger SV,25,Per Ciljan Skjelbreid,NOR,M,1.75,62,16-06-87,Trondheim
+2014,a001,Hamburger SV,10,Artjoms Rudņevs,LVA,F,1.78,80,13-01-88,Daugvapils
+2014,a001,Hamburger SV,44,Gojko Kačar,SRB,M,1.86,79,26-01-87,Novi Sad
+2014,a001,Hannover 96,1,Ron-Robert Zieler,GER,G,1.85,73,12-02-89,Cologne
+2014,a001,Hannover 96,2,Leon Andreasen,DEN,M,1.88,81,23-04-83,Aidt Thorsø
+2014,a001,Hannover 96,4,Hiroki Sakai,JPN,D,1.83,70,12-04-90,Nagano
+2014,a001,Hannover 96,5,Salif Sané,SEN,D,1.94,78,25-08-90,Lormont
+2014,a001,Hannover 96,6,Steve Cherundolo,USA,D,1.68,66,19-02-79,Rockford
+2014,a001,Hannover 96,7,Edgar Prib,GER,M,1.81,74,15-12-89,Neryungri
+2014,a001,Hannover 96,8,Manuel Schmiedebach,GER,M,1.7,70,05-12-88,Berlin
+2014,a001,Hannover 96,9,Artur Sobiech,POL,F,1.84,75,12-06-90,Ruda Śląska
+2014,a001,Hannover 96,10,Szabolcs Huszti,HUN,M,1.72,70,18-04-83,Miskolc
+2014,a001,Hannover 96,11,Didier Ya Konan,CIV,M,1.74,74,22-05-84,Abidjan
+2014,a001,Hannover 96,13,Jan Schlaudraff,GER,F,1.8,67,18-07-83,Waldbröl
+2014,a001,Hannover 96,14,Markus Miller,GER,G,1.89,89,08-04-82,Lindenber im Allgäu
+2014,a001,Hannover 96,15,Andre Hoffmann,GER,D,1.88,79,28-02-93,Essen
+2014,a001,Hannover 96,16,Artjoms Rudņevs,LVA,F,1.78,80,13-01-88,Daugvapils
+2014,a001,Hannover 96,18,Sébastien Pocognoli,BEL,D,1.81,73,01-08-87,Liège
+2014,a001,Hannover 96,19,Christian Schulz,GER,D,1.8,73,01-04-83,Bassum
+2014,a001,Hannover 96,20,Felipe,BRA,D,1.93,85,15-05-87,Americana
+2014,a001,Hannover 96,21,Konstantin Fuhry,GER,G,1.89,81,02-09-94,Ostfildern
+2014,a001,Hannover 96,22,František Rajtoral,CZE,D,1.77,75,12-03-86,Příbram
+2014,a001,Hannover 96,23,Christopher Avevor,GER,D,1.84,81,11-02-92,Kiel
+2014,a001,Hannover 96,24,Christian Pander,GER,D,1.86,80,28-08-83,Münster
+2014,a001,Hannover 96,25,Marcelo,BRA,D,1.91,88,20-05-87,São Vicente
+2014,a001,Hannover 96,26,Tom Schmidt,GER,G,1.85,77,06-04-91,Frankfurt an der Oder
+2014,a001,Hannover 96,28,Lars Stindl,GER,M,1.8,73,26-08-88,Waghäusel
+2014,a001,Hannover 96,32,Leonardo Bittencourt,GER,F,1.71,60,19-12-93,Leipzig
+2014,a001,Hannover 96,33,Yannik Schulze,GER,D,1.86,75,05-02-95,Hannover
+2014,a001,Hannover 96,34,Tim Dierßen,GER,M,1.72,64,15-01-96,Stadthagen
+2014,a001,Hannover 96,38,Valmir Sulejmani,GER,F,1.8,74,01-02-96,Großburgwedel
+2014,a001,Hannover 96,39,Mame Biram Diouf,SEN,F,1.85,76,16-12-87,Dakar
+2014,a001,Hannover 96,40,Almir Kasumović,BIH,F,1.82,70,03-06-94,
+2014,a001,Hannover 96,3,Karim Haggui,TUN,D,1.87,85,20-01-84,Kasserine
+2014,a001,Hannover 96,16,França,BRA,M,1.88,82,21-04-91,Bauru
+2014,a001,Hannover 96,30,Florian Ballas,GER,D,1.96,86,08-01-93,Saarbrücken
+2014,a001,Hannover 96,22,Adrian Nikci,SUI,F,1.81,73,10-11-89,Sarajevo
+2014,a001,Hannover 96,27,Deniz Kadah,TUR,F,1.86,75,20-03-86,Ufra
+2014,a001,Hannover 96,35,Ali Gökdemir,AZE,D,1.84,82,17-09-91,Schwäbisch Hall
+2014,a001,Hertha Berlin,1,Thomas Kraft,GER,G,1.85,78,22-07-88,Kirchen (Sieg)
+2014,a001,Hertha Berlin,2,Peter Pekarik,SVK,D,1.76,69,30-10-86,Žilina
+2014,a001,Hertha Berlin,3,Levan Kobiashvili,GEO,M,1.83,78,10-07-77,Tbilisi
+2014,a001,Hertha Berlin,5,Maik Franz,GER,D,1.9,88,05-08-81,Merseburg
+2014,a001,Hertha Berlin,6,Christoph Janker,GER,D,1.85,78,14-02-85,Cham
+2014,a001,Hertha Berlin,7,Hajime Hosogai,JPN,M,1.77,64,10-06-86,Gumma
+2014,a001,Hertha Berlin,8,Marcel Ndjeng,GER,M,1.8,72,06-05-82,Bonn
+2014,a001,Hertha Berlin,9,Alexander Baumjohann,GER,M,1.78,73,23-01-87,Datteln
+2014,a001,Hertha Berlin,10,Änis Ben-Hatira,TUN,M,1.81,78,18-07-88,Berlin
+2014,a001,Hertha Berlin,11,Sami Allagui,TUN,F,1.82,77,28-05-86,Düsseldorf
+2014,a001,Hertha Berlin,12,Ronny,BRA,D,1.75,74,11-05-86,Fortaleza
+2014,a001,Hertha Berlin,13,Per Ciljan Skjelbreid,NOR,M,1.75,62,16-06-87,Trondheim
+2014,a001,Hertha Berlin,15,Sebastian Langkamp,GER,D,1.9,85,15-01-88,Speyer
+2014,a001,Hertha Berlin,17,Tolga Ciğerci,GER,M,1.85,75,23-03-92,Nordenham
+2014,a001,Hertha Berlin,18,Peter Niemeyer,GER,M,1.91,83,22-11-83,Hörstel
+2014,a001,Hertha Berlin,20,Adrián Ramos,COL,F,1.85,72,22-01-86,Santander de Quilichao
+2014,a001,Hertha Berlin,21,Sascha Burchert,GER,G,1.85,68,30-10-89,Berlin
+2014,a001,Hertha Berlin,22,Rune Almenning Jarstein,NOR,G,1.9,82,29-09-84,Skien
+2014,a001,Hertha Berlin,23,Johannes van den Bergh,GER,M,1.83,75,21-11-86,Viersen
+2014,a001,Hertha Berlin,24,Peer Kluge,GER,M,1.79,68,22-11-80,Frankenberg
+2014,a001,Hertha Berlin,25,John Brooks,USA,D,1.93,78,28-01-93,Berlin
+2014,a001,Hertha Berlin,26,Nico Schulz,GER,D,1.8,78,01-04-93,Berlin
+2014,a001,Hertha Berlin,28,Fabian Lustenberger,SUI,M,1.8,63,02-05-88,Nebikon
+2014,a001,Hertha Berlin,32,Fabian Holland,GER,M,1.72,71,11-07-90,Berlin
+2014,a001,Hertha Berlin,33,Sandro Wagner,GER,F,1.94,87,29-11-87,Munich
+2014,a001,Hertha Berlin,34,Hany Mukhtar,GER,M,1.67,60,21-03-95,Berlin
+2014,a001,Hertha Berlin,35,Marius Gersbeck,GER,G,1.87,79,20-06-95,Berlin
+2014,a001,Hertha Berlin,36,Anthony Syhre,GER,D,1.87,83,18-03-95,
+2014,a001,Hertha Berlin,37,Philip Sprint,GER,G,1.96,98,27-06-93,Berlin
+2014,a001,Hertha Berlin,19,Pierre-Michel Lasogga,GER,F,1.89,88,15-12-91,Gladbeck
+2014,a001,Hertha Berlin,4,Roman Hubník,CZE,D,1.91,84,06-06-84,Vsetín
+2014,a001,Hertha Berlin,14,Ben Sahar,ISR,F,1.78,79,10-08-89,Holon
+2014,a001,1899 Hoffenheim,2,Andreas Beck,GER,D,1.8,73,13-03-87,Kemerovo
+2014,a001,1899 Hoffenheim,4,Stefan Thesker,GER,D,1.9,82,11-04-91,Ahaus
+2014,a001,1899 Hoffenheim,6,Sebastian Rudy,GER,M,1.79,73,28-02-90,Villingen- Schwenningen
+2014,a001,1899 Hoffenheim,7,Boris Vukčević,GER,M,1.82,76,16-03-90,Osijek
+2014,a001,1899 Hoffenheim,8,Eugen Polanski,POL,M,1.83,73,17-03-86,Sosnowiec
+2014,a001,1899 Hoffenheim,9,Sven Schipplock,GER,F,1.85,79,08-11-88,Reutlingen
+2014,a001,1899 Hoffenheim,10,Roberto Firmino,BRA,M,1.8,76,02-10-91,Maceió
+2014,a001,1899 Hoffenheim,11,Jiloan Hamad,SWE,F,1.7,66,06-11-90,Baku
+2014,a001,1899 Hoffenheim,12,Tobias Strobl,GER,D,1.86,72,12-05-90,Munich
+2014,a001,1899 Hoffenheim,13,Jens Grahl,GER,G,1.96,86,22-09-88,Stuttgart
+2014,a001,1899 Hoffenheim,14,Tarik Elyounoussi,NOR,F,1.72,62,23-02-88,Al Hoceima
+2014,a001,1899 Hoffenheim,16,Fabian Johnson,USA,D,1.83,70,11-12-87,Munich
+2014,a001,1899 Hoffenheim,19,David Abraham,ARG,D,1.88,85,16-07-86,Chabás
+2014,a001,1899 Hoffenheim,20,Ahmed Sassi,TUN,M,1.79,69,24-09-93,Tunis
+2014,a001,1899 Hoffenheim,21,Kevin Akpoguma,GER,D,1.9,65,19-04-95,Neustadt an der Weinstraße
+2014,a001,1899 Hoffenheim,22,Bruno Nazário,BRA,M,1.78,68,09-02-95,Cascavel
+2014,a001,1899 Hoffenheim,23,Sejad Salihović,BIH,M,1.82,83,08-10-84,Sepak
+2014,a001,1899 Hoffenheim,24,Patrick Schorr,GER,D,1.83,75,13-10-94,Frankfurt am Main
+2014,a001,1899 Hoffenheim,25,Niklas Süle,GER,D,1.94,91,03-09-95,Frankfurt am Main
+2014,a001,1899 Hoffenheim,26,Tim Paterok,GER,G,1.92,77,05-08-92,Paderborn
+2014,a001,1899 Hoffenheim,27,Anthony Modeste,FRA,F,1.86,73,14-04-88,Cannes
+2014,a001,1899 Hoffenheim,28,Alexander Stolz,GER,G,1.89,85,13-10-83,Pforzheim
+2014,a001,1899 Hoffenheim,29,Jannik Vestergaard,DEN,D,1.97,96,03-08-92,Copenhagen
+2014,a001,1899 Hoffenheim,30,Koen Casteels,BEL,G,1.96,83,25-06-92,Bonheiden
+2014,a001,1899 Hoffenheim,31,Kevin Volland,GER,F,1.79,75,30-07-92,Marktoberdorf
+2014,a001,1899 Hoffenheim,33,Robin Szarka,GER,D,1.76,67,17-09-91,Mannheim
+2014,a001,1899 Hoffenheim,34,Kenan Karaman,TUR,F,1.89,78,05-03-94,Stuttgart
+2014,a001,1899 Hoffenheim,36,Jeremy Toljan,GER,D,1.82,74,08-08-94,Stuttgart
+2014,a001,1899 Hoffenheim,38,Kai Herdling,GER,F,1.76,72,27-06-84,Heidelberg
+2014,a001,1899 Hoffenheim,40,Joseph-Claude Gyau,USA,M,1.75,72,16-09-92,Tampa
+2014,a001,1899 Hoffenheim,11,Eren Derdiyok,SUI,F,1.9,83,12-06-88,Basel
+2014,a001,1899 Hoffenheim,17,Tobias Weis,GER,M,1.7,68,30-07-85,Schwäbisch Hall
+2014,a001,1899 Hoffenheim,32,Vincenzo Grifo,ITA,M,1.8,75,07-04-93,Pforzheim
+2014,a001,1899 Hoffenheim,1,Tim Wiese,GER,G,1.93,91,17-12-81,Bergisch-Gladbach
+2014,a001,1899 Hoffenheim,39,Andreas Ludwig,GER,M,1.72,68,11-09-90,Ulm
+2014,a001,1899 Hoffenheim,15,Mathieu Delpierre,FRA,D,1.93,86,26-04-81,Nancy
+2014,a001,1899 Hoffenheim,3,Matthias Jaissle,GER,D,1.86,84,05-04-88,Nürtingen
+2014,a001,FSV Mainz 05,1,Christian Mathenia,GER,G,1.89,75,31-03-92,Mainz
+2014,a001,FSV Mainz 05,2,Bo Svensson,DEN,D,1.9,85,04-08-79,Aalborg
+2014,a001,FSV Mainz 05,3,Zdeněk Pospěch,CZE,D,1.74,74,14-12-78,Opava
+2014,a001,FSV Mainz 05,4,Nikolce Noveski,MKD,D,1.9,87,28-04-79,Bitola
+2014,a001,FSV Mainz 05,5,Benedikt Saller,GER,D,1.8,70,22-09-92,Munich
+2014,a001,FSV Mainz 05,6,Johannes Geis,GER,D,1.77,73,07-08-93,Schweinfurt
+2014,a001,FSV Mainz 05,7,Niki Zimling,DEN,M,1.75,73,19-04-85,Tårnby
+2014,a001,FSV Mainz 05,8,Christoph Moritz,GER,M,1.86,73,27-01-90,Birkesdorf
+2014,a001,FSV Mainz 05,9,Sebastian Polter,GER,F,1.92,87,01-04-91,Wilhelmshave
+2014,a001,FSV Mainz 05,10,Maxim Choupo-Moting,CMR,F,1.89,82,23-03-89,Hamburg
+2014,a001,FSV Mainz 05,11,Yunus Malli,GER,M,1.79,74,24-02-92,Kassel
+2014,a001,FSV Mainz 05,13,Koo Ja-Cheol,KOR,M,1.83,75,27-02-89,Chungju
+2014,a001,FSV Mainz 05,14,Julian Baumgartlinger,AUT,M,1.81,80,02-01-88,Salzburg
+2014,a001,FSV Mainz 05,15,Dario Krešić,CRO,G,1.95,89,11-01-84,Vukovar
+2014,a001,FSV Mainz 05,16,Stefan Bell,GER,D,1.92,86,24-08-91,Andernach
+2014,a001,FSV Mainz 05,18,Dani Schahin,GER,F,1.87,82,09-07-89,Donetsk
+2014,a001,FSV Mainz 05,19,Elkin Soto,COL,M,1.78,71,04-08-80,Manizales
+2014,a001,FSV Mainz 05,20,Junior Díaz,CRC,M,1.85,76,12-09-83,San José [CRC]
+2014,a001,FSV Mainz 05,21,Loris Karius,GER,G,1.87,75,22-06-93,Biberach
+2014,a001,FSV Mainz 05,22,Julian Koch,GER,D,1.84,76,11-11-90,Schwerte
+2014,a001,FSV Mainz 05,23,Shinji Okazaki,JPN,F,1.73,70,16-04-86,Hyogo
+2014,a001,FSV Mainz 05,24,Park Joo-Ho,KOR,M,1.76,71,16-01-87,Seoul
+2014,a001,FSV Mainz 05,26,Niko Bungert,GER,D,1.88,68,24-10-86,Bochum
+2014,a001,FSV Mainz 05,27,Nicolai Müller,GER,F,1.75,65,25-09-87,Lohr am Main
+2014,a001,FSV Mainz 05,28,Todor Nedelev,BUL,M,1.76,69,07-02-93,Plovdiv
+2014,a001,FSV Mainz 05,29,Christian Wetklo,GER,G,1.9,90,11-01-80,Marl
+2014,a001,FSV Mainz 05,30,Malik Fathi,GER,D,1.85,85,29-10-83,Berlin
+2014,a001,FSV Mainz 05,31,Shawn Parker,GER,F,1.79,76,07-03-93,Wiesbaden
+2014,a001,FSV Mainz 05,33,Heinz Müller,GER,G,1.93,88,30-05-78,Frankfurt am Main
+2014,a001,FSV Mainz 05,35,Petar Slišković,CRO,F,1.93,88,21-02-91,Sarajevo
+2014,a001,FSV Mainz 05,13,Nikita Rukavytsya,AUS,F,1.83,74,22-06-87,Mykolaiv
+2014,a001,FSV Mainz 05,17,Chinedu Ede,GER,M,1.79,82,05-02-87,Wilmersdorf
+2014,a001,1.FC Nürnberg,1,Raphael Schäfer,GER,G,1.9,86,30-01-79,Kędzierzyn-Koźle
+2014,a001,1.FC Nürnberg,2,Emanuel Pogatetz,AUT,D,1.89,76,16-01-83,Graz
+2014,a001,1.FC Nürnberg,3,Per Nilsson,SWE,D,1.9,87,15-09-82,Härnösand
+2014,a001,1.FC Nürnberg,4,Marcos António,BRA,D,1.87,80,25-05-83,Alagoinhas
+2014,a001,1.FC Nürnberg,5,Hanno Balitsch,GER,M,1.81,73,02-01-81,Darmstadt
+2014,a001,1.FC Nürnberg,6,Martin Angha,SUI,D,1.88,81,22-01-94,Zürich
+2014,a001,1.FC Nürnberg,7,Markus Feulner,GER,M,1.81,77,12-02-82,Scheßlitz
+2014,a001,1.FC Nürnberg,8,Mariusz Stępiński,POL,F,1.83,72,12-05-95,Sieradz
+2014,a001,1.FC Nürnberg,9,Tomáš Pekhart,CZE,F,1.95,91,26-05-89,Sušici
+2014,a001,1.FC Nürnberg,10,Timo Gebhart,GER,M,1.82,76,12-04-89,Memmingen
+2014,a001,1.FC Nürnberg,11,Daniel Ginczek,GER,F,1.9,78,13-04-91,Arnsberg
+2014,a001,1.FC Nürnberg,13,Hiroshi Kiyotake,JPN,M,1.72,63,12-11-89,Oita
+2014,a001,1.FC Nürnberg,14,Robert Mak,SVK,M,1.78,71,08-03-91,Bratislava
+2014,a001,1.FC Nürnberg,15,Makoto Hasebe,JPN,M,1.77,65,18-01-84,Shizuoka
+2014,a001,1.FC Nürnberg,16,Niklas Stark,GER,M,1.88,80,14-04-95,Neustadt an der Aisch
+2014,a001,1.FC Nürnberg,17,Mike Frantz,GER,F,1.81,76,14-10-86,Saarbrücken
+2014,a001,1.FC Nürnberg,18,Josip Drmić,SUI,F,1.82,70,08-08-92,Lachen
+2014,a001,1.FC Nürnberg,20,José Campaña,ESP,M,1.76,55,30-05-93,Seville
+2014,a001,1.FC Nürnberg,21,Marvin Plattenhardt,GER,D,1.79,73,26-01-92,Filderstadt
+2014,a001,1.FC Nürnberg,22,Patrick Rakovsky,GER,G,1.87,82,02-06-93,Ople
+2014,a001,1.FC Nürnberg,23,Adam Hloušek,CZE,M,1.83,71,20-12-88,Turnov
+2014,a001,1.FC Nürnberg,24,Berkay Dabanlı,TUR,D,1.9,80,27-06-90,Berlin
+2014,a001,1.FC Nürnberg,25,Javier Pinola,ARG,D,1.78,78,24-02-83,Olivos
+2014,a001,1.FC Nürnberg,26,Timmy Chandler,USA,D,1.86,83,29-03-90,Frankfurt am Main
+2014,a001,1.FC Nürnberg,30,Alexander Stephan,GER,G,1.89,81,15-09-86,Erlangen
+2014,a001,1.FC Nürnberg,31,Ondřej Petrák,CZE,M,1.87,74,11-03-92,Prague
+2014,a001,1.FC Nürnberg,32,Benjamin Uphoff,GER,G,1.9,78,08-08-93,Burghausen
+2014,a001,1.FC Nürnberg,33,Tobias Pachonik,GER,D,1.84,87,04-01-95,Marktoberdorf
+2014,a001,1.FC Nürnberg,34,Sebastian Gärtner,GER,M,1.77,76,03-02-93,Nuremburg
+2014,a001,1.FC Nürnberg,36,Sinan Tekerci,TUR,D,1.7,68,22-09-93,Freudenstadt
+2014,a001,1.FC Nürnberg,38,Manuel Bihr,GER,D,1.83,74,17-09-93,Herrenberg
+2014,a001,1.FC Nürnberg,40,Antonio-Mirko Colak,GER,F,1.87,80,17-09-93,Ludwigsburg
+2014,a001,1.FC Nürnberg,31,Nick Weber,GER,F,1.8,76,04-05-95,Lippstadt
+2014,a001,1.FC Nürnberg,28,Mu Kanasaki,JPN,M,1.8,70,16-02-89,Mie
+2014,a001,1.FC Nürnberg,33,Alexander Esswein,GER,F,1.81,76,25-03-90,Worms
+2014,a001,1.FC Nürnberg,27,Markus Mendler,GER,M,1.73,67,07-01-93,Memmingen
+2014,a001,1.FC Nürnberg,20,Muhammed Ildiz,AUT,M,1.79,74,14-05-91,Vienna
+2014,a001,1.FC Nürnberg,19,Noah Korczowski,GER,D,1.85,80,08-01-94,Marl
+2014,a001,FC Schalke 04,1,Ralf Fährmann,GER,G,1.94,89,27-09-88,Karl-Marx-Stadt
+2014,a001,FC Schalke 04,2,Tim Hoogland,GER,D,1.83,78,11-06-85,Marl
+2014,a001,FC Schalke 04,3,Jan Kirchhoff,GER,D,1.93,78,01-10-90,Frankfurt am Main
+2014,a001,FC Schalke 04,4,Benedikt Höwedes,GER,D,1.87,75,29-02-88,Haltern am See
+2014,a001,FC Schalke 04,5,Felipe Santana,BRA,D,1.94,80,17-03-86,Rio Claro
+2014,a001,FC Schalke 04,6,Sead Kolašinac,BIH,D,1.83,82,20-06-93,Karlsruhe
+2014,a001,FC Schalke 04,7,Max Meyer,GER,M,1.69,65,18-09-95,Oberhausen
+2014,a001,FC Schalke 04,8,Leon Goretzka,GER,M,1.89,76,06-02-95,Bochum
+2014,a001,FC Schalke 04,9,Kevin-Prince Boateng,GHA,M,1.85,86,06-03-87,Berlin
+2014,a001,FC Schalke 04,10,Julian Draxler,GER,M,1.83,68,20-09-93,Gladbeck
+2014,a001,FC Schalke 04,11,Christian Clemens,GER,M,1.8,70,04-08-91,Cologne
+2014,a001,FC Schalke 04,12,Marco Höger,GER,M,1.86,74,16-09-89,Cologne
+2014,a001,FC Schalke 04,13,Leroy Sané,GER,M,1.72,66,11-01-96,Essen
+2014,a001,FC Schalke 04,14,Kyriakos Papadopoulos,GRE,D,1.83,78,23-02-92,Katerini
+2014,a001,FC Schalke 04,15,Dennis Aogo,GER,D,1.83,85,14-01-87,Karlsruhe
+2014,a001,FC Schalke 04,17,Jefferson Farfán,PER,F,1.78,73,28-10-84,Lima
+2014,a001,FC Schalke 04,18,Gerald Asamoah,GER,M,1.8,85,03-10-78,Mampong
+2014,a001,FC Schalke 04,19,Chinedu Obasi Ogbuke,NGA,F,1.83,82,01-06-86,Enugu
+2014,a001,FC Schalke 04,20,Marvin Friedrich,GER,D,1.9,74,13-12-95,Kassel
+2014,a001,FC Schalke 04,22,Atsuto Uchida,JPN,D,1.76,62,27-03-88,Shizuoka
+2014,a001,FC Schalke 04,23,Christian Fuchs,AUT,D,1.86,80,07-04-86,Pitten
+2014,a001,FC Schalke 04,24,Kaan Ayhan,TUR,D,1.78,68,10-11-94,Gelsenkirchen
+2014,a001,FC Schalke 04,25,Klaas Jan Huntelaar,NED,F,1.86,80,12-08-83,Drempt
+2014,a001,FC Schalke 04,26,Dennis Erdmann,GER,D,1.88,87,22-11-90,Kerpen
+2014,a001,FC Schalke 04,27,Robert Leipertz,GER,M,1.82,76,01-02-93,Jülich
+2014,a001,FC Schalke 04,28,Ádám Szalai,HUN,F,1.93,80,09-12-87,Budapest
+2014,a001,FC Schalke 04,29,Donis Avdijaj,GER,F,1.72,70,25-08-96,Osnabrück
+2014,a001,FC Schalke 04,30,René Klingenburg,GER,M,1.9,80,29-12-93,Oberhausen
+2014,a001,FC Schalke 04,31,Philipp Max,GER,D,1.78,74,30-09-93,Viersen
+2014,a001,FC Schalke 04,32,Joel Matip,CMR,D,1.92,83,08-08-91,Bochum
+2014,a001,FC Schalke 04,33,Roman Neustädter,GER,M,1.9,82,18-02-88,Dnipropetrovsk
+2014,a001,FC Schalke 04,34,Timo Hildebrand,GER,G,1.85,79,05-04-79,Worms
+2014,a001,FC Schalke 04,35,Marcel Sobottka,GER,M,1.83,73,25-04-94,Gelsenkirchen
+2014,a001,FC Schalke 04,40,Anthony Annan,GHA,M,1.75,68,21-07-86,Accra
+2014,a001,FC Schalke 04,20,Teemu Pukki,FIN,F,1.76,66,29-03-90,Kotka
+2014,a001,FC Schalke 04,27,Tranquillo Barnetta,SUI,M,1.78,69,22-05-85,Rotmonten
+2014,a001,FC Schalke 04,36,Lars Unnerstall,GER,G,1.98,100,20-07-90,Ibbenbüren
+2014,a001,FC Schalke 04,13,Jermaine Jones,USA,M,1.84,78,03-11-81,Frankfurt am Main
+2014,a001,VfB Stuttgart,1,Sven Ulreich,GER,G,1.92,84,03-08-88,Schorndorf
+2014,a001,VfB Stuttgart,2,Gotoku Sakai,JPN,D,1.75,72,14-03-91,New York
+2014,a001,VfB Stuttgart,3,Daniel Schwaab,GER,D,1.86,75,23-08-88,Waldkirch
+2014,a001,VfB Stuttgart,5,Karim Haggui,TUN,D,1.87,85,20-01-84,Kasserine
+2014,a001,VfB Stuttgart,6,Georg Niedermeier,GER,D,1.88,74,26-02-86,Munich
+2014,a001,VfB Stuttgart,7,Martin Harnik,AUT,F,1.85,73,10-06-87,Hamburg
+2014,a001,VfB Stuttgart,8,Moritz Leitner,GER,M,1.74,65,08-12-92,Munich
+2014,a001,VfB Stuttgart,9,Vedad Ibišević,BIH,F,1.88,80,06-08-84,Vlasenica
+2014,a001,VfB Stuttgart,10,Daniel Didavi,GER,M,1.79,77,21-02-90,Nürtingen
+2014,a001,VfB Stuttgart,11,Carlos Gruezo,ECU,M,1.71,67,19-04-95,Santo Domingo
+2014,a001,VfB Stuttgart,13,Patrick Funk,GER,M,1.78,76,11-02-90,Aalen
+2014,a001,VfB Stuttgart,14,Marco Rojas,NZL,M,1.66,63,05-11-91,Hamilton [NZL]
+2014,a001,VfB Stuttgart,15,Arthur Boka,CIV,D,1.66,67,02-04-83,Abidjan
+2014,a001,VfB Stuttgart,16,Ibrahima Traoré,GUI,M,1.72,62,21-04-88,Villepinte
+2014,a001,VfB Stuttgart,18,Cacau,GER,F,1.79,74,27-03-81,Santo André
+2014,a001,VfB Stuttgart,19,Timo Werner,GER,F,1.8,75,06-03-96,Stuttgart
+2014,a001,VfB Stuttgart,20,Christian Gentner,GER,M,1.89,80,14-08-85,Nürtingen
+2014,a001,VfB Stuttgart,22,Thorsten Kirschbaum,GER,G,1.94,88,20-04-87,Würzburg
+2014,a001,VfB Stuttgart,23,Sercan Sararer,ESP,F,1.8,80,27-11-89,Nuremberg
+2014,a001,VfB Stuttgart,24,Antonio Rüdiger,GER,D,1.9,85,03-03-93,Berlin
+2014,a001,VfB Stuttgart,25,Mohammed Abdellaoue,NOR,F,1.84,81,23-10-85,Oslo
+2014,a001,VfB Stuttgart,27,Tim Leibold,GER,D,1.74,69,30-11-93,Böblingen
+2014,a001,VfB Stuttgart,28,Rani Khedira,GER,M,1.85,78,27-01-94,Stuttgart
+2014,a001,VfB Stuttgart,31,Odisseas Vlachodimos,GRE,G,1.88,73,26-04-94,Stuttgart
+2014,a001,VfB Stuttgart,34,Konstantin Rausch,GER,D,1.78,67,15-03-90,Kozhevnikovo
+2014,a001,VfB Stuttgart,35,Tobias Rathgeb,GER,M,1.73,64,03-05-82,Ruit
+2014,a001,VfB Stuttgart,36,Kevin Müller,GER,G,1.89,87,15-03-91,Rostock
+2014,a001,VfB Stuttgart,39,Robin Yalçın,GER,M,1.83,77,25-01-94,Deggendorf
+2014,a001,VfB Stuttgart,44,Alexandru Maxim,ROU,M,1.78,70,08-07-90,Piatra Neamţ
+2014,a001,VfB Stuttgart,5,Serdar Taşçı,GER,D,1.86,80,24-04-87,Esslingen
+2014,a001,VfB Stuttgart,11,Johan Audel,FRA,F,1.8,73,12-12-83,Nice
+2014,a001,VfB Stuttgart,17,Tunay Torun,TUR,F,1.79,75,21-04-90,Hamburg
+2014,a001,VfB Stuttgart,12,Benedikt Röcker,GER,D,1.97,88,19-11-89,Bietigheim-Bissingen
+2014,a001,VfB Stuttgart,4,William Kvist,DEN,M,1.84,80,24-02-85,Odder
+2014,a001,VfB Stuttgart,21,Cristian Molinaro,ITA,D,1.8,76,30-07-83,Moio Civitella
+2014,a001,Werder Bremen,1,Sebastian Mielitz,GER,G,1.88,73,18-07-89,Zehdenick
+2014,a001,Werder Bremen,2,Santiago García,ARG,D,1.89,76,08-07-88,Rosario
+2014,a001,Werder Bremen,3,Luca Caldirola,ITA,D,1.82,75,01-02-91,Desio
+2014,a001,Werder Bremen,5,Assani Lukimya-Mulongoti,COD,D,1.89,89,25-01-86,Uwira
+2014,a001,Werder Bremen,6,Cédric Makiadi,COD,M,1.78,75,23-02-84,Kinshasa
+2014,a001,Werder Bremen,7,Ludovic Obraniak,POL,M,1.74,72,10-11-84,Longueville-lès-Metz
+2014,a001,Werder Bremen,8,Clemens Fritz,GER,D,1.83,81,07-12-80,Erfurt
+2014,a001,Werder Bremen,9,Franco Di Santo,ARG,F,1.94,78,07-04-89,Mendoza
+2014,a001,Werder Bremen,10,Mehmet Ekici,GER,M,1.8,70,25-03-90,Munich
+2014,a001,Werder Bremen,11,Eljero Elia,NED,F,1.76,70,13-02-87,Voorburg
+2014,a001,Werder Bremen,13,Lukas Schmitz,GER,M,1.84,80,13-10-88,Hattingen
+2014,a001,Werder Bremen,14,Aaron Hunt,GER,F,1.83,73,04-09-86,Goslar
+2014,a001,Werder Bremen,15,Sebastian Prödl,AUT,D,1.94,85,21-06-87,Graz
+2014,a001,Werder Bremen,16,Zlatko Junuzović,AUT,M,1.72,69,26-09-87,Loznica
+2014,a001,Werder Bremen,17,Aleksandar Ignjovski,SRB,M,1.75,69,27-01-91,Belgrade
+2014,a001,Werder Bremen,18,Felix Kroos,GER,F,1.84,74,12-03-91,Greifswald
+2014,a001,Werder Bremen,19,Torben Rehfeldt,GER,D,1.93,80,07-08-93,Kisdorf
+2014,a001,Werder Bremen,20,Raphael Wolf,GER,G,1.9,86,06-06-88,Munich
+2014,a001,Werder Bremen,22,Melvyn Lorenzen,GER,F,1.88,86,26-11-94,London
+2014,a001,Werder Bremen,23,Theodor Gebre Selassie,CZE,D,1.82,70,24-12-86,Třebíč
+2014,a001,Werder Bremen,24,Nils Petersen,GER,F,1.86,80,06-12-88,Wernigerode
+2014,a001,Werder Bremen,25,Luca Zander,GER,D,1.83,68,09-08-95,Weyhe
+2014,a001,Werder Bremen,26,Davie Selke,GER,F,1.92,75,20-01-95,Schorndorf
+2014,a001,Werder Bremen,28,Levent Ayçiçek,GER,M,1.69,60,12-02-94,Nienburg
+2014,a001,Werder Bremen,29,Cimo Röcker,GER,D,1.86,81,21-01-94,Schneverdingen
+2014,a001,Werder Bremen,30,Richard Strebinger,AUT,G,1.93,83,14-02-93,Wiener Neustadt
+2014,a001,Werder Bremen,31,Predrag Stevanović,SRB,M,1.78,62,09-03-91,Essen
+2014,a001,Werder Bremen,32,Özkan Yildirim,GER,M,1.67,58,10-04-93,Sulingen
+2014,a001,Werder Bremen,33,Martin Kobylański,POL,F,1.79,73,08-03-94,Berlin
+2014,a001,Werder Bremen,34,Aleksandar Stevanović,SRB,M,1.75,65,16-02-92,Essen
+2014,a001,Werder Bremen,38,Julian von Haacke,GER,M,1.81,70,14-02-94,Bremen
+2014,a001,Werder Bremen,44,Philipp Bargfrede,GER,M,1.74,71,03-03-89,Zeven
+2014,a001,Werder Bremen,41,Niclas Füllkrug,GER,F,1.88,78,09-02-93,Hannover
+2014,a001,Werder Bremen,7,Marko Arnautović,AUT,F,1.92,83,19-04-89,Vienna
+2014,a001,Werder Bremen,26,Florian Hartherz,GER,D,1.89,82,29-05-93,Offenbach
+2014,a001,Werder Bremen,27,Johannes Wurtz,GER,F,1.83,70,19-06-92,Saarbrücken
+2014,a001,Werder Bremen,19,Joseph Akpala,NGA,F,1.85,78,24-08-86,Jos
+2014,a001,Werder Bremen,25,Tom Trybull,GER,M,1.81,72,09-03-93,Berlin
+2014,a001,Werder Bremen,4,Mateo Pavlović,CRO,D,1.96,88,09-06-90,Mostar
+2014,a001,VfL Wolfsburg,1,Diego Benaglio,SUI,G,1.93,83,08-09-83,Zürich
+2014,a001,VfL Wolfsburg,2,Patrick Ochs,GER,D,1.79,71,14-05-84,Frankfurt am Main
+2014,a001,VfL Wolfsburg,4,Marcel Schäfer,GER,D,1.82,76,07-06-84,Aschaffenburg
+2014,a001,VfL Wolfsburg,5,Timm Klose,SUI,D,1.93,87,09-05-88,Frankfurt am Main
+2014,a001,VfL Wolfsburg,6,Slobodan Medojević,SRB,M,1.75,70,20-10-90,Novi Sad
+2014,a001,VfL Wolfsburg,7,Daniel Caligiuri,GER,M,1.82,79,15-01-88,Villingen-Schwenningen
+2014,a001,VfL Wolfsburg,8,Vierinha,POR,M,1.73,73,24-01-86,Guimarães
+2014,a001,VfL Wolfsburg,9,Ivan Perišić,CRO,M,1.8,74,02-02-89,Split
+2014,a001,VfL Wolfsburg,11,Ivica Olić,CRO,F,1.81,85,14-09-79,Davor
+2014,a001,VfL Wolfsburg,12,Bas Dost,NED,F,1.92,78,31-05-89,Deventer
+2014,a001,VfL Wolfsburg,14,Kevin De Bruyne,BEL,M,1.8,68,28-06-91,Drongen
+2014,a001,VfL Wolfsburg,15,Christian Träsch,GER,D,1.8,73,01-09-87,Ingolstadt
+2014,a001,VfL Wolfsburg,19,Junior Malanda,BEL,D,1.81,90,28-08-94,Brussels
+2014,a001,VfL Wolfsburg,20,Max Grün,GER,G,1.91,85,05-04-87,Karlstadt am Main
+2014,a001,VfL Wolfsburg,21,Patrick Drewes,GER,G,1.94,86,04-02-93,Delmenhorst
+2014,a001,VfL Wolfsburg,22,Luiz Gustavo,BRA,M,1.87,82,23-07-87,Pindamonhangaba
+2014,a001,VfL Wolfsburg,24,Kevin Scheidhauer,GER,F,1.9,89,13-02-92,Deggendorf
+2014,a001,VfL Wolfsburg,25,Naldo,BRA,D,1.98,89,10-09-82,Londrina
+2014,a001,VfL Wolfsburg,26,Felipe Lopes,BRA,D,1.89,76,07-08-87,São Paulo
+2014,a001,VfL Wolfsburg,27,Maximilian Arnold,GER,M,1.83,78,27-05-94,Riesa
+2014,a001,VfL Wolfsburg,29,Jan Polak,CZE,M,1.81,77,14-03-81,Brno
+2014,a001,VfL Wolfsburg,30,Stefan Kutschke,GER,F,1.94,89,03-11-88,Dresden
+2014,a001,VfL Wolfsburg,31,Robin Knoche,GER,D,1.72,67,22-05-92,Braunschweig
+2014,a001,VfL Wolfsburg,32,Willi Evseev,GER,M,1.76,70,14-02-92,Temirtau
+2014,a001,VfL Wolfsburg,34,Ricardo Rodríguez,SUI,D,1.8,72,25-08-92,Zürich
+2014,a001,VfL Wolfsburg,37,Moritz Sprenger,GER,D,1.9,85,22-02-95,Magdeburg
+2014,a001,VfL Wolfsburg,39,Paul Seguin,GER,M,1.86,79,29-03-95,Magdeburg
+2014,a001,VfL Wolfsburg,17,Giovanni Sio,CIV,F,1.8,72,31-03-89,Nantes
+2014,a001,VfL Wolfsburg,14,Tolga Ciğerci,GER,M,1.85,75,23-03-92,Nordenham
+2014,a001,VfL Wolfsburg,13,Makoto Hasebe,JPN,M,1.77,65,18-01-84,Shizuoka
+2014,a001,VfL Wolfsburg,33,Patrick Helmes,GER,F,1.82,70,01-03-84,Cologne
+2014,a001,VfL Wolfsburg,37,Ferhan Hasani,MKD,M,1.88,80,18-06-90,Tetovo
+2014,a001,VfL Wolfsburg,18,Koo Ja-Cheol,KOR,M,1.83,75,27-02-89,Chungju
+2014,a001,VfL Wolfsburg,10,Diego,BRA,M,1.74,76,28-02-85,Ribeirão Preto

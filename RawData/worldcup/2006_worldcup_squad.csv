@@ -1,0 +1,737 @@
+Year,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Current Club
+2006,1,Alvaro Mesén,CRC,G,"5'11""",12 08,24-12-72,Alajuela,CS Herediano
+2006,2,Jervis Drummond,CRC,D,"5'08""",11 07,08 09,Limón,Deportivo Saprissa
+2006,3,Luis Antonio Marín,CRC,D,"5'10""",12 04,10-08-74,San José,LD Alajuelense
+2006,4,Michael Umaña,CRC,D,"6'00""",11 07,16-07-82,San José,Brujas
+2006,5,Gilberto Martinez,CRC,D,"5'09""",11 05,01-10-79,Golfito,Brescia
+2006,6,Dany Fonseca,CRC,M,"5'10""",12 01,07-11-79,Birricito,CS Cartaginés
+2006,7,Christian Bolaños,CRC,M,"5'10""",10 08,17-05-84,San José,Deportivo Saprissa
+2006,8,Mauricio Solís,CRC,M,"5'08""",12 00,13-12-72,San José,CSD Comunicaciones
+2006,9,Paulo Wanchope,CRC,F,"6'03""",12 08,31-07-76,Heredia,CS Herediano
+2006,10,Walter Centeno,CRC,M,"5'09""",11 00,06-10-74,Palmar Sur,Deportivo Saprissa
+2006,11,Ronald Gómez,CRC,F,"6'01""",14 00,24-01-75,Puntarenas,Deportivo Saprissa
+2006,12,Leonardo González,CRC,D,"6'01""",12 00,21-11-80,San José,CS Herediano
+2006,13,Kurt Bernard,CRC,F,"6'01""",13 05,08 08,Limón,Puntarenas
+2006,14,Randall Azofeifa,CRC,M,"6'00""",12 01,30-12-84,San José,Deportivo Saprissa
+2006,15,Harold Wallace,CRC,D,"5'09""",11 09,7 9,San José,LD Alajuelense
+2006,16,Carlos Hernández,CRC,M,"5'08""",11 00,09 04,San José,LD Alajuelense
+2006,17,Gabriel Badilla,CRC,D,"5'11""",11 07,30-09-84,San José,Deportivo Saprissa
+2006,18,José Francisco Porras,CRC,G,"6'00""",12 11,08 11,Grecia,Deportivo Saprissa
+2006,19,Alvaro Saborío,CRC,F,"6'00""",12 01,25-03-82,Ciudad Quesada,Deportivo Saprissa
+2006,20,Douglas Sequeira,CRC,D,"6'01""",12 12,23-08-77,San José,Real Salt Lake
+2006,21,Víctor Núñez,CRC,F,"5'10""",12 04,15-04-80,Santo Domingo,CS Cartaginés
+2006,22,Michael Rodríguez,CRC,D,"5'10""",11 03,30-12-81,Cacao,LD Alajuelense
+2006,23,Wardy Alfaro,CRC,G,"5'11""",11 00,31-12-77,Alajuela,LD Alajuelense
+2006,1,Edwin Villafuerte,ECU,G,"6'02""",13 05,12 03,Guayaquil,Deportivo Quito
+2006,2,Jorge Guagua,ECU,D,"5'10""",11 11,28-09-81,Quito,El Nacional
+2006,3,Iván Hurtado,ECU,D,"5'10""",10 10,16-08-74,Esmeraldas,Al Arabi
+2006,4,Ulises De La Cruz,ECU,M,5'10'',11 09,08-02-74,Piqulucho,Aston Villa
+2006,5,José Luis Perlaza,ECU,D,"6'04""",12 08,6 10,Quito,Olmedo
+2006,6,Patricio Urrutia,ECU,M,"5'10""",10 03,15-10-77,Zapotal,LDU Quito
+2006,7,Cristian Lara,ECU,M,"5'04""",09 06,27-04-80,Quito,El Nacional
+2006,8,Édison Méndez,ECU,M,"5'09""",10 10,16-03-79,El Chotal,LDU Quito
+2006,9,Félix Borja,ECU,F,"5'10""",11 00,02 04,San Lorenzo,El Nacional
+2006,10,Iván Kaviedes,ECU,F,"6'00""",11 03,24-10-77,Pichincha,Argentinos Juniors
+2006,11,Agustín Delgado,ECU,F,"6'03""",13 08,23-12-74,Ibarra,LDU Quito
+2006,12,Cristian Mora,ECU,G,"6'01""",11 07,26-08-79,San Miguel de Bolívar,LDU Quito
+2006,13,Paul Ambrossi,ECU,D,"5'10""",11 00,14-10-80,Guaranda,LDU Quito
+2006,14,Segundo Castillo,ECU,M,"5'10""",12 01,15-05-82,San Lorenzo,El Nacional
+2006,15,Marlon Ayoví,ECU,M,"5'09""",12 00,27-08-71,Guayaquil,Deportivo Quito
+2006,16,Luis Antonio Valencia,ECU,M,"5'10""",12 04,04-08-85,Lago Agrio,Recreativo Huelva (On Loan)
+2006,17,Geovanny Espinoza,ECU,D,"6'01""",13 05,12 04,Quito,LDU Quito
+2006,18,Néicer Reasco,ECU,D,"5'07""",10 08,23-07-77,Esmeraldas,LDU Quito
+2006,19,Luis Saritama,ECU,M,"5'09""",11 00,20-10-83,Loja,Deportivo Quito
+2006,20,Edwin Tenorio,ECU,M,"5'08""",10 01,16-06-76,Esmeraldas,Barcelona [ECU]
+2006,21,Carlos Tenorio,ECU,F,"6'00""",12 04,14-05-79,Esmeraldas,Al Sadd
+2006,22,Damián Lanza,ECU,G,"6'01""",14 00,10 04,Cuenca,Aucas
+2006,23,Christian Benítez,ECU,F,"5'06""",10 10,1 5,Esmereldas,El Nacional
+2006,1,Jens Lehmann,GER,G,"6'02""",12 06,10 11,Essen,Arsenal
+2006,2,Marcell Jansen,GER,D,"6'03""",11 05,04-11-85,Mönchengladbach,B Mönchengladbach
+2006,3,Arne Friedrich,GER,D,6'01'',12 00,29-05-79,Bad Oeynhausen,Hertha Berlin
+2006,4,Robert Huth,GER,D,6'02'',12 12,18-08-84,Berlin,Chelsea
+2006,5,Sebastian Kehl,GER,M,6'02'',12 08,13-02-80,Fulda,Borussia Dortmund
+2006,6,Jens Nowotny,GER,D,6'00'',13 10,11 1,Spielberg,Bayer Leverkusen
+2006,7,Bastian Schweinsteiger,GER,M,5'11'',12 00,1 8,Kolbermoor,Bayern Munich
+2006,8,Torsten Frings,GER,M,6'00'',12 08,22-11-76,Würsel,Werder Bremen
+2006,9,Mike Hanke,GER,F,6'00'',11 11,05 11,Hamm/Westphalia,Wolfsburg
+2006,10,Oliver Neuville,GER,F,5'07'',10 01,01 05,Locarno,B Mönchengladbach
+2006,11,Miroslav Klose,GER,F,6'00'',12 04,09 06,Oppeln,Werder Bremen
+2006,12,Oliver Kahn,GER,G,6'02'',14 02,15-06-69,Karlsruhe,Bayern Munich
+2006,13,Michael Ballack,GER,M,6'02'',12 08,26-09-76,Chemnitz,Bayern Munich
+2006,14,Gerald Asamoah,GER,M,5'11'',13 05,03 10,Mampong,Schalke
+2006,15,Thomas Hitzlsperger,GER,M,"6'00""",11 12,05 04,Munich,Stuttgart
+2006,16,Philipp Lahm,GER,D,5'07'',09 08,11 11,Munich,Bayern Munich
+2006,17,Per Mertesacker,GER,D,6'05'',13 05,29-09-84,Hannover,Hannover 96
+2006,18,Tim Borowski,GER,M,6'04'',13 03,2 5,Neubrandenburg,Werder Bremen
+2006,19,Bernd Schneider,GER,M,5'09'',11 09,17-11-73,Jena,Bayer Leverkusen
+2006,20,Lukas Podolski,GER,F,"5'09""",11 11,04-06-85,Gleiwitz,Köln
+2006,21,Christoph Metzelder,GER,D,6'04'',13 03,05 11,Halten,Borussia Dortmund
+2006,22,David Odonkor,GER,M,5'09'',11 09,21-02-84,Bünde/Westfalen,Borussia Dortmund
+2006,23,Timo Hildebrand,GER,G,6'01'',11 11,05 04,Worms,Stuttgart
+2006,1,Artur Boruc,POL,G,"6'04""",13 12,20-02-80,Siedlce,Celtic
+2006,2,Mariusz Jop,POL,D,"6'00""",12 04,03 08,Ostrowiec Świętokrzyski,FC Moscow
+2006,3,Seweryn Gancarczyk,POL,D,"6'00""",11 09,22-11-81,Zamość,Metalist Kharkiv
+2006,4,Marcin Baszczyński,POL,D,"6'00""",11 11,07 06,Ruda Śląska,Wisła Kraków
+2006,5,Kamil Kosowski,POL,M,6'01'',12 04,30-08-77,Ostrowiec Świętokrzyski,Southampton (On Loan)
+2006,6,Jacek Bąk,POL,D,"6'01""",12 03,24-03-73,Poznań,Al-Rayyan
+2006,7,Radosław Sobolewski,POL,M,"6'00""",12 06,13-12-76,Białystok,Wisła Kraków
+2006,8,Jacek Krzynówek,POL,M,5'11'',11 07,15-05-76,Kamiensk,Bayer Leverkusen
+2006,9,Maciej Żurawski,POL,F,"5'11""",12 00,12 9,Poznań,Celtic
+2006,10,Mirosław Szymkowiak,POL,D,"5'10""",10 12,12 11,Poznań,Trabzonspor
+2006,11,Grzegorz Rasiak,POL,F,"6'03""",13 03,12 1,Szczecin,Southampton
+2006,12,Tomasz Kuszczak,POL,G,6'03'',13 03,20-03-82,Krosno Odrzańskie,WBA
+2006,13,Sebastian Mila,POL,M,"5'10""",10 08,10 07,Koszalin,Austria Vienna
+2006,14,Michał Żewłakow,POL,D,"6'00""",12 01,22-04-76,Warsaw,Anderlecht
+2006,15,Ebi Smolarek,POL,F,"5'09""",10 06,09 01,Lodz,Borussia Dortmund
+2006,16,Arek Radomski,POL,M,"5'11""",12 11,27-06-77,Gniezno,Austria Vienna
+2006,17,Dariusz Dudka,POL,D,"6'00""",12 08,09-12-83,Kostrzyn nad Odrą,Wisła Kraków
+2006,18,Mariusz Lewandowski,POL,D,"6'01""",13 03,18-05-79,Legnica,Shakhtar Donetsk
+2006,19,Bartosz Bosacki,POL,D,"6'02""",12 11,20-12-75,Poznań,Lech Poznań
+2006,20,Piotr Giza,POL,M,"5'10""",11 11,28-02-80,Kraków,Cracovia Kraków
+2006,21,Ireneusz Jeleń,POL,F,"6'00""",11 09,09 04,Cieszyn,Wisła Płock
+2006,22,Łukasz Fabiański,POL,G,"6'03""",13 03,18-04-85,Kostrzyn nad Odrą,Legia Warszawa
+2006,23,Paweł Brożek,POL,F,"5'11""",11 05,21-04-83,Kielce,Wisła Kraków
+2006,1,Paul Robinson,ENG,G,"6'04""",14 04,15-10-79,Beverley,Tottenham H
+2006,2,Gary Neville,ENG,D,"5'11""",12 07,18-02-75,Bury,Manchester U
+2006,3,Ashley Cole,ENG,D,"5'08""",10 08,20-12-80,Stepney,Arsenal
+2006,4,Steven Gerrard,ENG,M,"6'01""",13 00,30-05-80,Whiston,Liverpool
+2006,5,Rio Ferdinand,ENG,D,"6'02""",12 00,07-11-78,Peckham,Manchester U
+2006,6,John Terry,ENG,D,"6'00""",11 11,07 12,Barking,Chelsea
+2006,7,David Beckham,ENG,M,"6'00""",11 09,02-05-75,Leytonstone,Real Madrid
+2006,8,Frank Lampard,ENG,M,6'00'',11 12,20-06-78,Romford,Chelsea
+2006,9,Wayne Rooney,ENG,F,"5'10""",12 05,24-10-85,Liverpool,Manchester U
+2006,10,Michael Owen,ENG,F,"5'08""",11 00,14-12-79,Chester,Newcastle U
+2006,11,Joe Cole,ENG,M,"5'09""",11 00,08 11,Camden,Chelsea
+2006,12,Sol Campbell,ENG,D,"6'02""",14 04,18-09-74,Newham,Arsenal
+2006,13,David James,ENG,G,"6'05""",14 02,1 8,Welwyn,Manchester C
+2006,14,Wayne Bridge,ENG,D,"5'10""",12 04,05-08-80,Southampton,Chelsea
+2006,15,Jamie Carragher,ENG,D,"6'01""",13 00,28-01-78,Liverpool,Liverpool
+2006,16,Owen Hargreaves,ENG,M,5'11'',11 07,20-01-81,Calgary,Bayern Munich
+2006,17,Jermaine Jenas,ENG,M,"5'10""",12 00,18-02-83,Nottingham,Tottenham H
+2006,18,Michael Carrick,ENG,M,"6'00""",11 10,28-07-81,Wallsend,Tottenham H
+2006,19,Aaron Lennon,ENG,M,"5'05""",09 12,16-04-87,Chapletown,Tottenham H
+2006,20,Stewart Downing,ENG,M,6'00'',11 00,22-07-84,Middlesbrough,Middlesbrough
+2006,21,Peter Crouch,ENG,F,"6'07""",11 12,30-01-81,Macclesfield,Liverpool
+2006,22,Scott Carson,ENG,G,"6'03""",13 07,3 9,Whitehaven,Liverpool
+2006,23,Theo Walcott,ENG,F,"5'07""",10 10,16-03-89,Newbury,Arsenal
+2006,1,Justo Villar,PAR,G,"5'11""",12 06,30-06-77,Cerrito,Newell's Old Boys
+2006,2,Jorge Núñez,PAR,D,"5'09""",12 04,22-01-78,Asunción,Estudiantes (LP)
+2006,3,Delio Toledo,PAR,D,5'11'',10 10,02-10-76,Cecilio Báez,Zaragoza
+2006,4,Carlos Gamarra,PAR,D,"5'11""",11 11,17-07-71,Capiata,Palmeiras
+2006,5,Julio César Cáceres,PAR,D,"5'11""",12 04,05 10,San José dos Arroyos,River Plate
+2006,6,Carlos Bonet,PAR,M,"5'09""",12 01,02 10,Asunción,Libertad
+2006,7,Salvador Cabañas,PAR,F,"5'08""",12 04,05 08,Asunción,Jaguares de Chiapas
+2006,8,Edgar Barreto,PAR,M,"5'09""",12 04,15-07-84,Asunción,NEC Nijmegen
+2006,9,Roque Santa Cruz,PAR,F,6'02'',12 08,16-08-81,Asunción,Bayern Munich
+2006,10,Roberto Acuña,PAR,M,"5'09""",12 04,25-03-72,Avellaneda,Deportivo La Coruña
+2006,11,Diego Gavilán,PAR,M,"5'08""",10 06,01 03,Asunción,Newell's Old Boys
+2006,12,Derlis Gómez,PAR,G,"6'01""",13 05,02-11-72,Ypacaraí,Sportivo Luqueño
+2006,13,Carlos Paredes,PAR,M,"5'10""",12 04,16-07-76,Asunción,Reggina
+2006,14,Paulo César Da Silva,PAR,D,"5'11""",13 10,01 02,Asunción,Toluca
+2006,15,Julio Manzur,PAR,D,"5'11""",12 06,21-01-81,Limpio,Santos [BRA]
+2006,16,Cristian Riveros,PAR,M,"5'10""",12 00,16-10-82,J.A. Saldivar,Libertad
+2006,17,José Montiel,PAR,M,"5'08""",11 03,19-03-88,Itauguá,Olimpia
+2006,18,Nelson Haedo Valdez,PAR,F,5'10'',11 03,28-11-83,Caaguazú,Werder Bremen
+2006,19,Julio Dos Santos,PAR,M,"6'02""",13 05,07 05,Asunción,Bayern Munich
+2006,20,Dante López,PAR,F,"6'01""",13 05,16-08-83,Asunción,Genoa
+2006,21,Denis Caniza,PAR,D,"5'09""",11 00,29-08-74,Bella Vista,Cruz Azul
+2006,22,Aldo Bobadilla,PAR,G,"6'03""",14 00,20-04-76,Pedro Juan Caballero,Libertad
+2006,23,Nelson Cuevas,PAR,F,"5'08""",09 13,10 01,Asunción,Pachuca
+2006,1,Andreas Isaksson,SWE,G,"6'06""",13 12,03 10,Trelleborg,Rennes
+2006,2,Mikael Nilsson,SWE,M,"6'00""",11 11,24-06-78,Ovesholm,Panathinaikos
+2006,3,Olof Mellberg,SWE,D,6'01'',12 10,03 09,Amncharad,Aston Villa
+2006,4,Teddy Lucic,SWE,D,6'02'',12 04,15-04-74,Biskopsgaard,BK Häcken
+2006,5,Erik Edman,SWE,D,"5'10""",12 06,11-11-78,Helsingborg,Rennes
+2006,6,Tobias Linderoth,SWE,M,"5'10""",11 08,24-04-79,Marseille,FC København
+2006,7,Niclas Alexandersson,SWE,M,"6'02""",11 07,29-12-71,Halmstad,IFK Göteborg
+2006,8,Anders Svensson,SWE,M,"5'10""",12 10,17-07-76,Elfsborg,IF Elfsborg
+2006,9,Fredrik Ljungberg,SWE,M,"5'09""",10 13,16-04-77,Halmstad,Arsenal
+2006,10,Zlatan Ibrahimovic,SWE,F,"6'04""",13 03,03-10-81,Malmö,Juventus
+2006,11,Henrik Larsson,SWE,F,"5'09""",11 02,10 09,Helsingborg,Barcelona
+2006,12,John Alvbåge,SWE,G,"6'02""",13 05,10 08,Gothenburg,Viborg
+2006,13,Petter Hansson,SWE,D,"6'01""",13 03,14-12-76,Helsingborg,SC Heerenveen
+2006,14,Fredrik Stenman,SWE,D,"6'02""",12 13,02-06-83,Köping,Bayer Leverkusen
+2006,15,Karl Svensson,SWE,D,"6'02""",12 13,21-03-84,Jönköping,IFK Göteborg
+2006,16,Kim Källström,SWE,M,"6'00""",13 03,24-08-82,Sandviken,Rennes
+2006,17,Johan Elmander,SWE,F,"6'02""",12 06,27-05-81,Alingsas,Brøndby
+2006,18,Mattias Jonson,SWE,F,"5'10""",12 01,16-01-74,Gothenburg,Djurgårdens IF
+2006,19,Daniel Andersson,SWE,M,"5'10""",12 06,28-08-77,Borgholm,Malmö FF
+2006,20,Marcus Allbäck,SWE,F,5'11'',12 02,05 07,Gothenburg,FC København
+2006,21,Christian Wilhelmsson,SWE,M,"5'10""",10 10,08-02-79,Malmö,Anderlecht
+2006,22,Markus Rosenberg,SWE,F,"6'00""",12 00,27-09-82,Malmö,Ajax
+2006,23,Rami Shaaban,SWE,G,6'04'',14 09,30-06-75,Stockholm,Fredrikstad
+2006,1,Shaka Hislop,TRI,G,"6'04""",14 04,22-02-69,Hackney,West Ham U
+2006,2,Ian Cox,TRI,D,"6'00""",12 00,25-03-71,Croydon,Gillingham
+2006,3,Avery John,TRI,D,"6'00""",12 02,18-06-75,Point Fortin,New England Revolution
+2006,4,Marvin Andrews,TRI,D,"6'02""",13 00,22-12-75,Sanguan,Rangers
+2006,5,Brent Sancho,TRI,D,"6'01""",12 11,13-03-77,Port of Spain,Gillingham
+2006,6,Dennis Lawrence,TRI,D,"6'07""",11 13,18-01-74,Barataria,Wrexham
+2006,7,Chris Birchall,TRI,M,5'09'',12 12,05 05,Stafford,Port Vale
+2006,8,Cyd Gray,TRI,D,"5'08""",11 08,21-11-76,Scarborough [TRI],San Juan Jabloteh
+2006,9,Aurtis Whitley,TRI,M,"5'10""",11 09,01 05,Malick,San Juan Jabloteh
+2006,10,Russell Latapy,TRI,M,"5'07""",11 04,2 8,Laventille,Falkirk
+2006,11,Carlos Edwards,TRI,M,"5'11""",10 12,24-10-78,Port of Spain,Luton T
+2006,12,Colin Samuel,TRI,F,"5'10""",12 07,27-08-81,North Manzanilla,Dundee U
+2006,13,Cornell Glen,TRI,F,5'09'',11 06,21-10-81,Port of Spain,Colorado Rapids
+2006,14,Stern John,TRI,F,"6'01""",13 07,30-10-76,Cane Farm,Coventry C
+2006,15,Kenwyne Jones,TRI,F,"6'02""",11 00,05-01-84,Point Fortin,Southampton
+2006,16,Evans Wise,TRI,M,"5'09""",10 01,23-11-73,Port of Spain,Waldhof Mannheim
+2006,17,Atiba Charles,TRI,D,"6'01""",14 05,29-08-77,Point Fortin,W Connection
+2006,18,Denzil Theobald,TRI,M,"5'10""",10 10,27-06-82,Port of Spain,Falkirk
+2006,19,Dwight Yorke,TRI,F,"5'09""",12 03,03-11-71,Canaan,Sydney FC
+2006,20,Jason Scotland,TRI,F,"5'08""",11 10,18-02-79,Morvant,St Johnstone
+2006,21,Kelvin Jack,TRI,G,"6'03""",16 00,29-04-76,Trincity,Dundee
+2006,22,Clayton Ince,TRI,G,"6'03""",13 00,13-07-72,Port of Spain,Coventry C
+2006,23,Anthony Wolfe,TRI,F,"5'11""",12 00,31-12-81,Manzanilla,San Juan Jabloteh
+2006,1,Roberto Abbondanzieri,ARG,G,"6'01""",14 00,19-08-72,Bouquet,Boca Juniors
+2006,2,Roberto Ayala,ARG,D,5'10'',11 11,12 04,Parana,Valencia
+2006,3,Juan Pablo Sorín,ARG,D,"5'07""",10 09,05-05-76,Buenos Aires,Villarreal
+2006,4,Fabrizio Coloccini,ARG,D,6'00'',12 04,22-01-82,Córdoba,Deportivo La Coruña
+2006,5,Esteban Cambiasso,ARG,M,5'10'',11 07,18-08-80,Buenos Aires,Internazionale
+2006,6,Gabriel Heinze,ARG,D,"5'10""",11 04,19-04-78,Crespo,Manchester U
+2006,7,Javier Saviola,ARG,F,5'06'',09 06,11 11,Buenos Aires,Sevilla
+2006,8,Javier Mascherano,ARG,M,"5'10""",12 01,08 06,Rosario,Corinthians
+2006,9,Hernán Crespo,ARG,F,"6'02""",12 04,05 07,Florida,Chelsea
+2006,10,Juan Román Riquelme,ARG,M,6'00'',12 00,24-06-78,Capital Federal,Villarreal
+2006,11,Carlos Tévez,ARG,F,"5'10""",10 10,05 02,Buenos Aires,Corinthians
+2006,12,Leo Franco,ARG,G,6'02'',13 05,20-05-77,San Nicolas,Atlético Madrid
+2006,13,Lionel Scaloni,ARG,M,6'00'',12 08,16-05-78,Rosario,West Ham U (On Loan)
+2006,14,Rodrigo Palacio,ARG,F,"5'09""",10 06,05 02,Bahía Blanca,Boca Juniors
+2006,15,Gabriel Milito,ARG,D,5'09'',12 06,07 09,Buenos Aires,Zaragoza
+2006,16,Pablo Aimar,ARG,M,5'07'',09 11,03 11,Rio Cuarto,Valencia
+2006,17,Leandro Cufré,ARG,D,"5'09""",12 00,09 05,La Plata,Roma
+2006,18,Maxi Rodríguez,ARG,M,5'09'',11 11,02 01,Rosario,Atlético Madrid
+2006,19,Lionel Messi,ARG,M,"5'07""",10 08,24-06-87,Santa Fe,Barcelona
+2006,20,Julio Cruz,ARG,F,"6'03""",12 04,10 10,Santiago del Estero,Internazionale
+2006,21,Nicolás Burdisso,ARG,D,"6'00""",12 11,12-04-81,Altos de Chipion,Internazionale
+2006,22,Lucho González,ARG,M,6'01'',11 11,19-01-81,Buenos Aires,FC Porto
+2006,23,Óscar Ustari,ARG,G,"6'00""",12 13,3 7,América,Independiente
+2006,1,Jean-Jacques Tizié,CIV,G,"5'11""",11 11,7 9,Abidjan,Espérance
+2006,2,Kanga Akalé,CIV,F,"5'10""",10 12,07-03-81,Abidjan,Auxerre
+2006,3,Arthur Boka,CIV,D,"5'05""",10 08,02-04-83,Abidjan,Strasbourg
+2006,4,Kolo Touré,CIV,M,5'10'',11 09,19-03-81,Sokoura Bouake,Arsenal
+2006,5,Didier Zokora,CIV,M,"5'10""",11 00,14-12-80,Abidjan,Saint-Etienne
+2006,6,Blaise Kouassi,CIV,D,"6'01""",11 11,02 02,Abidjan,Troyes
+2006,7,Emerse Faé,CIV,M,"5'08""",11 00,24-01-84,Nantes,Nantes
+2006,8,Bonaventure Kalou,CIV,M,"5'11""",12 01,12 01,Oumé,Paris St-Germain
+2006,9,Arouna Koné,CIV,F,"5'11""",12 11,11-11-83,Anyama,PSV Eindhoven
+2006,10,Gilles Yapi Yapo,CIV,M,"5'07""",09 12,30-01-82,Abidjan,Young Boys
+2006,11,Didier Drogba,CIV,F,"6'02""",11 09,11 03,Abidjan,Chelsea
+2006,12,Abdoulaye Méité,CIV,D,"6'00""",12 12,10 6,Paris,Marseille
+2006,13,Marco Zoro,CIV,D,"6'00""",11 11,27-12-83,Abdijan,Messina
+2006,14,Bakary Koné,CIV,F,"5'04""",09 08,17-09-81,Abidjan,Nice
+2006,15,Aruna Dindane,CIV,F,"5'08""",10 10,26-11-80,Abidjan,Lens
+2006,16,Gérard Gnanhouan,CIV,G,"6'03""",13 00,12 02,Adzope,Montpellier
+2006,17,Cyril Domoraud,CIV,D,"5'11""",12 01,22-07-71,Lakota,Créteil
+2006,18,Kader Keïta,CIV,F,"6'00""",12 04,06-08-81,Abidjan,Lille
+2006,19,Yaya Touré,CIV,M,"6'02""",12 04,13-05-83,Sokoura Bouake,Olympiakos
+2006,20,Guy Demel,CIV,M,6'02'',13 05,13-06-81,Orsay,Hamburg
+2006,21,Emmanuel Eboué,CIV,D,"5'10""",11 05,04-06-83,Abidjan,Arsenal
+2006,22,Romaric,CIV,M,"6'02""",13 12,04 06,Abidjan,Le Mans
+2006,23,"Barry ""Copa"" Boubacar",CIV,G,"5'10""",11 00,30-12-79,Marcory,Beveren
+2006,1,Edwin van der Sar,NED,G,"6'05""",14 08,29-10-70,Voorhout,Manchester U
+2006,2,Kew Jaliens,NED,D,"6'00""",10 10,15-09-78,Rotterdam,AZ Alkmaar
+2006,3,Khalid Boulahrouz,NED,D,"6'03""",13 08,28-12-81,Maassluis,Hamburg
+2006,4,Joris Mathijsen,NED,D,"6'00""",11 05,05 04,Goirle,AZ Alkmaar
+2006,5,Giovanni van Bronckhorst,NED,M,"5'10""",12 00,05 02,Rotterdam,Barcelona
+2006,6,Danny Landzaat,NED,M,"5'10""",11 00,06 05,Amsterdam,AZ Alkmaar
+2006,7,Dirk Kuijt,NED,F,"6'00""",12 01,22-07-80,Katwijk,Feyenoord
+2006,8,Phillip Cocu,NED,M,"6'00""",11 09,29-10-70,Eindhoven,PSV Eindhoven
+2006,9,Ruud van Nistelrooy,NED,F,"6'02""",12 07,01-07-76,Geffen,Manchester U
+2006,10,Rafael van der Vaart,NED,M,"5'09""",11 00,11-02-83,Heemskerk,Hamburg
+2006,11,Arjen Robben,NED,F,"5'11""",11 11,23-01-84,Bedum,Chelsea
+2006,12,Jan Kromkamp,NED,D,"6'00""",13 01,17-08-80,Makkinga,Liverpool
+2006,13,André Ooijer,NED,D,"6'00""",12 00,11-07-74,Amsterdam,PSV Eindhoven
+2006,14,John Heitinga,NED,D,"5'11""",11 05,15-11-83,Alphen aan den Rijn,Ajax
+2006,15,Tim de Cler,NED,D,"6'00""",11 00,08 11,Leiden,AZ Alkmaar
+2006,16,Hedwiges Maduro,NED,M,"6'01""",12 04,13-02-85,Almere,Ajax
+2006,17,Robin van Persie,NED,M,"6'00""",11 02,06 08,Rotterdam,Arsenal
+2006,18,Mark van Bommel,NED,M,"6'02""",13 03,22-04-77,Maasbracht,Barcelona
+2006,19,Jan Vennegoor of Hesselink,NED,F,"6'02""",13 05,07 11,Oldenzaal,PSV Eindhoven
+2006,20,Wesley Sneijder,NED,M,"5'07""",10 08,09 06,Utrecht,Ajax
+2006,21,Ryan Babel,NED,F,"6'01""",12 04,19-12-86,Amsterdam,Ajax
+2006,22,Henk Timmer,NED,G,"6'02""",14 02,03 12,Hierden,AZ Alkmaar
+2006,23,Maarten Stekelenburg,NED,G,"6'04""",13 03,22-09-82,Haarlem,Ajax
+2006,1,Dragoslav Jevrić,SRB,G,"6'02""",13 08,08-07-74,Berane,Ankaraspor
+2006,2,Ivan Ergić,SRB,M,"6'01""",13 03,21-01-81,Šibenik,Basel
+2006,3,Ivica Dragutinović,SRB,D,"6'00""",13 08,13-11-75,Čačak,Sevilla
+2006,4,Igor Duljaj,SRB,M,"5'09""",11 05,29-10-79,Topola,Shakhtar Donetsk
+2006,5,Nemanja Vidić,SRB,D,"6'02""",13 03,21-10-81,Subotica,Manchester U
+2006,6,Goran Gavrančić,SRB,D,"6'03""",13 03,02-08-78,Belgrade,Dynamo Kiev
+2006,7,Ognjen Koroman,SRB,M,"5'09""",11 00,09 09,Belgrade,Portsmouth (On Loan)
+2006,8,Mateja Kežman,SRB,F,"6'01""",10 12,12 04,Zemun,Atlético Madrid
+2006,9,Savo Milošević,SRB,F,"6'01""",13 08,2 9,Bijeljina,Osasuna
+2006,10,Dejan Stanković,SRB,M,"5'11""",11 11,11-09-78,Belgrade,Internazionale
+2006,11,Predrag Djordjević,SRB,M,"6'00""",11 11,04-08-72,Kragujevac,Olympiakos
+2006,12,Oliver Kovačević,SRB,G,"6'02""",13 10,29-01-74,Split,CSKA Sofia
+2006,13,Dušan Basta,SRB,M,"6'00""",11 05,18-08-84,Belgrade,Crvena Zvezda
+2006,14,Nenad Djordjević,SRB,D,"6'00""",11 07,07-08-79,Belgrade,Partizan
+2006,15,Milan Dudić,SRB,D,"6'01""",12 01,01 11,Kraljevo,Crvena Zvezda
+2006,16,Dušan Petković,SRB,D,"6'02""",14 00,13-06-74,Belgrade,OFK Belgrade
+2006,17,Albert Nadj,SRB,D,"6'00""",11 11,29-10-74,Zemun,Partizan
+2006,18,Zvonimir Vukić,SRB,M,"6'00""",11 05,19-07-79,Zrenjanin,Partizan (On Loan)
+2006,19,Nikola Žigić,SRB,F,"6'08""",15 02,25-09-80,Bačka Topola,Crvena Zvezda
+2006,20,Mladen Krstajić,SRB,D,6'03'',12 11,04-03-74,Zenica,Schalke
+2006,21,Danijel Ljuboja,SRB,F,"6'01""",12 08,4 9,Vinkovdci,Stuttgart
+2006,22,Saša Ilić,SRB,M,"5'10""",11 00,30-12-77,Pozarevac,Galatasaray
+2006,23,Vladimir Stojković,SRB,G,"6'05""",14 07,28-07-83,Loznica,Crvena Zvezda
+2006,1,João Ricardo,ANG,G,5'11'',12 00,07-01-70,Luanda,
+2006,2,Marcos Airosa,ANG,D,"5'10""",11 11,6 8,Luanda,Barreirense
+2006,3,Jamba,ANG,D,"5'10""",12 04,10 07,Luanda,AS Aviação
+2006,4,Lebo Lebo,ANG,D,"5'09""",11 07,29-05-77,Melanje,Petro Atlético
+2006,5,Kali,ANG,D,6'02'',12 08,11 10,Luanda,Barreirense
+2006,6,Miloy,ANG,M,"6'00""",13 03,27-05-81,Luanda,Interclube
+2006,7,Figueiredo,ANG,M,"5'10""",12 01,28-11-72,Luanda,Varzim
+2006,8,André,ANG,M,"5'09""",11 05,14-05-78,Luanda,Al Kuwait SC
+2006,9,Pedro Mantorras,ANG,F,5'10'',12 01,18-03-82,Luanda,Benfica
+2006,10,Akwá,ANG,F,"5'11""",12 08,30-05-77,Benguela,Al Wakra
+2006,11,Mateus,ANG,F,"5'08""",11 09,19-06-84,Luanda,Gil Vicente
+2006,12,Lamá,ANG,G,"6'02""",14 09,01 02,Luanda,Petro Atlético
+2006,13,Edson,ANG,F,5'09'',12 02,03 02,Benguela,Paços de Ferreira
+2006,14,Mendonça,ANG,M,"5'08""",11 00,09 11,Luanda,Varzim
+2006,15,Rui Marques,ANG,D,5'11'',12 00,03-09-77,Luanda,Hull C (On Loan)
+2006,16,Flávio,ANG,D,"5'08""",11 07,30-12-79,,Al Ahly
+2006,17,Zé Kalanga,ANG,M,"5'09""",11 05,12 08,Luanda,Petro Atlético
+2006,18,Love,ANG,F,"6'00""",12 08,14-03-79,Luanda,AS Aviação
+2006,19,André Titi Buengo,ANG,F,"6'02""",13 05,11 2,Luanda,Clermont
+2006,20,Locô,ANG,D,"5'11""",12 06,25-12-84,Luanda,Primeiro Agosto
+2006,21,Luis Delgado,ANG,D,"5'10""",12 04,01-11-79,Lobito,Petro Atlético
+2006,22,Mário,ANG,G,"6'00""",12 08,1 6,Luanda,Interclube
+2006,23,Marco Abreu,ANG,D,"5'11""",12 06,08-12-74,Lobango,Portimonense
+2006,1,Ebrahim Mirzapour,IRN,G,"6'04""",13 05,23-08-78,Khoram Abad,Foolad FC
+2006,2,Mehdi Mahdavikia,IRN,M,5'08'',11 05,24-07-77,Tehran,Hamburg
+2006,3,Sohrab Bakhtiarizadeh,IRN,D,"6'01""",12 00,11-09-77,Noor Abad,Saba Battery
+2006,4,Yahya GolMohammadi,IRN,D,"5'10""",12 00,19-03-71,Perspolis,Saba Battery
+2006,5,Rahman Rezaei,IRN,D,"5'10""",11 05,20-02-75,Tehran,Messina
+2006,6,Javad Nekounam,IRN,M,"5'11""",12 04,12 12,Tehran,Sharjah FC
+2006,7,Ferydoon Zandi,IRN,M,6'00'',12 08,26-04-79,Emden,Kaiserslautern
+2006,8,Ali Karimi,IRN,M,"5'10""",12 06,8 11,Tehran,Bayern Munich
+2006,9,Vahid Hashemian,IRN,F,5'10'',11 07,21-07-76,Tehran,Hannover 96
+2006,10,Ali Daei,IRN,F,"6'03""",13 12,21-03-69,Ardabil,Saba Battery
+2006,11,Rasoul Khatibi,IRN,F,"5'10""",12 01,22-09-78,Tabriz,Sepahan
+2006,12,Hasan Roudbarian,IRN,G,"6'00""",12 08,06 07,Qazvin,Pas
+2006,13,Hossein Kaabi,IRN,D,"5'09""",10 03,23-09-85,Ahvaz,Foolad FC
+2006,14,Andranik Teymourian,IRN,M,"5'11""",11 07,06 03,Tehran,Abu Muslem
+2006,15,Arash Borhani,IRN,F,"5'09""",11 05,14-09-83,Tehran,Pas
+2006,16,Reza Enayati,IRN,F,"5'10""",11 09,23-09-76,Esteghlal,Esteghlal
+2006,17,Javad Kazemian,IRN,M,"5'08""",12 04,23-04-81,Kashan,Persepolis
+2006,18,Sattar Zar'e,IRN,D,"5'09""",11 07,27-01-82,Shiraz,Bargh Shiraz
+2006,19,Amirhossein Sadeqi,IRN,D,"5'11""",11 09,24-07-77,Tehran,Esteghlal
+2006,20,Mohammad Nosrati,IRN,D,"5'11""",12 04,11 1,Tehran,Pas
+2006,21,Mehrzad Madanchi,IRN,M,"5'11""",11 09,10 1,Shiraz,Persepolis
+2006,22,Vahid Talebloo,IRN,G,"6'02""",12 08,26-05-82,Tehran,Esteghlal
+2006,23,Masoud Shojaei,IRN,M,"6'00""",11 07,09-06-84,Saipa,Saipa
+2006,1,Oswaldo Sánchez,MEX,G,"6'00""",13 01,21-09-73,Guadalajara,Guadalajara
+2006,2,Claudio Suárez,MEX,D,"5'10""",11 11,17-12-68,Mexico City,Chivas USA
+2006,3,Carlos Salcido,MEX,D,"5'07""",09 11,02-04-80,Ocotlán,Guadalajara
+2006,4,Rafael Márquez,MEX,D,6'00'',12 01,13-02-79,Zamora,Barcelona
+2006,5,Ricardo Osorio,MEX,D,"5'08""",10 10,30-03-80,Huajuapan De León,Cruz Azul
+2006,6,Gerardo Torrado,MEX,M,"5'08""",11 07,30-04-79,Mexico City,Cruz Azul
+2006,7,Antonio Naelson,MEX,M,"5'04""",10 06,23-05-76,Rio Grande,Toluca
+2006,8,Pável Pardo,MEX,M,"5'09""",10 08,26-07-76,Guadalajara,América
+2006,9,Jared Borgetti,MEX,F,"6'00""",11 05,14-08-73,Culiacan,Bolton W
+2006,10,Guillermo Franco,MEX,F,"6'00""",12 00,3 11,Corrientes,Villarreal
+2006,11,Ramón Morales,MEX,M,"5'07""",09 04,10-10-75,La Piedad,Guadalajara
+2006,12,Jesús Corona,MEX,G,"5'09""",11 00,26-01-81,Guadalajara,UAG Tecos
+2006,13,Guillermo Ochoa,MEX,G,"5'10""",10 06,13-07-85,Guadalajara,América
+2006,14,Gonzalo Pineda,MEX,M,"5'10""",10 08,19-10-82,Mexico City,Guadalajara
+2006,15,José Antonio Castro,MEX,D,"5'08""",08 09,11-08-80,Mexico City,América
+2006,16,Mario Mendez,MEX,D,"5'09""",10 12,01-06-79,Guadalajara,Toluca
+2006,17,Francisco Fonseca,MEX,F,"5'10""",11 00,02 10,León,Cruz Azul
+2006,18,Andrés Guardado,MEX,M,"5'07""",09 06,28-09-86,Guadalajara,Atlas
+2006,19,Omar Bravo,MEX,F,"5'07""",09 04,04 03,Los Mochis,Guadalajara
+2006,20,Rafael García,MEX,M,"5'09""",10 03,14-08-74,Mexico City,Atlas
+2006,21,Jesús Arellano,MEX,M,"5'09""",10 12,8 5,Monterrey,Monterrey
+2006,22,Francisco Rodriguez,MEX,D,"6'00""",10 10,20-10-81,Mazatlán,Guadalajara
+2006,23,Luis Ernesto Pérez,MEX,F,"5'05""",10 06,12 01,Mexico City,Monterrey
+2006,1,Ricardo,POR,G,6'01'',12 08,11-02-76,Montijo,Sporting CP
+2006,2,Paulo Ferreira,POR,D,6'00'',12 00,18-01-79,Lisbon,Chelsea
+2006,3,Marco Antonio Caneira,POR,D,"5'10""",11 11,9 2,Sintra,Sporting CP (On Loan)
+2006,4,Ricardo Costa,POR,D,6'00'',12 08,16-05-81,Vila Nova de Gaia,FC Porto
+2006,5,Fernando Meira,POR,M,6'02'',13 05,5 6,Guimarães,Stuttgart
+2006,6,Costinha,POR,M,5'11'',11 09,01 12,Lisbon,Dynamo Moscow
+2006,7,Luis Figo,POR,M,5'11'',11 11,04 11,Lisbon,Internazionale
+2006,8,Armando Petit,POR,M,5'10'',10 10,25-09-76,Strasbourg,Benfica
+2006,9,Pauleta,POR,F,"5'10""",12 03,28-04-73,Ponta Delgada,Paris St-Germain
+2006,10,Hugo Viana,POR,M,"5'09""",11 09,15-01-83,Barcelos,Valencia
+2006,11,Simão Sabrosa,POR,F,5'07'',10 01,31-10-79,Constantim,Benfica
+2006,12,Quim,POR,G,6'00'',12 00,13-11-75,Famalição,Benfica
+2006,13,Miguel,POR,D,5'09'',10 01,04 01,Lisbon,Valencia
+2006,14,Nuno Valente,POR,D,6'00'',12 04,12 9,Lisbon,Everton
+2006,15,Luis Boa Morte,POR,M,"5'10""",11 05,4 8,Lisbon,Fulham
+2006,16,Ricardo Carvalho,POR,D,6'00'',12 06,18-05-78,Amarante,Chelsea
+2006,17,Cristiano Ronaldo,POR,F,"6'01""",12 00,05 02,Funchal,Manchester U
+2006,18,Maniche,POR,M,5'08'',10 12,11 11,Lisbon,Chelsea (On Loan)
+2006,19,Tiago,POR,M,"5'10""",11 00,2 5,Viana do Castelo,Lyon
+2006,20,Deco,POR,M,5'09'',11 07,27-08-77,São Bernardo,Barcelona
+2006,21,Nuno Gomes,POR,F,5'11'',11 05,05-07-76,Amarante,Benfica
+2006,22,Paulo Santos,POR,G,"6'00""",13 08,11 12,Lisbon,Sporting Braga
+2006,23,Helder Postiga,POR,F,6'00'',12 06,02 08,Vila do Conde,St-Etienne (On Loan)
+2006,1,Petr Čech,CZE,G,"6'05""",13 09,20-05-82,Plzen,Chelsea
+2006,2,Zdenek Grygera,CZE,D,"6'00""",12 06,14-05-80,Prílepy u Holesova,Ajax
+2006,3,Pavel Mareš,CZE,D,"6'01""",12 01,18-11-76,Otrokovice,Zenit St Petersburg
+2006,4,Tomáš Galásek,CZE,M,"5'11""",12 01,15-01-73,Frydek-Místek,Ajax
+2006,5,Radoslav Kovac,CZE,M,"6'02""",12 04,27-11-79,Louchna nad Desnoi,Spartak Moscow
+2006,6,Marek Jankulovski,CZE,M,"6'00""",11 09,09-05-77,Ostrava,Milan
+2006,7,Libor Sionko,CZE,M,"5'09""",11 05,01 02,Ostrava,Austria Vienna
+2006,8,Karel Poborský,CZE,M,"5'09""",11 05,30-03-72,Jindřichův Hradec,České Budějovice (On Loan)
+2006,9,Jan Koller,CZE,F,6'07'',15 10,30-03-73,Lhota,Borussia Dortmund
+2006,10,Tomáš Rosický,CZE,M,5'10'',10 03,04 10,Prague,Borussia Dortmund
+2006,11,Pavel Nedvěd,CZE,M,"5'10""",11 00,30-08-72,Cheb,Juventus
+2006,12,Vratislav Lokvenc,CZE,F,"6'04""",14 13,27-09-73,Náchod,Austria Salzburg
+2006,13,Martin Jiránek,CZE,D,6'02'',14 02,25-05-79,Liberec,Spartak Moscow
+2006,14,David Jarolim,CZE,M,5'08'',10 10,17-05-79,Caslav,Hamburg
+2006,15,Milan Baroš,CZE,F,6'00'',13 02,28-10-81,Valašské Meziříčí,Aston Villa
+2006,16,Jaromír Blažek,CZE,G,"6'02""",13 12,29-12-72,Brno,Sparta Prague
+2006,17,Jiri Stajner,CZE,F,6'00'',12 13,27-05-76,Benesov,Hannover 96
+2006,18,Marek Heinz,CZE,F,"6'02""",12 00,04 08,Olomouc,Galatasaray
+2006,19,Jan Polak,CZE,M,"5'11""",12 01,14-03-81,Brno,Nürnberg
+2006,20,Jaroslav Plašil,CZE,M,"5'11""",11 04,05 01,Opocno,Monaco
+2006,21,Tomáš Ujfaluši,CZE,D,6'01'',12 00,24-03-78,Rymarov,Fiorentina
+2006,22,David Rozehnal,CZE,D,"6'03""",12 06,05 07,Sternberk,Paris St-Germain
+2006,23,Antonín Kinský,CZE,G,"6'02""",12 13,31-05-75,Prague,Saturn
+2006,1,Sammy Adjei,GHA,G,"6'01""",12 08,01 09,Accra,Ashdod
+2006,2,Hans Sarpei,GHA,M,5'10'',10 10,28-06-76,Tema,Wolfsburg
+2006,3,Asamoah Gyan,GHA,F,"5'11""",12 04,22-11-85,Accra,Modena (On Loan)
+2006,4,Samuel Kuffour,GHA,M,"5'10""",11 11,03 09,Kumasi,Roma
+2006,5,John Mensah,GHA,D,"5'11""",12 08,29-11-82,Obusai,Rennes
+2006,6,Emmanuel Pappoe,GHA,D,"5'09""",11 00,3 3,Accra,Hapoel Kfar Sava
+2006,7,Illiasu Shilla,GHA,D,"6'02""",11 11,26-10-82,,Asante Kotoko
+2006,8,Michael Essien,GHA,M,"5'10""",12 03,03-12-82,Accra,Chelsea
+2006,9,Derek Boateng,GHA,M,"6'01""",12 04,02 05,Accra,AIK
+2006,10,Stephen Appiah,GHA,M,"5'10""",12 01,24-12-80,Accra,Fenerbahçe
+2006,11,Sulley Muntari,GHA,M,"5'11""",12 00,27-07-84,Accra,Udinese
+2006,12,Alex Tachie-Mensah,GHA,F,"5'10""",11 11,15-02-77,Accra,St. Gallen
+2006,13,Habib Mohammed,GHA,D,,,10-12-83,,King Faisal Babes
+2006,14,Matthew Amoah,GHA,F,"5'09""",11 03,24-10-80,Tema,Borussia Dortmund
+2006,15,John Pantsil,GHA,M,5'10'',10 10,15-06-81,Kumasi,Hapoel Tel Aviv
+2006,16,George Owu,GHA,G,"5'10""",11 00,17-07-82,Accra,AshantiGold
+2006,17,Dan Quaye,GHA,D,,,25-10-80,,Hearts of Oak
+2006,18,Eric Addo,GHA,D,"6'00""",10 10,12 11,Accra,PSV Eindhoven
+2006,19,Razak Pimpong,GHA,F,"5'08""",11 00,30-12-82,Accra,FC København
+2006,20,Otto Addo,GHA,M,6'02'',12 08,09 06,Hamburg,Mainz
+2006,21,Issah Ahmed,GHA,D,"6'01""",12 08,24-05-82,,Randers
+2006,22,Richard Kingson,GHA,G,"6'03""",13 10,13-06-78,Accra,Ankaraspor
+2006,23,Haminu Draman,GHA,D,"5'08""",10 10,28-04-86,,Crvena Zvezda
+2006,1,Gianluigi Buffon,ITA,G,"6'03""",13 01,28-01-78,Carrara,Juventus
+2006,2,Cristian Zaccardo,ITA,D,"6'00""",11 09,02 12,Formigine,Palermo
+2006,3,Fabio Grosso,ITA,M,"6'03""",12 13,18-11-77,Rome,Palermo
+2006,4,Daniele De Rossi,ITA,M,"6'00""",13 01,24-07-83,Rome,Roma
+2006,5,Fabio Cannavaro,ITA,D,"5'09""",11 11,13-09-73,Naples,Juventus
+2006,6,Andrea Barzagli,ITA,D,"6'01""",12 06,08 05,Fiesole,Palermo
+2006,7,Alessandro Del Piero,ITA,F,"5'08""",11 00,09-11-74,Treviso,Juventus
+2006,8,Gennaro Gattuso,ITA,M,"5'10""",12 01,09-01-78,Corigliano,Milan
+2006,9,Luca Toni,ITA,F,"6'04""",13 12,26-05-77,Pavullo nel Frignano,Fiorentina
+2006,10,Francesco Totti,ITA,F,"5'11""",12 13,27-09-76,Rome,Roma
+2006,11,Alberto Gilardino,ITA,F,"6'00""",12 00,05-07-82,Biella,Milan
+2006,12,Angelo Peruzzi,ITA,G,"5'11""",13 12,16-02-70,Blera,Lazio
+2006,13,Alessandro Nesta,ITA,D,"6'02""",12 06,19-03-76,Rome,Milan
+2006,14,Marco Amelia,ITA,G,"6'02""",12 04,02 04,Frascati,Livorno
+2006,15,Vincenzo Iaquinta,ITA,F,"6'02""",12 01,21-11-76,Cosenza,Udinese
+2006,16,Mauro Camoranesi,ITA,M,"5'10""",11 00,9 10,Tandil,Juventus
+2006,17,Simone Barone,ITA,M,"5'11""",11 11,30-04-78,Nocera Inferiore,Palermo
+2006,18,Filippo Inzaghi,ITA,F,"5'11""",11 09,09 08,Piacenza,Milan
+2006,19,Gianluca Zambrotta,ITA,D,"5'11""",12 00,19-02-77,Como,Juventus
+2006,20,Simone Perrotta,ITA,M,"5'10""",11 02,17-09-77,Ashton-under-Lyme,Roma
+2006,21,Andrea Pirlo,ITA,M,"5'10""",10 10,19-05-79,Brescia,Milan
+2006,22,Massimo Oddo,ITA,D,"6'00""",12 00,14-06-76,Città S. Angelo,Lazio
+2006,23,Marco Materazzi,ITA,D,"6'04""",14 07,19-08-73,Lecce,Internazionale
+2006,1,Tim Howard,USA,G,"6'03""",15 00,06-03-79,North Brunswick,Manchester U
+2006,2,Chris Albright,USA,D,6'01'',13 03,14-01-79,Philadelphia,LA Galaxy
+2006,3,Carlos Bocanegra,USA,D,"6'00""",12 02,25-05-79,Alta Loma,Fulham
+2006,4,Pablo Mastroeni,USA,D,5'10'',12 02,29-08-76,Mendoza,Colorado Rapids
+2006,5,John O'Brien,USA,M,"5'10""",11 07,29-08-77,Los Angeles,Chivas USA
+2006,6,Steve Cherundolo,USA,D,5'07'',10 12,19-02-79,Rockford,Hannover 96
+2006,7,Eddie Lewis,USA,M,"5'09""",11 12,17-05-74,Cerritos,Leeds U
+2006,8,Clint Dempsey,USA,M,"6'01""",12 02,09-03-83,Nacogdoches,New England Revolution
+2006,9,Eddie Johnson,USA,F,6'00'',12 12,31-03-84,Daytona Beach,Kansas City Wizards
+2006,10,Claudio Reyna,USA,M,"5'09""",11 09,20-07-73,New Jersey,Manchester C
+2006,11,Brian Ching,USA,F,6'01'',13 13,24-05-78,Haleiwa,Houston Dynamo
+2006,12,Gregg Berhalter,USA,D,6'01'',12 06,01-08-73,Eaglewood,Energie Cottbus
+2006,13,Jimmy Conrad,USA,D,6'02'',13 03,12-02-77,Temple City,Kansas City Wizards
+2006,14,Ben Olsen,USA,M,5'08'',11 02,03-05-77,Harrisburg,DC United
+2006,15,Bobby Convey,USA,F,5'09'',11 06,27-05-83,Philadelphia,Reading
+2006,16,Josh Wolff,USA,F,5'08'',11 06,25-02-77,Stone Mountain,Kansas City Wizards
+2006,17,DaMarcus Beasley,USA,M,5'07'',09 00,24-05-82,Fort Wayne,PSV Eindhoven
+2006,18,Kasey Keller,USA,G,6'02'',13 12,27-11-69,Washington,B Mönchengladbach
+2006,19,Marcus Hahnemann,USA,G,"6'03""",16 00,15-06-72,Seattle,Reading
+2006,20,Brian McBride,USA,F,6'01'',12 06,17-08-72,Arlington Heights,Fulham
+2006,21,Landon Donovan,USA,F,5'08'',10 08,04-03-82,Ontario,LA Galaxy
+2006,22,Oguchi Onyewu,USA,D,"6'03""",14 04,13-05-83,Washington,Standard Liège
+2006,23,Eddie Pope,USA,D,6'00'',12 07,24-12-73,High Point,Real Salt Lake
+2006,1,Mark Schwarzer,AUS,G,"6'05""",15 01,06-10-72,Sydney,Middlesbrough
+2006,2,Lucas Neill,AUS,M,"6'01""",12 00,09-03-78,Sydney,Blackburn R
+2006,3,Craig Moore,AUS,D,6'01'',12 00,12-12-75,Canterbury [AUS],Newcastle U
+2006,4,Tim Cahill,AUS,M,"5'10""",10 11,06-12-79,Sydney,Everton
+2006,5,Jason Culina,AUS,M,"5'09""",11 05,05-08-80,Sydney,PSV Eindhoven
+2006,6,Tony Popovic,AUS,D,6'05'',13 01,07-04-73,Sydney,Crystal Palace
+2006,7,Brett Emerton,AUS,M,"6'02""",12 01,22-02-79,Bankstown,Blackburn R
+2006,8,Josip Skoko,AUS,M,"5'10""",12 04,10-12-75,Mount Gambier,Wigan Ath
+2006,9,Mark Viduka,AUS,F,"6'02""",14 04,09-10-75,Melbourne,Middlesbrough
+2006,10,Harry Kewell,AUS,F,"6'00""",12 10,22-09-78,Sydney,Liverpool
+2006,11,Stan Lazaridis,AUS,M,"5'09""",12 00,16-08-72,Perth,Birmingham C
+2006,12,Ante Covic,AUS,G,"6'04""",14 00,13-06-75,Hurstville,Hammarby IF
+2006,13,Vincenzo Grella,AUS,M,"6'00""",12 06,05-10-79,Melbourne,Parma
+2006,14,Scott Chipperfield,AUS,M,"5'10""",11 03,30-12-75,Wollongong,Basel
+2006,15,John Aloisi,AUS,F,6'00'',12 08,05-02-76,Adelaide,Alavés
+2006,16,Michael Beauchamp,AUS,D,"6'03""",13 05,08-03-81,Sydney,Central Coast Mariners
+2006,17,Archie Thompson,AUS,F,"5'09""",11 00,23-10-78,Otorohanga,PSV Eindhoven (On Loan)
+2006,18,Željko Kalac,AUS,G,"6'07""",14 13,16-12-72,Sydney,Milan
+2006,19,Joshua Kennedy,AUS,F,6'04'',13 03,20-08-82,Wodonga,Dynamo Dresden
+2006,20,Luke Wilkshire,AUS,M,"5'09""",11 05,02-10-81,Wollongong,Bristol C
+2006,21,Mile Sterjovski,AUS,M,"5'11""",12 01,27-05-79,Wollongong,Basel
+2006,22,Mark Milligan,AUS,D,"5'10""",12 04,04-08-85,Auburn,Sydney FC
+2006,23,Mark Bresciano,AUS,M,"6'00""",11 07,11-02-80,Melbourne,Parma
+2006,1,Dida,BRA,G,"6'05""",13 05,07-10-73,Irarà,Milan
+2006,2,Cafu,BRA,D,"5'09""",11 11,07-06-70,São Paulo,Milan
+2006,3,Lúcio,BRA,D,6'02'',12 13,08-05-78,Brasília,Bayern Munich
+2006,4,Juan,BRA,D,6'00'',12 04,01-02-79,Rio de Janeiro,Bayer Leverkusen
+2006,5,Emerson,BRA,M,"6'00""",13 03,04-04-76,Pelotas,Juventus
+2006,6,Roberto Carlos,BRA,D,5'06'',11 00,10-04-73,Garca,Real Madrid
+2006,7,Adriano,BRA,F,"6'02""",13 10,17-02-82,Rio de Janeiro,Internazionale
+2006,8,Kaká,BRA,M,"6'01""",11 07,22-04-82,Brasília,Milan
+2006,9,Ronaldo,BRA,F,6'00'',12 13,22-09-76,Rio de Janeiro,Real Madrid
+2006,10,Ronaldinho,BRA,M,5'09'',11 03,21-03-80,Porto Alegre,Barcelona
+2006,11,Zé Roberto,BRA,M,5'08'',11 03,06-07-74,São Paulo,Bayern Munich
+2006,12,Rogério Ceni,BRA,G,"6'02""",13 05,22-01-73,Pato Branco,São Paulo
+2006,13,Cicinho,BRA,D,"5'07""",10 10,24-06-80,Pradópolis,Real Madrid
+2006,14,Luisão,BRA,D,6'04'',12 11,13-02-81,Amparo,Benfica
+2006,15,Cris,BRA,D,"6'00""",12 01,06-03-77,Guarulhos,Lyon
+2006,16,Gilberto,BRA,D,"5'11""",12 04,28-02-77,Rio de Janeiro,Hertha Berlin
+2006,17,Gilberto Silva,BRA,M,6'03'',12 02,07-10-76,Lagoa da Prata,Arsenal
+2006,18,Mineiro,BRA,M,"5'07""",10 03,02-08-75,Porto Alegre,São Paulo
+2006,19,Juninho Pernambucano,BRA,M,"5'10""",11 09,30-01-75,Recife,Lyon
+2006,20,Ricardinho,BRA,M,"5'09""",11 07,23-05-76,São Paulo,Corinthians
+2006,21,Fred,BRA,F,"6'01""",11 11,03-10-83,Teyfilo Otoni,Lyon
+2006,22,Júlio César,BRA,G,"6'01""",12 06,03-09-79,Rio de Janeiro,Internazionale
+2006,23,Robinho,BRA,F,"5'08""",09 06,25-01-84,São Vicente,Real Madrid
+2006,1,Stipe Pletikosa,CRO,G,"6'04""",13 10,08-01-79,Split,Hajduk Split (On Loan)
+2006,2,Darijo Srna,CRO,M,"6'00""",12 04,01-05-82,Metković,Shakhtar Donetsk
+2006,3,Josip Šimunić,CRO,D,6'05'',14 00,18-02-78,Canberra,Hertha Berlin
+2006,4,Robert Kovač,CRO,D,"6'00""",12 04,06-04-74,Berlin,Juventus
+2006,5,Igor Tudor,CRO,D,"6'04""",14 02,16-04-78,Split,Siena (On Loan)
+2006,6,Jurica Vranješ,CRO,M,6'00'',11 00,30-01-80,Zivinice,Werder Bremen
+2006,7,Dario Šimic,CRO,D,"5'11""",12 00,12-11-75,Zagreb,Milan
+2006,8,Marko Babić,CRO,M,6'01'',11 09,21-01-81,Osijek,Bayer Leverkusen
+2006,9,Dado Pršo,CRO,F,"6'02""",13 07,05-11-74,Zadar,Rangers
+2006,10,Niko Kovač,CRO,M,5'10'',11 05,15-10-71,Berlin,Hertha Berlin
+2006,11,Mario Tokić,CRO,D,"5'10""",11 09,23-07-75,Derventa,Austria Vienna
+2006,12,Joey Didulica,CRO,G,"6'03""",12 08,14-10-77,Melbourne,Austria Vienna
+2006,13,Stjepan Tomas,CRO,D,"6'01""",12 13,06-03-76,Zagreb,Galatasaray
+2006,14,Luka Modrić,CRO,M,"5'09""",10 08,09-09-85,Zadar,Dinamo Zagreb
+2006,15,Ivan Leko,CRO,M,5'10'',12 01,07-02-78,Split,Club Brugge
+2006,16,Jerko Leko,CRO,M,"6'02""",12 08,09-04-80,Zagreb,Dynamo Kiev
+2006,17,Ivan Klasnić,CRO,F,6'00'',12 00,29-01-80,Hamburg,Werder Bremen
+2006,18,Ivica Olić,CRO,F,"6'00""",12 13,14-09-79,Davor,CSKA Moscow
+2006,19,Niko Kranjčar,CRO,M,"6'01""",13 03,13-08-84,Zagreb,Hajduk Split
+2006,20,Antony Šerić,CRO,D,"5'11""",11 00,15-01-79,Sydney,Panathinaikos
+2006,21,Boško Balaban,CRO,F,5'10'',11 10,15-10-78,Rijeka,Club Brugge
+2006,22,Ivan Bošnjak,CRO,M,"5'11""",11 05,06-02-79,Vinkovci,Dinamo Zagreb
+2006,23,Tomislav Butina,CRO,G,"6'03""",13 12,30-03-74,Zagreb,Club Brugge
+2006,1,Seigo Narazaki,JPN,G,"6'01""",12 00,15-04-76,Nara,Nagoya Grampus Eight
+2006,2,Teruyuki Moniwa,JPN,D,"5'11""",12 01,08-09-81,Kanagawa,FC Tokyo
+2006,3,Yuichi Komano,JPN,D,"5'07""",11 03,25-07-81,Wakayama,Sanfrecce Hiroshima
+2006,4,Yasuhito Endo,JPN,M,"5'10""",11 11,28-01-80,Kagoshima,Gamba Osaka
+2006,5,Tsuneyasu Miyamoto,JPN,D,"5'09""",11 05,07-02-77,Osaka,Gamba Osaka
+2006,6,Koji Nakata,JPN,M,"5'11""",11 09,09-07-79,Shiga,Basel
+2006,7,Hidetoshi Nakata,JPN,M,"5'09""",11 00,22-01-77,Yamanashi,Bolton W (On Loan)
+2006,8,Mitsuo Ogasawara,JPN,M,"5'08""",11 05,05-04-79,Iwate,Kashima Antlers
+2006,9,Naohiro Takahara,JPN,F,5'11'',11 05,04-06-79,Shizuoka,Hamburg
+2006,10,Shunsuke Nakamura,JPN,M,"5'10""",10 12,24-06-78,Kanagawa,Celtic
+2006,11,Seiichiro Maki,JPN,F,"6'00""",12 01,07-08-80,Kumamoto,JEF United
+2006,12,Yoichi Doi,JPN,G,"6'00""",13 03,25-07-73,Kumamoto,FC Tokyo
+2006,13,Atsushi Yanagisawa,JPN,F,"5'10""",11 11,27-05-77,Toyama,Kashima Antlers
+2006,14,Alex,JPN,M,"5'10""",10 12,20-07-77,Maringá Paraná,Urawa Red Diamonds
+2006,15,Takashi Fukunishi,JPN,M,"5'11""",12 01,01-09-76,Ehime,Jubilo Iwata
+2006,16,Masashi Oguro,JPN,F,"5'10""",11 09,04-05-80,Osaka,Grenoble
+2006,17,Junichi Inamoto,JPN,M,"5'11""",11 11,18-09-79,Osaka,WBA
+2006,18,Shinji Ono,JPN,M,"5'09""",11 09,27-09-79,Numazu,Urawa Red Diamonds
+2006,19,Keisuke Tsuboi,JPN,D,"5'10""",10 08,16-09-79,Tokyo,Urawa Red Diamonds
+2006,20,Keiji Tamada,JPN,F,"5'08""",09 13,11-04-80,Chiba,Nagoya Grampus Eight
+2006,21,Akira Kaji,JPN,D,"5'10""",11 07,13-01-80,Hyogo,Gamba Osaka
+2006,22,Yuji Nakazawa,JPN,D,"6'02""",12 04,25-02-78,Saitama,Yokohama F Marinos
+2006,23,Yoshikatsu Kawaguchi,JPN,G,"5'10""",12 04,15-08-75,Shizuoka,Jubilo Iwata
+2006,1,Mickaël Landreau,FRA,G,"6'00""",12 08,14-05-79,Machecoul,Nantes
+2006,2,Jean-Alain Boumsong,FRA,D,"6'03""",13 03,14-12-79,Douala,Newcastle U
+2006,3,Eric Abidal,FRA,D,"5'10""",11 11,11-07-79,Lyon,Lyon
+2006,4,Patrick Vieira,FRA,M,"6'04""",13 00,23-06-76,Dakar,Juventus
+2006,5,William Gallas,FRA,D,"6'01""",11 13,17-08-77,Asnieres,Chelsea
+2006,6,Claude Makélélé,FRA,M,"5'07""",10 03,18-02-73,Kinshasa,Chelsea
+2006,7,Florent Malouda,FRA,M,"5'11""",11 06,13-06-80,Cayenne,Lyon
+2006,8,Vikash Dhorasoo,FRA,M,"5'06""",09 12,10-10-73,Harfleur,Paris St-Germain
+2006,9,Sidney Govou,FRA,F,"5'08""",11 04,24-07-79,Le Puy-en-Valay,Lyon
+2006,10,Zinedine Zidane,FRA,M,6'01'',12 04,23-06-72,Marseille,Real Madrid
+2006,11,Sylvain Wiltord,FRA,F,"5'08""",11 13,10-05-74,Neuilly-sur-Mame,Lyon
+2006,12,Thierry Henry,FRA,F,"5'11""",12 05,17-08-77,Paris,Arsenal
+2006,13,Mikaël Silvestre,FRA,D,"6'00""",13 01,09-08-77,Chambray-Les-Tours,Manchester U
+2006,14,Louis Saha,FRA,F,"6'00""",12 04,08-08-78,Paris,Manchester U
+2006,15,Lilian Thuram,FRA,D,"6'01""",12 06,01-01-72,Point à Pitre,Juventus
+2006,16,Fabien Barthez,FRA,G,"6'00""",11 13,28-06-71,Lavelanet,Marseille
+2006,17,Gaël Givet,FRA,D,"5'11""",11 11,09-10-81,Arles,Monaco
+2006,18,Alou Diarra,FRA,D,6'03'',12 06,15-07-81,Villepinte,Lens
+2006,19,Willy Sagnol,FRA,D,5'11'',12 04,18-03-77,Saint-Étienne,Bayern Munich
+2006,20,David Trezeguet,FRA,F,"6'03""",12 08,15-10-77,Rouen,Juventus
+2006,21,Pascal Chimbonda,FRA,D,"5'11""",11 11,21-02-79,Les Abymes,Wigan Ath
+2006,22,Franck Ribéry,FRA,M,"5'06""",09 10,01-04-83,Boulogne-sur-Mer,Marseille
+2006,23,Grégory Coupet,FRA,G,"5'10""",12 08,31-12-72,Le Puy-en-Velay,Lyon
+2006,1,Lee Woon-Jae,KOR,G,"6'00""",12 13,26-04-73,Jeonju,Suwon Samsung Bluewings
+2006,2,Kim Young-Chul,KOR,D,"6'00""",12 08,30-06-76,,Seongnam Ilhwa Chunma
+2006,3,Kim Dong-Jin,KOR,M,"6'00""",11 09,29-01-82,Dongducheon,FC Seoul
+2006,4,Choi Jin-Cheul,KOR,D,"6'02""",12 01,26-03-71,Jeju,Jeonbuk Hyundai Motors
+2006,5,Kim Nam-Il,KOR,M,"6'00""",12 00,14-03-77,Seoul,Suwon Samsung Bluewings
+2006,6,Kim Jin-Kyu,KOR,D,"6'00""",12 08,16-02-85,Gwangyang,Jubilo Iwata
+2006,7,Park Ji-Sung,KOR,M,"5'09""",11 00,25-02-81,Suwon,Manchester U
+2006,8,Kim Do-Heon,KOR,M,"5'10""",11 05,14-07-82,Jeonju,Seongnam Ilhwa Chunma
+2006,9,Ahn Jung-Hwan,KOR,F,"5'10""",12 04,27-01-76,Qungiadi,Duisburg
+2006,10,Park Joo-Young,KOR,F,"6'00""",11 00,10-07-85,Daegu,FC Seoul
+2006,11,Seol Ki-Hyeon,KOR,F,"6'00""",11 07,08-01-79,Seoul,Wolverhampton W
+2006,12,Lee Young-Pyo,KOR,D,"5'09""",10 06,23-04-77,Hongcheon,Tottenham H
+2006,13,Lee Eul-Yong,KOR,M,"5'09""",10 12,08-09-75,Tafbek,Trabzonspor
+2006,14,Lee Chun-Soo,KOR,F,"5'09""",10 03,09-07-81,Incheon,Ulsan Hyundai Horang-i
+2006,15,Baek Ji-Hoon,KOR,M,"5'09""",10 03,28-02-85,Chunnam,FC Seoul
+2006,16,Jung Gyeong-Ho,KOR,F,"5'10""",11 00,22-05-80,,Gwangju Sangmu
+2006,17,Lee Ho,KOR,M,"6'00""",11 11,22-10-84,Seoul,Ulsan Hyundai Horang-i
+2006,18,Kim Sang-Sik,KOR,D,"6'00""",11 05,17-12-76,Haenam,Seongnam Ilhwa Chunma
+2006,19,Cho Jae-Jin,KOR,F,"6'01""",12 04,09-07-81,Paju,Shimizu S-Pulse
+2006,20,Kim Yong-Dae,KOR,G,"6'02""",13 01,11-10-79,Miryang,Seongnam Ilhwa Chunma
+2006,21,Kim Yeong-Gwang,KOR,G,"6'01""",13 01,28-06-83,,Chunnam Dragons
+2006,22,Song Chong-Gug,KOR,M,"5'10""",11 11,20-02-79,Busan,Suwon Samsung Bluewings
+2006,23,Cho Won-Hee,KOR,M,"5'10""",11 05,17-04-83,,Suwon Samsung Bluewings
+2006,1,Pascal Zuberbühler,SUI,G,"6'06""",15 08,08-01-71,Frauenfeld,Basel
+2006,2,Johan Djourou,SUI,D,"6'03""",13 01,18-01-87,Abidjan,Arsenal
+2006,3,Ludovic Magnin,SUI,M,6'01'',12 00,20-04-79,Lausanne,Stuttgart
+2006,4,Philippe Senderos,SUI,D,6'03'',13 03,14-02-85,Geneva,Arsenal
+2006,5,Xavier Margairaz,SUI,M,"6'00""",11 09,07-01-84,Rances,Zürich
+2006,6,Johann Vogel,SUI,M,"5'10""",11 03,08-03-77,Geneva,Milan
+2006,7,Ricardo Cabanas,SUI,M,"5'08""",10 03,17-01-79,Zürich,Köln
+2006,8,Raphael Wicky,SUI,M,5'10'',11 11,26-04-77,Leuggern,Hamburg
+2006,9,Alexander Frei,SUI,F,"5'10""",11 09,15-07-79,Basel,Rennes
+2006,10,Daniel Gygax,SUI,M,"5'09""",11 07,28-08-81,Baden,Lille
+2006,11,Marco Streller,SUI,F,"6'05""",12 13,18-06-81,Basel,Köln
+2006,12,Diego Benaglio,SUI,G,6'02'',11 11,08-09-83,Zürich,Nacional [POR]
+2006,13,Stéphane Grichting,SUI,D,"6'01""",12 08,30-03-79,Sierre,Auxerre
+2006,14,David Degen,SUI,F,"6'00""",12 00,15-02-83,Basel,Basel
+2006,15,Blerim Dzemaili,SUI,D,"5'10""",11 07,12-04-86,Tetovo,Zürich
+2006,16,Tranquillo Barnetta,SUI,M,"5'09""",09 11,22-05-85,Rotmonten,Bayer Leverkusen
+2006,17,Christoph Spycher,SUI,M,"5'09""",11 11,30-03-78,Sternenberg,Eintracht Frankfurt
+2006,18,Mauro Lustrinelli,SUI,F,"5'08""",10 06,26-02-76,Bellinzona,Sparta Prague
+2006,19,Valon Behrami,SUI,M,"6'00""",11 03,19-04-85,Kosovca-Mitrovika,Lazio
+2006,20,Patrick Müller,SUI,D,"6'00""",10 12,17-12-76,Geneva,Lyon
+2006,21,Fabio Coltorti,SUI,G,"6'06""",15 02,03-12-80,Kriens,Grasshoppers
+2006,22,Hakan Yakin,SUI,M,"5'11""",12 04,22-02-77,Basel,Young Boys
+2006,23,Philipp Degen,SUI,D,"6'00""",12 04,15-02-83,Basel,Borussia Dortmund
+2006,1,Ouro-Nimini Tchagnirou,TOG,G,"6'03""",13 05,31-12-77,,Djoliba Bamako
+2006,2,Daré Nibombé,TOG,D,"6'05""",14 05,16-06-80,Lomé,RAEC Mons
+2006,3,Jean-Paul Abalo,TOG,D,"5'09""",11 11,26-07-75,Lomé,APOEL Nicosia
+2006,4,Emmanuel Adebayor,TOG,F,"6'02""",11 11,26-02-84,Lomé,Arsenal
+2006,5,Massamesso Tchangai,TOG,M,"6'00""",11 09,08-08-78,Atakpamé,Sporting Benevento
+2006,6,Yao Aziawonou,TOG,D,"6'01""",12 08,30-11-79,,Young Boys Berne
+2006,7,Moustapha Salifou,TOG,M,5'11'',10 12,01-06-83,Lomé,Brest
+2006,8,Kuami Agboh,TOG,M,"5'09""",11 00,28-12-77,Tsevik,Beveren
+2006,9,Thomas Dossevi,TOG,F,"6'00""",12 11,06-03-79,Chambray-lès-Tours,Valenciennes
+2006,10,Mamam Cherif Touré,TOG,M,"6'00""",12 11,13-01-81,Mango,Metz
+2006,11,Robert Malm,TOG,F,"5'10""",11 06,21-08-73,Dunkerque,Brest
+2006,12,Eric Akoto,TOG,D,"6'04""",12 08,20-07-80,Accra,Admira Wacker
+2006,13,Richmond Forson,TOG,F,"5'11""",11 09,23-05-80,Accra,J.A. Poire
+2006,14,Adékanmi Olufadé,TOG,F,"5'07""",11 11,07-01-80,Lomé,Al-Siliyah
+2006,15,Alaixys Romao,TOG,M,"5'08""",10 03,18-01-84,L'Hay-les-Roses,Louhans-Cuiseaux
+2006,16,Kossi Agassa,TOG,G,"6'02""",13 00,07-07-78,Lomé,Metz
+2006,17,Mohamed Kader,TOG,F,"5'08""",11 09,08-04-79,Sokode,Guingamp
+2006,18,Junior Yao Senaya,TOG,M,"5'05""",11 00,19-04-84,Lomé,YF Juventus Zürich
+2006,19,Ludovic Assemoassa,TOG,D,"6'00""",13 00,18-09-80,Lyon,Ciudad de Murcia
+2006,20,Affo Erassa,TOG,M,"6'03""",11 11,19-02-83,Lomé,Clermont
+2006,21,Karim Guédé,TOG,D,"6'00""",12 01,07-01-85,,Hamburg II
+2006,22,Kodjovi Obilalé,TOG,G,,,08-10-84,,Etoile Filante
+2006,23,Touré Assimiou,TOG,D,"5'10""",12 00,01-01-88,,Bayer Leverkusen II
+2006,1,Mohammed Al-Deayea,KSA,G,"6'02""",11 11,02-08-72,Al Tai,Al Hilal
+2006,2,Ahmed Dokhi,KSA,D,"5'10""",11 00,25-10-76,,Al Ittihad [KSA]
+2006,3,Redha Tukar,KSA,D,"6'01""",12 06,29-11-75,,Al Ittihad [KSA]
+2006,4,Hamad Al-Montashari,KSA,D,"6'01""",11 09,22-06-82,Jeddah,Al Ittihad [KSA]
+2006,5,Naif Al-Qadi,KSA,D,"5'10""",10 12,03-04-79,Hayel,Al Ahli [KSA]
+2006,6,Omar Al-Ghamdi,KSA,M,"5'09""",10 12,11-04-79,,Al Hilal
+2006,7,Mohammed Ameen,KSA,M,"5'10""",12 11,29-04-80,,Al Ittihad [KSA]
+2006,8,Mohammed Noor,KSA,M,"5'11""",12 00,26-02-78,,Al Ittihad [KSA]
+2006,9,Sami Al-Jaber,KSA,F,"5'08""",11 02,11-12-72,Riyadh,Al Hilal
+2006,10,Mohammad Al-Shalhoub,KSA,M,"6'04""",09 04,08-12-80,Mecca,Al Hilal
+2006,11,Saad Al-Harthi,KSA,F,"5'10""",10 01,03-02-84,Riyadh,Al Nasr
+2006,12,Abdulaziz Khathran,KSA,D,"5'09""",10 03,31-07-73,Mecca,Al Hilal
+2006,13,Hussein Sulaimani,KSA,D,"5'08""",10 03,21-01-77,,Al Ahli [KSA]
+2006,14,Saud Khariri,KSA,M,"5'11""",10 10,08-07-80,Riyadh,Al Ittihad [KSA]
+2006,15,Ahmed Al-Bahri,KSA,D,"5'09""",10 12,18-09-80,Riyadh,Al Ittifaq
+2006,16,Khaled Aziz,KSA,M,"5'08""",11 03,14-07-81,,Al Hilal
+2006,17,Mohammed Al-Anbar,KSA,F,"6'01""",14 00,22-03-85,,Al Hilal
+2006,18,Nawaf Al-Temyat,KSA,M,"5'09""",11 00,28-06-76,,Al Hilal
+2006,19,Mohammed Massad,KSA,D,"5'09""",09 11,17-02-83,,Al Ahli [KSA]
+2006,20,Yaser Al-Kahtani,KSA,F,"5'05""",10 03,10-10-82,Riyadh,Al Hilal
+2006,21,Mabrouk Zaid,KSA,G,"6'00""",10 10,11-02-79,Riyadh,Al Ittihad [KSA]
+2006,22,Mohammad Khojah,KSA,G,"5'11""",11 05,15-03-82,,Al Shabab
+2006,23,Malek Mouath,KSA,F,"5'05""",09 13,10-08-81,Jeddah,Al Ahli [KSA]
+2006,1,Iker Casillas,ESP,G,6'01'',11 00,20-05-81,Madrid,Real Madrid
+2006,2,Michel Salgado,ESP,D,5'09'',11 05,22-10-75,As Neves,Real Madrid
+2006,3,Mariano Pernķa,ESP,D,5'10'',12 06,05-04-74,Capital Federal,Getafe
+2006,4,Carlos Marchena,ESP,D,6'00'',12 04,31-07-79,Las Cabezas,Valencia
+2006,5,Carles Puyol,ESP,D,5'10'',12 04,13-04-78,Viella,Barcelona
+2006,6,David Albelda,ESP,M,5'11'',11 11,01-09-77,Alzira,Valencia
+2006,7,Raśl,ESP,F,5'11'',10 06,27-06-77,Madrid,Real Madrid
+2006,8,Xavi,ESP,M,5'07'',10 10,25-01-80,Terrasa,Barcelona
+2006,9,Fernando Torres,ESP,F,6'01'',11 05,20-03-84,Madrid,Atlético Madrid
+2006,10,José Antonio Reyes,ESP,F,5'10'',11 11,01-09-83,Utrera,Arsenal
+2006,11,Luis Garcķa,ESP,F,5'09'',10 03,24-06-78,Badalona,Liverpool
+2006,12,Antonio López,ESP,D,5'09'',11 00,13-09-81,Benidorm,Atlético Madrid
+2006,13,Andrés Iniesta,ESP,M,5'08'',10 01,11-05-84,Fuentealbilla,Barcelona
+2006,14,Xabi Alonso,ESP,M,6'00'',11 11,25-11-81,Tolosa,Liverpool
+2006,15,Sergio Ramos,ESP,D,"6'00""",11 07,30-03-86,Camas,Real Madrid
+2006,16,Marcos Senna,ESP,M,5'10'',12 00,17-07-76,Sćo Paulo,Villarreal
+2006,17,Joaquķn,ESP,M,5'10'',11 11,21-07-81,Puerto de Santa Maria,Betis
+2006,18,Cesc Fįbregas,ESP,M,"5'11""",10 12,04-05-87,Arenys de Mar,Arsenal
+2006,19,Santiago Cańizares,ESP,G,5'11'',12 08,18-12-69,Puertollano,Valencia
+2006,20,Juanito,ESP,D,6'00'',12 08,23-07-76,Cįdiz,Betis
+2006,21,David Villa,ESP,F,5'09'',10 12,03-12-81,Langreo,Valencia
+2006,22,Pablo,ESP,D,6'04'',12 08,03-08-81,Madrigueras,Atlético Madrid
+2006,23,José Manuel Reina,ESP,G,6'02'',13 08,31-08-82,Madrid,Liverpool
+2006,1,Ali Boumnijel,TUN,G,"6'01""",13 12,13-04-66,Menzel Jemil,Club Africain
+2006,2,Karim Essediri,TUN,F,"6'01""",12 11,29-07-79,Meaux-Paris,Rosenborg
+2006,3,Karim Haggui,TUN,D,"6'03""",13 01,20-01-84,Kasserine,Strasbourg
+2006,4,Ala Eddine Yahia,TUN,D,"6'01""",12 10,26-08-81,Courbevoie,Saint-Etienne
+2006,5,Zied Jaziri,TUN,F,"5'09""",10 08,12-07-78,Sousse,Troyes
+2006,6,Hatem Trabelsi,TUN,D,"5'10""",12 11,25-01-77,Ariana,Ajax
+2006,7,Haykel Gmamdia,TUN,F,"5'10""",11 03,22-12-81,Gafsa,Strasbourg
+2006,8,Mehdi Nafti,TUN,M,"5'09""",11 03,28-11-78,Toulouse,Birmingham C
+2006,9,Yassine Chikhaoui,TUN,F,"6'02""",12 08,02-09-86,Radès,Étoile du Sahel
+2006,10,Kais Ghodbane,TUN,M,"5'09""",10 10,08-01-76,Ksar Hellal,Konyaspor
+2006,11,Jawhar Mnari,TUN,M,"6'02""",13 01,08-11-76,Monastir,Nürnberg
+2006,12,Francileudo dos Santos,TUN,F,"5'07""",10 09,20-03-79,Vedoca,Toulouse
+2006,13,Riadh Bouazizi,TUN,D,"6'00""",12 06,08-04-73,Bizerte,Erciyesspor
+2006,14,Adel Chedli,TUN,M,"5'09""",11 02,16-09-76,La Ricamarie,Nürnberg
+2006,15,Radhi Jaidi,TUN,D,"6'04""",14 00,30-08-75,Tunis,Bolton W
+2006,16,Adel Nefzi,TUN,G,"6'00""",13 08,16-03-74,,US Monastir
+2006,17,Chaouki Ben Saada,TUN,F,"5'06""",10 03,01-07-84,Bastia,Bastia
+2006,18,David Jemmali,TUN,D,"6'01""",12 06,13-12-74,Toulouse,Bordeaux
+2006,19,Anis Ayari,TUN,M,"5'11""",11 05,16-02-82,Lazhar,Samsunspor
+2006,20,Hamed Namouchi,TUN,M,"6'01""",11 11,14-02-84,Cannes,Rangers
+2006,21,Karim Saïdi,TUN,D,"6'01""",12 00,24-03-83,Tunis,Lecce
+2006,22,Hamdi Kasraoui,TUN,G,"6'04""",13 10,18-01-83,Kairouan,Espérance
+2006,23,Sofian Melliti,TUN,D,"5'09""",11 09,18-08-78,Siliana,Gaziantepspor
+2006,1,Oleksandr Shovkovskiy,UKR,G,"6'03""",13 08,02-01-75,Kiev,Dynamo Kiev
+2006,2,Andriy Nesmachnyy,UKR,D,"6'00""",11 05,28-02-79,Bryansk,Dynamo Kiev
+2006,3,Oleksandr Yatsenko,UKR,D,"5'11""",11 00,24-02-85,Kharkiv,FC Kharkiv (On Loan)
+2006,4,Anatoliy Tymoshchuk,UKR,M,"5'11""",11 00,30-03-79,Lutsk,Shakhtar Donetsk
+2006,5,Voldymyr Yezerskyy,UKR,D,"6'00""",12 01,15-11-76,Lviv,Dnipro Dnipropetrovsk
+2006,6,Andriy Rusol,UKR,D,"6'00""",11 11,16-01-83,Kirovohrad,Dnipro Dnipropetrovsk
+2006,7,Andriy Shevchenko,UKR,F,"6'00""",11 05,29-09-76,Dvirkivshchyna,Milan
+2006,8,Oleh Shelayev,UKR,M,"5'11""",11 09,05-11-76,Luhansk,Dnipro Dnipropetrovsk
+2006,9,Oleh Husyev,UKR,M,"5'10""",11 07,25-04-83,Sumy,Dynamo Kiev
+2006,10,Andriy Voronin,UKR,F,5'10'',11 11,21-07-79,Odessa,Bayer Leverkusen
+2006,11,Serhiy Rebrov,UKR,F,"5'07""",10 11,03-06-74,Gorlovka,Dynamo Kiev
+2006,12,Andriy Pyatov,UKR,G,"6'03""",12 04,28-06-84,,Vorskla Poltava
+2006,13,Dmytro Chygrynskiy,UKR,D,"6'03""",12 11,07-11-86,Izyaslav,Shakhtar Donetsk
+2006,14,Andrey Husin,UKR,M,"6'02""",12 04,11-12-72,Kiev,Krylia Sovetov
+2006,15,Artem Milevskyi,UKR,F,"6'03""",12 04,12-01-85,Minsk,Dynamo Kiev
+2006,16,Andriy Vorobey,UKR,F,"5'10""",11 00,29-11-78,Donetsk,Shakhtar Donetsk
+2006,17,Vladyslav Vashchuk,UKR,D,"5'11""",11 05,02-01-75,Kiev,Dynamo Kiev
+2006,18,Serhiy Nazarenko,UKR,M,"5'09""",10 12,16-02-80,Kirovohrad,Dnipro Dnipropetrovsk
+2006,19,Maksym Kalynychenko,UKR,M,"5'09""",10 08,26-01-79,Kharkiv,Spartak Moscow
+2006,20,Oleksiy Byelik,UKR,F,"6'00""",12 00,15-02-81,Donetsk,Shakhtar Donetsk
+2006,21,Ruslan Rotan,UKR,M,"5'09""",10 12,29-10-81,Poltava,Dynamo Kiev
+2006,22,Vyacheslav Sviderskyy,UKR,D,"6'01""",12 08,01-01-79,Kiev,Arsenal Kiev
+2006,23,Bohdan Shust,UKR,G,"6'02""",12 13,04-03-86,Sudovaya Vishnya,Shakhtar Donetsk

@@ -1,0 +1,701 @@
+Season,League,Club,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place
+2010,a003,Almería,1,Diego Alves,BRA,G,1.88,83,24-06-85,Rio de Janeiro
+2010,a003,Almería,2,Hernán Pellerano,ARG,D,1.83,72,04-06-84,Capital Federal
+2010,a003,Almería,3,Guilherme,BRA,D,1.73,70,05-02-88,Jequié
+2010,a003,Almería,4,Chico,ESP,D,1.87,75,06-03-87,Cádiz
+2010,a003,Almería,5,Kalu Uche,NGA,F,1.79,71,15-11-82,Aba
+2010,a003,Almería,6,Domingo Cisma,ESP,D,1.84,76,09-02-82,Seville
+2010,a003,Almería,7,Miguel Ángel Nieto,ESP,M,1.83,77,12-01-86,Madrid
+2010,a003,Almería,8,Albert Crusat,ESP,M,1.64,65,13-05-82,Barcelona
+2010,a003,Almería,9,Esteban Solari,ARG,F,1.88,84,02-06-80,Rosario
+2010,a003,Almería,10,José Ortíz,ESP,F,1.72,68,04-08-77,Almería
+2010,a003,Almería,11,Pablo Piatti,ARG,F,1.63,63,31-03-89,La Carlota
+2010,a003,Almería,13,Esteban,ESP,G,1.77,70,27-06-75,Avilés
+2010,a003,Almería,14,Álex Quillo,ESP,M,1.8,70,07-10-86,La Línea de la Concepción
+2010,a003,Almería,15,Miguel Angel Corona,ESP,M,1.75,79,12-02-81,Talavera
+2010,a003,Almería,16,Michel,BRA,D,1.76,72,15-02-90,Rio de Janeiro
+2010,a003,Almería,17,Juan Manuel Ortiz,ESP,M,1.79,70,01-03-82,Alicante
+2010,a003,Almería,18,Santiago Acasiete,PER,D,1.82,78,22-11-77,Callao
+2010,a003,Almería,19,Modeste M'Bami,CMR,M,1.72,67,09-10-82,Yaoundé
+2010,a003,Almería,20,Henok Goitom,SWE,F,1.89,74,16-09-84,Solna
+2010,a003,Almería,21,David Rodríguez,ESP,F,1.78,72,14-02-86,Talavera de la Reina
+2010,a003,Almería,22,Fabián Vargas,COL,M,1.78,71,17-04-80,Bogotá
+2010,a003,Almería,23,Fernando Soriano,ESP,M,1.89,81,24-09-79,Zaragoza
+2010,a003,Almería,24,Leonardo Borzani,ARG,M,1.79,77,07-05-82,General Lagos
+2010,a003,Almería,25,Hernán Bernardello,ARG,M,1.74,75,03-08-86,Rosario
+2010,a003,Almería,31,Álvaro,ESP,G,1.77,75,16-08-88,Almería
+2010,a003,Athletic Bilbao,1,Gorka Iraizoz,ESP,G,1.91,81,06-03-81,Pamplona
+2010,a003,Athletic Bilbao,2,Gaizka Toquero,ESP,M,1.82,72,09-08-84,Vitoria
+2010,a003,Athletic Bilbao,3,Koikili,ESP,D,1.68,67,23-12-80,Otxandio
+2010,a003,Athletic Bilbao,4,Ustaritz,ESP,D,1.83,75,16-02-83,Abadiño
+2010,a003,Athletic Bilbao,5,Fernando Amorebieta,ESP,D,1.92,85,21-03-85,Iurreta
+2010,a003,Athletic Bilbao,7,David López,ESP,M,1.81,77,10-9-82,Logroño
+2010,a003,Athletic Bilbao,8,Iñaki Muñoz,ESP,M,1.82,79,05-07-78,Pamplona
+2010,a003,Athletic Bilbao,9,Fernando Llorente,ESP,F,1.95,94,26-02-85,Iruñea
+2010,a003,Athletic Bilbao,10,Francisco Yeste,ESP,M,1.84,70,06-12-79,Bilbao
+2010,a003,Athletic Bilbao,11,Igor Gabilondo,ESP,M,1.85,78,10-02-79,Donostia
+2010,a003,Athletic Bilbao,12,Mikel San José,ESP,D,1.83,78,30-05-89,Pamplona
+2010,a003,Athletic Bilbao,13,Armando,ESP,G,1.8,74,16-01-71,Sopelana
+2010,a003,Athletic Bilbao,14,Markel Susaeta,ESP,M,1.79,68,14-12-87,Eibar
+2010,a003,Athletic Bilbao,15,Andoni Iraola,ESP,D,1.82,74,22-06-82,Usúrbil
+2010,a003,Athletic Bilbao,16,Pablo Orbaiz,ESP,M,1.79,75,06-02-79,Iruñea
+2010,a003,Athletic Bilbao,17,Joseba Etxeberría,ESP,F,1.78,74,5-9-77,Elgoibar
+2010,a003,Athletic Bilbao,18,Carlos Gurpegi,ESP,M,1.81,77,19-08-80,Pamplona
+2010,a003,Athletic Bilbao,19,Ivan Zubiaurre,ESP,D,1.77,76,22-01-83,Mendaro
+2010,a003,Athletic Bilbao,20,Aitor Ocio,ESP,D,1.87,79,28-11-76,Vitoria
+2010,a003,Athletic Bilbao,21,Ion Vélez,ESP,F,1.82,75,17-02-85,Tafalla
+2010,a003,Athletic Bilbao,22,Xabier Castillo,ESP,D,1.82,71,29-03-86,Durango
+2010,a003,Athletic Bilbao,23,Iñigo Díaz de Cerio,ESP,F,1.77,69,15-05-84,San Sebastián
+2010,a003,Athletic Bilbao,24,Javi Martínez,ESP,M,1.9,81,02-09-88,Lizarra
+2010,a003,Athletic Bilbao,26,Ander Iturraspe,ESP,M,1.87,73,08-03-89,Abadiño
+2010,a003,Athletic Bilbao,27,Iker Muniain,ESP,F,1.68,62,19-12-92,Iruñea
+2010,a003,Athletic Bilbao,28,Óscar de Marcos,ESP,M,1.8,73,14-04-89,Vitoria
+2010,a003,Athletic Bilbao,29,Eneko Bóveda,ESP,D,1.8,77,14-12-88,Bilbao
+2010,a003,Athletic Bilbao,30,Iago Herrerín,ESP,G,1.86,90,25-01-88,Bilbao
+2010,a003,Athletic Bilbao,31,Adrien Goñi,ESP,M,1.73,66,25-08-88,Iruñea
+2010,a003,Athletic Bilbao,32,Unai Medina,ESP,D,1.77,78,16-02-90,Bilbao
+2010,a003,Athletic Bilbao,33,Ismael López,ESP,F,1.8,76,29-01-90,Iruñea
+2010,a003,Athletic Bilbao,34,Jon Etxaniz,ESP,F,,,10-01-91,Arrasate
+2010,a003,Athletic Bilbao,35,Xabi Etxebarria,ESP,D,1.81,82,20-07-87,Igorre
+2010,a003,Athletic Bilbao,36,Isaac Aketxe,ESP,M,,,03-06-89,Bilbao
+2010,a003,Athletic Bilbao,37,Íñigo Pérez,ESP,M,1.78,74,18-01-88,Iruñea
+2010,a003,Athletic Bilbao,38,Jonás Ramalho,ESP,D,1.8,64,10-06-93,Barakaldo
+2010,a003,Athletic Bilbao,39,Jon Aurtenetxe,ESP,D,1.82,78,03-01-92,Bizkaia
+2010,a003,Athletic Bilbao,40,Aitor Fernández,ESP,G,1.82,70,03-05-91,Arrasate
+2010,a003,Athletic Bilbao,41,Mikel Santamaría,ESP,D,1.88,75,20-07-87,Pamplona
+2010,a003,Athletic Bilbao,42,Xabier Galán,ESP,D,1.78,67,23-11-89,Bilbao
+2010,a003,Athletic Bilbao,43,Haritz Borda,ESP,D,1.89,76,03-01-85,Lasarte-Oria
+2010,a003,Athletic Bilbao,6,Xabier Etxeita,ESP,M,1.85,79,31-10-87,Zornotza
+2010,a003,Atlético Madrid,1,Sergio Asenjo,ESP,G,1.82,85,28-06-89,Palencia
+2010,a003,Atlético Madrid,2,Juan Valera,ESP,D,1.84,70,21-12-84,La Copa de Bullas
+2010,a003,Atlético Madrid,3,Antonio López,ESP,D,1.73,65,13-09-81,Benidorm
+2010,a003,Atlético Madrid,4,Mariano Pernía,ESP,D,1.77,81,04-05-77,Capital Federal
+2010,a003,Atlético Madrid,5,Tiago,POR,M,1.83,75,02-05-81,Viana do Castelo
+2010,a003,Atlético Madrid,6,Ignacio Camacho,ESP,M,1.81,68,04-05-90,Zaragoza
+2010,a003,Atlético Madrid,7,Diego Forlán,URU,F,1.8,75,19-05-79,Montevideo
+2010,a003,Atlético Madrid,8,Raúl García,ESP,M,1.83,80,11-07-86,Pamplona
+2010,a003,Atlético Madrid,9,José Manuel Jurado,ESP,M,1.73,72,29-06-86,Sanlúcar de Barrameda
+2010,a003,Atlético Madrid,10,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal
+2010,a003,Atlético Madrid,12,Paulo Assunção,BRA,M,1.75,67,25-01-80,Varzea Grande
+2010,a003,Atlético Madrid,13,David De Gea,ESP,G,1.92,82,07-11-90,Madrid
+2010,a003,Atlético Madrid,14,Eduardo Salvio,ARG,F,1.73,76,13-05-90,Avellaneda
+2010,a003,Atlético Madrid,16,Juanito,ESP,D,1.82,77,23-07-76,Cádiz
+2010,a003,Atlético Madrid,17,Tomáš Ujfaluši,CZE,D,1.85,76,24-03-78,Rýmařov
+2010,a003,Atlético Madrid,18,Álvaro Domínguez,ESP,D,1.89,83,16-05-89,Madrid
+2010,a003,Atlético Madrid,19,José Antonio Reyes,ESP,M,1.76,76,01-09-83,Utrera
+2010,a003,Atlético Madrid,20,Simão,POR,F,1.7,64,31-10-79,Constantim
+2010,a003,Atlético Madrid,21,Luis Amaranto Perea,COL,D,1.8,76,30-01-79,Turbo Antioquia
+2010,a003,Atlético Madrid,22,Pablo,ESP,D,1.92,86,03-08-81,Madrigueras
+2010,a003,Atlético Madrid,24,Leandro Cabrera,URU,D,1.87,81,17-06-91,Montevideo
+2010,a003,Atlético Madrid,26,Koke,ESP,M,1.78,73,08-01-92,Madrid
+2010,a003,Atlético Madrid,27,Adrián Jiménez,ESP,M,1.7,65,02-02-88,Madrid
+2010,a003,Atlético Madrid,28,Carlos Indiano,ESP,M,1.78,70,14-09-88,Madrid
+2010,a003,Atlético Madrid,29,José Javier Mínguez,ESP,M,1.74,70,31-03-88,Alcázar de San Juan
+2010,a003,Atlético Madrid,30,Jaime Hernández,ESP,D,1.71,70,29-02-88,Barcelona
+2010,a003,Atlético Madrid,32,Quique Martín,ESP,D,1.69,65,02-04-90,Madrid
+2010,a003,Atlético Madrid,33,Felipe,ESP,F,1.8,75,16-07-89,Leganés
+2010,a003,Atlético Madrid,34,Joshua,ESP,M,1.8,75,28-01-89,Madrid
+2010,a003,Atlético Madrid,35,Rubén Pérez,ESP,M,1.78,72,26-04-89,Seville
+2010,a003,Atlético Madrid,36,Fernando López,ESP,M,1.8,72,04-04-89,Madrid
+2010,a003,Atlético Madrid,37,Abel,ESP,F,1.79,65,28-04-89,Madrid
+2010,a003,Atlético Madrid,38,Dražen Mitrović,SUI,D,1.8,72,05-05-89,Geneva
+2010,a003,Atlético Madrid,39,Míchel,ESP,D,1.85,75,06-02-89,Burgos
+2010,a003,Atlético Madrid,40,Ángel Propin,ESP,D,1.86,76,10-02-90,Madrid
+2010,a003,Atlético Madrid,41,Dani Martín,ESP,F,,,02-04-90,Madrid
+2010,a003,Atlético Madrid,42,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés
+2010,a003,Atlético Madrid,44,Alberto Torrero,ESP,M,1.85,78,04-05-90,Madrid
+2010,a003,Atlético Madrid,45,Antonio Campillo,ESP,M,1.8,70,19-12-90,Madrid
+2010,a003,Atlético Madrid,46,Pichu,ESP,D,1.9,84,18-01-90,Córdoba
+2010,a003,Atlético Madrid,47,Sergio Rodríguez,ESP,D,1.77,72,22-08-90,Talavera de la Reina
+2010,a003,Atlético Madrid,48,David Vidal,ESP,M,1.79,68,05-11-91,Segovia
+2010,a003,Atlético Madrid,50,Nacho Heras,ESP,D,,,27-08-91,
+2010,a003,Atlético Madrid,51,Miguel Ángel Serrano,ESP,D,,,16-01-92,
+2010,a003,Atlético Madrid,52,David Karg,ESP,D,1.77,72,17-02-93,Mallorca
+2010,a003,Atlético Madrid,53,Manu Trinado,ESP,D,,,21-01-91,
+2010,a003,Atlético Madrid,54,Sergio Marcos,ESP,M,1.77,73,03-02-92,Sacedón
+2010,a003,Atlético Madrid,55,Borja González,ESP,F,1.85,74,25-08-92,Madrid
+2010,a003,Atlético Madrid,57,Cédric Mabwati,COD,M,1.67,62,08-03-92,Kinshasa
+2010,a003,Atlético Madrid,58,Ibrahima Baldé,SEN,F,1.87,80,01-09-90,Pikine
+2010,a003,Atlético Madrid,59,Jorge Molino,ESP,F,1.82,77,04-03-88,Madrid
+2010,a003,Atlético Madrid,60,Sebastián Gallegos,URU,M,1.7,66,18-01-92,Montevideo
+2010,a003,Atlético Madrid,61,Nacho,ESP,G,1.88,80,06-11-86,Madrid
+2010,a003,Atlético Madrid,5,John Heitinga,NED,D,1.8,72,15-11-83,Alphen aan den Rijn
+2010,a003,Atlético Madrid,14,Florent Sinama-Pongolle,FRA,F,1.76,69,20-10-84,Saint-Pierre
+2010,a003,Atlético Madrid,11,Maxi Rodríguez,ARG,M,1.8,79,02-01-81,Rosario
+2010,a003,Atlético Madrid,23,Cléber Santana,BRA,M,1.87,84,27-06-81,Recife
+2010,a003,Atlético Madrid,13,Roberto,ESP,G,1.88,82,10-02-86,Madrid
+2010,a003,Atlético Madrid,49,Keko,ESP,M,1.77,72,28-12-91,Madrid
+2010,a003,Atlético Madrid,43,David De Gea,ESP,G,1.92,82,07-11-90,Madrid
+2010,a003,Barcelona,1,Víctor Valdés,ESP,G,1.83,78,14-01-82,L'Hospitalet de Llobregat
+2010,a003,Barcelona,2,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro
+2010,a003,Barcelona,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona
+2010,a003,Barcelona,4,Rafael Márquez,MEX,D,1.82,74,13-02-79,Zamora
+2010,a003,Barcelona,5,Carles Puyol,ESP,D,1.78,80,13-04-78,La Pobla de Segur
+2010,a003,Barcelona,6,Xavi,ESP,M,1.7,68,25-01-80,Terrassa
+2010,a003,Barcelona,8,Andrés Iniesta,ESP,M,1.7,65,11-05-84,Fuentealbilla
+2010,a003,Barcelona,9,Zlatan Ibrahimović,SWE,F,1.92,84,03-10-81,Malmö
+2010,a003,Barcelona,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe
+2010,a003,Barcelona,11,Bojan Krkić,ESP,F,1.7,65,28-08-90,Linyola
+2010,a003,Barcelona,13,José Manuel Pinto,ESP,G,1.85,82,15-11-75,Puerto de Santa Maria
+2010,a003,Barcelona,14,Thierry Henry,FRA,F,1.88,83,17-08-77,Les Ulis
+2010,a003,Barcelona,15,Seydou Keita,MLI,M,1.83,77,16-01-80,Bamako
+2010,a003,Barcelona,16,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell
+2010,a003,Barcelona,17,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife
+2010,a003,Barcelona,18,Gabriel Milito,ARG,D,1.79,80,07-09-80,Bernal
+2010,a003,Barcelona,19,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha
+2010,a003,Barcelona,20,Jeffrén Suárez,ESP,F,1.76,73,20-01-88,Ciudad Bolivar
+2010,a003,Barcelona,21,Dmytro Chygrynskiy,UKR,D,1.9,81,07-11-86,Izyaslav
+2010,a003,Barcelona,22,Eric Abidal,FRA,D,1.86,75,11-07-79,Lyon
+2010,a003,Barcelona,24,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké
+2010,a003,Barcelona,26,Martín Montoya,ESP,D,1.74,74,14-04-91,Gavà
+2010,a003,Barcelona,27,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona
+2010,a003,Barcelona,28,Jonathan dos Santos,MEX,M,1.8,74,26-04-90,Monterrey
+2010,a003,Barcelona,30,Rubén Miño,ESP,G,1.9,87,18-01-89,Cornellà de Llobregat
+2010,a003,Barcelona,31,Gai Assulin,ISR,M,1.78,76,09-04-91,Nahariya
+2010,a003,Barcelona,32,Andreu Fontàs,ESP,M,1.81,72,14-11-89,Banyoles
+2010,a003,Barcelona,33,Marc Muniesa,ESP,D,1.8,77,27-03-92,Lloret de Mar
+2010,a003,Barcelona,34,Thiago Alcántara,ESP,M,1.65,60,11-04-91,Bari
+2010,a003,Barcelona,36,Jonathan Soriano,ESP,F,1.8,75,24-09-85,El Pont de Vilomara i Rocafort
+2010,a003,Barcelona,37,Iván Benítez,ESP,D,1.79,72,31-05-88,Las Palmas
+2010,a003,Barcelona,38,Víctor Vázquez,ESP,F,1.77,72,20-01-87,Barcelona
+2010,a003,Barcelona,40,Marc Bartra,ESP,D,1.84,75,15-01-91,San Jaime dels Domenys
+2010,a003,Barcelona,42,Albert Dalmau,ESP,D,1.85,78,16-03-92,Sils
+2010,a003,Barcelona,23,Henrique,BRA,D,1.85,73,14-10-86,Marechal Cândido Róndon
+2010,a003,Barcelona,7,Eiður Guðjohnsen,ISL,F,1.85,82,15-09-78,Reykjavík
+2010,a003,Barcelona,35,Jeffrén Suárez,ESP,F,1.76,73,20-01-88,Ciudad Bolivar
+2010,a003,Deportivo La Coruña,1,Daniel Aranzubia,ESP,G,1.84,80,18-09-79,Logroño
+2010,a003,Deportivo La Coruña,2,Manuel Pablo,ESP,D,1.76,80,25-01-76,Arucas
+2010,a003,Deportivo La Coruña,3,Filipe Luis,BRA,D,1.82,70,09-08-85,Jaraguá do Sul
+2010,a003,Deportivo La Coruña,4,Piscu,ESP,D,1.84,77,25-02-87,As Pontes de García Rodríguez
+2010,a003,Deportivo La Coruña,5,Zé Castro,POR,D,1.83,76,13-01-83,Coimbra
+2010,a003,Deportivo La Coruña,6,Juca,BRA,M,1.79,75,19-11-79,Passo Fundo
+2010,a003,Deportivo La Coruña,7,Alberto Lopo,ESP,D,1.86,81,05-05-80,Barcelona
+2010,a003,Deportivo La Coruña,8,Sergio González,ESP,M,1.82,77,10-11-76,Barcelona
+2010,a003,Deportivo La Coruña,9,Rodolfo Bodipo,EQG,F,1.81,76,25-10-77,Seville
+2010,a003,Deportivo La Coruña,10,Adrián López,ESP,F,1.8,71,08-01-88,San Martín de Teverga
+2010,a003,Deportivo La Coruña,11,Riki,ESP,F,1.87,84,11-08-80,Aranjuez
+2010,a003,Deportivo La Coruña,12,Brayan Angulo,COL,D,1.74,71,02-11-89,Valle del Cauca
+2010,a003,Deportivo La Coruña,13,Manu,ESP,G,1.82,77,09-03-86,Gijón
+2010,a003,Deportivo La Coruña,14,Pablo Álvarez,ESP,M,1.74,67,14-05-80,Oviedo
+2010,a003,Deportivo La Coruña,15,Laure,ESP,D,1.66,68,22-03-85,Madrid
+2010,a003,Deportivo La Coruña,16,Antonio Tomás,ESP,M,1.76,75,19-01-85,Torrelavega
+2010,a003,Deportivo La Coruña,18,Andrés Guardado,MEX,M,1.69,60,28-09-86,Guadalajara
+2010,a003,Deportivo La Coruña,19,Diego Colotto,ARG,D,1.84,81,03-10-81,Rio Cuarto
+2010,a003,Deportivo La Coruña,20,Lassad Nouioui,TUN,F,1.89,78,08-03-85,Marseille
+2010,a003,Deportivo La Coruña,21,Juan Carlos Valerón,ESP,M,1.8,72,17-06-75,Las Palmas
+2010,a003,Deportivo La Coruña,22,Juan Rodríguez,ESP,M,1.85,80,01-04-82,Málaga
+2010,a003,Deportivo La Coruña,23,Iván Pérez,ESP,M,1.71,67,16-11-85,Santiago de Compostela
+2010,a003,Deportivo La Coruña,24,Mista,ESP,F,1.84,74,12-11-78,Murcia
+2010,a003,Deportivo La Coruña,26,Marcos Valín,ESP,G,1.84,82,16-10-87,Lugo
+2010,a003,Deportivo La Coruña,27,David Rochela,ESP,D,1.8,77,19-02-90,As Pontes de García Rodríguez
+2010,a003,Deportivo La Coruña,28,Juan Domínguez,ESP,M,1.81,71,08-01-90,Pontedeume
+2010,a003,Deportivo La Coruña,29,David Añón,ESP,F,1.72,73,03-04-89,La Coruña
+2010,a003,Deportivo La Coruña,30,Edu Sousa,ESP,G,,,,Vigo
+2010,a003,Deportivo La Coruña,31,Dani Rodríguez,ESP,M,1.77,71,06-06-88,Betanzos
+2010,a003,Deportivo La Coruña,32,Raúl,ESP,D,1.75,72,30-11-89,La Coruña
+2010,a003,Deportivo La Coruña,33,Diego Seoane,ESP,D,1.8,75,26-04-88,Ourense
+2010,a003,Deportivo La Coruña,17,Ángel Lafita,ESP,M,1.88,75,07-08-84,Zaragoza
+2010,a003,Espanyol,1,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala
+2010,a003,Espanyol,2,Chica,ESP,D,1.76,78,17-05-85,Barcelona
+2010,a003,Espanyol,3,David García,ESP,D,1.78,75,16-01-81,Manresa
+2010,a003,Espanyol,4,Javi Márquez,ESP,M,1.74,71,11-05-86,Barcelona
+2010,a003,Espanyol,5,Iván Pillud,ARG,D,1.77,75,24-04-86,Capitán Bermúdez
+2010,a003,Espanyol,8,José Callejón,ESP,F,1.79,73,11-02-87,Motril
+2010,a003,Espanyol,9,Iván de la Peña,ESP,M,1.71,71,06-05-76,Santander
+2010,a003,Espanyol,10,Luis García,ESP,F,1.8,68,06-02-81,Oviedo
+2010,a003,Espanyol,11,Joan Verdú,ESP,M,1.76,72,05-05-83,Barcelona
+2010,a003,Espanyol,12,Facundo Roncaglia,ARG,D,1.79,76,10-02-87,Chajarí
+2010,a003,Espanyol,13,Javi Ruiz,ESP,G,1.82,82,15-03-80,Almería
+2010,a003,Espanyol,14,Ben Sahar,ISR,F,1.78,79,10-08-89,Holon
+2010,a003,Espanyol,16,Nicolás Pareja,ARG,D,1.81,75,19-01-84,Capital Federal
+2010,a003,Espanyol,17,Pablo Daniel Osvaldo,ITA,F,1.85,78,12-01-86,Buenos Aires
+2010,a003,Espanyol,18,Juan Forlín,ARG,D,1.8,72,10-01-88,Reconquista
+2010,a003,Espanyol,19,Fernando Marqués,ESP,M,1.78,70,04-12-84,Madrid
+2010,a003,Espanyol,20,Ferrán Corominas,ESP,F,1.71,70,05-01-83,Girona
+2010,a003,Espanyol,22,Moisés Hurtado,ESP,M,1.85,85,20-02-81,Sabadell
+2010,a003,Espanyol,23,Raúl Tamudo,ESP,F,1.8,74,19-10-77,Santa Coloma
+2010,a003,Espanyol,24,Iván Alonso,URU,F,1.8,78,10-04-79,Montevideo
+2010,a003,Espanyol,25,Cristian Álvarez,ARG,G,1.86,88,13-11-85,General Lagos
+2010,a003,Espanyol,27,Julián,ESP,M,1.79,77,27-02-87,Badajoz
+2010,a003,Espanyol,29,Marc Pedraza,ESP,F,1.83,74,06-02-87,Barcelona
+2010,a003,Espanyol,30,Víctor Ruíz,ESP,D,1.84,73,25-01-89,Esplugues de Llobregat
+2010,a003,Espanyol,31,Juanjo Ciércoles,ESP,M,1.76,67,27-05-88,L'Hospitalet de Llobregat
+2010,a003,Espanyol,35,Dídac,ESP,D,1.86,81,09-06-89,Mataró
+2010,a003,Espanyol,36,Javi López,ESP,M,1.79,76,21-01-86,Osuna
+2010,a003,Espanyol,37,Raúl Baena,ESP,M,1.79,73,02-03-89,Torrox
+2010,a003,Espanyol,38,Lucas Porcar,ESP,F,1.83,70,18-02-90,Sant Cugat del Vallès
+2010,a003,Espanyol,39,Ángel Martínez,ESP,D,1.79,78,17-05-91,Barcelona
+2010,a003,Espanyol,40,Jordi Amat,ESP,D,1.84,80,21-03-92,Barcelona
+2010,a003,Espanyol,41,Manu Molina,ESP,M,1.75,63,20-11-91,Huelva
+2010,a003,Espanyol,42,Mahamat Azrack,CHA,M,1.81,70,24-03-88,Créteil
+2010,a003,Espanyol,7,Shunsuke Nakamura,JPN,M,1.78,69,24-06-78,Yokohama
+2010,a003,Getafe,1,Óscar Ustari,ARG,G,1.84,82,03-07-86,América
+2010,a003,Getafe,2,Daniel Díaz,ARG,D,1.82,74,13-03-79,San Fernando del Valle
+2010,a003,Getafe,3,Mané,ESP,D,1.75,72,22-12-81,Algeciras
+2010,a003,Getafe,4,David Belenguer,ESP,D,1.8,74,17-12-72,Villasar del Mar
+2010,a003,Getafe,5,Pedro Mario,ESP,D,1.78,75,02-02-82,Tenerife
+2010,a003,Getafe,6,Fabio Celestini,SUI,M,1.8,74,31-10-75,Lausanne
+2010,a003,Getafe,7,Kepa,ESP,F,1.85,83,13-01-84,Marbella
+2010,a003,Getafe,8,Jaime Gavilán,ESP,M,1.78,71,12-05-85,Valencia
+2010,a003,Getafe,9,Roberto Soldado,ESP,F,1.79,81,27-05-85,Valencia
+2010,a003,Getafe,10,Juan Albín,URU,M,1.79,77,17-07-86,Salto
+2010,a003,Getafe,13,Jordi Codina,ESP,G,1.84,79,27-04-82,Barcelona
+2010,a003,Getafe,14,Manu del Moral,ESP,F,1.86,77,25-02-84,Jaén
+2010,a003,Getafe,15,Rafa,ESP,D,1.83,72,09-04-85,Peñafiel
+2010,a003,Getafe,16,Pedro Ríos,ESP,M,1.77,72,12-12-81,Jerez de la Frontera
+2010,a003,Getafe,17,Daniel Parejo,ESP,M,1.8,75,16-04-89,Madrid
+2010,a003,Getafe,18,Derek Boateng,GHA,M,1.85,78,02-05-83,Accra
+2010,a003,Getafe,19,Miku,VEN,M,1.85,80,19-08-85,Caracas
+2010,a003,Getafe,20,Pedro León,ESP,M,1.82,70,24-11-86,Mula
+2010,a003,Getafe,21,David Cortés,ESP,D,1.81,74,29-08-79,Badajoz
+2010,a003,Getafe,22,Javi Casquero,ESP,M,1.8,73,19-08-76,Toledo
+2010,a003,Getafe,23,Adrián González,ESP,M,1.83,76,25-05-88,Madrid
+2010,a003,Getafe,24,Miguel Torres,ESP,D,1.84,78,28-01-86,Madrid
+2010,a003,Getafe,26,Alberto Escassi,ESP,M,1.83,70,28-02-89,Málaga
+2010,a003,Getafe,27,Adrián Sardinero,ESP,F,1.75,60,13-10-90,Leganés
+2010,a003,Getafe,28,Álvaro Arroyo,ESP,D,1.8,71,22-07-88,Madrid
+2010,a003,Getafe,32,Gonzalo,ESP,G,1.88,75,10-01-88,Madrid
+2010,a003,Getafe,12,Lucas Licht,ARG,D,1.74,72,06-04-81,Rosario
+2010,a003,Getafe,19,Franck Signorino,ITA,D,1.73,60,19-09-81,Nogent-sur-Marne
+2010,a003,Getafe,11,Cosmin Contra,ROU,D,1.8,74,15-12-75,Timişoara
+2010,a003,Málaga,1,Francesc Arnau,ESP,G,1.86,83,23-03-75,Les Planes
+2010,a003,Málaga,2,Jesús Gámez,ESP,D,1.82,70,10-04-85,Fuengirola
+2010,a003,Málaga,3,Weligton,BRA,D,1.86,78,26-08-79,Fernandopolis
+2010,a003,Málaga,4,Manu,ESP,D,1.86,76,14-08-89,Málaga
+2010,a003,Málaga,5,Albert Luque,ESP,F,1.83,80,11-03-78,Barcelona
+2010,a003,Málaga,6,Xavi Torres,ESP,M,1.82,76,21-11-86,Jávea
+2010,a003,Málaga,7,Nabil Baha,MAR,F,1.81,76,12-08-81,Paris
+2010,a003,Málaga,8,Fernando,ESP,M,1.81,76,02-06-79,Málaga
+2010,a003,Málaga,9,Fernando Forestieri,ITA,F,1.72,67,16-01-90,Rosario
+2010,a003,Málaga,10,Apoño,ESP,M,1.73,69,13-02-84,Málaga
+2010,a003,Málaga,11,Valdo,ESP,M,1.83,78,23-04-81,Villablino
+2010,a003,Málaga,12,Selim Benachour,TUN,M,1.7,73,08-09-81,Paris
+2010,a003,Málaga,13,Gustavo Munúa,URU,G,1.88,87,27-01-78,Montevideo
+2010,a003,Málaga,14,Hélder Rosário,POR,D,1.85,81,09-03-80,Lisbon
+2010,a003,Málaga,15,Milan Stepanov,SRB,D,1.9,85,02-04-83,Novi Sad
+2010,a003,Málaga,16,Edu Ramos,ESP,M,1.76,71,17-02-92,Churriana
+2010,a003,Málaga,17,Duda,POR,M,1.8,76,27-06-80,Lisbon
+2010,a003,Málaga,18,Victor Obinna,NGA,F,1.78,78,25-03-87,Jos
+2010,a003,Málaga,19,Patrick Mtiliga,DEN,D,1.72,73,28-01-81,Copenhagen
+2010,a003,Málaga,20,Manolo,ESP,D,1.76,72,03-02-81,Málaga
+2010,a003,Málaga,21,Jordi Pablo,ESP,M,1.73,75,01-01-90,Vinaròs
+2010,a003,Málaga,23,Felipe Caicedo,ECU,F,1.85,78,05-09-88,Guayaquil
+2010,a003,Málaga,24,Juanito,ESP,M,1.86,78,17-02-80,Málaga
+2010,a003,Málaga,25,Roberto Santamaría,ESP,G,1.84,74,27-02-85,Pamplona
+2010,a003,Málaga,27,Daniel Toribio,ESP,M,1.73,73,05-10-88,Girona
+2010,a003,Málaga,28,Jurado,ESP,D,1.73,61,14-03-90,Málaga
+2010,a003,Málaga,29,Francisco Portillo,ESP,M,1.69,63,13-06-90,Málaga
+2010,a003,Málaga,30,David González,ESP,M,1.82,76,20-01-90,Oviedo
+2010,a003,Málaga,32,Iván González,ESP,D,1.84,80,15-02-88,Málaga
+2010,a003,Málaga,34,Óscar,ESP,M,,,12-07-88,Granada
+2010,a003,Málaga,35,Javi López,ESP,M,1.78,68,20-04-88,Málaga
+2010,a003,Málaga,36,Juanfri,ESP,F,1.81,75,01-10-89,Fuengirola
+2010,a003,Málaga,37,Pedrito,ESP,F,1.68,65,28-04-89,Canet de Mar
+2010,a003,Málaga,49,Juanmi,ESP,F,1.69,63,20-05-93,Coín
+2010,a003,Málaga,50,Daniel Orozco,ESP,D,1.84,80,19-02-87,Fuengirola
+2010,a003,Málaga,21,Iván Javier Cuadrado,ESP,D,1.88,80,21-02-79,Salamanca
+2010,a003,Málaga,22,Edinho,POR,F,1.85,74,07-07-82,Aveiro
+2010,a003,Málaga,1,Germán Lux,ARG,G,1.86,77,06-07-82,Carcarañá
+2010,a003,Málaga,2,Felipe Mattioni,BRA,D,1.77,72,15-10-88,Natural de Ijuí
+2010,a003,Málaga,3,Josemi,ESP,D,1.82,82,15-11-79,Torremolinos
+2010,a003,Málaga,4,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla
+2010,a003,Málaga,5,Rubén González,ESP,D,1.87,75,29-01-82,Santiago de Compostela
+2010,a003,Málaga,6,Mario Suárez,ESP,M,1.85,77,24-02-87,Madrid
+2010,a003,Málaga,7,Fernando Varela,ESP,D,1.8,78,01-09-79,Dos Hermanas
+2010,a003,Málaga,9,Pierre Webó,CMR,F,1.8,78,20-01-82,Bafoussan
+2010,a003,Málaga,10,Julio Álvarez,ESP,M,1.81,74,01-05-81,Caracas
+2010,a003,Málaga,11,Gonzalo Castro,URU,M,1.76,70,14-09-84,Trinidad
+2010,a003,Málaga,13,Dudu Aouate,ISR,G,1.88,84,17-10-77,Haifa
+2010,a003,Málaga,14,Alhassane Keita,GUI,F,1.69,68,26-06-83,Conakry
+2010,a003,Málaga,15,Tuni,ESP,F,1.81,72,14-06-82,Sóller
+2010,a003,Málaga,16,José Nunes,POR,D,1.85,82,07-03-77,Castelo de Pavia
+2010,a003,Málaga,17,Ayoze,ESP,D,1.75,70,25-05-82,La Laguna
+2010,a003,Málaga,18,Víctor,ESP,F,1.8,77,28-02-85,Palma de Mallorca
+2010,a003,Málaga,19,José Luis Martí,ESP,M,1.8,74,28-04-75,Palma de Mallorca
+2010,a003,Málaga,20,Paulo Pezzolano,URU,M,1.87,78,25-04-83,Montevideo
+2010,a003,Málaga,21,Aritz Aduriz,ESP,F,1.77,75,11-02-81,San Sebastián
+2010,a003,Málaga,22,Bruno China,POR,M,1.82,75,05-08-82,Matosinhos
+2010,a003,Málaga,23,Enrique Corrales,ESP,D,1.75,70,01-03-82,Seville
+2010,a003,Málaga,24,Borja Valero,ESP,M,1.74,73,12-01-85,Madrid
+2010,a003,Málaga,26,Dani Castellano,ESP,M,1.8,76,02-11-87,Las Palmas
+2010,a003,Málaga,27,Sergi Enrich,ESP,F,1.81,77,26-02-90,Ciutadella
+2010,a003,Málaga,28,Alberto,ESP,M,1.8,65,09-03-88,Palma de Mallorca
+2010,a003,Málaga,29,Sergio Tejera,ESP,M,1.83,76,28-05-90,Barcelona
+2010,a003,Málaga,30,Nauzet Pérez,ESP,G,1.9,90,01-03-85,Las Palmas
+2010,a003,Málaga,31,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid
+2010,a003,Málaga,32,Joan Guillem Truyols,ESP,D,1.79,70,11-11-89,Palma de Mallorca
+2010,a003,Málaga,33,Michael Pereira,FRA,M,1.8,69,08-12-87,Paris
+2010,a003,Málaga,8,Óscar Díaz,ESP,F,1.85,76,24-04-84,Madrid
+2010,a003,Osasuna,1,Ricardo,ESP,G,1.87,88,30-12-71,Madrid
+2010,a003,Osasuna,2,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona
+2010,a003,Osasuna,3,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona
+2010,a003,Osasuna,4,Miguel Flaño,ESP,D,1.77,72,19-08-84,Pamplona
+2010,a003,Osasuna,5,Rovérsio,BRA,D,1.87,70,17-01-84,Igrassú
+2010,a003,Osasuna,6,Javad Nekounam,IRN,M,1.86,78,07-09-80,Shar Rey
+2010,a003,Osasuna,7,Ludovic Delporte,FRA,M,1.78,73,06-02-80,St-Catherine-les-Arcs
+2010,a003,Osasuna,8,Masoud Shojaei,IRN,M,1.84,73,09-06-84,Shiraz
+2010,a003,Osasuna,10,Patxi Puñal,ESP,M,1.79,73,06-09-75,Pamplona
+2010,a003,Osasuna,11,Walter Pandiani,URU,F,1.84,75,27-04-76,Montevideo
+2010,a003,Osasuna,12,Juanfran,ESP,D,1.8,72,09-01-85,Crevillent
+2010,a003,Osasuna,13,Roberto,ESP,G,1.81,76,25-01-79,Chantada
+2010,a003,Osasuna,14,Josetxo,ESP,D,1.85,79,25-02-77,Pamplona
+2010,a003,Osasuna,15,Oier Sanjurjo,ESP,M,1.78,66,25-05-86,Pamplona
+2010,a003,Osasuna,16,Jorge Galán,ESP,F,1.73,72,22-01-89,Pamplona
+2010,a003,Osasuna,17,Javier Camuñas,ESP,M,1.73,71,17-07-80,Madrid
+2010,a003,Osasuna,18,Dady,CPV,F,1.9,84,13-08-81,Lisbon
+2010,a003,Osasuna,19,Javier Calleja,ESP,M,1.72,70,12-05-78,Madrid
+2010,a003,Osasuna,20,Carlos Aranda,ESP,F,1.86,82,27-07-80,Málaga
+2010,a003,Osasuna,21,Krisztián Vadócz,HUN,M,1.88,83,30-05-85,Budapest
+2010,a003,Osasuna,22,Ruper,ESP,M,1.8,76,04-06-87,Estella
+2010,a003,Osasuna,23,Sergio Fernández,ESP,D,1.91,81,23-05-77,Avilés
+2010,a003,Osasuna,24,Jokin Esparza,ESP,M,1.77,68,15-06-88,Pamplona
+2010,a003,Osasuna,25,Ion Echaide,ESP,D,1.79,78,05-01-88,Pamplona
+2010,a003,Osasuna,26,Andrés Fernández,ESP,G,1.84,86,17-12-86,Murcia
+2010,a003,Osasuna,32,Alán Baró,ESP,M,1.8,79,22-06-85,Darnius
+2010,a003,Osasuna,9,Javier Portillo,ESP,F,1.8,70,30-03-82,Aranjuez
+2010,a003,Racing Santander,1,Fabio Coltorti,SUI,G,1.97,95,03-12-80,Kriens
+2010,a003,Racing Santander,2,Henrique,BRA,D,1.85,73,14-10-86,Marechal Cândido Róndon
+2010,a003,Racing Santander,3,Oriol,ESP,D,1.83,70,23-05-81,Sabadell
+2010,a003,Racing Santander,4,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles
+2010,a003,Racing Santander,5,Christian,ESP,D,1.82,77,15-10-85,Santander
+2010,a003,Racing Santander,6,José Ángel Crespo,ESP,D,1.83,72,09-02-87,Seville
+2010,a003,Racing Santander,7,Mohamed Tchité,BEL,F,1.76,69,31-01-84,Bujumbura
+2010,a003,Racing Santander,8,Gonzalo Colsa,ESP,M,1.85,77,11-05-79,Ramales de la Victoria
+2010,a003,Racing Santander,9,Iván Bolado,ESP,F,1.8,75,03-07-89,Santander
+2010,a003,Racing Santander,10,Pedro Munitis,ESP,F,1.67,70,19-06-75,Santander
+2010,a003,Racing Santander,11,Óscar Serrano,ESP,M,1.75,73,30-09-81,Blanes
+2010,a003,Racing Santander,12,Nasief Morris,RSA,D,1.76,74,16-04-81,Cape Town
+2010,a003,Racing Santander,13,Toño,ESP,G,1.82,81,17-12-79,Alicante
+2010,a003,Racing Santander,14,Pablo Pinillos,ESP,D,1.73,71,09-07-74,Logroño
+2010,a003,Racing Santander,15,Xisco,ESP,F,1.86,84,27-06-86,Palma de Mallorca
+2010,a003,Racing Santander,17,Manuel Arana,ESP,M,1.75,72,03-12-84,Seville
+2010,a003,Racing Santander,18,Edu Bedia,ESP,M,1.84,74,23-03-89,Santander
+2010,a003,Racing Santander,19,Marc Torrejón,ESP,D,1.87,87,18-02-86,Barcelona
+2010,a003,Racing Santander,21,Papakouli Diop,SEN,M,1.8,73,19-03-86,Kaolack
+2010,a003,Racing Santander,22,José Moratón,ESP,D,1.86,78,14-07-79,Santander
+2010,a003,Racing Santander,23,Toni Moral,ESP,M,1.77,72,29-08-81,Terrassa
+2010,a003,Racing Santander,24,Luis García,ESP,F,1.77,74,24-06-78,Badalona
+2010,a003,Racing Santander,26,Luisma,ESP,M,1.79,65,11-08-89,Noja
+2010,a003,Racing Santander,27,Sergio Canales,ESP,M,1.76,65,16-02-91,Santander
+2010,a003,Racing Santander,28,Osmar Barba,ESP,D,1.92,84,08-06-88,Santoña
+2010,a003,Racing Santander,29,Juan Luis Cortijo,ESP,D,1.74,64,28-03-86,Santander
+2010,a003,Racing Santander,31,Mario Fernández,ESP,G,1.84,74,30-04-88,Santander
+2010,a003,Racing Santander,32,Dani Álvarez,ESP,M,1.78,75,05-02-87,Grado
+2010,a003,Racing Santander,33,Gonzalo,ESP,D,1.76,72,05-10-89,Santander
+2010,a003,Racing Santander,35,Uri,ESP,F,1.69,67,29-10-86,Olot
+2010,a003,Racing Santander,37,José Picón,ESP,D,1.82,67,13-05-88,Santander
+2010,a003,Racing Santander,9,Juanjo,ESP,F,1.85,76,28-10-85,Santander
+2010,a003,Racing Santander,20,László Sepsi,ROU,D,1.79,73,07-06-87,Luduş
+2010,a003,Racing Santander,30,Mario Ortiz,ESP,M,1.78,65,24-03-89,Santander
+2010,a003,Racing Santander,9,Alexandre Geijo,SUI,F,1.84,80,05-09-82,Geneva
+2010,a003,Racing Santander,20,Iván Bolado,ESP,F,1.8,75,03-07-89,Santander
+2010,a003,Real Madrid,1,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid
+2010,a003,Real Madrid,2,Álvaro Arbeloa,ESP,D,1.83,76,17-01-83,Salamanca
+2010,a003,Real Madrid,3,Pepe,POR,D,1.86,72,26-02-83,Maceió
+2010,a003,Real Madrid,4,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas
+2010,a003,Real Madrid,5,Fernando Gago,ARG,M,1.78,69,10-04-86,Ciudadela
+2010,a003,Real Madrid,6,Mahamadou Diarra,MLI,M,1.83,76,18-05-81,Bamako
+2010,a003,Real Madrid,7,Raúl,ESP,F,1.8,68,27-06-77,Madrid
+2010,a003,Real Madrid,8,Kaká,BRA,M,1.86,83,22-04-82,Brasília
+2010,a003,Real Madrid,9,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal
+2010,a003,Real Madrid,10,Lassana Diarra,FRA,M,1.73,68,10-03-85,Paris
+2010,a003,Real Madrid,11,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon
+2010,a003,Real Madrid,12,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro
+2010,a003,Real Madrid,13,Jerzy Dudek,POL,G,1.87,78,23-03-73,Rybnik
+2010,a003,Real Madrid,14,Guti,ESP,M,1.85,76,31-10-76,Madrid
+2010,a003,Real Madrid,15,Royston Drenthe,NED,D,1.67,67,08-04-87,Rotterdam
+2010,a003,Real Madrid,18,Raúl Albiol,ESP,D,1.87,74,04-09-85,Valencia
+2010,a003,Real Madrid,19,Ezequiel Garay,ARG,D,1.89,83,10-10-86,Rosario
+2010,a003,Real Madrid,20,Gonzalo Higuaín,ARG,F,1.84,75,10-12-87,Brest
+2010,a003,Real Madrid,21,Christoph Metzelder,GER,D,1.94,84,05-11-80,Halten
+2010,a003,Real Madrid,22,Xabi Alonso,ESP,M,1.83,75,25-11-81,Tolosa
+2010,a003,Real Madrid,23,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk
+2010,a003,Real Madrid,24,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid
+2010,a003,Real Madrid,26,Antonio Adán,ESP,G,1.89,91,13-05-87,Madrid
+2010,a003,Real Madrid,27,Javier Acuña,PAR,F,1.75,70,23-06-88,Asunción
+2010,a003,Real Madrid,28,Marcos Alonso,ESP,D,1.88,85,28-12-90,Madrid
+2010,a003,Real Madrid,30,Pedro Mosquera,ESP,M,1.83,77,21-04-88,La Coruña
+2010,a003,Real Madrid,32,David Mateos,ESP,D,1.9,82,22-04-87,Madrid
+2010,a003,Real Madrid,33,Rodrigo Moreno,ESP,F,1.8,74,06-03-91,Rio de Janeiro
+2010,a003,Real Madrid,34,Raúl Ruiz,ESP,F,1.78,56,25-03-90,Alicante
+2010,a003,Real Madrid,35,Tomás Mejías,ESP,G,1.94,83,30-01-89,Madrid
+2010,a003,Real Madrid,36,Juanfran,ESP,F,1.78,69,27-04-87,Madrid
+2010,a003,Real Madrid,17,Ruud van Nistelrooy,NED,F,1.88,80,01-07-76,Geffen
+2010,a003,Sevilla,1,Andrés Palop,ESP,G,1.84,75,22-10-73,Valencia
+2010,a003,Sevilla,2,Federico Fazio,ARG,D,1.95,85,17-03-87,Buenos Aires
+2010,a003,Sevilla,3,Ivica Dragutinović,SRB,D,1.86,84,13-11-75,Čačak
+2010,a003,Sevilla,4,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon
+2010,a003,Sevilla,5,Aldo Duscher,ARG,M,1.74,72,22-03-79,Esquel
+2010,a003,Sevilla,6,Adriano,BRA,M,1.72,67,26-10-84,Curitiba
+2010,a003,Sevilla,7,Jesús Navas,ESP,M,1.7,60,21-11-85,Los Palacios
+2010,a003,Sevilla,8,Didier Zokora,CIV,M,1.79,72,14-12-80,Abidjan
+2010,a003,Sevilla,10,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas
+2010,a003,Sevilla,11,Renato,BRA,M,1.77,71,15-05-79,Santa Mercedes
+2010,a003,Sevilla,12,Frédéric Kanouté,MLI,F,1.92,82,02-09-77,Sainte-Foy-le-Grande
+2010,a003,Sevilla,13,Javi Varas,ESP,G,1.82,73,10-09-82,Seville
+2010,a003,Sevilla,14,Julien Escudé,FRA,D,1.83,79,17-08-79,Chartres
+2010,a003,Sevilla,15,Marius Stankevičius,LTU,M,1.89,83,15-07-81,Kaunas
+2010,a003,Sevilla,16,Diego Capel,ESP,M,1.73,67,16-02-88,Albox
+2010,a003,Sevilla,18,Fernando Navarro,ESP,D,1.78,70,25-06-82,Barcelona
+2010,a003,Sevilla,19,Álvaro Negredo,ESP,F,1.86,85,20-08-85,Madrid
+2010,a003,Sevilla,20,Tom De Mul,BEL,M,1.78,67,04-03-86,Kapellen
+2010,a003,Sevilla,21,Lautaro Acosta,ARG,M,1.68,68,14-03-88,Glew
+2010,a003,Sevilla,22,N'Dri Romaric,CIV,M,1.87,88,04-06-83,Abidjan
+2010,a003,Sevilla,23,Lolo,ESP,D,1.82,80,22-08-84,Huelva
+2010,a003,Sevilla,24,Abdoulay Konko,FRA,M,1.82,71,09-03-84,Marseille
+2010,a003,Sevilla,25,Diego Perotti,ARG,F,1.75,67,26-07-88,Moreno
+2010,a003,Sevilla,26,Dani Jiménez,ESP,G,1.79,72,05-03-90,Lebrija
+2010,a003,Sevilla,27,Enrique Carreño,ESP,F,1.83,80,27-11-86,Utrera
+2010,a003,Sevilla,28,Cala,ESP,D,1.85,78,26-11-89,Lebrija
+2010,a003,Sevilla,29,Juan Martin,ESP,G,1.8,73,18-02-89,Real de la Jara
+2010,a003,Sevilla,30,José Carlos,ESP,F,1.77,68,17-07-87,Ríotinto
+2010,a003,Sevilla,31,Rodri,ESP,F,1.74,64,06-06-90,Soria
+2010,a003,Sevilla,32,José Campaña,ESP,M,1.76,55,30-05-93,Seville
+2010,a003,Sevilla,33,Manuel Redondo,ESP,D,1.81,60,11-01-85,Seville
+2010,a003,Sevilla,34,Marc Valiente,ESP,D,1.84,71,29-03-87,Granollers
+2010,a003,Sevilla,36,Luis Alberto,ESP,F,1.82,70,28-09-92,Jerez de la Frontera
+2010,a003,Sevilla,37,Antonio Luna,ESP,D,1.77,68,17-03-91,Son Servera
+2010,a003,Sevilla,15,Ernesto Javier Chevantón,URU,F,1.74,68,12-08-80,Juan Lacaze
+2010,a003,Sevilla,17,Sergio Sánchez,ESP,D,1.85,78,03-04-86,Matarò
+2010,a003,Sevilla,9,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama
+2010,a003,Sporting Gijón,1,Juan Pablo,ESP,G,1.87,83,02-09-78,León
+2010,a003,Sporting Gijón,2,Alberto Botķa,ESP,D,1.87,75,27-01-89,Alquerias
+2010,a003,Sporting Gijón,3,José Įngel,ESP,D,1.82,77,05-09-89,Gijón
+2010,a003,Sporting Gijón,5,Alberto Rivera,ESP,M,1.7,68,19-02-78,Puertollano
+2010,a003,Sporting Gijón,6,Carmelo,ESP,M,1.8,70,09-07-83,Las Palmas
+2010,a003,Sporting Gijón,7,Pedro,ESP,M,1.8,74,10-03-84,Gijón
+2010,a003,Sporting Gijón,8,Milan Smiljanić,SRB,M,1.83,78,19-11-86,Kalmar
+2010,a003,Sporting Gijón,9,Mate Bilić,CRO,F,1.85,81,23-10-80,Split
+2010,a003,Sporting Gijón,10,Francisco José Maldonado,ESP,M,1.75,76,02-06-81,San Fernando
+2010,a003,Sporting Gijón,11,Alberto Lora,ESP,M,1.68,67,25-03-87,Móstoles
+2010,a003,Sporting Gijón,12,Gregory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan
+2010,a003,Sporting Gijón,13,Ivįn Cuéllar,ESP,G,1.85,75,25-05-84,Mérida
+2010,a003,Sporting Gijón,14,Ivįn Hernįndez,ESP,M,1.85,80,27-02-80,Madrid
+2010,a003,Sporting Gijón,15,Roberto Canella,ESP,M,1.8,68,07-02-88,Pola de Laviana
+2010,a003,Sporting Gijón,16,Gerard,ESP,D,1.86,72,08-10-78,Manlleu
+2010,a003,Sporting Gijón,17,Diego Castro,ESP,F,1.74,71,02-07-82,Pontevedra
+2010,a003,Sporting Gijón,18,Luis Morįn,ESP,F,1.72,67,26-07-87,Luanco
+2010,a003,Sporting Gijón,19,Diego Camacho,ESP,M,1.85,84,03-10-76,Madrid
+2010,a003,Sporting Gijón,20,Miguel de las Cuevas,ESP,M,1.75,70,19-06-86,Alicante
+2010,a003,Sporting Gijón,21,Kike Mateo,ESP,M,1.8,72,30-12-79,Murcia
+2010,a003,Sporting Gijón,22,Rafael Sastre,ESP,D,1.79,75,22-10-75,Benissalem
+2010,a003,Sporting Gijón,23,David Barral,ESP,F,1.83,78,10-05-83,Cįdiz
+2010,a003,Sporting Gijón,24,Sergio Matabuena,ESP,D,1.85,79,12-02-79,Santander
+2010,a003,Sporting Gijón,26,Alain,ESP,D,1.84,73,13-11-89,Gijón
+2010,a003,Sporting Gijón,28,Marcos Landeira,ESP,M,1.82,80,12-05-87,Gijón
+2010,a003,Sporting Gijón,30,Pedro Orfila,ESP,D,1.75,67,06-03-88,Luanco
+2010,a003,Sporting Gijón,31,Cristian Portilla,ESP,D,1.78,76,28-08-88,Santander
+2010,a003,Sporting Gijón,32,Raśl,ESP,G,1.81,75,01-11-86,San Romįn de Cayón
+2010,a003,Sporting Gijón,33,Guille,ESP,M,1.7,72,11-01-87,Murcia
+2010,a003,Sporting Gijón,34,Sergio Sįnchez Izquierdo,ESP,G,1.81,81,27-09-86,Madrid
+2010,a003,Sporting Gijón,36,Borja Navarro,ESP,D,1.75,71,14-05-90,Gijón
+2010,a003,Sporting Gijón,37,Sergio Įlvarez,ESP,M,1.8,65,23-01-92,Avilés
+2010,a003,Sporting Gijón,38,Juan Muńiz,ESP,M,1.78,74,13-03-92,Gijón
+2010,a003,Sporting Gijón,8,Mķchel,ESP,M,1.83,72,09-11-85,Pola de Lena
+2010,a003,Sporting Gijón,4,Andreu,ESP,M,1.79,67,17-06-83,Barcelona
+2010,a003,Tenerife,1,Luis García,ESP,G,1.85,80,23-04-79,Toledo
+2010,a003,Tenerife,2,Marc Bertrán,ESP,D,1.81,78,22-05-82,Barcelona
+2010,a003,Tenerife,3,Héctor,ESP,D,1.75,75,31-03-85,Fuerteventura
+2010,a003,Tenerife,4,Carlos Bellvis,ESP,M,1.69,68,24-04-85,Valencia
+2010,a003,Tenerife,5,Manolo,ESP,M,1.88,78,15-06-80,Bigastro
+2010,a003,Tenerife,6,Pablo Sicilia,ESP,D,1.82,83,10-09-81,Las Palmas
+2010,a003,Tenerife,7,Nino,ESP,F,1.69,68,10-06-80,Almería
+2010,a003,Tenerife,8,Ricardo,ESP,M,1.86,67,08-02-83,Santa Cruz de Tenerife
+2010,a003,Tenerife,9,Ángel,ESP,F,1.72,68,26-04-87,Santa Cruz de Tenerife
+2010,a003,Tenerife,10,Ayoze,ESP,M,1.72,64,22-11-85,Puerto de La Cruz
+2010,a003,Tenerife,11,Gaizka Saizar,ESP,F,1.75,73,22-07-80,Oiartzun
+2010,a003,Tenerife,13,Sergio Aragoneses,ESP,G,1.83,80,01-02-77,Porriño
+2010,a003,Tenerife,14,Daniel Ngom Kome,CMR,M,1.72,69,19-05-80,Bangou
+2010,a003,Tenerife,15,Román Martínez,ARG,M,1.84,79,27-03-83,Morón
+2010,a003,Tenerife,17,Juanlu,ESP,M,1.78,71,07-02-84,Córdoba
+2010,a003,Tenerife,19,Ezequiel Luna,ARG,D,1.78,74,19-11-86,Villa Gobernador Gálvez
+2010,a003,Tenerife,20,Richi,ESP,F,1.87,77,14-04-77,Madrid
+2010,a003,Tenerife,21,Alejandro Alfaro,ESP,M,1.73,68,23-11-86,La Palma del Condado
+2010,a003,Tenerife,22,Dinei,BRA,F,1.86,78,11-11-83,São Domingos
+2010,a003,Tenerife,23,Mikel Alonso,ESP,M,1.83,75,16-05-80,Tolosa
+2010,a003,Tenerife,24,José Antonio Culebras,ESP,D,1.85,80,16-01-79,Puertollano
+2010,a003,Tenerife,26,Aitor Núñez,ESP,D,1.78,70,02-10-87,Madrid
+2010,a003,Tenerife,27,Julián Omar,ESP,M,1.75,65,26-01-88,Santa Cruz de Tenerife
+2010,a003,Tenerife,31,Toño Ramírez,ESP,G,1.89,83,23-11-86,Logroño
+2010,a003,Valencia,1,César Sánchez,ESP,G,1.85,82,02-09-71,Coria
+2010,a003,Valencia,2,Bruno Saltor,ESP,D,1.81,76,01-10-80,Barcelona
+2010,a003,Valencia,3,Hedwiges Maduro,NED,M,1.85,79,13-02-85,Almere
+2010,a003,Valencia,4,David Navarro,ESP,D,1.88,82,25-05-80,Valencia
+2010,a003,Valencia,5,Carlos Marchena,ESP,D,1.83,78,31-07-79,Las Cabezas
+2010,a003,Valencia,6,David Albelda,ESP,M,1.81,77,01-09-77,Alzira
+2010,a003,Valencia,7,David Villa,ESP,F,1.75,69,03-12-81,Langreo
+2010,a003,Valencia,8,Rubén Baraja,ESP,M,1.8,75,11-07-75,Valladolid
+2010,a003,Valencia,9,Nikola Žigić,SRB,F,2.02,90,25-09-80,Bačka Topola
+2010,a003,Valencia,10,Juan Mata,ESP,F,1.7,63,28-04-88,Burgos
+2010,a003,Valencia,13,Miguel Ángel Moyá,ESP,G,1.85,75,02-04-84,Binissalem
+2010,a003,Valencia,14,Vicente,ESP,M,1.75,72,16-07-81,Valencia
+2010,a003,Valencia,15,Ángel Dealbert,ESP,D,1.85,78,01-01-83,Castellón
+2010,a003,Valencia,17,Joaquín,ESP,M,1.79,75,21-07-81,Puerto de Santa Maria
+2010,a003,Valencia,18,Manuel Fernandes,POR,M,1.76,75,05-02-86,Lisbon
+2010,a003,Valencia,19,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón
+2010,a003,Valencia,20,Alexis,ESP,D,1.83,75,04-08-85,Málaga
+2010,a003,Valencia,21,David Silva,ESP,M,1.7,67,08-01-86,Arguineguín
+2010,a003,Valencia,22,Jérémy Mathieu,FRA,D,1.9,82,29-10-83,Luxeuil-les-Bains
+2010,a003,Valencia,23,Miguel,POR,D,1.79,78,04-01-80,Lisbon
+2010,a003,Valencia,24,Éver Banega,ARG,M,1.74,69,29-06-88,Rosario
+2010,a003,Valencia,25,Alejandro Domínguez,ARG,F,1.73,71,10-06-81,Lanús
+2010,a003,Valencia,28,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat
+2010,a003,Valencia,29,Daniel Olcina,ESP,F,1.79,77,25-02-89,Valencia
+2010,a003,Valencia,30,Míchel,ESP,F,1.81,69,29-07-88,Valencia
+2010,a003,Valencia,31,Salva,ESP,G,1.78,75,19-02-88,Castellón
+2010,a003,Valencia,32,Sergio Garabato,ESP,G,1.87,98,16-05-89,Valencia
+2010,a003,Valencia,33,Carles Martínez,ESP,M,1.75,65,03-01-88,Valencia
+2010,a003,Valencia,34,Arturo,ESP,D,1.8,75,13-03-89,Castellón
+2010,a003,Valencia,35,David Tímor,ESP,M,1.85,77,17-10-89,Valencia
+2010,a003,Valencia,36,Ximo Forner,ESP,M,1.8,69,27-01-90,Castellón
+2010,a003,Valencia,37,Borja Navarro,ESP,D,1.79,71,05-01-89,
+2010,a003,Valencia,38,Sergio Cuesta,ESP,D,1.74,72,01-08-91,
+2010,a003,Valencia,39,Iván Rubio,ESP,M,1.7,70,01-03-91,Valencia
+2010,a003,Valencia,40,Isco,ESP,F,1.76,80,21-04-92,Valencia
+2010,a003,Valencia,41,Carles,ESP,F,1.67,69,22-11-92,Valencia
+2010,a003,Valencia,42,Enrique Tortosa,ESP,M,1.75,72,02-10-91,
+2010,a003,Valencia,43,Lillo,ESP,D,1.76,76,27-03-89,Alicante
+2010,a003,Valencia,46,Víctor Fernández,ESP,D,1.75,69,25-08-87,Santander
+2010,a003,Valencia,55,Dani Hernández,VEN,G,1.96,87,21-10-85,Caracas
+2010,a003,Valencia,56,Joel,ESP,D,1.8,72,20-09-92,Torrent
+2010,a003,Valencia,25,Nacho González,URU,M,1.8,73,14-05-82,Montevideo
+2010,a003,Valencia,16,Miku,VEN,M,1.85,80,19-08-85,Caracas
+2010,a003,Valencia,11,Asier Del Horno,ESP,D,1.83,72,19-01-81,Barakaldo
+2010,a003,Valladolid,1,Justo Villar,PAR,G,1.8,80,30-06-77,Cerrito
+2010,a003,Valladolid,2,Antonio Barragán,ESP,D,1.82,76,12-06-87,Pontedeume
+2010,a003,Valladolid,3,Alberto Marcos,ESP,D,1.73,76,15-02-74,Camarma
+2010,a003,Valladolid,4,Nivaldo,BRA,D,1.87,75,23-06-80,Feira de Santana
+2010,a003,Valladolid,5,Haris Medunjanin,BIH,M,1.88,78,08-03-85,Sarajevo
+2010,a003,Valladolid,6,Pelé,POR,M,1.87,80,14-09-87,Porto
+2010,a003,Valladolid,7,Nauzet Alemán,ESP,M,1.78,71,25-02-85,Las Palmas
+2010,a003,Valladolid,8,Javier Baraja,ESP,D,1.79,79,24-08-80,Valladolid
+2010,a003,Valladolid,9,Manucho,ANG,F,1.88,83,07-03-83,Luanda
+2010,a003,Valladolid,10,Borja Fernández,ESP,M,1.88,83,14-01-81,Orense
+2010,a003,Valladolid,11,Alberto Bueno,ESP,F,1.78,65,20-03-88,Madrid
+2010,a003,Valladolid,12,Henrique Sereno,POR,D,1.88,78,18-05-85,Elvas
+2010,a003,Valladolid,13,Fabricio,ESP,G,1.85,77,31-12-87,Las Palmas
+2010,a003,Valladolid,14,Héctor Font,ESP,M,1.7,66,15-06-84,Villarreal
+2010,a003,Valladolid,15,Asier Del Horno,ESP,D,1.83,72,19-01-81,Barakaldo
+2010,a003,Valladolid,16,Pedro López,ESP,D,1.74,72,01-01-83,Valencia
+2010,a003,Valladolid,17,Luis Prieto,ESP,D,1.81,75,19-02-79,Bilbao
+2010,a003,Valladolid,18,Álvaro Rubio,ESP,M,1.78,80,18-04-79,Logroño
+2010,a003,Valladolid,19,Jonathan Sesma,ESP,M,1.75,65,14-11-78,Las Palmas
+2010,a003,Valladolid,20,Fabián Canobbio,URU,M,1.79,75,08-03-80,Montevideo
+2010,a003,Valladolid,21,Sisi,ESP,M,1.68,60,22-04-86,Albacete
+2010,a003,Valladolid,22,Diego Costa,BRA,F,1.86,78,07-10-88,Lagarto
+2010,a003,Valladolid,23,Marquitos,ESP,M,1.74,67,21-03-87,Sant Antoni de Portmany
+2010,a003,Valladolid,24,César Arzo,ESP,M,1.81,80,21-01-86,Villarreal
+2010,a003,Valladolid,25,Jacobo,ESP,G,1.93,82,10-07-83,Valladolid
+2010,a003,Valladolid,26,Yuri,ESP,D,1.81,80,10-02-90,San Sebastián
+2010,a003,Valladolid,27,Carlos Lázaro,ESP,M,1.79,76,13-11-90,Olmedo
+2010,a003,Valladolid,28,Aridane,ESP,D,1.86,77,23-03-89,Fuerteventura
+2010,a003,Valladolid,29,Sergio García,ESP,M,1.72,66,08-08-89,Zamora
+2010,a003,Valladolid,30,Quique,ESP,F,1.75,67,16-05-90,Valladolid
+2010,a003,Valladolid,31,Javi Jiménez,ESP,G,1.83,77,08-06-87,Logroño
+2010,a003,Valladolid,32,Raúl Navas,ESP,D,1.78,77,11-06-88,Seville
+2010,a003,Valladolid,33,Keko,ESP,M,1.77,72,28-12-91,Madrid
+2010,a003,Valladolid,15,Bartholomew Ogbeche,NGA,F,1.77,78,01-10-84,Ogija
+2010,a003,Valladolid,12,Asier,ESP,M,1.79,69,28-03-87,Segovia
+2010,a003,Villarreal,1,Xavi Oliva,ESP,G,1.88,86,29-05-76,L'Hospitalet de Llobregat
+2010,a003,Villarreal,2,Gonzalo Rodríguez,ARG,D,1.82,79,10-04-84,Buenos Aires
+2010,a003,Villarreal,4,Diego Godín,URU,D,1.85,73,16-02-86,Rosario
+2010,a003,Villarreal,5,Joan Capdevila,ESP,D,1.82,78,03-02-78,Tarrega
+2010,a003,Villarreal,7,Robert Pirès,FRA,M,1.87,80,29-10-73,Reims
+2010,a003,Villarreal,8,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera
+2010,a003,Villarreal,9,Joseba Llorente,ESP,F,1.84,72,24-11-79,Hondarribia
+2010,a003,Villarreal,10,Cani,ESP,M,1.8,75,03-08-81,Zaragoza
+2010,a003,Villarreal,11,Ariel Ibagaza,ARG,M,1.66,65,27-10-76,Buenos Aires
+2010,a003,Villarreal,12,Nilmar,BRA,F,1.8,70,14-07-84,Bandeirantes
+2010,a003,Villarreal,13,Diego López,ESP,G,1.96,88,03-11-81,Paradela
+2010,a003,Villarreal,14,David Fuster,ESP,M,1.78,71,03-02-82,Oliva
+2010,a003,Villarreal,17,Javi Venta,ESP,D,1.8,74,13-12-75,Oviedo
+2010,a003,Villarreal,18,Ángel,ESP,D,1.81,71,10-03-81,Santa Lucia de Tirajana
+2010,a003,Villarreal,19,Marcos Senna,ESP,M,1.77,76,17-07-76,São Paulo
+2010,a003,Villarreal,20,Iván Marcano,ESP,D,1.77,77,23-06-87,Santander
+2010,a003,Villarreal,21,Bruno,ESP,M,1.79,70,12-06-84,Artana
+2010,a003,Villarreal,22,Giuseppe Rossi,ITA,F,1.73,73,01-02-87,Clifton
+2010,a003,Villarreal,24,Damián Escudero,ARG,M,1.76,74,20-04-87,Rosario
+2010,a003,Villarreal,26,Juan Carlos,ESP,G,1.8,78,27-07-87,Calvià
+2010,a003,Villarreal,28,Marco Rubén,ARG,F,1.79,72,26-10-86,Capitán Bermúdez
+2010,a003,Villarreal,29,Vicente Flor,ESP,G,1.83,77,05-11-87,Valencia
+2010,a003,Villarreal,30,Marcos Gullón,ESP,M,1.85,79,20-02-89,Madrid
+2010,a003,Villarreal,31,Javier Matilla,ESP,M,1.76,72,01-01-88,Ciudad Real
+2010,a003,Villarreal,32,Kiko,ESP,D,1.89,83,21-08-88,Málaga
+2010,a003,Villarreal,33,Mario,ESP,D,1.75,70,24-11-90,Novelda
+2010,a003,Villarreal,34,Joan Oriol,ESP,D,1.75,69,05-11-86,Cambrils
+2010,a003,Villarreal,39,Hernán Pérez,PAR,M,1.77,68,25-02-89,Fernando de la Mora
+2010,a003,Villarreal,41,Mateo Musacchio,ARG,D,1.79,72,26-08-90,Rosario
+2010,a003,Villarreal,43,Jefferson Montero,ECU,F,1.7,70,01-09-89,Babahoyo
+2010,a003,Villarreal,44,José Catalá,ESP,D,1.75,72,31-12-84,Villajoyosa
+2010,a003,Villarreal,15,Fabricio Fuentes,ARG,D,1.82,81,13-10-76,Río Cuarto
+2010,a003,Villarreal,23,Jonathan Pereira,ESP,F,1.66,61,12-05-87,Vigo
+2010,a003,Villarreal,27,Edu,ESP,D,1.81,76,02-10-81,Vinaròs
+2010,a003,Villarreal,6,Sebastián Eguren,URU,M,1.86,84,08-01-81,Montevideo
+2010,a003,Xerez,1,Chema,ESP,G,1.87,85,25-04-80,Orihuela
+2010,a003,Xerez,2,Juan Luis Redondo,ESP,D,1.77,72,17-01-77,Seville
+2010,a003,Xerez,3,Jesús Mendoza,ESP,D,1.75,71,23-02-77,Jerez de la Frontera
+2010,a003,Xerez,4,Alex Bergantiños,ESP,M,1.77,71,07-06-85,La Coruña
+2010,a003,Xerez,5,Leandro Gioda,ARG,D,1.92,87,01-10-84,Pérez
+2010,a003,Xerez,6,Vicente Moreno,ESP,M,1.88,77,26-10-74,Massanasa
+2010,a003,Xerez,7,Francis,ESP,M,1.79,70,17-12-81,Barbate
+2010,a003,Xerez,8,Antoñito,ESP,F,1.76,75,02-02-78,Seville
+2010,a003,Xerez,9,Mario Bermejo,ESP,F,1.8,78,07-10-78,Santander
+2010,a003,Xerez,10,Emilio José Viqueira,ESP,M,1.85,71,20-09-74,Santiago de Compostela
+2010,a003,Xerez,11,Momo,ESP,M,1.82,74,15-07-82,Las Palmas
+2010,a003,Xerez,12,Nicolás Vigneri,URU,F,1.78,63,06-07-83,Montevideo
+2010,a003,Xerez,13,Renan,BRA,G,1.86,86,24-01-85,Viamao
+2010,a003,Xerez,14,Víctor Sánchez,ESP,D,1.74,73,08-09-87,Terrassa
+2010,a003,Xerez,15,Fabián Orellana,CHI,F,1.69,68,27-01-86,Santiago
+2010,a003,Xerez,16,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón
+2010,a003,Xerez,17,Michel,ESP,F,1.9,87,03-08-77,Madrid
+2010,a003,Xerez,18,David Prieto,ESP,D,1.85,80,02-01-83,Seville
+2010,a003,Xerez,19,Carlos Calvo,ESP,M,1.75,71,18-09-85,Madrid
+2010,a003,Xerez,20,Abel,ESP,M,1.83,73,20-02-82,Málaga
+2010,a003,Xerez,21,Matías Alustiza,ARG,F,1.62,60,31-05-84,Azul
+2010,a003,Xerez,22,José Manuel Casado,ESP,D,1.73,75,09-08-86,Sevilla
+2010,a003,Xerez,23,Aythami,ESP,D,1.85,80,02-04-86,Maspalomas
+2010,a003,Xerez,24,Sidi Yaya Keita,MLI,M,1.77,73,20-03-85,Bamako
+2010,a003,Xerez,26,Juanito Rosillo,ESP,F,1.73,70,10-04-88,Jerez de la Frontera
+2010,a003,Xerez,27,Joaqui,ESP,D,1.78,74,31-05-91,Chipiona
+2010,a003,Xerez,28,Borja Perea,ESP,D,1.86,80,11-03-89,Jerez de la Frontera
+2010,a003,Xerez,30,Toni,ESP,G,1.9,74,15-02-88,Jerez de la Frontera
+2010,a003,Xerez,21,Giancarlo Maldonado,VEN,F,1.73,69,29-06-82,Caracas
+2010,a003,Zaragoza,1,Roberto,ESP,G,1.88,82,10-02-86,Madrid
+2010,a003,Zaragoza,2,Carlos Diogo,URU,D,1.86,79,18-07-83,Montevideo
+2010,a003,Zaragoza,3,Javier Paredes,ESP,D,1.75,74,05-07-82,Oviedo
+2010,a003,Zaragoza,4,Matteo Contini,ITA,D,1.82,76,16-04-80,Gemonio
+2010,a003,Zaragoza,5,Pablo Amo,ESP,D,1.86,76,15-01-78,Madrid
+2010,a003,Zaragoza,6,Raúl Goni,ESP,D,1.84,72,12-10-88,Zaragoza
+2010,a003,Zaragoza,7,Jorge López,ESP,M,1.84,79,19-09-78,Logroño
+2010,a003,Zaragoza,8,Ander Herrera,ESP,M,1.81,68,14-08-89,Bilbao
+2010,a003,Zaragoza,9,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba
+2010,a003,Zaragoza,10,Adrián Colunga,ESP,F,1.72,70,17-11-84,Oviedo
+2010,a003,Zaragoza,11,Jermaine Pennant,ENG,M,1.73,64,15-01-83,Nottingham
+2010,a003,Zaragoza,12,Edmilson,BRA,D,1.86,75,10-07-76,Taguaritinga
+2010,a003,Zaragoza,13,Juan Pablo Carrizo,ARG,G,1.87,87,06-05-84,Villa Constitución
+2010,a003,Zaragoza,14,Gabi,ESP,M,1.79,68,10-07-83,Madrid
+2010,a003,Zaragoza,15,Paco Pavón,ESP,D,1.88,83,09-01-80,Madrid
+2010,a003,Zaragoza,16,Abel Aguilar,COL,M,1.85,82,06-01-85,Santa Fe de Bogota
+2010,a003,Zaragoza,17,Ángel Lafita,ESP,M,1.88,75,07-08-84,Zaragoza
+2010,a003,Zaragoza,18,Eliseu,POR,F,1.75,75,01-10-83,Acoras
+2010,a003,Zaragoza,19,Javier Arizmendi,ESP,F,1.89,76,03-03-84,Madrid
+2010,a003,Zaragoza,20,Marko Babić,CRO,M,1.86,72,21-01-81,Osijek
+2010,a003,Zaragoza,21,Jiří Jarošík,CZE,M,1.95,89,27-10-77,Ústí Nad Labem
+2010,a003,Zaragoza,22,Rubén Martín Pulido,ESP,D,1.89,80,02-02-79,Madrid
+2010,a003,Zaragoza,23,Leonardo Ponzio,ARG,M,1.78,75,29-01-82,Las Rojas
+2010,a003,Zaragoza,24,Ivan Obradović,SRB,D,1.81,74,25-07-88,Belgrade
+2010,a003,Zaragoza,25,Humberto Suazo,CHI,F,1.72,79,10-05-81,San Antonio
+2010,a003,Zaragoza,26,Víctor Laguardia,ESP,D,1.85,75,05-11-89,Zaragoza
+2010,a003,Zaragoza,27,Kevin Lacruz,ESP,M,1.75,64,13-02-92,Zaragoza
+2010,a003,Zaragoza,28,Javier Borque,ESP,D,,,02-06-89,Zaragoza
+2010,a003,Zaragoza,30,Diego García,ESP,G,1.9,79,13-01-90,
+2010,a003,Zaragoza,34,Mickaël Gaffoor,FRA,M,1.84,78,21-01-87,Sens
+2010,a003,Zaragoza,36,José Ruíz,ESP,D,1.77,75,26-03-90,Valencia
+2010,a003,Zaragoza,38,Álex Sánchez,ESP,F,1.8,74,06-06-89,Zaragoza
+2010,a003,Zaragoza,40,Pablo Alcolea,ESP,G,1.84,78,23-03-89,Zaragoza
+2010,a003,Zaragoza,17,Antonio Hidalgo,ESP,M,1.83,74,06-02-79,Granollers
+2010,a003,Zaragoza,21,Ewerthon,BRA,F,1.73,63,10-06-81,São Paulo
+2010,a003,Zaragoza,1,Javier López Vallejo,ESP,G,1.85,77,22-09-75,Pamplona
+2010,a003,Zaragoza,12,Franck Songo'o,CMR,M,1.78,73,14-05-87,Yaoundé
+2010,a003,Zaragoza,4,Roberto Ayala,ARG,D,1.77,75,14-04-73,Paraná
+2010,a003,Zaragoza,10,Braulio,ESP,F,1.77,78,18-09-85,Puerto Rosario

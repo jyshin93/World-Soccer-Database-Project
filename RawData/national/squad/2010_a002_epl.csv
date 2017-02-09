@@ -1,0 +1,823 @@
+Season,League,Club,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place
+2010,a002,Arsenal,1,Manuel Almunia,ESP,G,1.91,86,16-05-77,Pamplona
+2010,a002,Arsenal,2,Abou Diaby,FRA,M,1.88,75,11-05-86,Paris
+2010,a002,Arsenal,3,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens
+2010,a002,Arsenal,4,Cesc Fŕbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar
+2010,a002,Arsenal,5,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen
+2010,a002,Arsenal,7,Tomáš Rosický,CZE,M,1.78,67,04-10-80,Prague
+2010,a002,Arsenal,8,Samir Nasri,FRA,M,1.77,75,26-06-87,Marseille
+2010,a002,Arsenal,9,Eduardo,CRO,F,1.77,70,25-02-83,Rio de Janeiro
+2010,a002,Arsenal,10,William Gallas,FRA,D,1.83,72,17-08-77,Asnieres
+2010,a002,Arsenal,11,Robin van Persie,NED,F,1.83,71,06-08-83,Rotterdam
+2010,a002,Arsenal,12,Carlos Vela,MEX,F,1.76,72,01-03-89,Cancún
+2010,a002,Arsenal,14,Theo Walcott,ENG,F,1.75,68,16-03-89,Stanmore
+2010,a002,Arsenal,15,Denílson,BRA,M,1.78,68,16-02-88,Săo Paulo
+2010,a002,Arsenal,16,Aaron Ramsey,WAL,M,1.78,76,26-12-90,Caerphilly
+2010,a002,Arsenal,17,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala
+2010,a002,Arsenal,18,Mikaël Silvestre,FRA,D,1.84,82,09-08-77,Chambray-Les-Tours
+2010,a002,Arsenal,20,Johan Djourou,SUI,D,1.91,83,18-01-87,Abidjan
+2010,a002,Arsenal,21,Łukasz Fabiański,POL,G,1.9,84,18-04-85,Kostrzyn nad Odrą
+2010,a002,Arsenal,22,Gaël Clichy,FRA,D,1.81,72,26-07-85,Toulouse
+2010,a002,Arsenal,23,Andrey Arshavin,RUS,M,1.72,71,29-05-81,St. Petersburg
+2010,a002,Arsenal,24,Vito Mannone,ITA,G,1.94,73,02-03-88,Desio
+2010,a002,Arsenal,27,Emmanuel Eboué,CIV,D,1.78,72,04-06-83,Abidjan
+2010,a002,Arsenal,28,Kieran Gibbs,ENG,D,1.8,70,26-09-89,Lambeth
+2010,a002,Arsenal,30,Armand Traoré,FRA,D,1.85,82,08-10-89,Paris
+2010,a002,Arsenal,31,Sol Campbell,ENG,D,1.88,88,18-09-74,Newham
+2010,a002,Arsenal,32,Fran Mérida,ESP,M,1.75,70,04-03-90,Barcelona
+2010,a002,Arsenal,33,Nacer Barazite,NED,M,1.88,83,27-05-90,Arnhem
+2010,a002,Arsenal,34,Kyle Bartley,ENG,D,1.8,70,22-05-91,Manchester
+2010,a002,Arsenal,35,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval
+2010,a002,Arsenal,36,Thomas Cruise,ENG,D,1.85,80,09-03-91,Islington
+2010,a002,Arsenal,37,Craig Eastmond,ENG,D,1.83,75,09-12-90,Wandsworth
+2010,a002,Arsenal,38,Jay Emmanuel-Thomas,ENG,M,1.75,72,27-12-90,Forest Gate
+2010,a002,Arsenal,39,Cédric Evina,FRA,D,1.8,80,16-11-91,
+2010,a002,Arsenal,40,Luke Freeman,ENG,F,1.83,64,22-03-92,Dartford
+2010,a002,Arsenal,41,Emmanuel Frimpong,ENG,M,1.83,83,10-01-92,Accra
+2010,a002,Arsenal,42,Kerrea Gilbert,ENG,D,1.75,71,28-02-87,Hammersmith
+2010,a002,Arsenal,43,Conor Henderson,IRL,M,1.85,76,08-09-91,Sidcup
+2010,a002,Arsenal,45,Henri Lansbury,ENG,M,1.83,85,12-10-90,Enfield
+2010,a002,Arsenal,46,Luke Ayling,ENG,D,1.83,72,25-08-91,Lambeth
+2010,a002,Arsenal,47,Rhys Murphy,ENG,F,1.86,76,06-11-90,Shoreham-by-Sea
+2010,a002,Arsenal,49,James Shea,ENG,G,1.8,76,16-06-91,Islington
+2010,a002,Arsenal,51,Gilles Sunu,FRA,F,1.8,70,30-03-91,Châteauroux
+2010,a002,Arsenal,52,Nicklas Bendtner,DEN,F,1.92,83,16-01-88,Copenhagen
+2010,a002,Arsenal,54,Sanchez Watt,ENG,M,1.8,76,14-02-91,Hackney
+2010,a002,Arsenal,50,Jay Simpson,ENG,F,1.8,85,01-12-88,London
+2010,a002,Arsenal,44,Gavin Hoyte,ENG,D,1.8,70,06-06-90,Waltham Forest
+2010,a002,Arsenal,48,Mark Randall,ENG,M,1.83,82,28-09-89,Milton Keynes
+2010,a002,Arsenal,6,Philippe Senderos,SUI,D,1.9,84,14-02-85,Geneva
+2010,a002,Arsenal,19,Jack Wilshere,ENG,M,1.7,65,01-01-92,Stevenage
+2010,a002,Arsenal,53,Wojciech Szczęsny,POL,G,1.95,84,18-04-90,Warsaw
+2010,a002,Aston Villa,1,Brad Friedel,USA,G,1.88,91,18-05-71,Lakewood
+2010,a002,Aston Villa,2,Luke Young,ENG,D,1.83,78,19-07-79,Harlow
+2010,a002,Aston Villa,3,Wilfred Bouma,NED,D,1.79,83,15-06-78,Helmond
+2010,a002,Aston Villa,4,Steve Sidwell,ENG,M,1.78,70,14-12-82,Wandsworth
+2010,a002,Aston Villa,5,Richard Dunne,IRL,D,1.88,95,21-09-79,Dublin
+2010,a002,Aston Villa,6,Stewart Downing,ENG,M,1.8,64,22-07-84,Middlesbrough
+2010,a002,Aston Villa,7,Ashley Young,ENG,M,1.75,65,09-07-85,Stevenage
+2010,a002,Aston Villa,8,James Milner,ENG,M,1.7,67,04-01-86,Wortley
+2010,a002,Aston Villa,9,Marlon Harewood,ENG,F,1.85,85,25-08-79,Hampstead
+2010,a002,Aston Villa,10,John Carew,NOR,F,1.93,88,05-09-79,Lørenskog
+2010,a002,Aston Villa,11,Gabriel Agbonlahor,ENG,F,1.8,79,13-10-86,Birmingham
+2010,a002,Aston Villa,12,Marc Albrighton,ENG,M,1.75,67,18-11-89,Tamworth
+2010,a002,Aston Villa,14,Nathan Delfouneso,ENG,F,1.86,78,02-02-91,Birmingham
+2010,a002,Aston Villa,15,Curtis Davies,ENG,D,1.88,76,15-03-85,Waltham Forest
+2010,a002,Aston Villa,16,Fabian Delph,ENG,M,1.74,60,21-11-89,Bradford
+2010,a002,Aston Villa,17,Moustapha Salifou,TOG,M,1.8,69,01-06-83,Lomé
+2010,a002,Aston Villa,18,Emile Heskey,ENG,F,1.88,88,11-01-78,Leicester
+2010,a002,Aston Villa,19,Stiliyan Petrov,BUL,M,1.8,77,05-07-79,Montana
+2010,a002,Aston Villa,20,Nigel Reo-Coker,ENG,M,1.75,76,14-05-84,Southwark
+2010,a002,Aston Villa,22,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen
+2010,a002,Aston Villa,23,Habib Beye,SEN,D,1.82,79,19-10-77,Suresnes
+2010,a002,Aston Villa,24,Carlos Cuéllar,ESP,D,1.9,84,23-08-81,Madrid
+2010,a002,Aston Villa,25,Stephen Warnock,ENG,D,1.78,75,12-12-81,Ormskirk
+2010,a002,Aston Villa,27,Isaiah Osbourne,ENG,M,1.88,79,15-11-87,Birmingham
+2010,a002,Aston Villa,29,James Collins,WAL,D,1.88,90,23-08-83,Newport
+2010,a002,Aston Villa,33,Andy Marshall,ENG,G,1.88,86,14-04-75,Bury St Edmunds
+2010,a002,Aston Villa,42,Andreas Weimann,AUT,F,1.88,76,05-08-91,Vienna
+2010,a002,Aston Villa,43,Elliott Parish,ENG,G,1.88,83,20-05-90,Northampton
+2010,a002,Aston Villa,44,Eric Lichaj,USA,D,1.8,79,17-11-88,Downers Grove
+2010,a002,Aston Villa,45,Shane Lowry,AUS,D,1.85,88,12-06-89,Perth [AUS]
+2010,a002,Aston Villa,47,Ciaran Clark,ENG,D,1.88,76,26-09-89,Harrow
+2010,a002,Aston Villa,50,Jonathan Hogg,ENG,M,1.7,67,06-12-88,Middlesbrough
+2010,a002,Aston Villa,49,Chris Herd,AUS,M,1.73,76,04-04-89,Perth [AUS]
+2010,a002,Aston Villa,48,Nathan Baker,ENG,D,1.91,80,23-04-91,Worcester
+2010,a002,Aston Villa,26,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull
+2010,a002,Aston Villa,46,Barry Bannan,SCO,M,1.7,60,01-12-89,Glasgow
+2010,a002,Aston Villa,21,Nicky Shorey,ENG,D,1.75,67,19-02-81,Romford
+2010,a002,Birmingham City,1,Maik Taylor,NIR,G,1.93,90,04-09-71,Hildeshein
+2010,a002,Birmingham City,2,Stephen Carr,IRL,D,1.76,78,29-08-76,Dublin
+2010,a002,Birmingham City,3,David Murphy,ENG,D,1.83,84,01-03-84,Hartlepool
+2010,a002,Birmingham City,4,Lee Bowyer,ENG,M,1.75,62,03-01-77,Newham
+2010,a002,Birmingham City,6,Liam Ridgewell,ENG,D,1.88,79,21-07-84,Bexley
+2010,a002,Birmingham City,7,Sebastian Larsson,SWE,M,1.78,70,06-06-85,Eskiltuna
+2010,a002,Birmingham City,8,Garry O'Connor,SCO,F,1.86,75,07-05-83,Edinburgh
+2010,a002,Birmingham City,9,Kevin Phillips,ENG,F,1.7,70,25-07-73,Hitchin
+2010,a002,Birmingham City,10,Cameron Jerome,ENG,F,1.85,85,14-08-86,Huddersfield
+2010,a002,Birmingham City,11,Cristian Benítez,ECU,F,1.69,69,01-05-86,Esmereldas
+2010,a002,Birmingham City,12,Barry Ferguson,SCO,M,1.78,74,02-02-78,Glasgow
+2010,a002,Birmingham City,13,Colin Doyle,IRL,G,1.96,91,12-08-85,Cork
+2010,a002,Birmingham City,14,Roger Johnson,ENG,D,1.91,70,28-04-83,Ashford
+2010,a002,Birmingham City,15,Scott Dann,ENG,D,1.88,76,14-02-87,Liverpool
+2010,a002,Birmingham City,16,James McFadden,SCO,F,1.78,75,14-04-83,Glasgow
+2010,a002,Birmingham City,17,Míchel,ESP,M,1.83,72,09-11-85,Pola de Lena
+2010,a002,Birmingham City,18,Keith Fahey,IRL,M,1.78,80,15-01-83,Dublin
+2010,a002,Birmingham City,20,Franck Queudrue,FRA,D,1.83,77,25-08-78,Paris
+2010,a002,Birmingham City,21,Stuart Parnaby,ENG,D,1.78,70,19-07-82,Durham
+2010,a002,Birmingham City,24,Jay O'Shea,IRL,M,1.83,70,10-08-88,Dún Laoghaire
+2010,a002,Birmingham City,25,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury
+2010,a002,Birmingham City,26,Lee Carsley,IRL,M,1.78,76,28-02-74,Birmingham
+2010,a002,Birmingham City,27,Grégory Vignal,FRA,D,1.82,77,19-07-81,Montpellier
+2010,a002,Birmingham City,28,Teemu Tainio,FIN,M,1.76,71,27-11-79,Tornio
+2010,a002,Birmingham City,29,Ashley Sammons,ENG,M,1.74,71,10-11-91,Solihull
+2010,a002,Birmingham City,30,Dan Preston,ENG,D,1.8,78,26-09-91,Birmingham
+2010,a002,Birmingham City,31,Jordon Mutch,ENG,M,1.75,65,02-12-91,Birmingham
+2010,a002,Birmingham City,32,Jake Jervis,ENG,F,1.93,82,17-09-91,Birmingham
+2010,a002,Birmingham City,33,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull
+2010,a002,Birmingham City,34,Nathan Redmond,ENG,M,1.73,75,06-03-94,Birmingham
+2010,a002,Birmingham City,17,Giovanny Espinoza,ECU,D,1.87,89,12-04-77,Charguayaco
+2010,a002,Birmingham City,5,Martin Taylor,ENG,D,1.93,95,09-11-79,Ashington
+2010,a002,Birmingham City,19,Gary McSheffrey,ENG,M,1.73,66,13-08-82,Coventry
+2010,a002,Birmingham City,23,Marcus Bent,ENG,F,1.88,76,19-05-78,Hammersmith
+2010,a002,Birmingham City,22,Damien Johnson,NIR,M,1.75,64,18-11-78,Lisburn
+2010,a002,Blackburn Rovers,1,Paul Robinson,ENG,G,1.93,90,15-10-79,Beverley
+2010,a002,Blackburn Rovers,2,Lars Jacobsen,DEN,D,1.81,75,20-09-79,Odense
+2010,a002,Blackburn Rovers,4,Christopher Samba,CGO,D,1.93,91,28-03-84,Créteil
+2010,a002,Blackburn Rovers,5,Gaël Givet,FRA,D,1.81,75,09-10-81,Arles
+2010,a002,Blackburn Rovers,6,Ryan Nelsen,NZL,D,1.83,90,18-10-77,Christchurch
+2010,a002,Blackburn Rovers,7,Brett Emerton,AUS,M,1.85,85,22-02-79,Bankstown
+2010,a002,Blackburn Rovers,8,David Dunn,ENG,M,1.75,78,27-12-79,Blackburn
+2010,a002,Blackburn Rovers,9,Jason Roberts,GRN,F,1.85,92,25-01-78,Park Royal
+2010,a002,Blackburn Rovers,11,Vince Grella,AUS,M,1.82,79,05-10-79,Melbourne
+2010,a002,Blackburn Rovers,12,Morten Gamst Pedersen,NOR,M,1.83,74,08-09-81,Vadsø
+2010,a002,Blackburn Rovers,14,Amine Linganzi,ALG,M,1.86,81,16-11-89,Algiers
+2010,a002,Blackburn Rovers,15,Steven N'Zonzi,FRA,M,1.9,75,15-12-88,Colombes
+2010,a002,Blackburn Rovers,16,Steven Reid,IRL,M,1.85,87,10-03-81,Kingston
+2010,a002,Blackburn Rovers,17,Keith Andrews,IRL,M,1.83,78,13-09-80,Dublin
+2010,a002,Blackburn Rovers,18,El-Hadji Diouf,SEN,F,1.8,75,15-01-81,Dakar
+2010,a002,Blackburn Rovers,19,Aaron Doran,IRL,M,1.7,76,13-05-91,Dublin
+2010,a002,Blackburn Rovers,20,Yıldıray Baştürk,TUR,M,1.69,69,24-12-78,Herne
+2010,a002,Blackburn Rovers,21,Martin Olsson,SWE,D,1.78,81,17-05-88,Gävle
+2010,a002,Blackburn Rovers,22,Nikola Kalinić,CRO,F,1.87,84,05-01-88,Split
+2010,a002,Blackburn Rovers,23,Junior Hoilett,CAN,M,1.73,70,05-06-90,Brampton
+2010,a002,Blackburn Rovers,25,Alan Judge,IRL,M,1.84,88,11-11-88,Dublin
+2010,a002,Blackburn Rovers,26,Franco Di Santo,ARG,F,1.94,78,07-04-89,Mendoza
+2010,a002,Blackburn Rovers,27,Michel Salgado,ESP,D,1.74,75,22-10-75,As Neves
+2010,a002,Blackburn Rovers,28,Phil Jones,ENG,D,1.8,71,21-02-92,Preston
+2010,a002,Blackburn Rovers,29,Gavin Gunning,IRL,D,1.83,80,26-01-91,Cork
+2010,a002,Blackburn Rovers,30,Maceo Rigters,NED,F,1.79,72,22-01-84,Amsterdam
+2010,a002,Blackburn Rovers,31,Grant Hanley,SCO,D,1.88,76,20-11-91,Dumfries
+2010,a002,Blackburn Rovers,32,Jason Brown,WAL,G,1.8,98,18-05-82,Southwark
+2010,a002,Blackburn Rovers,38,Mark Bunn,ENG,G,1.83,77,16-11-84,Southgate
+2010,a002,Blackburn Rovers,39,Pascal Chimbonda,FRA,D,1.82,73,21-02-79,Les Abymes
+2010,a002,Blackburn Rovers,14,Paul Gallagher,SCO,F,1.83,79,09-08-84,Glasgow
+2010,a002,Blackburn Rovers,3,Stephen Warnock,ENG,D,1.78,75,12-12-81,Ormskirk
+2010,a002,Blackburn Rovers,20,Elrio van Heerden,RSA,M,1.67,65,11-07-83,Port Elizabeth
+2010,a002,Blackburn Rovers,13,Zurab Khizanishvili,GEO,D,1.83,89,06-10-81,Tbilisi
+2010,a002,Blackburn Rovers,10,Benni McCarthy,RSA,F,1.83,87,12-11-77,Cape Town
+2010,a002,Blackburn Rovers,34,Frank Fielding,ENG,G,1.85,75,04-04-88,Blackburn
+2010,a002,Blackburn Rovers,24,Keith Treacy,IRL,M,1.83,79,13-09-88,Dublin
+2010,a002,Bolton Wanderers,1,Ádám Bogdán,HUN,G,1.94,90,27-09-87,Budapest
+2010,a002,Bolton Wanderers,3,Jlloyd Samuel,TRI,D,1.8,72,29-03-81,San Fernando
+2010,a002,Bolton Wanderers,4,Paul Robinson,ENG,D,1.75,73,14-12-78,Watford
+2010,a002,Bolton Wanderers,5,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield
+2010,a002,Bolton Wanderers,6,Fabrice Muamba,ENG,M,1.88,78,06-04-88,Kinshasa
+2010,a002,Bolton Wanderers,7,Matthew Taylor,ENG,M,1.78,74,27-11-81,Oxford
+2010,a002,Bolton Wanderers,8,Joey O'Brien,IRL,M,1.8,69,17-02-86,Dublin
+2010,a002,Bolton Wanderers,9,Johan Elmander,SWE,F,1.88,79,27-05-81,Alingsas
+2010,a002,Bolton Wanderers,10,Rahamat Riga Mustapha,NED,F,1.78,70,10-10-81,Accra
+2010,a002,Bolton Wanderers,11,Ricardo Gardner,JAM,M,1.75,70,25-09-78,St Andrews
+2010,a002,Bolton Wanderers,12,Zat Knight,ENG,D,1.98,86,02-05-80,Solihull
+2010,a002,Bolton Wanderers,14,Kevin Davies,ENG,F,1.83,81,26-03-77,Sheffield
+2010,a002,Bolton Wanderers,15,Grétar Steinsson,ISL,D,1.89,78,09-01-82,Siglufjördur
+2010,a002,Bolton Wanderers,16,Mark Davies,ENG,M,1.8,74,18-02-88,Wolverhampton
+2010,a002,Bolton Wanderers,17,Ivan Klasnić,CRO,F,1.86,79,29-01-80,Hamburg
+2010,a002,Bolton Wanderers,18,Sam Ricketts,WAL,D,1.85,77,11-10-81,Aylesbury
+2010,a002,Bolton Wanderers,19,Gavin McCann,ENG,M,1.8,70,10-01-78,Blackpool
+2010,a002,Bolton Wanderers,20,Ricardo Vaz Té,POR,F,1.88,79,01-10-86,Lisbon
+2010,a002,Bolton Wanderers,21,Tamir Cohen,ISR,M,1.81,77,04-03-84,Tel Aviv
+2010,a002,Bolton Wanderers,22,Jussi Jääskeläinen,FIN,G,1.91,81,19-04-75,Mikkeli
+2010,a002,Bolton Wanderers,23,Sean Davis,ENG,M,1.78,80,20-09-79,Clapham
+2010,a002,Bolton Wanderers,24,Danny Shittu,NGA,D,1.91,95,02-09-80,Lagos
+2010,a002,Bolton Wanderers,25,Stuart Holden,USA,M,1.78,73,01-08-85,Aberdeen
+2010,a002,Bolton Wanderers,26,Ali Al-Habsi,OMA,G,1.94,79,30-12-81,Muscat
+2010,a002,Bolton Wanderers,27,Lee Chung-Yong,KOR,M,1.8,69,02-07-88,Seoul
+2010,a002,Bolton Wanderers,29,Zoltán Harsányi,SVK,F,1.85,76,01-06-87,Senec
+2010,a002,Bolton Wanderers,30,Chris Basham,ENG,M,1.8,80,20-07-88,Hebburn
+2010,a002,Bolton Wanderers,31,Andy O'Brien,IRL,D,1.91,74,29-06-79,Harrogate
+2010,a002,Bolton Wanderers,32,Jack Wilshere,ENG,M,1.7,65,01-01-92,Stevenage
+2010,a002,Bolton Wanderers,40,Vladimir Weiss,SVK,M,1.75,68,30-11-89,Bratislava
+2010,a002,Bolton Wanderers,17,Rahamat Riga Mustapha,NED,F,1.78,70,10-10-81,Accra
+2010,a002,Bolton Wanderers,2,Nicky Hunt,ENG,D,1.85,86,03-09-83,Westhoughton
+2010,a002,Bolton Wanderers,33,Danny Ward,ENG,F,1.8,78,11-12-91,Leeds
+2010,a002,Bolton Wanderers,35,Temitope Obadeyi,ENG,F,1.9,87,29-10-89,Birmingham
+2010,a002,Bolton Wanderers,28,Mark Connolly,IRL,D,1.83,77,16-12-91,Monaghan
+2010,a002,Burnley,1,Diego Penny,PER,G,1.97,76,22-04-84,Lima
+2010,a002,Burnley,2,Graham Alexander,SCO,D,1.8,76,10-10-71,Coventry
+2010,a002,Burnley,4,Michael Duff,NIR,D,1.85,74,11-01-78,Belfast
+2010,a002,Burnley,5,Clarke Carlisle,ENG,D,1.91,79,14-10-79,Preston
+2010,a002,Burnley,6,Stephen Caldwell,SCO,D,1.8,72,12-09-80,Stirling
+2010,a002,Burnley,7,Kevin McDonald,SCO,M,1.88,83,04-11-88,Carnoustie
+2010,a002,Burnley,9,Steven Fletcher,SCO,F,1.85,76,26-03-87,Shrewsbury
+2010,a002,Burnley,10,Martin Paterson,NIR,F,1.78,64,10-05-87,Tunstall
+2010,a002,Burnley,11,Wade Elliott,ENG,M,1.78,65,14-12-78,Southampton
+2010,a002,Burnley,12,Brian Jensen,DEN,G,1.85,78,08-06-75,Copenhagen
+2010,a002,Burnley,14,Tyrone Mears,ENG,D,1.8,74,18-02-83,Stockport
+2010,a002,Burnley,15,David Edgar,CAN,D,1.88,70,19-05-87,Kitchener
+2010,a002,Burnley,16,Chris McCann,IRL,M,1.85,75,21-07-87,Meath
+2010,a002,Burnley,17,Richard Eckersley,ENG,D,1.76,75,12-03-89,Salford
+2010,a002,Burnley,18,Leon Cort,ENG,D,1.91,83,11-09-79,Southwark
+2010,a002,Burnley,19,Jay Rodriguez,ENG,F,1.85,70,29-07-89,Burnley
+2010,a002,Burnley,20,Robbie Blake,ENG,F,1.75,76,04-03-76,Middlesbrough
+2010,a002,Burnley,21,André Bikey,CMR,D,1.82,80,08-01-85,Douala
+2010,a002,Burnley,22,David Nugent,ENG,F,1.8,76,02-05-85,Liverpool
+2010,a002,Burnley,23,Stephen Jordan,ENG,D,1.83,71,06-03-82,Warrington
+2010,a002,Burnley,25,Adam Kay,ENG,M,1.78,70,05-03-90,Burnley
+2010,a002,Burnley,27,Alex MacDonald,ENG,F,1.7,72,14-04-90,Warrington
+2010,a002,Burnley,28,Kevin Long,IRL,D,1.88,83,18-08-90,Cork
+2010,a002,Burnley,29,Frédéric Nimani,FRA,F,1.91,87,08-10-88,Marseille
+2010,a002,Burnley,30,Steven Thompson,SCO,F,1.88,79,14-10-78,Paisley
+2010,a002,Burnley,31,Nick Weaver,ENG,G,1.93,92,02-03-79,Sheffield
+2010,a002,Burnley,33,Chris Eagles,ENG,M,1.83,67,19-11-85,Hemel Hempstead
+2010,a002,Burnley,34,Danny Fox,SCO,D,1.83,79,29-05-86,Winsford
+2010,a002,Burnley,35,Chris Lynch,ENG,D,1.91,98,31-01-91,Blackburn
+2010,a002,Burnley,36,Nik Kudiersky,ENG,D,,,15-02-91,Glossop
+2010,a002,Burnley,37,Chris Anderson,ENG,M,,,02-10-90,Burnley
+2010,a002,Burnley,38,Alex-Ray Harvey,ENG,M,1.7,68,04-04-90,Burnley
+2010,a002,Burnley,39,Wes Fletcher,ENG,F,1.8,79,28-02-90,Ormskirk
+2010,a002,Burnley,40,Ben Hoskin,ENG,D,,,08-10-90,Accrington
+2010,a002,Burnley,41,Jonathan Lund,ENG,G,1.78,75,01-11-88,Leeds
+2010,a002,Burnley,42,Jack Cork,ENG,M,1.83,69,25-06-89,Carshalton
+2010,a002,Burnley,24,Brian Easton,SCO,D,1.83,76,05-03-88,Glasgow
+2010,a002,Burnley,26,Remco van der Schaaf,NED,M,1.85,77,28-02-79,Ten Boer
+2010,a002,Burnley,32,Fernando Guerrero,ECU,M,1.7,70,30-09-89,Quito
+2010,a002,Burnley,3,Christian Kalvenes,NOR,D,1.83,75,08-03-77,Bergen
+2010,a002,Burnley,8,Joey Guðjónsson,ISL,M,1.73,72,25-05-80,Akranes
+2010,a002,Chelsea,1,Petr Čech,CZE,G,1.96,90,20-05-82,Plzeň
+2010,a002,Chelsea,2,Branislav Ivanović,SRB,D,1.88,86,22-02-84,Sremska Mitrovica
+2010,a002,Chelsea,3,Ashley Cole,ENG,D,1.72,67,20-12-80,Stepney
+2010,a002,Chelsea,5,Michael Essien,GHA,M,1.78,84,03-12-82,Accra
+2010,a002,Chelsea,6,Ricardo Carvalho,POR,D,1.83,76,18-05-78,Amarante
+2010,a002,Chelsea,8,Frank Lampard,ENG,M,1.83,90,20-06-78,Romford
+2010,a002,Chelsea,10,Joe Cole,ENG,M,1.76,73,08-11-81,Paddington
+2010,a002,Chelsea,11,Didier Drogba,CIV,F,1.89,91,11-03-78,Abidjan
+2010,a002,Chelsea,12,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos
+2010,a002,Chelsea,13,Michael Ballack,GER,M,1.88,85,26-09-76,Chemnitz
+2010,a002,Chelsea,15,Florent Malouda,FRA,M,1.81,73,13-06-80,Cayenne
+2010,a002,Chelsea,17,José Bosingwa,POR,D,1.83,75,24-08-82,Kinshasa
+2010,a002,Chelsea,18,Yuriy Zhirkov,RUS,M,1.8,75,20-08-83,Tambov
+2010,a002,Chelsea,19,Paulo Ferreira,POR,D,1.82,76,18-01-79,Lisbon
+2010,a002,Chelsea,20,Deco,POR,M,1.74,73,27-08-77,São Bernardo do Campo
+2010,a002,Chelsea,21,Salomon Kalou,CIV,F,1.84,77,05-08-85,Oumé
+2010,a002,Chelsea,22,Ross Turnbull,ENG,G,1.93,85,04-01-85,Bishop Auckland
+2010,a002,Chelsea,23,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham
+2010,a002,Chelsea,24,Nemanja Matić,SRB,M,1.94,82,01-08-88,Šabac
+2010,a002,Chelsea,26,John Terry,ENG,D,1.86,91,07-12-80,Barking
+2010,a002,Chelsea,30,Rhys Taylor,WAL,G,1.88,85,07-04-90,Neath
+2010,a002,Chelsea,33,Alex,BRA,D,1.88,92,17-06-82,Niterói
+2010,a002,Chelsea,35,Belletti,BRA,D,1.79,74,20-06-76,Cascavel
+2010,a002,Chelsea,39,Nicolas Anelka,FRA,F,1.85,77,14-03-79,Versailles
+2010,a002,Chelsea,40,Hilário,POR,G,1.88,86,21-10-75,São Pedro da Cova
+2010,a002,Chelsea,41,Sam Hutchinson,ENG,D,1.8,73,03-08-89,Slough
+2010,a002,Chelsea,43,Jeffrey Bruma,NED,D,1.86,83,13-11-91,Rotterdam
+2010,a002,Chelsea,44,Gaël Kakuta,FRA,F,1.73,65,21-06-91,Lille
+2010,a002,Chelsea,45,Fabio Borini,ITA,F,1.8,74,29-03-91,Bentivoglio
+2010,a002,Chelsea,46,Jacopo Sala,ITA,M,1.83,80,05-12-91,Bergamo
+2010,a002,Chelsea,47,Nikki Ahamed,SRI,D,1.71,,18-04-91,Colombo
+2010,a002,Chelsea,48,Daniel Philliskirk,ENG,M,1.78,72,10-04-91,Oldham
+2010,a002,Chelsea,50,Jan Šebek,CZE,G,1.97,,31-01-91,Planá
+2010,a002,Chelsea,51,Josh McEachran,ENG,M,1.78,65,01-03-93,Oxford
+2010,a002,Chelsea,52,Patrick van Aanholt,NED,D,1.75,67,29-08-90,s-Hertogenbosch
+2010,a002,Chelsea,14,Claudio Pizarro,PER,F,1.84,79,03-10-78,Lima
+2010,a002,Chelsea,7,Andriy Shevchenko,UKR,F,1.81,84,29-09-76,Dvirkivschyna
+2010,a002,Everton,1,Carlo Nash,ENG,G,1.96,89,13-09-73,Bolton
+2010,a002,Everton,2,Tony Hibbert,ENG,D,1.73,72,20-02-81,Liverpool
+2010,a002,Everton,3,Leighton Baines,ENG,D,1.7,75,11-12-84,Liverpool
+2010,a002,Everton,4,Joseph Yobo,NGA,D,1.88,70,06-09-80,Kano
+2010,a002,Everton,5,John Heitinga,NED,D,1.8,72,15-11-83,Alphen aan den Rijn
+2010,a002,Everton,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale
+2010,a002,Everton,7,Diniyar Bilyaletdinov,RUS,M,1.86,77,27-02-85,Moscow
+2010,a002,Everton,8,Louis Saha,FRA,F,1.84,75,08-08-78,Paris
+2010,a002,Everton,10,Mikel Arteta,ESP,M,1.75,69,26-03-82,San Sebastián
+2010,a002,Everton,12,Iain Turner,SCO,G,1.93,70,26-01-84,Stirling
+2010,a002,Everton,14,James Vaughan,ENG,F,1.8,80,14-07-88,Birmingham
+2010,a002,Everton,15,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet
+2010,a002,Everton,17,Tim Cahill,AUS,M,1.78,69,06-12-79,Sydney
+2010,a002,Everton,18,Phil Neville,ENG,D,1.8,75,21-01-77,Bury
+2010,a002,Everton,19,Dan Gosling,ENG,M,1.78,71,02-02-90,Brixham
+2010,a002,Everton,20,Steven Pienaar,RSA,M,1.7,66,17-03-82,Johannesburg
+2010,a002,Everton,21,Leon Osman,ENG,M,1.73,62,17-05-81,Billinge
+2010,a002,Everton,22,Yakubu Aiyegbeni,NGA,F,1.83,83,22-11-82,Benin City
+2010,a002,Everton,23,Philippe Senderos,SUI,D,1.9,84,14-02-85,Geneva
+2010,a002,Everton,24,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick
+2010,a002,Everton,25,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek
+2010,a002,Everton,26,Jack Rodwell,ENG,M,1.88,70,11-03-91,Birkdale
+2010,a002,Everton,28,Victor Anichebe,NGA,F,1.85,80,23-04-88,Lagos
+2010,a002,Everton,29,Adam Forshaw,ENG,M,1.85,71,08-10-91,Liverpool
+2010,a002,Everton,30,John Ruddy,ENG,G,1.96,97,24-10-86,St Ives
+2010,a002,Everton,31,Séamus Coleman,IRL,D,1.93,67,11-10-88,Donegal
+2010,a002,Everton,32,Luke Garbutt,ENG,D,1.78,73,21-05-93,Harrogate
+2010,a002,Everton,33,James McCarten,ENG,D,1.9,81,08-11-90,Netherton
+2010,a002,Everton,34,Shane Duffy,IRL,D,1.93,76,01-01-92,Derry
+2010,a002,Everton,35,Kieran Agard,ENG,F,1.78,68,10-10-89,Newham
+2010,a002,Everton,36,Jake Bidwell,ENG,D,1.83,70,21-03-93,Southport
+2010,a002,Everton,37,Jose Baxter,ENG,F,1.79,74,07-02-92,Bootle
+2010,a002,Everton,38,James Wallace,ENG,M,1.8,80,19-12-91,Fazackerly
+2010,a002,Everton,39,Hope Akpan,ENG,M,1.83,67,14-08-91,Liverpool
+2010,a002,Everton,40,Conor McAleny,ENG,F,1.78,79,12-08-92,Liverpool
+2010,a002,Everton,43,Shkodran Mustafi,GER,D,1.84,73,17-04-92,Bad Hersfeld
+2010,a002,Everton,44,Nathan Craig,WAL,M,1.83,73,25-10-91,Caernarfon
+2010,a002,Everton,45,Aristote Nsiala,CGO,D,1.93,83,25-03-92,Kinshasa
+2010,a002,Everton,5,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham
+2010,a002,Everton,23,Lucas Neill,AUS,D,1.85,78,09-03-78,Sydney
+2010,a002,Everton,11,Jô,BRA,F,1.88,78,20-03-87,São Paulo
+2010,a002,Everton,9,Landon Donovan,USA,F,1.73,72,04-03-82,Ontario
+2010,a002,Fulham,1,Mark Schwarzer,AUS,G,1.94,85,06-10-72,Sydney
+2010,a002,Fulham,2,Stephen Kelly,IRL,D,1.84,82,06-09-83,Dublin
+2010,a002,Fulham,3,Paul Konchesky,ENG,D,1.78,69,15-05-81,Barking
+2010,a002,Fulham,4,John Paintsil,GHA,D,1.78,68,15-06-81,Berekum
+2010,a002,Fulham,5,Brede Hangeland,NOR,D,1.95,92,20-06-81,Houston
+2010,a002,Fulham,6,Chris Baird,NIR,D,1.79,71,25-02-82,Ballymena
+2010,a002,Fulham,7,Nicky Shorey,ENG,D,1.75,67,19-02-81,Romford
+2010,a002,Fulham,8,Andy Johnson,ENG,F,1.7,64,10-02-81,Bedford
+2010,a002,Fulham,9,Stefano Okaka Chuka,ITA,F,1.86,83,09-08-89,Castiglion del Lago
+2010,a002,Fulham,10,Erik Nevland,NOR,F,1.78,74,10-11-77,Stavanger
+2010,a002,Fulham,11,Zoltán Gera,HUN,M,1.83,75,22-04-79,Pécs
+2010,a002,Fulham,12,David Stockdale,ENG,G,1.91,84,20-09-85,Leeds
+2010,a002,Fulham,13,Danny Murphy,ENG,M,1.75,69,18-03-77,Chester
+2010,a002,Fulham,14,Andranik Teymourian,IRN,M,1.8,73,06-03-83,Tehran
+2010,a002,Fulham,16,Damien Duff,IRL,M,1.78,70,02-03-79,Ballyboden
+2010,a002,Fulham,17,Bjørn Helge Riise,NOR,M,1.74,70,21-06-83,Ålesund
+2010,a002,Fulham,18,Aaron Hughes,NIR,D,1.83,72,08-11-79,Magherafelt
+2010,a002,Fulham,19,Pascal Zuberbühler,SUI,G,1.97,98,08-01-71,Frauenfeld
+2010,a002,Fulham,20,Dickson Etuhu,NGA,M,1.88,83,08-06-82,Kano
+2010,a002,Fulham,22,Fredrik Stoor,SWE,D,1.83,79,28-02-84,Stockholm
+2010,a002,Fulham,23,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches
+2010,a002,Fulham,25,Bobby Zamora,ENG,F,1.83,74,16-01-81,Barking
+2010,a002,Fulham,26,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich
+2010,a002,Fulham,27,Jonathan Greening,ENG,M,1.8,70,02-01-79,Scarborough
+2010,a002,Fulham,29,Simon Davies,WAL,M,1.78,76,23-10-79,Haverfordwest
+2010,a002,Fulham,31,Matthew Saunders,ENG,M,1.8,72,12-09-89,Chertsey
+2010,a002,Fulham,34,Kagisho Dikgacoi,RSA,M,1.8,80,24-11-84,Brandfort
+2010,a002,Fulham,35,David Elm,SWE,F,1.91,95,10-01-83,Johansfors
+2010,a002,Fulham,36,Christopher Buchtmann,GER,M,1.74,68,25-04-92,Minden
+2010,a002,Fulham,37,Matthew Briggs,ENG,D,1.88,84,09-03-91,Wandsworth
+2010,a002,Fulham,40,Michael Uwezu,ENG,F,1.68,77,12-12-90,
+2010,a002,Fulham,44,Keanu Marsh-Brown,ENG,F,1.81,78,10-08-92,Hammersmith
+2010,a002,Fulham,45,Alex Smith,ENG,D,1.75,54,31-10-91,Clapham
+2010,a002,Fulham,28,Adam Watts,ENG,D,1.88,79,04-03-88,London
+2010,a002,Fulham,36,Joe Anderson,ENG,D,1.8,72,13-10-89,Stepney
+2010,a002,Fulham,21,Eddie Johnson,USA,F,1.83,81,31-03-84,Daytona Beach
+2010,a002,Fulham,7,Seol Ki-Hyeon,KOR,F,1.87,82,08-01-79,Jeongseon
+2010,a002,Fulham,15,Diomansy Kamara,SEN,F,1.81,77,08-11-80,Paris
+2010,a002,Fulham,33,Toni Kallio,FIN,D,1.94,85,09-08-78,Tampere
+2010,a002,Fulham,24,Robert Milsom,ENG,D,1.78,72,02-01-87,Redhill
+2010,a002,Hull City,1,Boaz Myhill,WAL,G,1.91,92,09-11-82,Modesto
+2010,a002,Hull City,3,Andy Dawson,ENG,D,1.75,71,20-10-78,Northallerton
+2010,a002,Hull City,4,Ian Ashbee,ENG,M,1.85,86,06-09-76,Birmingham
+2010,a002,Hull City,5,Anthony Gardner,ENG,D,1.96,86,19-09-80,Stone
+2010,a002,Hull City,6,Paul McShane,IRL,D,1.83,72,06-01-86,Wicklow
+2010,a002,Hull City,7,Craig Fagan,ENG,F,1.8,75,11-12-82,Birmingham
+2010,a002,Hull City,8,Nick Barmby,ENG,M,1.7,71,11-02-74,Hull
+2010,a002,Hull City,9,Jozy Altidore,USA,F,1.82,78,06-11-89,Boca Raton
+2010,a002,Hull City,10,Geovanni,BRA,M,1.71,67,11-01-80,Acaiaca
+2010,a002,Hull City,11,Stephen Hunt,IRL,M,1.75,79,01-08-81,Portlaoise
+2010,a002,Hull City,12,Matthew Duke,ENG,G,1.96,84,16-07-77,Sheffield
+2010,a002,Hull City,13,Mark Cullen,ENG,F,1.75,75,24-04-92,Stakeford
+2010,a002,Hull City,14,Richard Garcia,AUS,M,1.8,72,04-09-81,Perth [AUS]
+2010,a002,Hull City,15,Bernard Mendy,FRA,D,1.8,77,20-08-81,Evreux
+2010,a002,Hull City,17,Kevin Kilbane,IRL,M,1.83,83,01-02-77,Preston
+2010,a002,Hull City,18,Caleb Folan,IRL,F,1.88,81,26-10-82,Leeds
+2010,a002,Hull City,19,Steven Mouyokolo,FRA,D,1.9,85,24-01-87,Melun
+2010,a002,Hull City,20,George Boateng,NED,M,1.82,76,05-09-75,Nkawkaw
+2010,a002,Hull City,21,Jimmy Bullard,ENG,M,1.8,73,23-10-78,Newham
+2010,a002,Hull City,22,Dean Marney,ENG,M,1.83,72,31-01-84,Barking
+2010,a002,Hull City,23,Kamel Ghilas,ALG,F,1.77,70,09-03-84,Marseille
+2010,a002,Hull City,24,Kamil Zayatte,GUI,D,1.87,90,07-03-85,Conakry
+2010,a002,Hull City,27,Nicky Featherstone,ENG,F,1.7,71,22-09-88,Goole
+2010,a002,Hull City,28,Ibrahima Sonko,SEN,D,1.91,86,22-01-81,Bignola
+2010,a002,Hull City,29,Jan Vennegoor of Hesselink,NED,F,1.91,85,07-11-78,Oldenzaal
+2010,a002,Hull City,31,Will Atkinson,ENG,M,1.78,67,14-10-88,Beverley
+2010,a002,Hull City,34,Mark Oxley,ENG,G,1.8,73,02-06-90,Sheffield
+2010,a002,Hull City,35,Liam Cooper,SCO,D,1.8,73,03-08-91,Hull
+2010,a002,Hull City,36,Jamie Devitt,IRL,M,1.78,66,06-07-90,Dublin
+2010,a002,Hull City,39,Steve Gardner,ENG,D,1.75,68,12-05-90,Hull
+2010,a002,Hull City,40,Ryan Kendall,ENG,F,1.85,80,14-09-89,Hull
+2010,a002,Hull City,41,John Leonard,ENG,M,1.78,71,05-03-91,
+2010,a002,Hull City,42,Nathan Hanley,NIR,D,1.75,68,18-07-90,Larne
+2010,a002,Hull City,43,Yann Ekra,FRA,F,1.8,70,10-12-90,
+2010,a002,Hull City,44,Seyi George Olofinjana,NGA,M,1.93,74,30-06-80,Lagos
+2010,a002,Hull City,45,Tom Cairney,ENG,M,1.83,72,20-01-91,Nottingham
+2010,a002,Hull City,6,Michael Turner,ENG,D,1.93,85,09-11-83,Lewisham
+2010,a002,Hull City,2,Nathan Doyle,ENG,M,1.8,76,12-01-87,Derby
+2010,a002,Hull City,25,Daniel Cousin,GAB,F,1.86,85,07-02-77,Libreville
+2010,a002,Hull City,16,Péter Halmosi,HUN,M,1.78,69,25-09-79,Szombathely
+2010,a002,Hull City,26,Tony Warner,TRI,G,1.93,87,11-05-74,Liverpool
+2010,a002,Hull City,30,Amr Zaki,EGY,F,1.85,75,01-04-83,Mansoura
+2010,a002,Liverpool,1,Diego Cavalieri,BRA,G,1.89,86,01-12-82,São Paulo
+2010,a002,Liverpool,2,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich
+2010,a002,Liverpool,4,Alberto Aquilani,ITA,M,1.84,73,07-07-84,Rome
+2010,a002,Liverpool,5,Daniel Agger,DEN,D,1.87,75,12-12-84,Hvidovre
+2010,a002,Liverpool,8,Steven Gerrard,ENG,M,1.83,79,30-05-80,Whiston
+2010,a002,Liverpool,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid
+2010,a002,Liverpool,11,Albert Riera,ESP,M,1.88,83,15-04-82,Manacor
+2010,a002,Liverpool,12,Fábio Aurélio,BRA,D,1.78,75,24-09-79,São Carlos
+2010,a002,Liverpool,15,Yossi Benayoun,ISR,M,1.78,70,05-05-80,Beersheba
+2010,a002,Liverpool,16,Sotirios Kyrgiakos,GRE,D,1.92,85,23-07-79,Trikala
+2010,a002,Liverpool,17,Maxi Rodríguez,ARG,M,1.8,79,02-01-81,Rosario
+2010,a002,Liverpool,18,Dirk Kuyt,NED,F,1.84,77,22-07-80,Katwijk
+2010,a002,Liverpool,19,Ryan Babel,NED,F,1.85,78,19-12-86,Amsterdam
+2010,a002,Liverpool,20,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario
+2010,a002,Liverpool,21,Lucas Leiva,BRA,M,1.79,74,09-01-87,Dourados
+2010,a002,Liverpool,22,Emiliano Insúa,ARG,D,1.73,82,07-01-89,Buenos Aires
+2010,a002,Liverpool,23,Jamie Carragher,ENG,D,1.85,83,28-01-78,Bootle
+2010,a002,Liverpool,24,David N'Gog,FRA,F,1.9,79,01-04-89,Gennevilliers
+2010,a002,Liverpool,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid
+2010,a002,Liverpool,26,Jay Spearing,ENG,M,1.68,70,25-11-88,Wirral
+2010,a002,Liverpool,27,Philipp Degen,SUI,D,1.88,82,15-02-83,Basel
+2010,a002,Liverpool,28,Damien Plessis,FRA,M,1.92,76,05-03-88,Neuville-aux-Bois
+2010,a002,Liverpool,31,Nabil El Zhar,MAR,M,1.75,72,27-08-86,Alès
+2010,a002,Liverpool,32,Stephen Darby,ENG,D,1.82,79,06-10-88,Liverpool
+2010,a002,Liverpool,34,Martin Kelly,ENG,D,1.91,77,27-04-90,Bolton
+2010,a002,Liverpool,36,Steven Irwin,ENG,D,1.73,66,29-09-90,Liverpool
+2010,a002,Liverpool,37,Martin Škrteľ,SVK,D,1.91,81,15-12-84,Handlová
+2010,a002,Liverpool,38,Robbie Threlfall,ENG,D,1.83,71,25-11-88,Liverpool
+2010,a002,Liverpool,39,Nathan Eccleston,ENG,F,1.78,66,30-12-90,Manchester
+2010,a002,Liverpool,40,Daniel Ayala,ESP,D,1.91,84,07-11-90,El Saucejo
+2010,a002,Liverpool,41,Martin Hansen,ENG,G,1.88,80,15-06-90,Glostrup
+2010,a002,Liverpool,42,Péter Gulácsi,HUN,G,1.9,83,06-05-90,Budapest
+2010,a002,Liverpool,43,Dean Bouzanis,AUS,G,1.85,84,02-10-90,Sydney
+2010,a002,Liverpool,44,David Martin,ENG,G,1.86,86,22-01-86,Romford
+2010,a002,Liverpool,45,Alex Kačaniklić,SWE,M,1.75,71,13-08-91,Helsingborg
+2010,a002,Liverpool,46,David Amoo,ENG,F,1.78,77,13-04-91,London
+2010,a002,Liverpool,47,Daniel Pacheco,ESP,F,1.68,67,05-01-91,Málaga
+2010,a002,Liverpool,48,Gerardo Bruna,ARG,M,1.73,64,29-01-91,Mendoza
+2010,a002,Liverpool,49,Jack Robinson,ENG,D,1.8,67,01-09-93,Warrington
+2010,a002,Liverpool,29,Krisztián Németh,HUN,F,1.79,70,05-01-89,Győr
+2010,a002,Liverpool,30,Charles Itandje,FRA,G,1.93,83,02-11-82,Bobigny
+2010,a002,Liverpool,38,Andrea Dossena,ITA,D,1.8,77,11-09-81,Lodi
+2010,a002,Liverpool,10,Andriy Voronin,UKR,F,1.77,79,21-07-79,Odessa
+2010,a002,Manchester City,1,Shay Given,IRL,G,1.88,84,20-04-76,Lifford
+2010,a002,Manchester City,2,Micah Richards,ENG,D,1.8,83,24-06-88,Birmingham
+2010,a002,Manchester City,3,Wayne Bridge,ENG,D,1.79,81,05-08-80,Southampton
+2010,a002,Manchester City,4,Nedum Onuoha,ENG,D,1.83,78,12-11-86,Warri
+2010,a002,Manchester City,5,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal
+2010,a002,Manchester City,6,Michael Johnson,ENG,M,1.83,79,24-02-88,Urmston
+2010,a002,Manchester City,7,Stephen Ireland,IRL,M,1.75,68,22-08-86,Cork
+2010,a002,Manchester City,8,Shaun Wright-Phillips,ENG,M,1.66,64,25-10-81,Greenwich
+2010,a002,Manchester City,11,Adam Johnson,ENG,M,1.75,62,14-07-87,Sunderland
+2010,a002,Manchester City,12,Stuart Taylor,ENG,G,1.96,86,28-11-80,Romford
+2010,a002,Manchester City,14,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción
+2010,a002,Manchester City,15,Javier Garrido,ESP,D,1.78,75,15-03-85,Irún
+2010,a002,Manchester City,16,Sylvinho,BRA,D,1.73,66,12-04-74,São Paulo
+2010,a002,Manchester City,17,Martin Petrov,BUL,M,1.8,76,15-01-79,Vzatza
+2010,a002,Manchester City,18,Gareth Barry,ENG,M,1.83,79,23-02-81,Hastings
+2010,a002,Manchester City,19,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham
+2010,a002,Manchester City,24,Patrick Vieira,FRA,M,1.92,82,23-06-76,Dakar
+2010,a002,Manchester City,25,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé
+2010,a002,Manchester City,26,David González,COL,G,1.94,83,20-07-82,Medellín
+2010,a002,Manchester City,28,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké
+2010,a002,Manchester City,32,Carlos Tévez,ARG,F,1.71,75,05-02-84,Ciudadela
+2010,a002,Manchester City,33,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel
+2010,a002,Manchester City,34,Nigel de Jong,NED,M,1.74,72,30-11-84,Amsterdam
+2010,a002,Manchester City,35,Scott Kay,ENG,M,1.79,77,18-09-89,Denton
+2010,a002,Manchester City,37,Gunnar Nielsen,FRO,G,1.91,89,07-10-86,Tórshavn
+2010,a002,Manchester City,38,Márton Fülöp,HUN,G,1.96,92,03-05-83,Budapest
+2010,a002,Manchester City,39,Craig Bellamy,WAL,F,1.75,69,13-07-79,Cardiff
+2010,a002,Manchester City,41,Ben Mee,ENG,D,1.8,74,23-09-89,Sale
+2010,a002,Manchester City,42,Karl Moore,IRL,M,1.7,63,09-11-88,Dublin
+2010,a002,Manchester City,44,Dedryck Boyata,BEL,D,1.88,84,08-09-90,Uccle
+2010,a002,Manchester City,45,Greg Cunningham,IRL,D,1.83,73,31-01-91,Galway
+2010,a002,Manchester City,47,James Poole,ENG,F,1.8,79,20-03-90,Stockport
+2010,a002,Manchester City,48,Abdisalam Ibrahim,NOR,M,1.85,73,01-05-91,Mogadishu
+2010,a002,Manchester City,51,Robert Mak,SVK,M,1.78,71,08-03-91,Bratislava
+2010,a002,Manchester City,52,Alex Nimely,ENG,F,1.8,72,11-05-91,Monrovia
+2010,a002,Manchester City,53,David Ball,ENG,F,1.83,75,14-12-89,Whitefield
+2010,a002,Manchester City,54,Kieran Trippier,ENG,D,1.78,71,19-09-90,Bury
+2010,a002,Manchester City,55,Andrew Tutte,ENG,M,1.75,68,21-09-90,Liverpool
+2010,a002,Manchester City,56,Chris Chantler,ENG,M,1.73,70,16-12-90,Cheadle Hulme
+2010,a002,Manchester City,29,Kelvin Etuhu,NGA,F,1.8,79,30-05-88,Kano
+2010,a002,Manchester City,50,Ryan McGivern,NIR,D,1.78,74,08-01-90,Newry
+2010,a002,Manchester City,26,Tal Ben Haim,ISR,D,1.81,74,31-03-82,Rishon LeZion
+2010,a002,Manchester City,22,Richard Dunne,IRL,D,1.88,95,21-09-79,Dublin
+2010,a002,Manchester City,43,Clayton McDonald,ENG,D,1.98,104,06-12-88,Liverpool
+2010,a002,Manchester City,46,Paul Marshall,ENG,M,1.85,78,09-07-89,Gorton
+2010,a002,Manchester City,20,Felipe Caicedo,ECU,F,1.85,78,05-09-88,Guayaquil
+2010,a002,Manchester City,31,Adam Clayton,ENG,F,1.75,75,14-01-89,Manchester
+2010,a002,Manchester City,40,Vladimir Weiss,SVK,M,1.75,68,30-11-89,Bratislava
+2010,a002,Manchester City,49,Donal McDermott,IRL,F,1.98,76,19-10-89,Dublin
+2010,a002,Manchester City,10,Robinho,BRA,F,1.72,60,25-01-84,São Vicente
+2010,a002,Manchester City,36,Javan Vidal,ENG,D,1.78,68,10-05-89,Manchester
+2010,a002,Manchester City,27,Benjani Mwaruwari,ZIM,F,1.82,78,13-08-78,Bulawayo
+2010,a002,Manchester City,57,Tobias Johansen,NOR,G,1.85,80,29-08-90,
+2010,a002,Manchester United,1,Edwin van der Sar,NED,G,1.97,83,29-10-70,Voorhout
+2010,a002,Manchester United,2,Gary Neville,ENG,D,1.79,74,18-02-75,Bury
+2010,a002,Manchester United,3,Patrice Evra,FRA,D,1.75,76,15-05-81,Dakar
+2010,a002,Manchester United,4,Owen Hargreaves,ENG,M,1.8,74,20-01-81,Calgary
+2010,a002,Manchester United,5,Rio Ferdinand,ENG,D,1.89,82,07-11-78,Peckham
+2010,a002,Manchester United,6,Wes Brown,ENG,D,1.85,75,13-10-79,Manchester
+2010,a002,Manchester United,7,Michael Owen,ENG,F,1.73,70,14-12-79,Chester
+2010,a002,Manchester United,8,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre
+2010,a002,Manchester United,9,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad
+2010,a002,Manchester United,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth
+2010,a002,Manchester United,11,Ryan Giggs,WAL,M,1.8,68,29-11-73,Cardiff
+2010,a002,Manchester United,12,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington
+2010,a002,Manchester United,13,Park Ji-Sung,KOR,M,1.75,70,25-02-81,Suwon
+2010,a002,Manchester United,15,Nemanja Vidić,SRB,D,1.88,82,21-10-81,Užice
+2010,a002,Manchester United,16,Michael Carrick,ENG,M,1.86,74,28-07-81,Wallsend
+2010,a002,Manchester United,17,Nani,POR,M,1.75,66,17-11-86,Praia
+2010,a002,Manchester United,18,Paul Scholes,ENG,M,1.7,72,16-11-74,Salford
+2010,a002,Manchester United,20,Fábio,BRA,D,1.72,65,09-07-90,Petrópolis
+2010,a002,Manchester United,21,Rafael,BRA,D,1.72,65,09-07-90,Petrópolis
+2010,a002,Manchester United,22,John O'Shea,IRL,D,1.9,75,30-04-81,Waterford
+2010,a002,Manchester United,23,Jonny Evans,NIR,D,1.88,77,02-01-88,Belfast
+2010,a002,Manchester United,24,Darren Fletcher,SCO,M,1.83,83,01-02-84,Edinburgh
+2010,a002,Manchester United,25,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio
+2010,a002,Manchester United,26,Gabriel Obertan,FRA,F,1.86,79,26-02-89,Pantin
+2010,a002,Manchester United,27,Federico Macheda,ITA,F,1.83,76,22-08-91,Rome
+2010,a002,Manchester United,28,Darron Gibson,IRL,M,1.8,83,25-10-87,Derry
+2010,a002,Manchester United,29,Tomasz Kuszczak,POL,G,1.9,84,20-03-82,Krosno Odrzańskie
+2010,a002,Manchester United,30,Ritchie De Laet,BEL,D,1.86,77,28-11-88,Antwerp
+2010,a002,Manchester United,31,Corry Evans,NIR,D,1.73,69,30-07-90,Belfast
+2010,a002,Manchester United,32,Mame Biram Diouf,SEN,F,1.85,76,16-12-87,Dakar
+2010,a002,Manchester United,36,David Gray,SCO,D,1.8,71,04-05-88,Edinburgh
+2010,a002,Manchester United,37,Craig Cathcart,NIR,D,1.88,72,06-02-89,Belfast
+2010,a002,Manchester United,38,Ron-Robert Zieler,GER,G,1.85,73,12-02-89,Cologne
+2010,a002,Manchester United,39,James Chester,ENG,D,1.8,72,23-01-89,Warrington
+2010,a002,Manchester United,41,Joshua King,NOR,F,1.8,74,15-01-92,Oslo
+2010,a002,Manchester United,42,Magnus Eikrem,NOR,M,1.73,69,08-08-90,Molde
+2010,a002,Manchester United,43,Matthew James,ENG,M,1.78,74,22-07-91,Bacup
+2010,a002,Manchester United,44,Joe Dudgeon,NIR,D,1.73,67,26-11-90,Leeds
+2010,a002,Manchester United,45,Oliver Gill,ENG,D,,,15-09-90,Frimley
+2010,a002,Manchester United,46,Cameron Stewart,ENG,M,1.72,72,08-04-91,Manchester
+2010,a002,Manchester United,47,Oliver Norwood,NIR,M,1.8,76,12-04-91,Burnley
+2010,a002,Manchester United,35,Tom Cleverley,ENG,M,1.75,67,12-08-89,Basingstoke
+2010,a002,Manchester United,19,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester
+2010,a002,Manchester United,14,Zoran Tošić,SRB,M,1.71,69,28-04-87,Zrenjanin
+2010,a002,Manchester United,33,Sam Hewson,ENG,M,1.73,75,28-11-88,Bolton
+2010,a002,Manchester United,40,Ben Amos,ENG,G,1.85,83,10-04-90,Macclesfield
+2010,a002,Portsmouth,1,David James,ENG,G,1.94,94,01-08-70,Welwyn Garden City
+2010,a002,Portsmouth,3,Ricardo Rocha,POR,D,1.83,80,03-10-78,Braga
+2010,a002,Portsmouth,4,Aaron Mokoena,RSA,D,1.85,82,25-11-80,Johannesburg
+2010,a002,Portsmouth,5,Jamie O'Hara,ENG,M,1.8,78,25-09-86,South London
+2010,a002,Portsmouth,6,Hayden Mullins,ENG,M,1.8,67,27-03-79,Reading
+2010,a002,Portsmouth,7,Hermann Hreidarsson,ISL,D,1.91,83,11-07-74,Reykjavik
+2010,a002,Portsmouth,8,Pape Bouba Diop,SEN,M,1.84,98,28-01-78,Dakar
+2010,a002,Portsmouth,9,Frédéric Piquionne,FRA,F,1.88,85,08-12-78,Nouméa
+2010,a002,Portsmouth,11,Michael Brown,ENG,M,1.76,77,25-01-77,Hartlepool
+2010,a002,Portsmouth,15,Antti Niemi,FIN,G,1.85,89,31-05-72,Oulu
+2010,a002,Portsmouth,16,Steve Finnan,IRL,D,1.75,67,20-04-76,Limerick
+2010,a002,Portsmouth,17,John Utaka,NGA,F,1.79,82,08-01-82,Legugnu
+2010,a002,Portsmouth,18,Anthony Vanden Borre,BEL,D,1.85,80,24-10-87,Likasi
+2010,a002,Portsmouth,19,Danny Webber,ENG,F,1.78,72,28-12-81,Manchester
+2010,a002,Portsmouth,20,Tommy Smith,ENG,F,1.73,72,22-05-80,Hemel Hempstead
+2010,a002,Portsmouth,21,Jamie Ashdown,ENG,G,1.78,92,30-11-80,Reading
+2010,a002,Portsmouth,22,Richard Hughes,SCO,M,1.83,76,25-06-79,Glasgow
+2010,a002,Portsmouth,23,Kevin-Prince Boateng,GHA,M,1.85,86,06-03-87,Berlin
+2010,a002,Portsmouth,24,Aruna Dindane,CIV,F,1.74,80,26-11-80,Abidjan
+2010,a002,Portsmouth,26,Tal Ben Haim,ISR,D,1.81,74,31-03-82,Rishon LeZion
+2010,a002,Portsmouth,27,Nwankwo Kanu,NGA,F,1.96,83,01-08-76,Owerri
+2010,a002,Portsmouth,31,Liam O'Brien,ENG,G,1.88,73,30-11-91,Ruislip
+2010,a002,Portsmouth,32,Hassan Yebda,ALG,M,1.87,77,14-05-84,Saint-Maurice
+2010,a002,Portsmouth,33,Aggelos Basinas,GRE,M,1.8,76,03-01-76,Spata
+2010,a002,Portsmouth,35,Marc Wilson,IRL,D,1.88,80,17-08-87,Belfast
+2010,a002,Portsmouth,37,Gaël Nlundulu,FRA,F,1.82,78,29-04-92,Paris
+2010,a002,Portsmouth,38,Marlon Pack,ENG,M,1.88,74,25-03-91,Portsmouth
+2010,a002,Portsmouth,39,Nadir Belhadj,ALG,D,1.75,67,18-06-82,Saint Claude
+2010,a002,Portsmouth,40,Joel Ward,ENG,D,1.88,76,29-10-89,Emsworth
+2010,a002,Portsmouth,41,Matt Ritchie,ENG,M,1.73,70,10-09-89,Gosport
+2010,a002,Portsmouth,43,James Hurst,ENG,D,1.83,77,31-01-92,Sutton Coldfield
+2010,a002,Portsmouth,44,Luke Wilkinson,ENG,D,1.88,74,02-12-91,Wells
+2010,a002,Portsmouth,46,Lennard Sowah,GER,D,1.8,70,23-08-92,Hamburg
+2010,a002,Portsmouth,47,Nadir Çiftçi,NED,F,1.83,77,12-02-92,Den Haag
+2010,a002,Portsmouth,15,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet
+2010,a002,Portsmouth,19,Niko Kranjčar,CRO,M,1.85,75,13-08-84,Zagreb
+2010,a002,Portsmouth,10,David Nugent,ENG,F,1.8,76,02-05-85,Liverpool
+2010,a002,Portsmouth,2,Linvoy Primus,ENG,D,1.78,86,14-09-73,Forest Gate
+2010,a002,Portsmouth,14,Michael Williamson,ENG,D,1.91,84,08-11-83,Stoke-on-Trent
+2010,a002,Portsmouth,3,Younes Kaboul,FRA,D,1.9,87,04-01-86,St-Julien-en-Genevois
+2010,a002,Portsmouth,31,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje
+2010,a002,Portsmouth,42,Gautier Mahoto,FRA,M,1.81,76,21-02-92,
+2010,a002,Portsmouth,25,Duško Tošić,SRB,D,1.81,78,19-01-85,Zrenjanin
+2010,a002,Portsmouth,14,Quincy Owusu-Abeyie,GHA,F,1.8,74,15-04-86,Amsterdam
+2010,a002,Stoke City,1,Steve Simonsen,ENG,G,1.88,80,03-04-79,South Shields
+2010,a002,Stoke City,3,Danny Higginbotham,ENG,D,1.85,78,29-12-78,Manchester
+2010,a002,Stoke City,4,Robert Huth,GER,D,1.91,88,18-08-84,Berlin
+2010,a002,Stoke City,6,Glenn Whelan,IRL,M,1.8,79,13-01-84,Dublin
+2010,a002,Stoke City,7,Liam Lawrence,IRL,M,1.8,72,14-12-81,Retford
+2010,a002,Stoke City,9,James Beattie,ENG,F,1.85,84,27-02-78,Lancaster
+2010,a002,Stoke City,10,Ricardo Fuller,JAM,F,1.91,79,31-10-79,Kingston
+2010,a002,Stoke City,11,Mamady Sidibé,MLI,F,1.93,77,18-12-79,Bamako
+2010,a002,Stoke City,12,Dave Kitson,ENG,F,1.91,79,21-01-80,Hitchin
+2010,a002,Stoke City,14,Danny Pugh,ENG,M,1.83,76,19-10-82,Manchester
+2010,a002,Stoke City,15,Salif Diao,SEN,M,1.83,73,10-02-77,Kedougou
+2010,a002,Stoke City,17,Ryan Shawcross,ENG,D,1.83,76,04-10-87,Chester
+2010,a002,Stoke City,18,Dean Whitehead,ENG,M,1.8,77,12-01-82,Abingdon
+2010,a002,Stoke City,19,Amdy Faye,SEN,M,1.85,78,12-03-77,Dakar
+2010,a002,Stoke City,20,Tuncay Şanlı,TUR,F,1.82,70,16-01-82,Sakarya
+2010,a002,Stoke City,21,Andrew Davies,ENG,D,1.9,92,17-12-84,Stockton-on-Tees
+2010,a002,Stoke City,22,Danny Collins,WAL,D,1.83,76,06-08-80,Chester
+2010,a002,Stoke City,24,Rory Delap,IRL,M,1.83,74,06-07-76,Sutton Coldfield
+2010,a002,Stoke City,25,Abdoulaye Diagne-Faye,SEN,D,1.87,84,26-02-78,Dakar
+2010,a002,Stoke City,26,Matthew Etherington,ENG,M,1.78,64,14-08-81,Truro
+2010,a002,Stoke City,27,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje
+2010,a002,Stoke City,28,Andy Wilkinson,ENG,D,1.8,70,06-08-84,Stone
+2010,a002,Stoke City,29,Thomas Sørensen,DEN,G,1.96,89,12-06-76,Fredericia
+2010,a002,Stoke City,32,Diego Arismendi,URU,M,1.89,82,25-01-88,Montevideo
+2010,a002,Stoke City,35,Ben Marshall,ENG,M,1.83,73,29-09-91,Salford
+2010,a002,Stoke City,36,Matthew Lund,NIR,M,1.7,61,21-11-90,Manchester
+2010,a002,Stoke City,37,Nathaniel Wedderburn,ENG,M,1.85,85,30-06-91,Wolverhampton
+2010,a002,Stoke City,38,Danzelle St. Louis-Hamilton,ENG,G,1.9,82,07-05-90,Stevenage
+2010,a002,Stoke City,42,Louis Moult,ENG,F,1.83,85,14-05-92,Stoke-on-Trent
+2010,a002,Stoke City,43,Dave Parton,ENG,G,1.85,79,22-11-92,Stoke-on-Trent
+2010,a002,Stoke City,44,Ryan Connor,ENG,M,1.82,75,13-12-91,Stoke-on-Trent
+2010,a002,Stoke City,22,Ibrahima Sonko,SEN,D,1.91,86,22-01-81,Bignola
+2010,a002,Stoke City,30,Ryan Shotton,ENG,D,1.91,85,30-09-88,Fenton
+2010,a002,Stoke City,31,Carl Dickinson,ENG,D,1.85,76,31-03-87,Swadlincote
+2010,a002,Stoke City,16,Richard Cresswell,ENG,F,1.83,83,20-09-77,Bridlington
+2010,a002,Stoke City,2,Andy Griffin,ENG,D,1.73,68,17-03-79,Wigan
+2010,a002,Stoke City,8,Tom Soares,ENG,M,1.83,72,10-07-86,Reading
+2010,a002,Stoke City,5,Leon Cort,ENG,D,1.91,83,11-09-79,Southwark
+2010,a002,Stoke City,23,Michael Tonge,ENG,M,1.83,75,07-04-83,Manchester
+2010,a002,Sunderland,1,Craig Gordon,SCO,G,1.93,77,31-12-82,Edinburgh
+2010,a002,Sunderland,2,Phillip Bardsley,ENG,D,1.79,74,28-06-85,Salford
+2010,a002,Sunderland,3,George McCartney,NIR,D,1.83,79,29-04-81,Belfast
+2010,a002,Sunderland,4,Michael Turner,ENG,D,1.93,85,09-11-83,Lewisham
+2010,a002,Sunderland,5,Anton Ferdinand,ENG,D,1.83,71,18-02-85,Peckham
+2010,a002,Sunderland,6,Alan Hutton,SCO,D,1.85,72,30-11-84,Glasgow
+2010,a002,Sunderland,7,Boudewijn Zenden,NED,M,1.74,70,15-08-76,Maastricht
+2010,a002,Sunderland,8,Steed Malbranque,FRA,M,1.72,73,06-01-80,Mouscron
+2010,a002,Sunderland,9,Fraizer Campbell,ENG,F,1.8,78,13-09-87,Huddersfield
+2010,a002,Sunderland,10,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich
+2010,a002,Sunderland,11,Darren Bent,ENG,F,1.8,73,06-02-84,Tooting
+2010,a002,Sunderland,12,John Mensah,GHA,D,1.8,81,29-11-82,Obuasi
+2010,a002,Sunderland,15,Liam Noble,ENG,M,1.73,55,08-05-91,Newcastle upon Tyne
+2010,a002,Sunderland,16,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland
+2010,a002,Sunderland,17,Kenwyne Jones,TRI,F,1.88,75,05-10-84,Point Fortin
+2010,a002,Sunderland,18,David Meyler,IRL,M,1.9,74,29-05-89,Cork
+2010,a002,Sunderland,19,Lorik Cana,ALB,M,1.86,86,27-07-83,Pristina
+2010,a002,Sunderland,20,Andy Reid,IRL,M,1.75,70,29-07-82,Dublin
+2010,a002,Sunderland,22,Paulo da Silva,PAR,D,1.81,76,01-02-80,Asunción
+2010,a002,Sunderland,24,Trevor Carson,NIR,G,1.83,80,05-03-88,Downpatrick
+2010,a002,Sunderland,25,Roy O'Donovan,IRL,F,1.69,64,10-08-85,Cork
+2010,a002,Sunderland,26,Adam Reed,ENG,M,1.65,55,08-05-91,Hartlepool
+2010,a002,Sunderland,27,Matthew Kilgallon,ENG,D,1.88,81,08-01-84,York
+2010,a002,Sunderland,28,Benjani Mwaruwari,ZIM,F,1.82,78,13-08-78,Bulawayo
+2010,a002,Sunderland,29,Jack Colback,ENG,M,1.76,70,24-10-89,Killingworth
+2010,a002,Sunderland,30,Ryan Noble,ENG,F,1.83,69,06-11-91,Sunderland
+2010,a002,Sunderland,32,Márton Fülöp,HUN,G,1.96,92,03-05-83,Budapest
+2010,a002,Sunderland,33,Michael Liddle,IRL,D,1.73,68,25-12-89,London
+2010,a002,Sunderland,39,Lee Cattermole,ENG,M,1.78,76,21-03-88,Stockton-on-Tees
+2010,a002,Sunderland,30,Paul McShane,IRL,D,1.83,72,06-01-86,Wicklow
+2010,a002,Sunderland,15,Danny Collins,WAL,D,1.83,76,06-08-80,Chester
+2010,a002,Sunderland,7,Carlos Edwards,TRI,M,1.8,69,24-10-78,Port of Spain
+2010,a002,Sunderland,18,Grant Leadbitter,ENG,M,1.75,65,07-06-86,Chester-le-Street
+2010,a002,Sunderland,4,Teemu Tainio,FIN,M,1.76,71,27-11-79,Tornio
+2010,a002,Sunderland,27,Russell Anderson,SCO,D,1.8,68,25-10-78,Aberdeen
+2010,a002,Sunderland,6,Nyron Nosworthy,JAM,D,1.83,80,11-10-80,Brixton
+2010,a002,Sunderland,14,Daryl Murphy,IRL,F,1.89,82,15-03-83,Waterford
+2010,a002,Sunderland,23,David Healy,NIR,F,1.76,67,05-08-79,Downpatrick
+2010,a002,Tottenham Hotspur,1,Heurelho Gomes,BRA,G,1.91,82,15-02-81,João Pinheiro
+2010,a002,Tottenham Hotspur,3,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff
+2010,a002,Tottenham Hotspur,4,Younes Kaboul,FRA,D,1.9,87,04-01-86,St-Julien-en-Genevois
+2010,a002,Tottenham Hotspur,5,David Bentley,ENG,M,1.75,68,27-08-84,Peterborough
+2010,a002,Tottenham Hotspur,6,Tom Huddlestone,ENG,M,1.88,80,28-12-86,Nottingham
+2010,a002,Tottenham Hotspur,7,Aaron Lennon,ENG,M,1.65,63,16-04-87,Chapeltown
+2010,a002,Tottenham Hotspur,8,Jermaine Jenas,ENG,M,1.77,76,18-02-83,Nottingham
+2010,a002,Tottenham Hotspur,9,Roman Pavlyuchenko,RUS,F,1.88,78,15-12-81,Mostovskoy
+2010,a002,Tottenham Hotspur,12,Wilson Palacios,HON,M,1.78,71,29-07-84,La Ceiba
+2010,a002,Tottenham Hotspur,13,James Walker,ENG,G,1.8,85,09-07-73,Sutton-in-Ashfield
+2010,a002,Tottenham Hotspur,14,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar
+2010,a002,Tottenham Hotspur,15,Peter Crouch,ENG,F,2.01,80,30-01-81,Macclesfield
+2010,a002,Tottenham Hotspur,17,Eiður Guðjohnsen,ISL,F,1.85,82,15-09-78,Reykjavík
+2010,a002,Tottenham Hotspur,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton
+2010,a002,Tottenham Hotspur,19,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris
+2010,a002,Tottenham Hotspur,20,Michael Dawson,ENG,D,1.88,76,18-11-83,Northallerton
+2010,a002,Tottenham Hotspur,21,Niko Kranjčar,CRO,M,1.85,75,13-08-84,Zagreb
+2010,a002,Tottenham Hotspur,22,Vedran Ćorluka,CRO,D,1.93,84,05-02-86,Derventa
+2010,a002,Tottenham Hotspur,23,Carlo Cudicini,ITA,G,1.85,80,06-09-73,Milan
+2010,a002,Tottenham Hotspur,25,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster
+2010,a002,Tottenham Hotspur,26,Ledley King,ENG,D,1.88,86,12-10-80,Bow
+2010,a002,Tottenham Hotspur,27,Ben Alnwick,ENG,G,1.88,80,01-01-87,Prudhoe
+2010,a002,Tottenham Hotspur,28,Kyle Walker,ENG,D,1.78,73,28-05-90,Sheffield
+2010,a002,Tottenham Hotspur,29,Jake Livermore,ENG,M,1.8,76,14-11-89,Enfield
+2010,a002,Tottenham Hotspur,30,Dorian Dervite,FRA,D,1.92,85,25-07-88,Lille
+2010,a002,Tottenham Hotspur,32,Benoît Assou-Ekotto,CMR,D,1.8,69,24-03-84,Arras
+2010,a002,Tottenham Hotspur,34,Dean Parrett,ENG,M,1.77,74,16-11-91,Hampstead
+2010,a002,Tottenham Hotspur,35,David Button,ENG,G,1.91,83,27-02-89,Stevenage
+2010,a002,Tottenham Hotspur,36,Ryan Fredericks,ENG,M,1.73,72,10-10-92,Potters Bar
+2010,a002,Tottenham Hotspur,37,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross
+2010,a002,Tottenham Hotspur,38,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow
+2010,a002,Tottenham Hotspur,39,Jonathan Woodgate,ENG,D,1.89,80,22-01-80,Middlesbrough
+2010,a002,Tottenham Hotspur,40,Paul-Jose M'Poku,BEL,M,1.74,65,19-04-92,Kinshasa
+2010,a002,Tottenham Hotspur,21,Pascal Chimbonda,FRA,D,1.82,73,21-02-79,Les Abymes
+2010,a002,Tottenham Hotspur,28,Kevin-Prince Boateng,GHA,M,1.85,86,06-03-87,Berlin
+2010,a002,Tottenham Hotspur,17,Giovani dos Santos,MEX,M,1.73,77,11-05-89,Monterrey
+2010,a002,Tottenham Hotspur,24,Jamie O'Hara,ENG,M,1.8,78,25-09-86,South London
+2010,a002,Tottenham Hotspur,2,Alan Hutton,SCO,D,1.85,72,30-11-84,Glasgow
+2010,a002,Tottenham Hotspur,16,Kyle Naughton,ENG,D,1.8,73,11-11-88,Sheffield
+2010,a002,Tottenham Hotspur,10,Robbie Keane,IRL,F,1.76,72,08-07-80,Tallaght
+2010,a002,West Ham United,1,Robert Green,ENG,G,1.91,93,18-01-80,Chertsey
+2010,a002,West Ham United,4,Danny Gabbidon,WAL,D,1.78,71,08-08-79,Cwmbran
+2010,a002,West Ham United,7,Kieron Dyer,ENG,M,1.73,64,29-12-78,Ipswich
+2010,a002,West Ham United,8,Scott Parker,ENG,M,1.75,70,13-10-80,Lambeth
+2010,a002,West Ham United,9,Ilan,BRA,F,1.81,76,18-09-80,Curitiba
+2010,a002,West Ham United,10,Guillermo Franco,MEX,F,1.82,76,03-11-76,Corrientes
+2010,a002,West Ham United,11,Mido,EGY,F,1.88,83,23-02-83,Cairo
+2010,a002,West Ham United,12,Carlton Cole,ENG,F,1.91,78,12-10-83,Croydon
+2010,a002,West Ham United,13,Luis Boa Morte,POR,M,1.78,73,04-08-77,Lisbon
+2010,a002,West Ham United,14,Radoslav Kováč,CZE,D,1.88,83,27-11-79,Šumperk
+2010,a002,West Ham United,15,Matthew Upson,ENG,D,1.85,72,18-04-79,Hartismere
+2010,a002,West Ham United,16,Mark Noble,ENG,M,1.8,76,08-05-87,West Ham
+2010,a002,West Ham United,17,Benni McCarthy,RSA,F,1.83,87,12-11-77,Cape Town
+2010,a002,West Ham United,18,Jonathan Spector,USA,D,1.82,79,01-03-86,Arlington Heights
+2010,a002,West Ham United,19,Freddie Sears,ENG,F,1.7,75,27-11-89,Hornchurch
+2010,a002,West Ham United,20,Julien Faubert,FRA,M,1.8,75,01-08-83,Le Havre
+2010,a002,West Ham United,21,Valon Behrami,SUI,M,1.85,78,19-04-85,Mitrovica
+2010,a002,West Ham United,22,Manuel Da Costa,POR,D,1.91,82,06-05-86,Saint-Max
+2010,a002,West Ham United,23,Hérita Ilunga,COD,D,1.8,76,25-02-82,Kinshasa
+2010,a002,West Ham United,24,Frank Nouble,ENG,F,1.9,82,24-09-91,Lewisham
+2010,a002,West Ham United,28,Péter Kurucz,HUN,G,1.85,76,30-05-88,Budapest
+2010,a002,West Ham United,29,Marek Štěch,CZE,G,1.91,89,28-01-90,Prague
+2010,a002,West Ham United,30,James Tomkins,ENG,D,1.9,74,29-03-89,Basildon
+2010,a002,West Ham United,31,Jack Collison,WAL,M,1.82,87,02-10-88,Watford
+2010,a002,West Ham United,32,Alessandro Diamanti,ITA,F,1.8,73,02-05-83,Prato
+2010,a002,West Ham United,33,Fabio Daprelà,SUI,D,1.8,65,19-02-91,Ticino
+2010,a002,West Ham United,34,Oliver Lee,ENG,M,1.81,80,11-07-91,London
+2010,a002,West Ham United,35,Josh Payne,ENG,M,1.83,74,25-11-90,Basingstoke
+2010,a002,West Ham United,36,Anthony Edgar,ENG,M,1.72,70,30-09-90,Newham
+2010,a002,West Ham United,41,Zavon Hines,ENG,F,1.78,78,27-12-88,Kingston
+2010,a002,West Ham United,44,Bondz Ngala,ENG,D,1.83,76,03-10-89,Newham
+2010,a002,West Ham United,45,Jordan Spence,ENG,M,1.88,79,24-05-90,Woodford
+2010,a002,West Ham United,46,Junior Stanislas,ENG,M,1.83,76,26-11-89,Kidbrooke
+2010,a002,West Ham United,10,Savio Nsereko,GER,F,1.76,73,27-07-89,Kampala
+2010,a002,West Ham United,19,James Collins,WAL,D,1.88,90,23-08-83,Newport
+2010,a002,West Ham United,9,Dean Ashton,ENG,F,1.85,78,24-11-83,Swindon
+2010,a002,West Ham United,26,Nigel Quashie,SCO,M,1.75,70,20-07-78,Nunhead
+2010,a002,West Ham United,17,Luis Jiménez,CHI,M,1.83,75,17-06-84,Santiago
+2010,a002,West Ham United,27,Calum Davenport,ENG,D,1.93,89,01-01-83,Bedford
+2010,a002,Wigan Athletic,1,Chris Kirkland,ENG,G,1.91,74,02-05-81,Leicester
+2010,a002,Wigan Athletic,2,Steve Gohouri,CIV,D,1.88,88,08-02-81,Treichville
+2010,a002,Wigan Athletic,4,Antonio Amaya,ESP,D,1.92,86,31-05-83,Madrid
+2010,a002,Wigan Athletic,5,Gary Caldwell,SCO,D,1.85,75,12-04-82,Stirling
+2010,a002,Wigan Athletic,6,Hendry Thomas,HON,M,1.8,80,23-02-85,La Ceiba
+2010,a002,Wigan Athletic,7,Paul Scharner,AUT,M,1.91,80,11-03-80,Scheibbs
+2010,a002,Wigan Athletic,8,Ben Watson,ENG,M,1.78,69,09-07-85,Camberwell
+2010,a002,Wigan Athletic,9,Jason Scotland,TRI,F,1.73,73,18-02-79,Morvant
+2010,a002,Wigan Athletic,10,Jason Koumas,WAL,M,1.78,74,25-09-79,Wrexham
+2010,a002,Wigan Athletic,11,Victor Moses,ENG,F,1.77,75,12-12-90,Lagos
+2010,a002,Wigan Athletic,12,Mike Pollitt,ENG,G,1.93,89,29-02-72,Farmworth
+2010,a002,Wigan Athletic,14,Charles N'Zogbia,FRA,M,1.7,70,28-05-86,Harfleur
+2010,a002,Wigan Athletic,15,Jordi Gómez,ESP,M,1.78,74,24-05-85,Barcelona
+2010,a002,Wigan Athletic,16,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath
+2010,a002,Wigan Athletic,17,Emmerson Boyce,BRB,D,1.8,73,24-09-79,Aylesbury
+2010,a002,Wigan Athletic,18,Marcelo Martins Moreno,BOL,F,1.87,82,18-06-87,Santa Cruz de la Sierra
+2010,a002,Wigan Athletic,19,Titus Bramble,ENG,D,1.85,87,21-07-81,Ipswich
+2010,a002,Wigan Athletic,20,Hugo Rodallega,COL,F,1.81,72,25-07-85,El Carmelo
+2010,a002,Wigan Athletic,21,Tomasz Cywka,POL,M,1.8,76,27-06-88,Gliwice
+2010,a002,Wigan Athletic,22,Richard Kingson,GHA,G,1.83,83,13-06-78,Accra
+2010,a002,Wigan Athletic,24,James McCarthy,IRL,M,1.8,72,12-11-90,Glasgow
+2010,a002,Wigan Athletic,25,Mario Melchiot,NED,D,1.87,74,04-11-76,Amsterdam
+2010,a002,Wigan Athletic,27,Mohamed Diamé,SEN,M,1.84,80,14-06-87,Créteil
+2010,a002,Wigan Athletic,28,Tomasz Kupisz,POL,M,1.8,76,02-01-90,Radom
+2010,a002,Wigan Athletic,29,Vladimir Stojković,SRB,G,1.95,92,28-07-83,Loznica
+2010,a002,Wigan Athletic,31,Maynor Figueroa,HON,D,1.8,85,02-05-83,Juticalpa
+2010,a002,Wigan Athletic,39,Jordan Mustoe,ENG,D,1.8,75,28-01-91,Wirral
+2010,a002,Wigan Athletic,43,Callum McManaman,ENG,F,1.75,71,25-04-91,Knowsley
+2010,a002,Wigan Athletic,53,Lee Nicholls,ENG,G,1.91,85,05-10-92,Huyton
+2010,a002,Wigan Athletic,11,Michael Brown,ENG,M,1.76,77,25-01-77,Hartlepool
+2010,a002,Wigan Athletic,30,Marlon King,JAM,F,1.85,78,26-04-80,Dulwich
+2010,a002,Wigan Athletic,5,Cho Won-Hee,KOR,M,1.77,72,17-04-83,Seoul
+2010,a002,Wigan Athletic,23,Olivier Kapo,FRA,F,1.83,72,27-09-80,Abidjan
+2010,a002,Wigan Athletic,18,Daniël de Ridder,NED,F,1.8,69,06-03-84,Amsterdam
+2010,a002,Wigan Athletic,3,Erik Edman,SWE,D,1.79,78,11-11-78,Helsingborg
+2010,a002,Wigan Athletic,26,Rachid Bouaouzan,NED,F,1.7,67,20-02-84,Rotterdam
+2010,a002,Wigan Athletic,38,Jon Routledge,ENG,M,1.83,86,23-11-89,Liverpool
+2010,a002,Wigan Athletic,40,Joe Holt,ENG,M,1.78,66,01-02-90,Huyton
+2010,a002,Wolverhampton Wanderers,1,Wayne Hennessey,WAL,G,1.83,73,24-01-87,Anglesey
+2010,a002,Wolverhampton Wanderers,3,George Elokobi,CMR,D,1.85,84,31-01-86,Mogadishu
+2010,a002,Wolverhampton Wanderers,4,David Edwards,WAL,M,1.8,72,03-02-86,Pontesbury
+2010,a002,Wolverhampton Wanderers,5,Richard Stearman,ENG,D,1.88,67,19-08-87,Wolverhampton
+2010,a002,Wolverhampton Wanderers,6,Jody Craddock,ENG,D,1.83,78,25-07-75,Bromsgrove
+2010,a002,Wolverhampton Wanderers,7,Michael Kightly,ENG,M,1.75,64,24-01-86,Basildon
+2010,a002,Wolverhampton Wanderers,8,Karl Henry,ENG,M,1.83,76,26-11-82,Wolverhampton
+2010,a002,Wolverhampton Wanderers,9,Sylvan Ebanks-Blake,ENG,F,1.78,84,29-03-86,Cambridge
+2010,a002,Wolverhampton Wanderers,10,Andrew Keogh,IRL,F,1.83,70,16-05-86,Dublin
+2010,a002,Wolverhampton Wanderers,11,Stephen Ward,IRL,D,1.85,77,20-08-85,Dublin
+2010,a002,Wolverhampton Wanderers,12,Andrew Surman,ENG,M,1.78,72,20-08-86,Johannesburg
+2010,a002,Wolverhampton Wanderers,13,Marcus Hahnemann,USA,G,1.91,99,15-06-72,Seattle
+2010,a002,Wolverhampton Wanderers,14,David Jones,ENG,M,1.85,80,04-11-84,Southport
+2010,a002,Wolverhampton Wanderers,15,Greg Halford,ENG,D,1.95,81,08-12-84,Chelmsford
+2010,a002,Wolverhampton Wanderers,16,Christophe Berra,SCO,D,1.86,81,31-01-85,Edinburgh
+2010,a002,Wolverhampton Wanderers,17,Matthew Jarvis,ENG,M,1.73,70,22-05-86,Middlesbrough
+2010,a002,Wolverhampton Wanderers,18,Sam Vokes,WAL,F,1.86,76,21-10-89,Lymington
+2010,a002,Wolverhampton Wanderers,19,Chris Iwelumo,SCO,F,1.91,86,01-08-78,Coatbridge
+2010,a002,Wolverhampton Wanderers,20,Nenad Milijaš,SRB,M,1.88,81,30-04-83,Belgrade
+2010,a002,Wolverhampton Wanderers,21,Daniel Jones,ENG,M,1.88,84,14-07-86,Wordsley
+2010,a002,Wolverhampton Wanderers,23,Ronald Zubar,FRA,D,1.86,80,20-09-85,Les Abymes
+2010,a002,Wolverhampton Wanderers,24,Mark Little,ENG,D,1.85,81,20-08-88,Worcester
+2010,a002,Wolverhampton Wanderers,25,Geoffrey Mujangi Bia,COD,M,1.76,71,12-08-89,Kinshasa
+2010,a002,Wolverhampton Wanderers,27,Michael Mancienne,ENG,D,1.8,74,08-01-88,Isleworth
+2010,a002,Wolverhampton Wanderers,28,George Friend,ENG,D,1.88,83,19-10-87,Barnstaple
+2010,a002,Wolverhampton Wanderers,29,Kevin Doyle,IRL,F,1.8,79,18-09-83,Wexford
+2010,a002,Wolverhampton Wanderers,30,Carl Ikeme,NGA,G,1.88,87,08-06-86,Sutton Coldfield
+2010,a002,Wolverhampton Wanderers,31,Matt Murray,ENG,G,1.93,87,02-05-81,Solihull
+2010,a002,Wolverhampton Wanderers,32,Kevin Foley,IRL,D,1.75,70,01-11-84,Luton
+2010,a002,Wolverhampton Wanderers,33,Stefan Maierhofer,AUT,F,2.02,98,16-08-82,Gablitz
+2010,a002,Wolverhampton Wanderers,34,Adlène Guédioura,ALG,M,1.85,80,12-11-85,La Roche-sur-Yon
+2010,a002,Wolverhampton Wanderers,35,Segundo Castillo,ECU,M,1.78,77,15-05-82,San Lorenzo [ECU]
+2010,a002,Wolverhampton Wanderers,36,Johnny Dunleavy,IRL,D,1.83,71,03-07-91,Twin Towns
+2010,a002,Wolverhampton Wanderers,37,Kyle Bennett,ENG,M,1.65,61,09-09-90,Telford
+2010,a002,Wolverhampton Wanderers,38,David Davis,ENG,M,1.77,82,20-02-91,Smethwick
+2010,a002,Wolverhampton Wanderers,39,Sam Winnall,ENG,F,1.75,72,14-12-91,Wolverhampton
+2010,a002,Wolverhampton Wanderers,40,Danny Batth,ENG,D,1.91,85,21-09-90,Brierley Hill
+2010,a002,Wolverhampton Wanderers,41,Ashley Hemmings,ENG,F,1.73,73,03-03-91,Wolverhampton
+2010,a002,Wolverhampton Wanderers,42,Scott Malone,ENG,D,1.89,75,25-03-91,Rowley Regis
+2010,a002,Wolverhampton Wanderers,43,James Spray,ENG,F,1.83,77,02-12-92,Birmingham
+2010,a002,Wolverhampton Wanderers,44,Nathaniel Mendez-Laing,ENG,M,1.78,75,15-04-92,Birmingham
+2010,a002,Wolverhampton Wanderers,35,Elliott Bennett,ENG,M,1.75,69,18-12-88,Telford
+2010,a002,Wolverhampton Wanderers,22,Jason Shackell,ENG,D,1.93,83,27-09-83,Stevenage
+2010,a002,Wolverhampton Wanderers,25,Neill Collins,SCO,D,1.91,79,02-09-83,Troon
+2010,a002,Wolverhampton Wanderers,34,Darren Ward,ENG,D,1.8,72,13-09-78,Kenton
+2010,a002,Wolverhampton Wanderers,26,Matthew Hill,ENG,D,1.73,76,26-03-81,Bristol

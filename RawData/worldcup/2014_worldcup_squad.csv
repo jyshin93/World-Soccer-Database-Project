@@ -1,0 +1,737 @@
+Year,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Current Club
+2014,1,Jefferson,BRA,G,1.87,82,02-01-83,São Vicente,Botafogo
+2014,2,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro,Barcelona
+2014,3,Thiago Silva,BRA,D,1.83,79,22-09-84,Rio de Janeiro,Paris St-Germain
+2014,4,David Luiz,BRA,D,1.89,84,22-04-87,São Paulo,Chelsea
+2014,5,Fernandinho,BRA,M,1.76,67,04-05-85,Londrina,Manchester C
+2014,6,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro,Real Madrid
+2014,7,Hulk,BRA,F,1.76,68,25-07-86,Campina Grande,Zenit St Petersburg
+2014,8,Paulinho,BRA,M,1.8,71,25-07-88,São Paulo,Tottenham H
+2014,9,Fred,BRA,F,1.85,84,03-10-83,Téofilo Otoni,Fluminense
+2014,10,Neymar,BRA,F,1.74,64,05-02-92,Mogi das Cruzes,Barcelona
+2014,11,Oscar,BRA,M,1.79,66,09-09-91,Americana,Chelsea
+2014,12,Júlio César,BRA,G,1.86,79,03-09-79,Rio de Janeiro,Toronto FC (On Loan)
+2014,13,Dante,BRA,D,1.87,82,18-10-83,Salvador,Bayern Munich
+2014,14,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha,Paris St-Germain
+2014,15,Henrique,BRA,D,1.85,73,14-10-86,Marechal Cândido Róndon,Napoli
+2014,16,Ramires,BRA,M,1.79,65,24-03-87,Rio de Janeiro,Chelsea
+2014,17,Luiz Gustavo,BRA,M,1.87,82,23-07-87,Pindamonhangaba,Wolfsburg
+2014,18,Hernanes,BRA,M,1.8,76,29-05-85,Recife,Internazionale
+2014,19,Willian,BRA,M,1.74,70,09-08-88,Ribeirão Pires,Chelsea
+2014,20,Bernard,BRA,M,1.67,52,08-09-92,Belo Horizonte,Shakhtar Donetsk
+2014,21,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Atlético Mineiro
+2014,22,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Atlético Mineiro
+2014,23,Maicon,BRA,D,1.84,77,26-07-81,Novo Hamburgo,Roma
+2014,1,Loïc Feudjou,CMR,G,1.83,75,14-04-92,Yaoundé,Coton Sport
+2014,2,Benoît Assou-Ekotto,CMR,D,1.8,69,24-03-84,Arras,QPR (On Loan)
+2014,3,Nicolas Nkoulou,CMR,D,1.8,77,27-03-90,Yaoundé,Marseille
+2014,4,Cédric Djeugoué,CMR,D,1.84,78,28-08-92,Mankwa,Coton Sport
+2014,5,Dany Nounkeu,CMR,D,1.84,85,11-04-86,Yaoundé,Beşiktaş (On Loan)
+2014,6,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala,Barcelona
+2014,7,Landry N'Guemo,CMR,M,1.73,70,28-11-85,Yaoundé,Bordeaux
+2014,8,Benjamin Moukandjo,CMR,F,1.79,76,12-11-88,Douala,Nancy
+2014,9,Samuel Eto'o,CMR,F,1.8,75,10-03-81,Nkon,Chelsea
+2014,10,Vincent Aboubakar,CMR,F,1.82,78,22-01-92,Garoua,Lorient
+2014,11,Jean II Makoun,CMR,M,1.73,69,29-05-83,Yaoundé,Rennes
+2014,12,Henri Bedimo Nsame,CMR,D,1.8,80,04-06-84,Douala,Lyon
+2014,13,Maxim Choupo-Moting,CMR,F,1.89,82,23-03-89,Hamburg,Mainz
+2014,14,Aurélien Chedjou,CMR,M,1.84,84,20-06-85,Douala,Galatasaray
+2014,15,Pierre Webó,CMR,F,1.8,78,20-01-82,Bafoussan,Fenerbahçe
+2014,16,Charles Itandje,CMR,G,1.93,83,02-11-82,Bobigny,Konyaspor (On Loan)
+2014,17,Stéphane Mbia,CMR,M,1.89,82,20-05-86,Yaoundé,Sevilla (On Loan)
+2014,18,Eyong Enoh,CMR,M,1.8,76,23-03-86,Kumba,Antalyaspor (On Loan)
+2014,19,Fabrice Olinga,CMR,F,1.72,66,12-05-96,Douala,Zulte-Waregem (On Loan)
+2014,20,Edgar Salli,CMR,F,1.63,64,17-08-92,Garoua,Lens (On Loan)
+2014,21,Joel Matip,CMR,D,1.92,83,08-08-91,Bochum,Schalke
+2014,22,Allan-Roméo Nyom,CMR,D,1.88,80,10-05-88,Neuilly-sur-Seine,Granada (On Loan)
+2014,23,Sammy N'Djock,CMR,G,1.81,85,25-02-90,Yaoundé,Fethiyespor
+2014,1,Stipe Pletikosa,CRO,G,1.94,91,08-01-79,Split,FC Rostov
+2014,2,Šime Vrsaljko,CRO,D,1.83,73,10-01-92,Zadar,Genoa
+2014,3,Danijel Pranjić,CRO,M,1.72,67,02-12-81,Našice,Panathinaikos
+2014,4,Ivan Perišić,CRO,M,1.8,74,02-02-89,Split,Wolfsburg
+2014,5,Vedran Ćorluka,CRO,D,1.93,84,05-02-86,Derventa,Lokomotiv Moscow
+2014,6,Dejan Lovren,CRO,D,1.88,86,05-07-89,Karlovac,Southampton
+2014,7,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden,Sevilla
+2014,8,Ognjen Vukojević,CRO,M,1.84,83,20-12-83,Bjelovar,Dynamo Kyiv
+2014,9,Nikica Jelavić,CRO,F,1.88,88,27-08-85,Capljina,Hull C
+2014,10,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar,Real Madrid
+2014,11,Darijo Srna,CRO,D,1.82,78,01-05-82,Metković,Shakhtar Donetsk
+2014,12,Oliver Zelenika,CRO,G,1.91,82,14-05-93,Zagreb,Lokomotiva Zagreb (On Loan)
+2014,13,Gordon Schildenfeld,CRO,D,1.91,89,18-03-85,Šibenik,Panathinaikos (On Loan)
+2014,14,Marcelo Brozović,CRO,M,1.8,65,16-11-92,Zagreb,Dinamo Zagreb
+2014,15,Milan Badelj,CRO,M,1.86,79,25-02-89,Zagreb,Hamburg
+2014,16,Ante Rebić,CRO,F,1.85,77,21-09-93,Split,Fiorentina
+2014,17,Mario Mandžukić,CRO,F,1.86,76,21-05-86,Slavonski Brod,Bayern Munich
+2014,18,Ivica Olić,CRO,F,1.81,85,14-09-79,Davor,Wolfsburg
+2014,19,Sammir,CRO,M,1.78,77,23-04-87,Itabuna,Getafe
+2014,20,Mateo Kovačić,CRO,M,1.81,75,06-05-94,Linz,Internazionale
+2014,21,Domagoj Vida,CRO,D,1.82,70,29-04-89,Osijek,Dynamo Kyiv
+2014,22,Eduardo,CRO,F,1.77,70,25-02-83,Rio de Janeiro,Shakhtar Donetsk
+2014,23,Danijel Subašić,CRO,G,1.92,84,27-10-84,Zadar,Monaco
+2014,1,Jesús Corona,MEX,G,1.81,82,26-01-81,Guadalajara,Cruz Azul
+2014,2,Francisco Rodríguez,MEX,D,1.91,79,20-10-81,Mazatlán,América
+2014,3,Carlos Salcido,MEX,D,1.74,70,02-04-80,Ocotlán,UANL Tigres
+2014,4,Rafael Márquez,MEX,D,1.82,74,13-02-79,Zamora,León
+2014,5,Diego Reyes,MEX,D,1.85,64,19-09-92,Mexico City,FC Porto
+2014,6,Héctor Herrera,MEX,M,1.82,70,19-04-90,Tijuana,FC Porto
+2014,7,Miguel Layún,MEX,D,1.78,61,25-06-88,Córdoba,América
+2014,8,Marco Fabián,MEX,F,1.7,65,21-07-89,Guadalajara,Cruz Azul (On Loan)
+2014,9,Raúl Jiménez,MEX,F,1.9,76,05-05-91,Tepeji,América
+2014,10,Giovani dos Santos,MEX,M,1.73,77,11-05-89,Monterrey,Villarreal
+2014,11,Alán Pulido,MEX,F,1.71,60,08-03-91,Ciudad Victoria,UANL Tigres
+2014,12,Alfredo Talavera,MEX,G,1.88,85,18-09-82,La Barca,Toluca
+2014,13,Guillermo Ochoa,MEX,G,1.83,73,13-07-85,Guadalajara,Ajaccio
+2014,14,Javier Hernández,MEX,F,1.72,62,01-06-88,Guadalajara,Manchester U
+2014,15,Héctor Moreno,MEX,D,1.82,80,17-01-88,Culiacán,Espanyol
+2014,16,Miguel Ángel Ponce,MEX,D,1.75,77,12-04-89,Sacramento,Toluca (On Loan)
+2014,17,Isaác Brizuela,MEX,F,1.68,58,28-08-90,Lagos de Moreno,Toluca
+2014,18,Andrés Guardado,MEX,M,1.69,60,28-09-86,Guadalajara,Bayer Leverkusen (On Loan)
+2014,19,Oribe Peralta,MEX,F,1.78,70,12-01-84,Torreón,Santos Laguna
+2014,20,Javier Aquino,MEX,M,1.68,59,11-02-90,Oaxaca,Villarreal
+2014,21,Carlos Alberto Peña,MEX,M,1.76,78,29-03-90,Ciudad Victoria,León
+2014,22,Paul Aguilar,MEX,D,1.77,65,06-03-86,Concordia,América
+2014,23,José Vázquez,MEX,M,1.66,67,14-03-88,Celaya,León
+2014,1,Matthew Ryan,AUS,G,1.81,73,08-04-92,Plumpton,Club Brugge
+2014,2,Ivan Franjić,AUS,D,1.8,77,10-09-87,Melbourne,Brisbane Roar
+2014,3,Jason Davidson,AUS,D,1.8,72,29-06-91,Melbourne,Heracles Almelo
+2014,4,Tim Cahill,AUS,M,1.78,69,06-12-79,Sydney,New York Red Bulls
+2014,5,Mark Milligan,AUS,D,1.8,78,04-08-85,Auburn,Melbourne Victory
+2014,6,Matthew Špiranović,AUS,D,1.93,88,27-06-88,Geelong,Western Sydney W
+2014,7,Matthew Leckie,AUS,F,1.8,79,04-02-91,Melbourne,FSV Frankfurt
+2014,8,Bailey Wright,AUS,D,1.75,85,28-07-92,Melbourne,Preston NE
+2014,9,Adam Taggart,AUS,F,1.83,69,02-06-93,Perth,Newcastle U Jets
+2014,10,Ben Halloran,AUS,M,1.8,73,14-06-92,Cairns,Fortuna Düsseldorf
+2014,11,Tommy Oar,AUS,M,1.7,64,10-12-91,Southport [AUS],FC Utrecht
+2014,12,Mitchell Langerak,AUS,G,1.91,77,22-08-88,Emerald,Borussia Dortmund
+2014,13,Oliver Bozanic,AUS,M,1.83,76,08-01-89,Sydney,Luzern
+2014,14,James Troisi,AUS,F,1.78,77,03-07-88,Adelaide,Melbourne Victory (On Loan)
+2014,15,Mile Jedinak,AUS,M,1.89,88,03-08-84,Sydney,Crystal Palace
+2014,16,James Holland,AUS,M,1.8,74,15-05-89,Sydney,Austria Vienna
+2014,17,Matt McKay,AUS,M,1.71,65,11-01-83,Brisbane,Brisbane Roar
+2014,18,Eugene Galeković,AUS,G,1.86,91,12-06-81,Melbourne,Adelaide U
+2014,19,Ryan McGowan,AUS,D,1.88,75,15-08-89,Adelaide,Shandong Luneng
+2014,20,Dario Vidošić,AUS,M,1.85,75,08-04-87,Osijek,Sion
+2014,21,Massimo Luongo,AUS,M,1.74,75,25-09-92,Sydney,Swindon T
+2014,22,Alex Wilkinson,AUS,D,1.87,85,13-08-84,Sydney,Jeonbuk Hyundai Motors
+2014,23,Mark Bresciano,AUS,M,1.82,73,11-02-80,Melbourne,Al-Gharafa
+2014,1,Claudio Bravo,CHI,G,1.84,84,13-04-83,Viluco,Real Sociedad
+2014,2,Eugenio Mena,CHI,D,1.71,73,18-07-88,Viña del Mar,Santos (On Loan)
+2014,3,Miiko Albornoz,CHI,D,1.8,80,30-11-90,Stockholm,Malmö FF
+2014,4,Mauricio Isla,CHI,M,1.76,72,12-06-88,Buin,Juventus
+2014,5,Francisco Silva,CHI,M,1.78,75,11-02-86,Santiago,Osasuna
+2014,6,Carlos Carmona,CHI,M,1.79,77,21-02-87,Coquimbo,Atalanta
+2014,7,Alexis Sánchez,CHI,F,1.68,62,19-12-88,Tocopilla,Barcelona
+2014,8,Arturo Vidal,CHI,M,1.81,74,22-05-87,Santiago,Juventus
+2014,9,Mauricio Pinilla,CHI,F,1.85,75,04-02-84,San Bernardo,Cagliari
+2014,10,Jorge Valdivia,CHI,M,1.73,71,19-10-83,Maracaibo,Palmeiras
+2014,11,Eduardo Vargas,CHI,F,1.73,74,20-11-89,Santiago,Valencia (On Loan)
+2014,12,Cristopher Toselli,CHI,G,1.8,75,15-06-88,Antofagasta,Universidad Católica
+2014,13,José Rojas,CHI,D,1.74,75,23-06-83,Talagante,Universidad de Chile
+2014,14,Fabián Orellana,CHI,F,1.69,68,27-01-86,Santiago,Celta Vigo
+2014,15,Jean Beausejour,CHI,M,1.79,80,01-06-84,Santiago,Wigan Ath
+2014,16,Felipe Gutiérrez,CHI,M,1.7,64,08-10-90,Valparaíso,FC Twente
+2014,17,Gary Medel,CHI,D,1.72,71,03-08-87,Santiago,Cardiff C
+2014,18,Gonzalo Jara,CHI,D,1.78,77,29-08-85,Santiago,Nottingham F
+2014,19,José Pedro Fuenzalida,CHI,M,1.7,67,22-02-85,Santiago,Colo-Colo
+2014,20,Charles Aránguiz,CHI,M,1.72,67,17-04-89,Santiago,Internacional (On Loan)
+2014,21,Marcelo Díaz,CHI,M,1.66,64,30-12-86,Santiago,Basel
+2014,22,Esteban Paredes,CHI,F,1.76,78,01-08-80,Santiago,Colo-Colo
+2014,23,Johnny Herrera,CHI,G,1.83,78,09-05-81,Angol,Universidad de Chile
+2014,1,Jasper Cillessen,NED,G,1.87,82,22-04-89,Groesbeek,Ajax
+2014,2,Ron Vlaar,NED,D,1.89,80,16-02-85,Hensbroek,Aston Villa
+2014,3,Stefan de Vrij,NED,D,1.88,78,05-02-92,Ouderkerk aan den IJssel,Feyenoord
+2014,4,Bruno Martins Indi,NED,D,1.85,76,08-02-92,Barreiro,Feyenoord
+2014,5,Daley Blind,NED,M,1.82,68,09-03-90,Amsterdam,Ajax
+2014,6,Nigel de Jong,NED,M,1.74,72,30-11-84,Amsterdam,Milan
+2014,7,Daryl Janmaat,NED,D,1.76,65,22-07-89,Leidschendam,Feyenoord
+2014,8,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN],Swansea C (On Loan)
+2014,9,Robin van Persie,NED,F,1.83,71,06-08-83,Rotterdam,Manchester U
+2014,10,Wesley Sneijder,NED,M,1.7,67,09-06-84,Utrecht,Galatasaray
+2014,11,Arjen Robben,NED,F,1.81,75,23-01-84,Bedum,Bayern Munich
+2014,12,Paul Verhaegh,NED,D,1.78,68,01-09-83,Kronenberg,Augsburg
+2014,13,Joël Veltman,NED,D,1.84,75,15-01-92,IJmuiden,Ajax
+2014,14,Terence Kongolo,NED,D,1.83,70,14-02-94,Rotterdam,Feyenoord
+2014,15,Dirk Kuyt,NED,F,1.84,77,22-07-80,Katwijk,Fenerbahçe
+2014,16,Jordy Clasie,NED,M,1.69,68,27-06-91,Haarlem,Feyenoord
+2014,17,Jeremain Lens,NED,F,1.78,80,24-11-87,Amsterdam,Dynamo Kyiv
+2014,18,Leroy Fer,NED,M,1.88,79,05-01-90,Zoetermeer,Norwich C
+2014,19,Klaas Jan Huntelaar,NED,F,1.86,80,12-08-83,Drempt,Schalke
+2014,20,Georginio Wijnaldum,NED,M,1.72,69,11-11-90,Rotterdam,PSV Eindhoven
+2014,21,Memphis Depay,NED,F,1.7,65,13-02-94,Moordrecht,PSV Eindhoven
+2014,22,Michel Vorm,NED,G,1.83,84,20-10-83,Nieuwegein,Swansea C
+2014,23,Tim Krul,NED,G,1.88,74,03-04-88,Den Haag,Newcastle U
+2014,1,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid,Real Madrid
+2014,2,Raúl Albiol,ESP,D,1.9,82,04-09-85,Vilamarxant,Napoli
+2014,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona,Barcelona
+2014,4,Javi Martínez,ESP,M,1.9,81,02-09-88,Lizarra,Bayern Munich
+2014,5,Juanfran,ESP,D,1.8,72,09-01-85,Crevillent,Atlético Madrid
+2014,6,Andrés Iniesta,ESP,M,1.7,65,11-05-84,Fuentealbilla,Barcelona
+2014,7,David Villa,ESP,F,1.75,69,03-12-81,Langreo,Atlético Madrid
+2014,8,Xavi,ESP,M,1.7,68,25-01-80,Terrassa,Barcelona
+2014,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid,Chelsea
+2014,10,Cesc Fàbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar,Barcelona
+2014,11,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife,Barcelona
+2014,12,David De Gea,ESP,G,1.92,82,07-11-90,Madrid,Manchester U
+2014,13,Juan Mata,ESP,F,1.7,63,28-04-88,Burgos,Manchester U
+2014,14,Xabi Alonso,ESP,M,1.83,75,25-11-81,Tolosa,Real Madrid
+2014,15,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas,Real Madrid
+2014,16,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell,Barcelona
+2014,17,Koke,ESP,M,1.78,73,08-01-92,Madrid,Atlético Madrid
+2014,18,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat,Barcelona
+2014,19,Diego Costa,ESP,F,1.86,78,07-10-88,Lagarto,Atlético Madrid
+2014,20,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera,Arsenal
+2014,21,David Silva,ESP,M,1.7,67,08-01-86,Arguineguín,Manchester C
+2014,22,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona,Chelsea
+2014,23,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid,Napoli (On Loan)
+2014,1,David Ospina,COL,G,1.81,76,31-08-88,Medellín,Nice
+2014,2,Cristián Zapata,COL,D,1.86,82,30-09-86,Padilla Cauca,Milan
+2014,3,Mario Yepes,COL,D,1.87,83,13-01-76,Cali,Atalanta
+2014,4,Santiago Arias,COL,D,1.7,67,13-01-92,Medellín,PSV Eindhoven
+2014,5,Carlos Carbonero,COL,M,1.8,77,25-07-90,Bogotá,River Plate
+2014,6,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,Elche
+2014,7,Pablo Armero,COL,D,1.74,81,02-11-86,Tumaco,West Ham U (On Loan)
+2014,8,Abel Aguilar,COL,M,1.85,82,06-01-85,Santa Fe de Bogota,Toulouse
+2014,9,Téofilo Gutiérrez,COL,F,1.78,70,27-05-85,Barranquilla,River Plate
+2014,10,James Rodríguez,COL,M,1.8,77,12-07-91,Cúcuta,Monaco
+2014,11,Juan Cuadrado,COL,M,1.76,66,26-05-88,Necoclí,Fiorentina
+2014,12,Camilo Vargas,COL,G,1.85,81,09-03-89,Bogotá,Santa Fe
+2014,13,Fredy Guarín,COL,M,1.84,78,30-06-86,Puerto Boyaca,Internazionale
+2014,14,Víctor Ibarbo,COL,F,1.88,78,19-05-90,Cali,Cagliari
+2014,15,Alexander Mejía,COL,M,1.76,71,11-07-88,Barranquilla,Atlético Nacional
+2014,16,Éder Álvarez Balanta,COL,D,1.81,84,28-02-93,Bogotá,River Plate
+2014,17,Carlos Bacca,COL,F,1.79,76,08-09-86,Barranquilla,Sevilla
+2014,18,Camilo Zuńiga,COL,M,1.72,72,14-12-85,Chigorodó,Napoli
+2014,19,Adrián Ramos,COL,F,1.85,72,22-01-86,Santander de Quilichao,Hertha Berlin
+2014,20,Juan Quintero,COL,M,1.69,64,18-01-93,Medellín,FC Porto
+2014,21,Jackson Martínez,COL,F,1.84,75,03-10-86,Quibdó,FC Porto
+2014,22,Faryd Mondragon,COL,G,1.91,94,21-06-71,Cali,Deportivo Cali
+2014,23,Carlos Valdés,COL,D,1.84,80,22-05-85,Cali,San Lorenzo (On Loan)
+2014,1,"Barry ""Copa"" Boubacar",CIV,G,1.8,69,30-12-79,Marcory,Lokeren
+2014,2,Ousmane Viera,CIV,D,1.86,81,21-12-86,Daloa,Rizespor
+2014,3,Arthur Boka,CIV,D,1.66,67,02-04-83,Abidjan,Stuttgart
+2014,4,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké,Liverpool
+2014,5,Didier Zokora,CIV,M,1.79,72,14-12-80,Abidjan,Trabzonspor
+2014,6,Mathis Bolly,CIV,M,1.85,77,14-11-90,Oslo,Fortuna Düsseldorf
+2014,7,Jean-Daniel Akpa Akpro,CIV,M,1.8,66,11-10-92,Toulouse,Toulouse
+2014,8,Salomon Kalou,CIV,F,1.84,77,05-08-85,Oumé,Lille
+2014,9,Cheik Ismael Tioté,CIV,M,1.8,79,21-06-86,Yamoussoukro,Newcastle U
+2014,10,"Kouassi Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama,Roma
+2014,11,Didier Drogba,CIV,F,1.89,91,11-03-78,Abidjan,Galatasaray
+2014,12,Wilfried Bony,CIV,F,1.82,80,10-12-88,Bingerville,Swansea C
+2014,13,Didier Ya Konan,CIV,M,1.74,74,22-05-84,Abidjan,Hannover 96
+2014,14,Ismaël Diomande,CIV,M,1.8,75,28-08-92,Abidjan,St-Etienne
+2014,15,Max Gradel,CIV,M,1.8,70,30-11-87,Abidjan,St-Etienne
+2014,16,Sylvain Gbohouo,CIV,G,1.84,82,29-10-88,Abidjan,Séwé Sports
+2014,17,Serge Aurier,CIV,D,1.75,75,24-12-92,Abidjan,Toulouse
+2014,18,Constant Djakpa,CIV,D,1.77,73,17-10-86,Abidjan,Eintracht Frankfurt
+2014,19,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké,Manchester C
+2014,20,Serey Die,CIV,M,1.79,74,07-11-84,Abidjan,Basel
+2014,21,Giovanni Sio,CIV,F,1.8,72,31-03-89,Nantes,Basel
+2014,22,Souleymane Bamba,CIV,D,1.9,90,13-01-85,Ivry-sur-Seine,Trabzonspor
+2014,23,Mandé Sayouba,CIV,G,1.93,82,15-06-93,Abidjan,Stabæk
+2014,1,Orestis Karnezis,GRE,G,1.89,79,11-07-85,Athens,Granada (On Loan)
+2014,2,Giannis Maniatis,GRE,D,1.75,68,12-10-86,Livadia,Olympiakos
+2014,3,Giorgos Tzavelas,GRE,D,1.83,81,26-11-87,Athens,PAOK
+2014,4,Konstantinos Manolas,GRE,D,1.79,67,14-06-91,Naxos,Olympiakos
+2014,5,Vangelis Moras,GRE,D,1.93,78,26-08-81,Larissa,Verona
+2014,6,Alexandros Tziolis,GRE,M,1.89,84,13-02-85,Katerini,Kayserispor (On Loan)
+2014,7,Giorgos Samaras,GRE,F,1.93,82,21-02-85,Heraklion,Celtic
+2014,8,Panagiotis Kone,GRE,M,1.83,76,26-07-87,Tirana,Bologna
+2014,9,Kostas Mitroglou,GRE,F,1.88,85,12-03-88,Kavala,Fulham
+2014,10,Giorgos Karagounis,GRE,M,1.76,74,06-03-77,Pyrgos,Fulham
+2014,11,Loukas Vyntra,GRE,D,1.84,76,05-02-81,Alberhiche,Levante
+2014,12,Panagiotis Glykos,GRE,G,1.84,77,10-10-86,Volos,PAOK
+2014,13,Stefanos Kapino,GRE,G,1.96,85,18-03-94,Piraeus,Panathinaikos
+2014,14,Dimitris Salpigidis,GRE,F,1.72,74,18-08-81,Thessaloniki,PAOK
+2014,15,Vasilis Torosidis,GRE,D,1.85,80,10-06-85,Xanthi,Roma
+2014,16,Lazaros Christodoulopoulos,GRE,M,1.83,77,19-12-86,Thessaloniki,Bologna
+2014,17,Theofanis Gekas,GRE,F,1.79,82,23-05-80,Larissa,Konyaspor
+2014,18,Giannis Fetfatzidis,GRE,M,1.68,64,21-12-90,Drama,Genoa
+2014,19,Sokratis Papastathopoulos,GRE,D,1.83,82,09-06-88,Kalamata,Borussia Dortmund
+2014,20,José Holebas,GRE,D,1.84,79,27-06-84,Aschaffenburg,Olympiakos
+2014,21,Kostas Katsouranis,GRE,M,1.83,84,21-06-79,Patra,PAOK
+2014,22,Andreas Samaris,GRE,M,1.89,80,13-06-89,Patras,Olympiakos
+2014,23,Panagiotis Tachtsidis,GRE,M,1.91,86,15-02-91,Nafplio,Torino (On Loan)
+2014,1,Eiji Kawashima,JPN,G,1.85,80,20-03-83,Saitama,Standard Liège
+2014,2,Atsuto Uchida,JPN,D,1.76,62,27-03-88,Shizuoka,Schalke
+2014,3,Gotoku Sakai,JPN,D,1.75,72,14-03-91,New York,Stuttgart
+2014,4,Keisuke Honda,JPN,M,1.82,75,13-06-86,Osaka,Milan
+2014,5,Yuto Nagatomo,JPN,D,1.7,68,12-09-86,Ehime,Internazionale
+2014,6,Masato Morishige,JPN,M,1.79,72,21-05-87,Hiroshima,FC Tokyo
+2014,7,Yasuhito Endo,JPN,M,1.78,75,28-01-80,Kagoshima,Gamba Osaka
+2014,8,Hiroshi Kiyotake,JPN,M,1.72,63,12-11-89,Oita,Nürnberg
+2014,9,Shinji Okazaki,JPN,F,1.73,70,16-04-86,Hyogo,Mainz
+2014,10,Shinji Kagawa,JPN,M,1.72,63,17-03-89,Hyogo,Manchester U
+2014,11,Yoichiro Kakitani,JPN,F,1.73,62,03-01-90,Osaka,Cerezo Osaka
+2014,12,Shusaku Nishikawa,JPN,G,1.83,79,18-06-86,Oita,Urawa Red Diamonds
+2014,13,Yoshito Ōkubo,JPN,F,1.7,73,09-06-82,Fukuoka,Kasawaki Frontale
+2014,14,Toshihiro Aoyama,JPN,M,1.73,72,22-02-86,Okayama,Sanfrecce Hiroshima
+2014,15,Yasuyuki Konno,JPN,D,1.78,73,25-01-83,Miyagi,Gamba Osaka
+2014,16,Hotaru Yamaguchi,JPN,M,1.73,64,06-10-90,Mie,Cerezo Osaka
+2014,17,Makoto Hasebe,JPN,M,1.77,65,18-01-84,Shizuoka,Nürnberg
+2014,18,Yuya Osako,JPN,F,1.82,70,18-05-90,Kagoshima,1860 Munich
+2014,19,Masahiko Inoha,JPN,D,1.79,73,28-08-85,Miyazaki,Júbilo Iwata
+2014,20,Manabu Saito,JPN,F,1.65,54,04-04-90,Kanagawa,Yokohama F Marinos
+2014,21,Hiroki Sakai,JPN,D,1.83,70,12-04-90,Nagano,Hannover 96
+2014,22,Maya Yoshida,JPN,D,1.86,78,24-08-88,Nagasaki,Southampton
+2014,23,Shuichi Gonda,JPN,G,1.87,82,03-03-89,Tokyo,FC Tokyo
+2014,1,Keylor Navas,CRC,G,1.86,78,15-12-86,Pérez Zeledón,Levante
+2014,2,Johnny Acosta,CRC,D,1.76,78,21-07-83,Ciudad Quesada,LD Alajuelense
+2014,3,Giancarlo González,CRC,D,1.86,72,08-02-88,San José [CRC],Columbus Crew
+2014,4,Michael Umaña,CRC,D,1.77,75,16-07-82,Santa Ana,Deportivo Saprissa
+2014,5,Celso Borges,CRC,M,1.86,81,27-05-88,San José [CRC],AIK
+2014,6,Óscar Duarte,CRC,D,1.84,70,03-06-89,Masaya,Club Brugge
+2014,7,Christian Bolaños,CRC,M,1.78,67,17-05-84,San José [CRC],FC København
+2014,8,David Myrie,CRC,D,1.85,79,01-06-88,Puerto Viejo,CS Herediano
+2014,9,Joel Campbell,CRC,F,1.78,70,26-06-92,San José [CRC],Olympiakos (On Loan)
+2014,10,Bryan Ruiz,CRC,F,1.88,78,18-08-85,San José [CRC],PSV Eindhoven (On Loan)
+2014,11,Michael Barrantes,CRC,M,1.77,71,04-10-83,San José [CRC],Aalesund
+2014,12,Waylon Francis,CRC,D,1.75,73,20-09-90,Puerto Limón,Columbus Crew
+2014,13,Esteban Granados,CRC,M,1.83,74,25-10-85,Cartago,CS Herediano
+2014,14,Randall Brenes,CRC,F,1.75,69,13-08-83,San José [CRC],Cartaginés
+2014,15,Junior Díaz,CRC,D,1.85,76,12-09-83,San José [CRC],Mainz
+2014,16,Cristian Gamboa,CRC,D,1.75,67,24-10-89,Liberia,Rosenborg
+2014,17,Yeltsin Tejeda,CRC,M,1.77,66,17-03-92,Puerto Limón,Deportivo Saprissa
+2014,18,Patrick Pemberton,CRC,G,1.78,75,24-04-82,Puerto Limón,LD Alajuelense
+2014,19,Roy Miller,CRC,D,1.87,75,24-11-84,San José [CRC],New York Red Bulls
+2014,20,Diego Calvo,CRC,F,1.78,78,25-03-91,San José [CRC],Vålerenga
+2014,21,Marco Ureña,CRC,F,1.79,70,05-03-90,San José [CRC],Kuban Krasnodar
+2014,22,José Miguel Cubero,CRC,M,1.78,72,14-02-87,Sarchí,CS Herediano
+2014,23,Daniel Cambronero,CRC,G,1.8,74,08-01-86,San José [CRC],CS Herediano
+2014,1,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury,Manchester C
+2014,2,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich,Liverpool
+2014,3,Leighton Baines,ENG,D,1.7,75,11-12-84,Liverpool,Everton
+2014,4,Steven Gerrard,ENG,M,1.83,79,30-05-80,Whiston,Liverpool
+2014,5,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield,Chelsea
+2014,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale,Everton
+2014,7,Jack Wilshere,ENG,M,1.7,65,01-01-92,Stevenage,Arsenal
+2014,8,Frank Lampard,ENG,M,1.83,90,20-06-78,Romford,Chelsea
+2014,9,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham,Liverpool
+2014,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth,Manchester U
+2014,11,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester,Manchester U
+2014,12,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich,Manchester U
+2014,13,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington,WBA
+2014,14,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland,Liverpool
+2014,15,Alex Oxlade-Chamberlain,ENG,M,1.8,70,15-08-93,Portsmouth,Arsenal
+2014,16,Phil Jones,ENG,D,1.8,71,21-02-92,Preston,Manchester U
+2014,17,James Milner,ENG,M,1.7,67,04-01-86,Wortley,Manchester C
+2014,18,Rickie Lambert,ENG,F,1.88,77,16-02-82,Liverpool,Southampton
+2014,19,Raheem Sterling,ENG,M,1.7,69,08-12-94,Kingston,Liverpool
+2014,20,Adam Lallana,ENG,M,1.73,73,10-05-88,St Albans,Southampton
+2014,21,Ross Barkley,ENG,M,1.89,76,05-12-93,Liverpool,Everton
+2014,22,Fraser Forster,ENG,G,2.01,93,17-03-88,Hexham,Celtic
+2014,23,Luke Shaw,ENG,D,1.83,75,12-07-95,Kingston upon Thames,Southampton
+2014,1,Gianluigi Buffon,ITA,G,1.91,83,28-01-78,Carrara,Juventus
+2014,2,Mattia De Sciglio,ITA,D,1.83,74,20-10-92,Milan,Milan
+2014,3,Giorgio Chiellini,ITA,D,1.86,76,14-08-84,Pisa,Juventus
+2014,4,Matteo Darmian,ITA,D,1.82,70,02-12-89,Legnano,Torino
+2014,5,Thiago Motta,ITA,M,1.88,77,28-08-82,São Bernardo do Campo,Paris St-Germain
+2014,6,Antonio Candreva,ITA,M,1.8,72,28-02-87,Rome,Lazio
+2014,7,Ignazio Abate,ITA,D,1.8,73,12-11-86,Sant'Agata de' Goti,Milan
+2014,8,Claudio Marchisio,ITA,M,1.79,76,19-01-86,Turin,Juventus
+2014,9,Mario Balotelli,ITA,F,1.89,88,12-08-90,Palermo,Milan
+2014,10,Antonio Cassano,ITA,F,1.75,73,12-07-82,Bari,Parma (On Loan)
+2014,11,Alessio Cerci,ITA,M,1.8,78,23-07-87,Velletri,Torino
+2014,12,Salvatore Sirigu,ITA,G,1.9,80,12-01-87,Nuoro,Paris St-Germain
+2014,13,Mattia Perin,ITA,G,1.88,74,10-11-92,Latina,Genoa
+2014,14,Alberto Aquilani,ITA,M,1.86,77,07-07-84,Rome,Fiorentina
+2014,15,Andrea Barzagli,ITA,D,1.86,79,08-05-81,Fiesole,Juventus
+2014,16,Daniele De Rossi,ITA,M,1.84,83,24-07-83,Rome,Roma
+2014,17,Ciro Immobile,ITA,F,1.86,78,20-02-90,Torre Annunziata,Torino
+2014,18,Marco Parolo,ITA,M,1.86,82,25-01-85,Gallarate,Parma
+2014,19,Leonardo Bonucci,ITA,D,1.9,82,01-05-87,Viterbo,Juventus
+2014,20,Gabriel Paletta,ITA,D,1.9,88,15-02-86,Longchamps,Parma
+2014,21,Andrea Pirlo,ITA,M,1.77,68,19-05-79,Brescia,Juventus
+2014,22,Lorenzo Insigne,ITA,F,1.63,59,04-06-91,Naples,Napoli
+2014,23,Marco Verratti,ITA,M,1.65,60,05-11-92,Pescara,Paris St-Germain
+2014,1,Fernando Muslera,URU,G,1.9,77,16-06-86,Montevideo,Galatasaray
+2014,2,Diego Lugano,URU,D,1.88,84,02-11-80,Canelones,WBA
+2014,3,Diego Godín,URU,D,1.85,73,16-02-86,Rosario,Atlético Madrid
+2014,4,Jorge Fucile,URU,D,1.78,77,19-11-84,Montevideo,FC Porto
+2014,5,Walter Gargano,URU,M,1.68,65,23-07-84,Paysandù,Parma (On Loan)
+2014,6,Álvaro Pereira,URU,M,1.8,78,28-11-85,Montevideo,São Paulo (On Loan)
+2014,7,Cristian Rodríguez,URU,M,1.75,72,30-09-85,Montevideo,Atlético Madrid
+2014,8,Abel Hernández,URU,F,1.85,73,08-08-90,Canelones,Palermo
+2014,9,Luis Suárez,URU,F,1.81,81,24-01-87,Salto,Liverpool
+2014,10,Diego Forlán,URU,F,1.8,75,19-05-79,Montevideo,Cerezo Osaka
+2014,11,Christian Stuani,URU,F,1.85,74,12-10-86,Tala,Espanyol
+2014,12,Rodrigo Muñoz,URU,G,1.81,79,22-01-82,Montevideo,Libertad
+2014,13,José Giménez,URU,D,1.85,80,20-01-95,Toledo,Atlético Madrid
+2014,14,Nicolás Lodeiro,URU,M,1.7,69,18-12-89,Paysandú,Botafogo
+2014,15,Diego Pérez,URU,M,1.77,81,18-05-80,Montevideo,Bologna
+2014,16,Maximiliano Pereira,URU,D,1.73,70,08-06-84,Montevideo,Benfica
+2014,17,Egidio Arévalo,URU,M,1.69,71,01-01-82,Paysandú,Morelia (On Loan)
+2014,18,Gastón Ramírez,URU,M,1.83,77,02-12-90,Fray Bentos,Southampton
+2014,19,Sebastián Coates,URU,D,1.96,88,07-10-90,Montevideo,Nacional [URU] (On Loan)
+2014,20,Álvaro González,URU,M,1.75,72,29-10-84,Montevideo,Lazio
+2014,21,Edinson Cavani,URU,F,1.84,71,14-02-87,Montevideo,Paris St-Germain
+2014,22,Martín Cáceres,URU,D,1.82,77,07-04-87,Montevideo,Juventus
+2014,23,Martín Silva,URU,G,1.86,80,25-03-83,Montevideo,Vasco da Gama
+2014,1,Máximo Banguera,ECU,G,1.87,84,16-12-85,Guayaquil,Barcelona [ECU]
+2014,2,Jorge Guagua,ECU,D,1.8,85,28-09-81,Quito,Emelec
+2014,3,Frickson Erazo,ECU,D,1.9,78,05-05-88,Esmeraldas,Flamengo (On Loan)
+2014,4,Juan Carlos Paredes,ECU,D,1.74,71,08-07-87,Esmeraldas,Barcelona [ECU]
+2014,5,Renato Ibarra,ECU,M,1.8,70,20-01-91,Ambuquí,Vitesse
+2014,6,Cristian Noboa,ECU,M,1.81,74,09-04-85,Guayaquil,Dynamo Moscow
+2014,7,Jefferson Montero,ECU,F,1.7,70,01-09-89,Babahoyo,Morelia
+2014,8,Édison Méndez,ECU,M,1.75,68,16-03-79,Valle del Chota,Santa Fe
+2014,9,Joao Rojas,ECU,F,1.73,65,14-06-89,El Triunfo,Cruz Azul
+2014,10,Walter Ayoví,ECU,M,1.72,68,11-08-79,Camarones,Pachuca
+2014,11,Felipe Caicedo,ECU,F,1.85,78,05-09-88,Guayaquil,Al-Jazira
+2014,12,Adrián Bone,ECU,G,1.88,76,24-11-88,Esmeraldas,El Nacional
+2014,13,Enner Valencia,ECU,F,1.74,72,04-11-89,San Lorenzo,Pachuca
+2014,14,Oswaldo Minda,ECU,M,1.8,78,26-07-83,Quito,Chivas USA
+2014,15,Michael Arroyo,ECU,M,1.67,63,23-04-87,Guayaquil,Atlante
+2014,16,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio,Manchester U
+2014,17,Jaime Ayoví,ECU,F,1.82,61,21-02-88,Atahualpa,Tijuana
+2014,18,Óscar Bagüi,ECU,D,1.73,71,10-12-92,Esmeraldas,Emelec
+2014,19,Luis Saritama,ECU,M,1.75,78,20-10-83,Loja,Barcelona [ECU] (On Loan)
+2014,20,Fidel Martínez,ECU,M,1.78,71,15-02-90,Shushufindi,Tijuana
+2014,21,Gabriel Achilier,ECU,D,1.8,83,24-03-85,Machala,Emelec
+2014,22,Alexander Domínguez,ECU,G,1.95,80,05-06-87,Tachina,LDU Quito
+2014,23,Carlos Gruezo,ECU,M,1.71,67,19-04-95,Santo Domingo,Stuttgart
+2014,1,Hugo Lloris,FRA,G,1.88,78,26-12-86,Nice,Tottenham H
+2014,2,Mathieu Debuchy,FRA,D,1.77,74,28-07-85,Fretin,Newcastle U
+2014,3,Patrice Evra,FRA,D,1.75,76,15-05-81,Dakar,Manchester U
+2014,4,Raphaël Varane,FRA,D,1.91,76,25-04-93,Lille,Real Madrid
+2014,5,Mamadou Sakho,FRA,D,1.87,83,13-02-90,Paris,Liverpool
+2014,6,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Paris St-Germain
+2014,7,Rémy Cabella,FRA,M,1.71,62,08-03-90,Ajaccio,Montpellier
+2014,8,Mathieu Valbuena,FRA,M,1.67,58,28-09-84,Bordeaux,Marseille
+2014,9,Olivier Giroud,FRA,F,1.92,88,30-09-86,Chambéry,Arsenal
+2014,10,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon,Real Madrid
+2014,11,Antoine Griezmann,FRA,F,1.74,72,21-03-91,Maçon,Real Sociedad
+2014,12,Rio Antonio Mavuba,FRA,M,1.72,70,08-03-84,Born At Sea,Bordeaux
+2014,13,Eliaquim Mangala,FRA,D,1.87,74,13-02-91,Colombes,FC Porto
+2014,14,Blaise Matuidi,FRA,M,1.75,70,09-04-87,Toulouse,Paris St-Germain
+2014,15,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens,Arsenal
+2014,16,Stéphane Ruffier,FRA,G,1.87,89,27-09-86,Bayonne,St-Etienne
+2014,17,Lucas Digne,FRA,D,1.84,75,20-07-93,Meaux,Paris St-Germain
+2014,18,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil,Newcastle U
+2014,19,Paul Pogba,FRA,M,1.85,80,15-03-93,Lagny-sur-Marne,Juventus
+2014,20,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon,Newcastle U (On Loan)
+2014,21,Laurent Koscielny,FRA,D,1.86,75,10-09-85,Tulle,Arsenal
+2014,22,Morgan Schneiderlin,FRA,M,1.81,75,08-11-89,Zettwiller,Southampton
+2014,23,Mickaël Landreau,FRA,G,1.84,80,14-05-79,Machecoul,Bastia
+2014,1,Luis López,HON,G,1.82,75,13-09-93,San Pedro Sula,Real España
+2014,2,Osman Chávez,HON,D,1.86,91,29-07-84,Santa Fé,Qingdao Jonoon (On Loan)
+2014,3,Maynor Figueroa,HON,D,1.8,85,02-05-83,Juticalpa,Hull C
+2014,4,Juan Pablo Montes,HON,D,1.91,75,26-10-85,Sulaco,Motagua
+2014,5,Víctor Bernárdez,HON,D,1.84,78,24-05-82,La Ceiba,San Jose Earthquakes
+2014,6,Juan Carlos García,HON,D,1.8,76,08-03-88,Tela,Wigan Ath
+2014,7,Emilio Izaguirre,HON,D,1.77,77,10-05-86,Tegucigalpa,Celtic
+2014,8,Wilson Palacios,HON,M,1.78,71,29-07-84,La Ceiba,Stoke C
+2014,9,Jerry Palacios,HON,F,1.83,81,13-05-82,La Ceiba,LD Alajuelense
+2014,10,Mario Martínez,HON,M,1.73,70,30-07-89,San Pedro Sula,Real España
+2014,11,Jerry Bengtson,HON,F,1.86,83,08-04-87,Santa Rosa de Aguán,New England Revolution
+2014,12,Edder Delgado,HON,M,1.75,70,20-11-86,San Manuel,Real España
+2014,13,Carlos Costly,HON,F,1.9,84,17-07-82,San Pedro Sula,Real España
+2014,14,Óscar García,HON,M,1.75,72,04-09-84,Tegucigalpa,Houston Dynamo
+2014,15,Roger Espinoza,HON,M,1.8,73,25-10-86,Puerto Cortes,Wigan Ath
+2014,16,Rony Martínez,HON,F,1.8,75,16-08-88,Olanchito,Real Sociedad [HON]
+2014,17,Andy Najar,HON,M,1.7,68,16-03-93,Santa Cruz,Anderlecht
+2014,18,Noel Valladares,HON,G,1.9,82,03-05-77,Comayagua,Olimpia [HON]
+2014,19,Luis Garrido,HON,M,1.78,70,05-11-90,Olancho,Olimpia [HON]
+2014,20,Jorge Claros,HON,M,1.76,67,08-01-86,La Ceiba,Motagua
+2014,21,Brayan Beckeles,HON,D,1.83,80,28-11-85,La Ceiba,Olimpia [HON]
+2014,22,Donis Escober,HON,G,1.8,75,03-02-80,San Ignacio,Olimpia [HON]
+2014,23,Marvin Chávez,HON,F,1.65,66,03-11-83,La Ceiba,Colorado Rapids
+2014,1,Diego Benaglio,SUI,G,1.93,83,08-09-83,Zürich,Wolfsburg
+2014,2,Stephan Lichtsteiner,SUI,D,1.81,77,16-01-84,Adligenswil,Juventus
+2014,3,Reto Ziegler,SUI,D,1.83,79,16-01-86,Nyon,Sassuolo (On Loan)
+2014,4,Philippe Senderos,SUI,D,1.9,84,14-02-85,Geneva,Valencia
+2014,5,Steve von Bergen,SUI,D,1.81,76,10-06-83,Neuchâtel,Young Boys
+2014,6,Michael Lang,SUI,D,1.85,79,08-02-91,Egnach,Grasshoppers
+2014,7,Tranquillo Barnetta,SUI,M,1.78,69,22-05-85,Rotmonten,Eintracht Frankfurt (On Loan)
+2014,8,Gökhan Inler,SUI,M,1.82,80,27-06-84,Olten,Napoli
+2014,9,Haris Seferovic,SUI,F,1.85,83,22-02-92,Sursee,Real Sociedad
+2014,10,Granit Xhaka,SUI,M,1.83,70,27-09-92,Gnjilane,B Mönchengladbach
+2014,11,Valon Behrami,SUI,M,1.85,78,19-04-85,Kosovska Mitrovica,Napoli
+2014,12,Yann Sommer,SUI,G,1.83,77,17-12-88,Morges,Basel
+2014,13,Ricardo Rodríguez,SUI,D,1.8,72,25-08-92,Zürich,Wolfsburg
+2014,14,Valentin Stocker,SUI,M,1.78,65,12-04-89,Basel,Basel
+2014,15,Blerim Dzemaili,SUI,M,1.79,73,12-04-86,Tetovo,Napoli
+2014,16,Gelson Fernandes,SUI,M,1.83,70,02-09-86,Praia,Freiburg
+2014,17,Mario Gavranović,SUI,F,1.75,68,24-11-89,Lugano,Zürich
+2014,18,Admir Mehmedi,SUI,F,1.83,77,16-03-91,Gostivar,Freiburg (On Loan)
+2014,19,Josip Drmić,SUI,F,1.82,70,08-08-92,Lachen,Nürnberg
+2014,20,Johan Djourou,SUI,D,1.91,83,18-01-87,Abidjan,Hamburg
+2014,21,Roman Bürki,SUI,G,1.85,83,14-11-90,Münsingen,Grasshoppers
+2014,22,Fabian Schär,SUI,D,1.86,85,20-12-91,Wil,Basel
+2014,23,Xherdan Shaqiri,SUI,M,1.68,61,10-10-91,Gnjilane,Bayern Munich
+2014,1,Sergio Romero,ARG,G,1.92,87,22-02-87,Bernardo de Irigoyen,Monaco (On Loan)
+2014,2,Ezequiel Garay,ARG,D,1.89,83,10-10-86,Rosario,Benfica
+2014,3,Hugo Campagnaro,ARG,D,1.81,85,27-06-80,Córdoba,Internazionale
+2014,4,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal,Manchester C
+2014,5,Fernando Gago,ARG,M,1.78,69,10-04-86,Ciudadela,Boca Juniors
+2014,6,Lucas Biglia,ARG,M,1.78,74,30-01-86,Mercedes,Lazio
+2014,7,Ángel Di Maria,ARG,M,1.78,75,14-02-88,Rosario,Real Madrid
+2014,8,Enzo Pérez,ARG,M,1.77,71,22-02-86,Mendoza,Benfica
+2014,9,Gonzalo Higuaín,ARG,F,1.84,82,10-12-87,Brest,Napoli
+2014,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe,Barcelona
+2014,11,Maxi Rodríguez,ARG,M,1.8,79,02-01-81,Rosario,Newell's Old Boys
+2014,12,Agustín Orión,ARG,G,1.9,83,26-06-81,Ramos Mejía,Boca Juniors
+2014,13,Augusto Fernández,ARG,M,1.77,71,10-04-86,Pergamino,Celta Vigo
+2014,14,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario,Barcelona
+2014,15,Martin Demichelis,ARG,D,1.84,78,20-12-80,Justiniano Posse,Manchester C
+2014,16,Marcos Rojo,ARG,D,1.87,82,20-03-90,La Plata,Sporting CP
+2014,17,Federico Fernández,ARG,D,1.9,83,21-02-89,Tres Algarrobos,Napoli
+2014,18,Rodrigo Palacio,ARG,F,1.75,66,05-02-82,Bahía Blanca,Internazionale
+2014,19,Ricardo Álvarez,ARG,M,1.88,84,12-04-88,Capital Federal,Internazionale
+2014,20,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal,Manchester C
+2014,21,Mariano Andújar,ARG,G,1.94,87,30-07-83,Capital Federal,Catania (On Loan)
+2014,22,Ezequiel Lavezzi,ARG,F,1.73,75,03-05-85,Villa Gobernador Gálvez,Paris St-Germain
+2014,23,José María Basanta,ARG,D,1.88,78,03-04-84,Tres Sargentos,Monterrey
+2014,1,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje,Stoke C
+2014,2,Avdija Vršajević,BIH,M,1.82,75,06-03-86,Tešanj,Hajduk Split
+2014,3,Ermin Bičakčić,BIH,D,1.85,81,24-01-90,Zvornik,Eintracht Braunschweig
+2014,4,Emir Spahić,BIH,D,1.83,77,18-08-80,Dubrovnik,Bayer Leverkusen
+2014,5,Sead Kolašinac,BIH,D,1.83,82,20-06-93,Karlsruhe,Schalke
+2014,6,Ognjen Vranješ,BIH,D,1.88,82,24-10-89,Banja Luka,Elazığspor
+2014,7,Muhamed Bešić,BIH,D,1.77,75,10-09-92,Berlin,Ferencváros
+2014,8,Miralem Pjanić,BIH,M,1.8,68,02-04-90,Zvornik,Roma
+2014,9,Vedad Ibišević,BIH,F,1.88,80,06-08-84,Vlasenica,Stuttgart
+2014,10,Zvjezdan Misimović,BIH,M,1.8,79,05-06-82,Munich,Guizhou Renhe
+2014,11,Edin Džeko,BIH,F,1.92,80,17-03-86,Doboj,Manchester C
+2014,12,Jasmin Fejzić,BIH,G,1.97,96,15-06-86,Tupkovići,Aalen
+2014,13,Mensur Mujdža,BIH,D,1.84,74,28-03-84,Zagreb,Freiburg
+2014,14,Tino-Sven Sušić,BIH,M,1.85,77,13-02-92,Sarajevo,Hajduk Split
+2014,15,Toni Šunjić,BIH,D,1.92,93,15-12-88,Mostar,Zorya Luhansk
+2014,16,Senad Lulić,BIH,M,1.83,76,18-01-86,Jablanica,Lazio
+2014,17,Senijad Ibričić,BIH,M,1.8,80,26-09-85,Kotor Varoš,Erciyesspor
+2014,18,Haris Medunjanin,BIH,M,1.88,78,08-03-85,Sarajevo,Gaziantepspor
+2014,19,Edin Višća,BIH,M,1.72,67,17-02-90,Olovo,İstanbul BB
+2014,20,Izet Hajrović,BIH,M,1.77,71,04-08-91,Brugg,Galatasaray
+2014,21,Anel Hadžić,BIH,M,1.84,73,16-08-89,Velika Kladuša,Sturm Graz
+2014,22,Asmir Avdukić,BIH,G,1.9,86,13-05-81,Breza,Borac Banja Luka
+2014,23,Sejad Salihović,BIH,M,1.82,83,08-10-84,Sepak,1899 Hoffenheim
+2014,1,Rahman Ahmadi,IRN,G,1.84,77,30-07-80,Nowshahr,Sepahan
+2014,2,Khosro Heydari,IRN,D,1.74,74,14-09-83,Tehran,Esteghlal
+2014,3,Ehsan Hajsafi,IRN,M,1.76,74,25-02-90,Kashan,Sepahan
+2014,4,Jalal Hosseini,IRN,D,1.84,80,03-02-82,Bandar-e Anzali,Persepolis
+2014,5,Amir-Hossein Sadeghi,IRN,D,1.88,78,06-09-81,Tehran,Esteghlal
+2014,6,Javad Nekounam,IRN,M,1.86,78,07-09-80,Shar Rey,Kuwait SC
+2014,7,Masoud Shojaei,IRN,M,1.84,73,09-06-84,Shiraz,Las Palmas
+2014,8,Reza Haghighi,IRN,M,1.94,80,01-02-89,Mashhad,Persepolis
+2014,9,Alireza Jahanbakhsh,IRN,F,1.85,78,08-10-93,Jirandeh,NEC Nijmegen
+2014,10,Karim Ansarifard,IRN,F,1.86,75,03-04-90,Ardabil,Tractor Sazi (On Loan)
+2014,11,Ghasem Hadadifar,IRN,M,1.8,78,12-07-83,Esfahan,Zob Ahan
+2014,12,Alireza Haghighi,IRN,G,1.93,80,02-05-88,Tehran,Sporting Covilhã (On Loan)
+2014,13,Hossein Mahini,IRN,D,1.84,70,16-09-86,Bushehr,Persepolis
+2014,14,Andranik Teymourian,IRN,M,1.8,73,06-03-83,Tehran,Esteghlal
+2014,15,Pejman Montazeri,IRN,D,1.86,78,06-09-83,Ahvaz,Umm Salal
+2014,16,Reza Ghoochannejhad,IRN,F,1.8,76,01-01-90,Mashdad,Charlton Ath
+2014,17,Ahmad Alnameh,IRN,D,1.86,78,20-10-82,Ahvaz,Naft
+2014,18,Bakhtiar Rahmani,IRN,M,1.78,74,23-09-91,Sarpol-e Zahab,Foolad
+2014,19,Hashem Beikzadeh,IRN,D,1.89,78,22-01-84,Shiraz,Esteghlal
+2014,20,Steven Beitashour,IRN,D,1.78,77,01-02-87,San Jose,Vancouver Whitecaps
+2014,21,Ashkan Dejagah,IRN,F,1.81,74,05-07-86,Tehran,Fulham
+2014,22,Daniel Davari,IRN,G,1.92,85,06-01-88,Gießen,Eintracht Braunschweig
+2014,23,Mehrdad Pooladi,IRN,D,1.81,70,26-02-87,Karaj,Persepolis
+2014,1,Vincent Enyeama,NGA,G,1.8,80,29-08-82,Aba,Lille
+2014,2,Joseph Yobo,NGA,D,1.88,70,06-09-80,Kano,Norwich C (On Loan)
+2014,3,Ejike Uzoenyi,NGA,M,1.68,63,23-03-88,Aba,Enugu Rangers
+2014,4,Reuben Gabriel,NGA,M,1.95,86,25-09-90,Kaduna,Waasland-Beveren
+2014,5,Efe Ambrose,NGA,D,1.9,70,18-10-88,Kaduna,Celtic
+2014,6,Azubuike Egwuekwe,NGA,D,1.79,75,16-07-89,Lafia,Warri Wolves
+2014,7,Ahmed Musa,NGA,F,1.7,62,14-10-92,Bukuru,CSKA Moscow
+2014,8,Peter Odemwingie,NGA,F,1.82,74,15-07-81,Tashkent,Stoke C
+2014,9,Emmanuel Emenike,NGA,F,1.82,82,10-05-87,Otuocha,Fenerbahçe
+2014,10,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos,Chelsea
+2014,11,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos,Liverpool (On Loan)
+2014,12,Ebenezer Odunlami,NGA,D,1.87,80,30-04-91,,Sunshine Stars
+2014,13,Juwon Oshaniwa,NGA,D,1.76,69,14-09-90,Ilorin,Ashdod
+2014,14,Godfrey Oboabona,NGA,D,1.86,76,16-08-90,Akure,Rizespor
+2014,15,Ramon Azeez,NGA,M,1.7,70,12-12-92,Abuja,Almería
+2014,16,Austin Ejide,NGA,G,1.9,90,08-04-84,Onitsha,Hapoel Be'er Sheva
+2014,17,Ogenyi Onazi,NGA,M,1.7,73,25-12-92,Lagos,Lazio
+2014,18,Michael Babatunde,NGA,M,1.79,76,24-12-92,Lagos,Volyn Lutsk
+2014,19,Uche Nwofor,NGA,F,1.84,78,17-09-91,Onitsha,SC Heerenveen (On Loan)
+2014,20,Michael Okechukwu Uchebo,NGA,F,1.94,86,27-09-90,Enugu,Cercle Brugge
+2014,21,Chigozie Agbim,NGA,G,1.87,79,28-11-84,Gombe,Gombe U
+2014,22,Kenneth Omeruo,NGA,D,1.85,79,17-10-93,Kaduna,Middlesbrough (On Loan)
+2014,23,Shola Ameobi,NGA,F,1.91,84,12-10-81,Zaria,Newcastle U
+2014,1,Manuel Neuer,GER,G,1.92,90,27-03-86,Gelsenkirchen,Bayern Munich
+2014,2,Kevin Großkreutz,GER,D,1.86,70,19-07-88,Dortmund,Borussia Dortmund
+2014,3,Matthias Ginter,GER,M,1.87,82,19-01-94,March,Freiburg
+2014,4,Benedikt Höwedes,GER,D,1.87,75,29-02-88,Haltern am See,Schalke
+2014,5,Mats Hummels,GER,D,1.92,90,16-12-88,Bensberg,Borussia Dortmund
+2014,6,Sami Khedira,GER,M,1.89,83,04-04-87,Stuttgart,Real Madrid
+2014,7,Bastian Schweinsteiger,GER,M,1.83,79,01-08-84,Kolbermoor,Bayern Munich
+2014,8,Mesut Özil,GER,M,1.82,73,15-10-88,Gelsenkirchen,Arsenal
+2014,9,Andre Schürrle,GER,F,1.75,63,06-11-90,Ludwigshafen,Chelsea
+2014,10,Lukas Podolski,GER,F,1.82,83,04-06-85,Gliwice,Arsenal
+2014,11,Miroslav Klose,GER,F,1.84,84,09-06-78,Opole,Lazio
+2014,12,Ron-Robert Zieler,GER,G,1.85,73,12-02-89,Cologne,Hannover 96
+2014,13,Thomas Müller,GER,M,1.86,74,13-09-89,Weilheim in Oberbayern,Bayern Munich
+2014,14,Julian Draxler,GER,M,1.83,68,20-09-93,Gladbeck,Schalke
+2014,15,Eric Durm,GER,D,1.83,73,12-05-92,Pirmasens,Borussia Dortmund
+2014,16,Philipp Lahm,GER,D,1.7,62,11-11-83,Munich,Bayern Munich
+2014,17,Per Mertesacker,GER,D,1.98,90,29-09-84,Hannover,Arsenal
+2014,18,Toni Kroos,GER,M,1.82,71,04-01-90,Greifswald,Bayern Munich
+2014,19,Mario Götze,GER,M,1.76,64,03-06-92,Memmingen,Bayern Munich
+2014,20,Jérôme Boateng,GER,D,1.92,90,03-09-88,Berlin,Bayern Munich
+2014,21,Shkodran Mustafi,GER,D,1.84,82,17-04-92,Bad Hersfeld,Sampdoria
+2014,22,Roman Weidenfeller,GER,G,1.88,85,06-08-80,Dietz,Borussia Dortmund
+2014,23,Christoph Kramer,GER,M,1.9,73,19-02-91,Solingen,B Mönchengladbach (On Loan)
+2014,1,Stephen Adams,GHA,G,1.86,81,28-09-89,Kumasi,Aduana Stars
+2014,2,Samuel Inkoom,GHA,D,1.79,75,22-08-89,Sekondi-Takoradi,Platanias (On Loan)
+2014,3,Asamoah Gyan,GHA,F,1.8,80,22-11-85,Accra,Al-Ain
+2014,4,Daniel Opare,GHA,D,1.72,65,18-10-90,Accra,Standard Liège
+2014,5,Michael Essien,GHA,M,1.78,84,03-12-82,Accra,Milan
+2014,6,Afriyie Acquah,GHA,M,1.79,70,05-01-92,Accra,Parma (On Loan)
+2014,7,Christian Atsu,GHA,M,1.72,68,10-01-92,Ada Foah,Vitesse (On Loan)
+2014,8,Emmanuel Agyemang-Badu,GHA,M,1.82,79,02-12-90,Berekum,Udinese
+2014,9,Kevin-Prince Boateng,GHA,M,1.85,86,06-03-87,Berlin,Schalke
+2014,10,André Ayew,GHA,F,1.76,72,17-12-89,Seclin,Marseille
+2014,11,Sulley Muntari,GHA,M,1.79,76,27-08-84,Konongo,Milan
+2014,12,Adam Larsen Kwarasey,GHA,G,1.88,81,12-12-87,Oslo,Strømsgodset
+2014,13,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,Sochaux (On Loan)
+2014,14,Albert Adomah,GHA,F,1.85,74,13-12-87,Lambeth,Middlesbrough
+2014,15,Rashid Sumaila,GHA,D,1.82,80,18-12-92,Cape Coast,Mamelodi Sundowns
+2014,16,Fatau Dauda,GHA,G,1.8,76,06-04-85,Obuasi,Orlando Pirates
+2014,17,Mohammed Rabiu,GHA,M,1.87,76,31-12-89,Accra,Kuban Krasnodar
+2014,18,Waris Majeed,GHA,F,1.72,71,19-09-91,Tamale,Valenciennes (On Loan)
+2014,19,Jonathan Mensah,GHA,D,1.88,75,13-07-90,Accra,Évian TG
+2014,20,Kwadwo Asamoah,GHA,M,1.78,78,09-12-88,Accra,Juventus
+2014,21,John Boye,GHA,D,1.84,69,23-04-87,Accra,Rennes
+2014,22,Wakaso Mubarak,GHA,M,1.65,79,25-07-90,Tamale,Rubin Kazan
+2014,23,Harrison Afful,GHA,D,1.82,73,24-06-86,Kumasi,Espérance
+2014,1,Eduardo,POR,G,1.87,84,19-09-82,Mirandela,Sporting Braga (On Loan)
+2014,2,Bruno Alves,POR,D,1.89,80,27-11-81,Porto,Fenerbahçe
+2014,3,Pepe,POR,D,1.86,72,26-02-83,Maceió,Real Madrid
+2014,4,Miguel Veloso,POR,M,1.8,79,11-05-86,Coimbra,Dynamo Kyiv
+2014,5,Fábio Coentrão,POR,D,1.78,66,11-03-88,Vila do Conde,Real Madrid
+2014,6,William Carvalho,POR,M,1.87,79,07-04-92,Luanda,Sporting CP
+2014,7,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal,Real Madrid
+2014,8,João Moutinho,POR,M,1.7,61,08-09-86,Portimão,Monaco
+2014,9,Hugo Almeida,POR,F,1.91,93,23-05-84,Figueira da Foz,Beşiktaş
+2014,10,Vierinha,POR,M,1.73,73,24-01-86,Guimarães,Wolfsburg
+2014,11,Éder,POR,F,1.88,81,22-12-87,Bissau,Sporting Braga
+2014,12,Rui Patrício,POR,G,1.88,84,15-02-88,Marrazes,Sporting CP
+2014,13,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia,Valencia
+2014,14,Luís Neto,POR,D,1.85,71,26-05-88,Póvoa de Varzim,Zenit St Petersburg
+2014,15,Rafa,POR,M,1.7,66,17-05-93,Barreiro,Sporting Braga
+2014,16,Raul Meireles,POR,M,1.79,69,17-03-83,Porto,Fenerbahçe
+2014,17,Nani,POR,M,1.75,66,17-11-86,Praia,Manchester U
+2014,18,Silvestre Varela,POR,F,1.8,75,02-02-85,Almada,FC Porto
+2014,19,André Almeida,POR,D,1.86,75,10-09-90,Lisbon,Benfica
+2014,20,Rúben Amorim,POR,M,1.78,73,27-01-85,Lisbon,Benfica
+2014,21,João Pereira,POR,D,1.72,64,25-02-84,Lisbon,Valencia
+2014,22,Beto,POR,G,1.8,80,01-05-82,Loures,Sevilla
+2014,23,Hélder Postiga,POR,F,1.82,79,02-08-82,Vila do Conde,Lazio (On Loan)
+2014,1,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick,Everton
+2014,2,DeAndre Yedlin,USA,D,1.73,68,09-07-93,Seattle,Seattle Sounders
+2014,3,Omar Gonzalez,USA,D,1.96,95,11-10-88,Dallas,LA Galaxy
+2014,4,Michael Bradley,USA,M,1.85,75,31-07-87,Princeton,Toronto FC
+2014,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Sporting Kansas City
+2014,6,John Brooks,USA,D,1.93,78,28-01-93,Berlin,Hertha Berlin
+2014,7,DaMarcus Beasley,USA,M,1.73,66,24-05-82,Fort Wayne,Puebla
+2014,8,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches,Seattle Sounders
+2014,9,Aron Jóhannsson,USA,F,1.84,70,10-11-90,Mobile,AZ Alkmaar
+2014,10,Mikkel Diskerud,USA,M,1.84,68,02-10-90,Oslo,Rosenborg
+2014,11,Alejandro Bedoya,USA,M,1.78,73,29-04-87,Weston,Nantes
+2014,12,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen,Aston Villa
+2014,13,Jermaine Jones,USA,M,1.84,78,03-11-81,Frankfurt am Main,Beşiktaş
+2014,14,Brad Davis,USA,M,1.8,75,08-11-81,St Charles,Houston Dynamo
+2014,15,Kyle Beckerman,USA,M,1.78,70,23-04-82,Crofton,Real Salt Lake
+2014,16,Julian Green,USA,M,1.72,60,06-06-95,Tampa,Bayern Munich
+2014,17,Jozy Altidore,USA,F,1.82,78,06-11-89,Boca Raton,Sunderland
+2014,18,Chris Wondolowski,USA,F,1.85,75,28-07-83,Danville,San Jose Earthquakes
+2014,19,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Sporting Kansas City
+2014,20,Geoff Cameron,USA,D,1.91,92,11-07-85,Attleboro,Stoke C
+2014,21,Timmy Chandler,USA,D,1.86,83,29-03-90,Frankfurt am Main,Nürnberg
+2014,22,Nick Rimando,USA,G,1.78,86,17-06-79,Montclair,Real Salt Lake
+2014,23,Fabian Johnson,USA,D,1.83,70,11-12-87,Munich,1899 Hoffenheim
+2014,1,Cédric Si Mohamed,ALG,G,1.83,68,09-01-85,Roanne,CS Constantine
+2014,2,Madjid Bougherra,ALG,D,1.88,89,07-10-82,Longvic,Lekhwiya
+2014,3,Faouzi Ghoulam,ALG,D,1.86,78,01-02-91,Saint-Priest-en-Jarez,Napoli
+2014,4,Essaïd Belkalem,ALG,D,1.94,90,01-01-89,Mekla,Watford (On Loan)
+2014,5,Rafik Halliche,ALG,D,1.87,77,02-09-86,Algiers,Marítimo
+2014,6,Djamel Mesbah,ALG,D,1.79,72,09-10-84,Zighoud Youcef,Livorno (On Loan)
+2014,7,Hassan Yebda,ALG,M,1.87,77,14-05-84,Saint-Maurice,Udinese (On Loan)
+2014,8,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles,Getafe
+2014,9,Nabil Ghilas,ALG,F,1.83,85,20-04-90,Marseille,FC Porto
+2014,10,Sofiane Feghouli,ALG,M,1.78,71,26-12-89,Levallois-Perret,Valencia
+2014,11,Yacine Brahimi,ALG,F,1.75,65,08-02-90,Paris,Granada
+2014,12,Carl Medjani,ALG,D,1.84,84,15-05-85,Lyon,Valenciennes (On Loan)
+2014,13,Islam Slimani,ALG,F,1.86,75,18-06-88,Algiers,Sporting CP
+2014,14,Nabil Bentaleb,ALG,M,1.87,68,24-11-94,Lille,Tottenham H
+2014,15,El Arbi Soudani,ALG,F,1.82,75,25-11-87,Chlef,Dinamo Zagreb
+2014,16,Mohamed Zemmamouche,ALG,G,1.86,82,02-01-85,Mila,USM Alger
+2014,17,Liassine Cadamuro,ALG,D,1.86,76,05-03-88,Toulouse,Mallorca (On Loan)
+2014,18,Abdelmoumene Djabou,ALG,M,1.65,70,31-01-87,Sétif,Club Africain
+2014,19,Saphir Taïder,ALG,M,1.8,73,29-02-92,Castres,Internazionale
+2014,20,Aïssa Mandi,ALG,D,1.86,78,22-10-91,Châlons-en-Champagne,Reims
+2014,21,Riyad Mahrez,ALG,M,1.78,62,21-02-91,Sarcelles,Leicester C
+2014,22,Mehdi Mostefa Sbaa,ALG,M,1.81,82,30-08-83,Dijon,Ajaccio
+2014,23,Raïs M'Bolhi,ALG,G,1.88,80,25-04-86,Paris,CSKA Sofia
+2014,1,Thibaut Courtois,BEL,G,1.99,88,11-05-92,Bree,Atlético Madrid (On Loan)
+2014,2,Toby Alderweireld,BEL,D,1.85,75,02-03-89,Wilrijk,Atlético Madrid
+2014,3,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen,Arsenal
+2014,4,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel,Manchester C
+2014,5,Jan Vertonghen,BEL,D,1.89,79,24-04-87,Sint-Niklaas,Tottenham H
+2014,6,Axel Witsel,BEL,M,1.86,73,12-01-89,Liège,Zenit St Petersburg
+2014,7,Kevin De Bruyne,BEL,M,1.8,68,28-06-91,Drongen,Wolfsburg
+2014,8,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek,Manchester U
+2014,9,Romelu Lukaku,BEL,F,1.9,94,13-05-93,Antwerp,Everton (On Loan)
+2014,10,Eden Hazard,BEL,M,1.7,69,07-01-91,La Louvière,Chelsea
+2014,11,Kevin Mirallas,BEL,F,1.78,72,05-10-87,Liège,Everton
+2014,12,Simon Mignolet,BEL,G,1.93,87,06-03-88,Sint-Truiden,Liverpool
+2014,13,Sammy Bossut,BEL,G,1.85,74,11-08-85,Oostrozebeke,Zulte-Waregem
+2014,14,Dries Mertens,BEL,F,1.69,61,06-05-87,Leuven,Napoli
+2014,15,Daniel van Buyten,BEL,D,1.96,96,07-02-78,Chimay,Bayern Munich
+2014,16,Steven Defour,BEL,M,1.73,64,15-04-88,Mechelen,FC Porto
+2014,17,Divock Origi,BEL,F,1.85,75,18-04-95,Ostend,Lille
+2014,18,Nicolas Lombaerts,BEL,D,1.88,78,20-03-85,Brugge,Zenit St Petersburg
+2014,19,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk,Tottenham H
+2014,20,Adnan Januzaj,BEL,M,1.8,75,05-02-95,Brussels,Manchester U
+2014,21,Anthony Vanden Borre,BEL,D,1.85,80,24-10-87,Likasi,Anderlecht
+2014,22,Nacer Chadli,BEL,M,1.87,80,02-08-89,Liège,Tottenham H
+2014,23,Laurent Ciman,BEL,D,1.8,65,05-08-85,Farciennes,Standard Liège
+2014,1,Igor Akinfeev,RUS,G,1.85,81,08-04-86,Vidnoye,CSKA Moscow
+2014,2,Aleksey Kozlov,RUS,D,1.86,78,25-12-86,Petrozavodsk,Dynamo Moscow
+2014,3,Georgi Schennikov,RUS,D,1.78,69,27-04-91,Moscow,CSKA Moscow
+2014,4,Sergey Ignashevich,RUS,D,1.86,75,14-07-79,Moscow,CSKA Moscow
+2014,5,Andrey Semenov,RUS,D,1.9,86,24-03-89,Moscow,Terek Grozny
+2014,6,Maksim Kanunnikov,RUS,F,1.83,74,14-07-91,St. Petersburg,Amkar Perm
+2014,7,Igor Denisov,RUS,M,1.76,75,17-05-84,St. Petersburg,Dynamo Moscow
+2014,8,Denis Glushakov,RUS,M,1.78,72,27-01-87,Millerovo,Spartak Moscow
+2014,9,Aleksandr Kokorin,RUS,F,1.82,72,19-03-91,Moscow,Dynamo Moscow
+2014,10,Alan Dzagoev,RUS,M,1.79,70,17-06-90,Beslan,CSKA Moscow
+2014,11,Aleksandr Kerzhakov,RUS,F,1.75,67,27-11-82,Kingisepp,Zenit St Petersburg
+2014,12,Yuri Lodigin,RUS,G,1.85,82,26-05-90,Vladimir,Zenit St Petersburg
+2014,13,Vladimir Granat,RUS,D,1.84,80,22-05-87,Ulan-Ude,Dynamo Moscow
+2014,14,Vasiliy Berezutskiy,RUS,D,1.89,83,20-06-82,Moscow,CSKA Moscow
+2014,15,Pavel Mogilevets,RUS,M,1.83,70,25-01-93,Kingisepp,Rubin Kazan (On Loan)
+2014,16,Sergey Ryzhikov,RUS,G,1.94,83,19-09-80,Shebekino,Rubin Kazan
+2014,17,Oleg Shatov,RUS,M,1.73,64,29-07-90,Nizhny Tagil,Zenit St Petersburg
+2014,18,Yuriy Zhirkov,RUS,M,1.8,75,20-08-83,Tambov,Dynamo Moscow
+2014,19,Aleksandr Samedov,RUS,M,1.74,64,19-07-84,Moscow,Lokomotiv Moscow
+2014,20,Viktor Fayzulin,RUS,M,1.76,72,22-04-86,Nakhodka,Zenit St Petersburg
+2014,21,Aleksey Ionov,RUS,M,1.77,68,18-02-89,Kingisepp,Dynamo Moscow
+2014,22,Andrei Yeschenko,RUS,D,1.76,74,09-02-84,Irkutsk,Anzhi Makhachkala
+2014,23,Dmitriy Kombarov,RUS,M,1.82,69,22-01-87,Moscow,Spartak Moscow
+2014,1,Jung Sung-Ryong,KOR,G,1.9,88,14-01-85,Jeju,Suwon Samsung Bluewings
+2014,2,Kim Chang-Soo,KOR,D,1.79,72,12-09-85,Yeosu,Kashiwa Reysol
+2014,3,Yoon Suk-Young,KOR,D,1.82,74,13-02-90,Suwon,QPR
+2014,4,Kwak Tae-Hwi,KOR,D,1.85,80,08-07-81,Daegu,Al-Hilal [KSA]
+2014,5,Kim Young-Gwon,KOR,D,1.86,74,27-02-90,Jeonju,Guangzhou Evergrande
+2014,6,Hwang Seok-Ho,KOR,D,1.82,80,27-06-89,Cheongju,Sanfrecce Hiroshima
+2014,7,Kim Bo-Kyung,KOR,M,1.78,73,06-10-89,Gurye,Cardiff C
+2014,8,Ha Dae-Sung,KOR,M,1.8,68,02-03-85,Incheon,Beijing Guoan
+2014,9,Son Heung-Min,KOR,F,1.83,76,08-07-92,Chuncheon,Bayer Leverkusen
+2014,10,Park Chu-Young,KOR,F,1.82,75,10-07-85,Daegu,Arsenal
+2014,11,Lee Keun-Ho,KOR,F,1.76,73,11-04-85,Incheon,Sangju Sangmu
+2014,12,Lee Yong,KOR,D,1.8,74,24-12-86,Seoul,Ulsan Hyundai
+2014,13,Koo Ja-Cheol,KOR,M,1.83,75,27-02-89,Chungju,Mainz
+2014,14,Han Kook-Young,KOR,M,1.83,73,19-04-90,Seoul,Kashiwa Reysol
+2014,15,Park Jong-Woo,KOR,M,1.8,74,10-03-89,Seongnam,Guangzhou R&F
+2014,16,Ki Sung-Yueng,KOR,M,1.87,79,24-01-89,Gwangju,Sunderland (On Loan)
+2014,17,Lee Chung-Yong,KOR,M,1.8,69,02-07-88,Seoul,Bolton W
+2014,18,Kim Shin-Wook,KOR,F,1.96,94,14-04-88,Gwacheon,Ulsan Hyundai
+2014,19,Ji Dong-Won,KOR,F,1.87,78,28-05-91,Jeju,Augsburg
+2014,20,Hong Jeong-Ho,KOR,D,1.86,77,12-08-89,Jeju,Augsburg
+2014,21,Kim Seung-Gyu,KOR,G,1.87,76,30-09-90,Ulsan,Ulsan Hyundai
+2014,22,Park Joo-Ho,KOR,M,1.76,71,16-01-87,Seoul,Mainz
+2014,23,Lee Beom-Young,KOR,G,1.94,90,02-04-89,Seoul,Busan I'Park

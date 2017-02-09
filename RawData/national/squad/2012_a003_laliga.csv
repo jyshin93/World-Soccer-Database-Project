@@ -1,0 +1,718 @@
+Season,League,Club,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place
+2012,a003,Athletic Bilbao,1,Gorka Iraizoz,ESP,G,1.91,81,06-03-81,Pamplona
+2012,a003,Athletic Bilbao,2,Gaizka Toquero,ESP,M,1.82,72,09-08-84,Vitoria
+2012,a003,Athletic Bilbao,3,Jon Aurtenetxe,ESP,D,1.82,78,03-01-92,Bizkaia
+2012,a003,Athletic Bilbao,5,Fernando Amorebieta,VEN,D,1.92,85,21-03-85,Iurreta
+2012,a003,Athletic Bilbao,6,Mikel San José,ESP,D,1.83,78,30-05-89,Pamplona
+2012,a003,Athletic Bilbao,7,David López,ESP,M,1.81,77,10-09-82,Logroño
+2012,a003,Athletic Bilbao,8,Ander Iturraspe,ESP,M,1.87,73,08-03-89,Abadiño
+2012,a003,Athletic Bilbao,9,Fernando Llorente,ESP,F,1.95,94,26-02-85,Iruñea
+2012,a003,Athletic Bilbao,10,Óscar de Marcos,ESP,M,1.8,73,14-04-89,Vitoria
+2012,a003,Athletic Bilbao,11,Igor Gabilondo,ESP,M,1.85,78,10-02-79,Donostia
+2012,a003,Athletic Bilbao,12,Koikili,ESP,D,1.68,67,23-12-80,Otxandio
+2012,a003,Athletic Bilbao,13,Raúl,ESP,G,1.96,88,13-03-88,Bilbao
+2012,a003,Athletic Bilbao,14,Markel Susaeta,ESP,M,1.79,68,14-12-87,Eibar
+2012,a003,Athletic Bilbao,15,Andoni Iraola,ESP,D,1.82,74,22-06-82,Usúrbil
+2012,a003,Athletic Bilbao,16,Ivan Zubiaurre,ESP,D,1.77,76,22-01-83,Mendaro
+2012,a003,Athletic Bilbao,17,Íñigo Pérez,ESP,M,1.78,74,18-01-88,Iruñea
+2012,a003,Athletic Bilbao,18,Carlos Gurpegi,ESP,M,1.81,77,19-08-80,Pamplona
+2012,a003,Athletic Bilbao,19,Iker Muniain,ESP,F,1.68,62,19-12-92,Iruñea
+2012,a003,Athletic Bilbao,20,Aitor Ocio,ESP,D,1.87,79,28-11-76,Vitoria
+2012,a003,Athletic Bilbao,21,Ander Herrera,ESP,M,1.81,68,14-08-89,Bilbao
+2012,a003,Athletic Bilbao,22,Xabier Castillo,ESP,D,1.82,71,29-03-86,Durango
+2012,a003,Athletic Bilbao,23,Borja Ekiza,ESP,D,1.8,73,06-03-88,Iruñea
+2012,a003,Athletic Bilbao,24,Javi Martínez,ESP,M,1.9,81,02-09-88,Lizarra
+2012,a003,Athletic Bilbao,26,Igor Martínez,ESP,M,1.7,65,19-07-89,Vitoria
+2012,a003,Athletic Bilbao,27,Guillermo,ESP,F,1.78,71,23-05-93,Bilbao
+2012,a003,Athletic Bilbao,28,Ibai Gómez,ESP,F,1.79,73,11-11-89,Bilbao
+2012,a003,Athletic Bilbao,29,Enric Saborit,ESP,M,1.86,72,27-04-92,Barcelona
+2012,a003,Athletic Bilbao,30,Aitor Fernández,ESP,G,1.82,70,3-5-91,Arrasate
+2012,a003,Athletic Bilbao,31,Jonás Ramalho,ESP,D,1.8,64,10-06-93,Barakaldo
+2012,a003,Athletic Bilbao,32,Iñigo Ruiz de Galarreta,ESP,M,1.74,66,06-08-93,San Sebastián
+2012,a003,Athletic Bilbao,33,Kepa Arrizabalaga,ESP,G,1.86,81,03-10-94,Ondarroa
+2012,a003,Athletic Bilbao,34,Aitor Seguín,ESP,M,1.79,67,27-04-95,Eibar
+2012,a003,Athletic Bilbao,35,Álvaro Peña,ESP,M,1.78,70,24-10-91,Bilbao
+2012,a003,Athletic Bilbao,16,Pablo Orbaiz,ESP,M,1.79,75,06-02-79,Iruñea
+2012,a003,Atlético Madrid,2,Diego Godín,URU,D,1.85,73,16-02-86,Rosario
+2012,a003,Atlético Madrid,3,Antonio López,ESP,D,1.73,65,13-09-81,Benidorm
+2012,a003,Atlético Madrid,4,Mario Suárez,ESP,M,1.85,77,24-02-87,Madrid
+2012,a003,Atlético Madrid,5,Tiago,POR,M,1.83,75,02-05-81,Viana do Castelo
+2012,a003,Atlético Madrid,6,Filipe Luis,BRA,D,1.82,70,09-08-85,Jaraguá do Sul
+2012,a003,Atlético Madrid,7,Adrián López,ESP,F,1.8,71,08-01-88,San Martín de Teverga
+2012,a003,Atlético Madrid,8,Eduardo Salvio,ARG,F,1.73,76,13-05-90,Avellaneda
+2012,a003,Atlético Madrid,9,Radamel Falcao García,COL,F,1.77,72,10-02-86,Santa Marta
+2012,a003,Atlético Madrid,11,Arda Turan,TUR,M,1.76,72,30-01-87,Fatih
+2012,a003,Atlético Madrid,12,Paulo Assunção,BRA,M,1.75,67,25-01-80,Varzea Grande
+2012,a003,Atlético Madrid,13,Thibaut Courtois,BEL,G,1.99,88,11-05-92,Bree
+2012,a003,Atlético Madrid,14,Gabi,ESP,M,1.79,68,10-07-83,Madrid
+2012,a003,Atlético Madrid,15,Pizzi,POR,F,1.77,69,6-10-89,Bragança
+2012,a003,Atlético Madrid,16,Fran Mérida,ESP,M,1.75,70,04-03-90,Barcelona
+2012,a003,Atlético Madrid,17,Sílvio,POR,D,1.78,72,28-09-87,Lisbon
+2012,a003,Atlético Madrid,18,Álvaro Domínguez,ESP,D,1.89,83,16-05-89,Madrid
+2012,a003,Atlético Madrid,19,Koke,ESP,M,1.78,73,08-01-92,Madrid
+2012,a003,Atlético Madrid,20,Juanfran,ESP,D,1.8,72,09-01-85,Crevillent
+2012,a003,Atlético Madrid,21,Luis Amaranto Perea,COL,D,1.8,76,30-01-79,Turbo Antioquia
+2012,a003,Atlético Madrid,22,Diego,BRA,M,1.74,76,28-02-85,Ribeirão Preto
+2012,a003,Atlético Madrid,23,Miranda,BRA,D,1.85,78,07-09-84,Paranavaí
+2012,a003,Atlético Madrid,25,Sergio Asenjo,ESP,G,1.82,85,28-06-89,Palencia
+2012,a003,Atlético Madrid,26,Abdelkader Oueslati,TUN,M,1.84,71,07-10-91,Ollioules
+2012,a003,Atlético Madrid,28,Javi Manquillo,ESP,D,1.72,62,05-05-94,Madrid
+2012,a003,Atlético Madrid,29,Francisco Regalón,ESP,D,1.82,74,19-02-87,Córdoba
+2012,a003,Atlético Madrid,30,Miguel Ángel Luque,ESP,M,1.8,63,23-07-90,Sabadell
+2012,a003,Atlético Madrid,31,Momar N'Doye,SEN,F,1.78,68,10-03-92,Pikine
+2012,a003,Atlético Madrid,33,Carlos Mendoza,ESP,D,,,30-01-92,
+2012,a003,Atlético Madrid,34,Domènech Fernández,ESP,F,,,22-01-92,Madrid
+2012,a003,Atlético Madrid,35,Papa Ibrahima Diatta,SEN,M,,,27-05-92,
+2012,a003,Atlético Madrid,36,Ángel Propin,ESP,D,1.86,76,10-02-90,Madrid
+2012,a003,Atlético Madrid,37,Graci,ESP,D,,,07-05-92,
+2012,a003,Atlético Madrid,38,Luis Ruiz,ESP,D,1.81,73,30-06-92,Huelva
+2012,a003,Atlético Madrid,39,Pedro Astray,ESP,M,1.82,70,18-03-92,Madrid
+2012,a003,Atlético Madrid,40,Miguel Linares,ESP,D,,,05-01-91,
+2012,a003,Atlético Madrid,41,Pedro Martín,ESP,F,1.91,76,16-01-92,Málaga
+2012,a003,Atlético Madrid,42,Sergio Cidoncha,ESP,M,1.8,71,27-08-90,El Escorial
+2012,a003,Atlético Madrid,43,Adrián Formigo,ESP,D,,,12-05-93,
+2012,a003,Atlético Madrid,44,Sergio Marcos,ESP,M,1.77,73,03-02-92,Sacedón
+2012,a003,Atlético Madrid,45,Andrés,ESP,D,1.79,73,01-07-90,Noreña
+2012,a003,Atlético Madrid,46,Juanjo Muko,EQG,F,,,14-01-93,Malabo
+2012,a003,Atlético Madrid,47,David Gil,ESP,G,1.83,73,11-01-94,Getafe
+2012,a003,Atlético Madrid,48,Saúl Ñiguez,ESP,M,1.82,73,21-11-94,Elche
+2012,a003,Atlético Madrid,49,Óliver Torres,ESP,M,1.78,70,10-11-94,Navalmoral de la Mata
+2012,a003,Atlético Madrid,10,José Antonio Reyes,ESP,M,1.76,76,01-09-83,Utrera
+2012,a003,Atlético Madrid,24,Jorge Pulido,ESP,D,1.81,72,08-04-91,Talavera de la Reina
+2012,a003,Atlético Madrid,27,Adrián Llano,ESP,M,,,23-04-91,
+2012,a003,Atlético Madrid,1,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés
+2012,a003,Barcelona,1,Víctor Valdés,ESP,G,1.83,78,14-01-82,L'Hospitalet de Llobregat
+2012,a003,Barcelona,2,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro
+2012,a003,Barcelona,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona
+2012,a003,Barcelona,4,Cesc Fàbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar
+2012,a003,Barcelona,5,Carles Puyol,ESP,D,1.78,80,13-04-78,La Pobla de Segur
+2012,a003,Barcelona,6,Xavi,ESP,M,1.7,68,25-01-80,Terrassa
+2012,a003,Barcelona,7,David Villa,ESP,F,1.75,69,03-12-81,Langreo
+2012,a003,Barcelona,8,Andrés Iniesta,ESP,M,1.7,65,11-05-84,Fuentealbilla
+2012,a003,Barcelona,9,Alexis Sánchez,CHI,F,1.68,62,19-12-88,Tocopilla
+2012,a003,Barcelona,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe
+2012,a003,Barcelona,11,Thiago Alcántara,ESP,M,1.65,60,11-04-91,Bari
+2012,a003,Barcelona,13,José Manuel Pinto,ESP,G,1.85,82,15-11-75,Puerto de Santa Maria
+2012,a003,Barcelona,14,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario
+2012,a003,Barcelona,15,Seydou Keita,MLI,M,1.83,77,16-01-80,Bamako
+2012,a003,Barcelona,16,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell
+2012,a003,Barcelona,17,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife
+2012,a003,Barcelona,20,Ibrahim Afellay,NED,M,1.81,68,02-04-86,Utrecht
+2012,a003,Barcelona,21,Adriano,BRA,M,1.72,67,26-10-84,Curitiba
+2012,a003,Barcelona,22,Eric Abidal,FRA,D,1.86,75,11-07-79,Lyon
+2012,a003,Barcelona,23,Isaac Cuenca,ESP,F,1.81,74,27-04-91,Reus
+2012,a003,Barcelona,24,Andreu Fontàs,ESP,M,1.81,72,14-11-89,Banyoles
+2012,a003,Barcelona,26,Marc Muniesa,ESP,D,1.8,77,27-03-92,Lloret de Mar
+2012,a003,Barcelona,27,Gerard Deulofeu,ESP,F,1.79,60,13-03-94,Barcelona
+2012,a003,Barcelona,28,Jonathan dos Santos,MEX,M,1.8,74,26-04-90,Monterrey
+2012,a003,Barcelona,29,Martí Riverola,ESP,M,1.81,74,26-01-91,Barcelona
+2012,a003,Barcelona,30,Sergi Roberto,ESP,M,1.73,70,07-02-92,Reus
+2012,a003,Barcelona,31,Rubén Miño,ESP,G,1.9,87,18-01-89,Cornellà de Llobregat
+2012,a003,Barcelona,32,Marc Bartra,ESP,D,1.84,75,15-01-91,San Jaime dels Domenys
+2012,a003,Barcelona,33,Sergi Gómez,ESP,D,1.81,76,28-07-92,Arenys de Mar
+2012,a003,Barcelona,34,Rafinha,BRA,M,1.77,75,12-02-93,Bari
+2012,a003,Barcelona,35,Martín Montoya,ESP,D,1.74,74,14-04-91,Gavà
+2012,a003,Barcelona,36,Oier Olazábal,ESP,G,1.89,82,14-09-89,Irún
+2012,a003,Barcelona,37,Cristian Tello,ESP,F,1.78,66,19-08-91,Sabadell
+2012,a003,Barcelona,38,Kiko Femenia,ESP,D,1.74,61,02-02-91,Sanet y Negrals
+2012,a003,Barcelona,19,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha
+2012,a003,Barcelona,39,Isaac Cuenca,ESP,F,1.81,74,27-04-91,Reus
+2012,a003,Betis,1,Iñaki Goitia,ESP,G,1.88,79,02-03-82,Cruces
+2012,a003,Betis,2,José Isidoro,ESP,D,1.8,70,01-08-86,Pedrera
+2012,a003,Betis,3,Pedro Mario,ESP,D,1.78,75,02-02-82,Tenerife
+2012,a003,Betis,4,Antonio Amaya,ESP,D,1.92,86,31-05-83,Madrid
+2012,a003,Betis,5,José Antonio Dorado,ESP,D,1.8,69,10-07-82,Córdoba
+2012,a003,Betis,7,Juanma,ESP,M,1.76,72,29-05-81,Don Benito
+2012,a003,Betis,8,Javier Matilla,ESP,M,1.76,72,01-01-88,Ciudad Real
+2012,a003,Betis,9,Jonathan Pereira,ESP,F,1.66,61,12-05-87,Vigo
+2012,a003,Betis,10,Beñat,ESP,M,1.75,72,19-02-87,Igorre
+2012,a003,Betis,12,Paulão,BRA,D,1.88,82,06-05-82,Lagoa Grande
+2012,a003,Betis,13,Casto,ESP,G,1.8,82,18-06-82,Badajoz
+2012,a003,Betis,14,Salva Sevilla,ESP,M,1.78,70,18-03-84,Almería
+2012,a003,Betis,15,Ustaritz,ESP,D,1.83,75,16-02-83,Abadiño
+2012,a003,Betis,16,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción
+2012,a003,Betis,17,Chica,ESP,D,1.76,78,17-05-85,Barcelona
+2012,a003,Betis,18,Iriney,BRA,M,1.79,70,23-04-81,Humaitá
+2012,a003,Betis,19,Jorge Molina,ESP,F,1.88,87,22-04-82,Alcoy
+2012,a003,Betis,20,Jefferson Montero,ECU,F,1.7,70,01-09-89,Babahoyo
+2012,a003,Betis,21,José Alberto Cañas,ESP,M,1.77,64,27-05-87,Jerez de la Frontera
+2012,a003,Betis,22,Nélson,POR,D,1.72,65,10-06-83,Praia
+2012,a003,Betis,23,Nacho,ESP,M,1.77,70,24-06-80,Huelva
+2012,a003,Betis,24,Rubén Castro,ESP,F,1.74,72,27-06-81,Las Palmas
+2012,a003,Betis,25,Fabricio,ESP,G,1.85,77,31-12-87,Las Palmas
+2012,a003,Betis,26,Miki Roqué,ESP,D,1.86,74,08-07-88,Tremp
+2012,a003,Betis,27,Álvaro Vadillo,ESP,M,1.8,69,12-09-94,Puerto Real
+2012,a003,Betis,28,Manu Herrera,ESP,D,1.82,72,25-04-90,Marchena
+2012,a003,Betis,29,Nono,ESP,M,1.78,72,30-03-93,Puerto de Santa María
+2012,a003,Betis,30,Adrián,ESP,G,1.88,77,03-01-87,Seville
+2012,a003,Betis,32,Manuel Palancar,ESP,D,1.76,66,01-01-90,Seville
+2012,a003,Betis,33,Damián Petcoff,ARG,M,1.74,69,24-05-90,Capital Federal
+2012,a003,Betis,34,Carlos García,ESP,M,1.65,56,17-09-93,Seville
+2012,a003,Betis,35,Alejandro Pozuelo,ESP,F,1.7,63,20-09-91,Seville
+2012,a003,Betis,36,Álex Martínez,ESP,M,1.76,64,12-08-90,Seville
+2012,a003,Betis,39,Sergio,ESP,F,1.69,65,07-09-92,Seville
+2012,a003,Betis,6,Duško Tošić,SRB,D,1.81,78,19-01-85,Zrenjanin
+2012,a003,Betis,28,Ezequiel,ESP,M,1.68,60,12-01-91,Melilla
+2012,a003,Betis,29,Juanito,ESP,D,1.83,75,12-05-88,Torredonjimeno
+2012,a003,Betis,11,Momo,ESP,M,1.82,74,15-07-82,Las Palmas
+2012,a003,Espanyol,2,Felipe Mattioni,BRA,D,1.77,72,15-10-88,Natural de Ijuí
+2012,a003,Espanyol,3,Raúl Rodríguez,ESP,D,1.83,70,22-09-87,Vilassar de Mar
+2012,a003,Espanyol,4,Javi Márquez,ESP,M,1.74,71,11-05-86,Barcelona
+2012,a003,Espanyol,5,Jordi Amat,ESP,D,1.84,80,21-03-92,Barcelona
+2012,a003,Espanyol,6,Rui Fonte,POR,F,1.81,73,23-03-90,Lisbon
+2012,a003,Espanyol,7,Raúl Baena,ESP,M,1.79,73,02-03-89,Torrox
+2012,a003,Espanyol,8,Álvaro Vázquez,ESP,F,1.82,75,27-04-91,Barcelona
+2012,a003,Espanyol,9,Sergio García,ESP,F,1.75,72,09-06-83,Barcelona
+2012,a003,Espanyol,10,Joan Verdú,ESP,M,1.76,72,05-05-83,Barcelona
+2012,a003,Espanyol,11,N'Dri Romaric,CIV,M,1.87,88,4-6-83,Abidjan
+2012,a003,Espanyol,12,Kalu Uche,NGA,F,1.79,71,15-11-82,Aba
+2012,a003,Espanyol,13,Francisco Casilla,ESP,G,1.92,83,02-10-86,Alcocer
+2012,a003,Espanyol,14,Ernesto Galán,ESP,M,1.81,79,17-06-86,Madrid
+2012,a003,Espanyol,15,Héctor Moreno,MEX,D,1.82,80,17-01-88,Culiacán
+2012,a003,Espanyol,16,Javi López,ESP,M,1.79,76,21-01-86,Osuna
+2012,a003,Espanyol,17,Vladimir Weiss,SVK,M,1.75,68,30-11-89,Bratislava
+2012,a003,Espanyol,18,Juan Forlín,ARG,D,1.8,72,10-01-88,Reconquista
+2012,a003,Espanyol,19,Víctor Sánchez,ESP,D,1.74,73,08-09-87,Terrassa
+2012,a003,Espanyol,20,Walter Pandiani,URU,F,1.84,75,27-04-76,Montevideo
+2012,a003,Espanyol,22,Dídac,ESP,D,1.86,81,09-06-89,Mataró
+2012,a003,Espanyol,23,Philippe Coutinho,BRA,M,1.71,68,12-06-92,Rio de Janeiro
+2012,a003,Espanyol,24,Juan Albín,URU,M,1.79,77,17-07-86,Salto
+2012,a003,Espanyol,25,Cristian Álvarez,ARG,G,1.86,88,13-11-85,General Lagos
+2012,a003,Espanyol,26,Dinu Moldovan,ROU,G,1.88,72,03-05-90,Alba Iulia
+2012,a003,Espanyol,28,Carlos Clerc,ESP,M,1.8,72,21-02-92,Barcelona
+2012,a003,Espanyol,31,Pau Senent,ESP,M,1.83,,03-05-92,Alicante
+2012,a003,Espanyol,33,Sergi Darder,ESP,M,1.8,67,22-12-93,Artà
+2012,a003,Espanyol,34,Víctor Álvarez,ESP,D,1.78,69,14-03-93,Barcelona
+2012,a003,Espanyol,38,Albert Canal,ESP,D,1.81,76,09-12-90,Barcelona
+2012,a003,Espanyol,39,Thievy Bifouma,FRA,F,1.8,74,13-05-92,Saint-Denis
+2012,a003,Espanyol,40,Zouhair Feddal,MAR,D,1.91,78,01-01-89,Tétouan
+2012,a003,Espanyol,41,Christian,ESP,M,1.83,77,02-05-89,Barcelona
+2012,a003,Espanyol,42,Cristian Gómez,ESP,M,1.81,75,27-07-89,L'Hospitalet de Llobregat
+2012,a003,Espanyol,44,Bacari,ESP,F,1.78,77,14-03-88,Mataró
+2012,a003,Espanyol,45,Paul Quaye,GHA,M,,,16-09-95,
+2012,a003,Espanyol,46,Carlos Albarrán,ESP,D,,,15-01-94,Badalona
+2012,a003,Espanyol,50,Edgar Badía,ESP,G,1.81,76,12-02-92,Barcelona
+2012,a003,Espanyol,10,Luis García,ESP,F,1.8,68,06-02-81,Oviedo
+2012,a003,Espanyol,1,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala
+2012,a003,Espanyol,23,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas
+2012,a003,Espanyol,37,Eric López,ESP,M,1.78,76,01-04-93,Barcelona
+2012,a003,Espanyol,43,Pirulo,ESP,M,1.77,70,17-04-92,Los Barrios
+2012,a003,Getafe,1,Óscar Ustari,ARG,G,1.84,82,03-07-86,América
+2012,a003,Getafe,2,Daniel Díaz,ARG,D,1.82,74,13-03-79,San Fernando del Valle
+2012,a003,Getafe,3,Mané,ESP,D,1.75,72,22-12-81,Algeciras
+2012,a003,Getafe,4,Miguel Torres,ESP,D,1.84,78,28-01-86,Madrid
+2012,a003,Getafe,5,Alexis,ESP,D,1.83,75,04-08-85,Málaga
+2012,a003,Getafe,6,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles
+2012,a003,Getafe,7,Miku,VEN,M,1.85,80,19-08-85,Caracas
+2012,a003,Getafe,8,Pablo Sarabia,ESP,M,1.77,72,11-05-92,Madrid
+2012,a003,Getafe,10,Jaime Gavilán,ESP,M,1.78,71,12-05-85,Valencia
+2012,a003,Getafe,12,Pedro León,ESP,M,1.82,70,24-11-86,Mula
+2012,a003,Getafe,13,Jordi Codina,ESP,G,1.84,79,27-04-82,Barcelona
+2012,a003,Getafe,14,Javier Arizmendi,ESP,F,1.89,76,03-03-84,Madrid
+2012,a003,Getafe,15,Rafa,ESP,D,1.83,72,09-04-85,Peñafiel
+2012,a003,Getafe,16,Pedro Ríos,ESP,M,1.77,72,12-12-81,Jerez de la Frontera
+2012,a003,Getafe,17,Diego Castro,ESP,F,1.74,71,02-07-82,Pontevedra
+2012,a003,Getafe,18,Tsepo Masilela,RSA,D,1.75,70,05-05-85,Witbank
+2012,a003,Getafe,19,Dani Güiza,ESP,F,1.8,80,17-08-80,Jerez de la Frontera
+2012,a003,Getafe,20,Juan Valera,ESP,D,1.84,70,21-12-84,La Copa de Bullas
+2012,a003,Getafe,21,Míchel,ESP,M,1.83,72,09-11-85,Pola de Lena
+2012,a003,Getafe,22,Javi Casquero,ESP,M,1.8,73,19-08-76,Toledo
+2012,a003,Getafe,23,Juan Rodríguez,ESP,M,1.85,80,01-04-82,Málaga
+2012,a003,Getafe,24,Rubén Pérez,ESP,M,1.78,72,26-04-89,Seville
+2012,a003,Getafe,25,Miguel Ángel Moyá,ESP,G,1.85,75,02-04-84,Binissalem
+2012,a003,Getafe,28,Abdelaziz Barrada,MAR,M,1.79,73,19-06-89,Provins
+2012,a003,Getafe,29,Álvaro Arroyo,ESP,D,1.8,71,22-07-88,Madrid
+2012,a003,Getafe,30,Álex Pérez,ESP,D,1.89,80,11-08-91,Madrid
+2012,a003,Getafe,32,Hugo Fraile,ESP,F,1.7,62,16-03-87,Huelva
+2012,a003,Getafe,33,Samuel,ESP,M,1.74,68,22-01-91,Madrid
+2012,a003,Getafe,35,Tomeu Nadal,ESP,G,1.9,77,8-2-89,Manacor
+2012,a003,Getafe,27,Alberto Escassi,ESP,M,1.83,70,28-02-89,Málaga
+2012,a003,Getafe,11,Pedro Mosquera,ESP,M,1.83,77,21-04-88,La Coruña
+2012,a003,Getafe,14,Michelangelo Albertazzi,ITA,D,1.85,73,07-01-91,Bologna
+2012,a003,Getafe,9,Adrián Colunga,ESP,F,1.72,70,17-11-84,Oviedo
+2012,a003,Getafe,5,Alberto Lopo,ESP,D,1.86,81,05-05-80,Barcelona
+2012,a003,Granada,1,José Juan,ESP,G,1.83,82,24-01-79,Vigo
+2012,a003,Granada,2,Allan-Roméo Nyom,CMR,D,1.88,80,10-05-88,Neuilly-sur-Seine
+2012,a003,Granada,3,Noé Pamarot,FRA,D,1.8,86,14-04-79,Fontenay-sous-Bois
+2012,a003,Granada,4,Fran Rico,ESP,M,1.78,71,03-08-87,Portonovo
+2012,a003,Granada,5,Diego Mainz,ESP,D,1.87,80,29-12-82,Madrid
+2012,a003,Granada,6,Guilherme Siqueira,BRA,M,1.84,76,28-04-86,Florianapolis
+2012,a003,Granada,7,Odion Ighalo,NGA,F,1.88,70,16-06-89,Lagos
+2012,a003,Granada,8,Íñigo López,ESP,D,1.85,72,23-07-82,Logroño
+2012,a003,Granada,9,Borja Gómez,ESP,D,1.83,81,14-05-88,Madrid
+2012,a003,Granada,10,Jaime,ESP,M,1.76,74,31-07-90,Albacete
+2012,a003,Granada,11,Dani Benítez,ESP,M,1.81,68,07-04-87,Palma de Mallorca
+2012,a003,Granada,12,Franco Jara,ARG,F,1.82,77,15-07-88,Villa María
+2012,a003,Granada,13,Roberto,ESP,G,1.81,76,25-01-79,Chantada
+2012,a003,Granada,14,Mikel Rico,ESP,M,1.78,75,01-11-84,Cruces
+2012,a003,Granada,15,Pape Diakhaté,SEN,D,1.85,79,21-06-84,Dakar
+2012,a003,Granada,16,Henrique,BRA,F,1.77,74,27-05-91,Brasília
+2012,a003,Granada,17,Carlos Martins,POR,M,1.72,72,29-04-82,Lisbon
+2012,a003,Granada,18,Manuel Lucena,ESP,D,1.86,84,18-11-82,Granada
+2012,a003,Granada,19,Hassan Yebda,ALG,M,1.87,77,14-05-84,Saint-Maurice
+2012,a003,Granada,20,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba
+2012,a003,Granada,21,David Cortés,ESP,D,1.81,74,29-08-79,Badajoz
+2012,a003,Granada,22,Alexandre Geijo,SUI,F,1.84,80,05-09-82,Geneva
+2012,a003,Granada,23,Abel,ESP,M,1.83,73,20-02-82,Málaga
+2012,a003,Granada,24,Moisés Hurtado,ESP,M,1.85,85,20-02-81,Sabadell
+2012,a003,Granada,25,Júlio César,BRA,G,1.9,85,02-09-86,Guaramirim
+2012,a003,Granada,27,Hugo,ESP,G,1.87,90,09-07-89,Churriana de la Vega
+2012,a003,Granada,28,Cristian Baena,ESP,D,1.78,68,14-04-91,Granada
+2012,a003,Granada,29,Álex Carmona,ESP,D,1.72,67,19-09-89,
+2012,a003,Granada,31,Samuel,ESP,D,1.82,75,18-07-90,Granada
+2012,a003,Granada,32,Migue,ESP,M,1.7,64,17-04-91,Granada
+2012,a003,Granada,9,Yohan Mollo,FRA,M,1.75,74,18-07-89,Martigues
+2012,a003,Granada,26,Richard Boateng,GHA,M,1.78,66,10-07-92,Accra
+2012,a003,Granada,16,Jorge Ribeiro,POR,D,1.72,67,09-11-81,Lisbon
+2012,a003,Levante,1,Gustavo Munúa,URU,G,1.88,87,27-01-78,Montevideo
+2012,a003,Levante,2,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama
+2012,a003,Levante,3,David Navarro,ESP,D,1.88,82,25-05-80,Valencia
+2012,a003,Levante,4,Francisco Javier Farinós,ESP,M,1.72,68,29-03-78,Valencia
+2012,a003,Levante,6,Miguel Pallardó,ESP,M,1.73,73,05-06-86,Valencia
+2012,a003,Levante,7,José Javier Barkero,ESP,M,1.8,70,27-04-79,Aretxabaleta
+2012,a003,Levante,8,Óscar Serrano,ESP,M,1.75,73,30-09-81,Blanes
+2012,a003,Levante,10,Vicente Iborra,ESP,F,1.9,76,16-01-88,Moncada
+2012,a003,Levante,11,Botelho,BRA,M,1.88,72,14-12-89,Salvador
+2012,a003,Levante,12,Juanfran,ESP,D,1.82,73,15-07-76,Valencia
+2012,a003,Levante,13,Keylor Navas,CRC,G,1.86,78,15-12-86,Pérez Zeledón
+2012,a003,Levante,14,Xavi Torres,ESP,M,1.82,76,21-11-86,Jávea
+2012,a003,Levante,15,Asier Del Horno,ESP,D,1.83,72,19-01-81,Barakaldo
+2012,a003,Levante,17,Javi Venta,ESP,D,1.8,74,13-12-75,Oviedo
+2012,a003,Levante,18,Sergio Ballesteros,ESP,D,1.88,93,04-09-75,Valencia
+2012,a003,Levante,19,Pedro López,ESP,D,1.74,72,01-01-83,Valencia
+2012,a003,Levante,20,Juanlu,ESP,F,1.72,70,08-05-80,Málaga
+2012,a003,Levante,21,Rubén,ESP,M,1.67,67,19-02-79,Gijón
+2012,a003,Levante,22,Gustavo Cabral,ARG,D,1.82,81,14-10-85,Isidro Casanova
+2012,a003,Levante,23,Valdo,CPV,M,1.83,78,23-04-81,Villablino
+2012,a003,Levante,24,Abdelkader Ghezzal,ALG,F,1.83,78,05-12-84,Decines Charpieu
+2012,a003,Levante,25,Nabil El Zhar,MAR,M,1.75,72,27-08-86,Alès
+2012,a003,Levante,26,Sergio Garabato,ESP,G,1.87,98,16-05-89,Valencia
+2012,a003,Levante,28,Iván López,ESP,D,1.75,69,23-08-93,Valencia
+2012,a003,Levante,30,José Marco Higón,ESP,M,1.73,65,22-05-91,Valencia
+2012,a003,Levante,34,Roger,ESP,F,1.79,74,03-01-91,Torrent
+2012,a003,Levante,37,Mario,ESP,G,1.89,74,12-09-89,Picanya
+2012,a003,Levante,41,Pablo Coronado,ESP,G,1.86,79,21-07-92,Valencia
+2012,a003,Levante,11,Wellington Silva,BRA,F,1.7,64,06-01-93,Rio de Janeiro
+2012,a003,Levante,24,Carlos Aranda,ESP,F,1.86,82,27-07-80,Málaga
+2012,a003,Levante,5,Héctor Rodas,ESP,D,1.9,80,07-03-88,Valencia
+2012,a003,Levante,3,Nano,ESP,D,1.86,79,07-07-80,Ciudad Real
+2012,a003,Levante,16,Marc Mateu,ESP,M,1.8,71,16-06-90,Valencia
+2012,a003,Levante,9,Rafa Jordá,ESP,F,1.92,80,11-01-84,Santa Perpetua
+2012,a003,Málaga,1,Rubén,ESP,G,1.87,82,22-06-84,La Coruña
+2012,a003,Málaga,2,Jesús Gámez,ESP,D,1.82,70,10-04-85,Fuengirola
+2012,a003,Málaga,3,Weligton,BRA,D,1.86,78,26-08-79,Fernandopolis
+2012,a003,Málaga,5,Martin Demichelis,ARG,D,1.84,78,20-12-80,Justiniano Posse
+2012,a003,Málaga,6,Ignacio Camacho,ESP,M,1.81,68,04-05-90,Zaragoza
+2012,a003,Málaga,7,Joaquín,ESP,M,1.79,75,21-07-81,Puerto de Santa Maria
+2012,a003,Málaga,8,Jérémy Toulalan,FRA,M,1.83,77,10-09-83,Nantes
+2012,a003,Málaga,9,Ruud van Nistelrooy,NED,F,1.88,80,1-7-76,Geffen
+2012,a003,Málaga,11,Sebastián Fernández,URU,F,1.67,69,23-05-85,Montevideo
+2012,a003,Málaga,12,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera
+2012,a003,Málaga,13,Wilfredo Caballero,ARG,G,1.85,83,28-09-81,Salta Elena
+2012,a003,Málaga,14,Joris Mathijsen,NED,D,1.83,82,05-04-80,Goirle
+2012,a003,Málaga,15,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona
+2012,a003,Málaga,16,Enzo Maresca,ITA,M,1.8,77,10-02-80,Salerno
+2012,a003,Málaga,17,Duda,POR,M,1.8,76,27-06-80,Lisbon
+2012,a003,Málaga,18,Eliseu,POR,F,1.75,75,01-10-83,Acoras
+2012,a003,Málaga,19,Júlio Baptista,BRA,M,1.83,72,1-10-81,São Paulo
+2012,a003,Málaga,20,Diego Buonanotte,ARG,M,1.6,56,19-04-88,Teodelina
+2012,a003,Málaga,21,Sergio Sánchez,ESP,D,1.85,78,03-04-86,Matarò
+2012,a003,Málaga,22,Isco,ESP,F,1.76,80,21-04-92,Valencia
+2012,a003,Málaga,23,José Salomón Rondón,VEN,F,1.9,86,16-09-89,Caracas
+2012,a003,Málaga,25,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala
+2012,a003,Málaga,26,Juanmi,ESP,F,1.69,63,20-05-93,Coín
+2012,a003,Málaga,27,Francisco Portillo,ESP,M,1.69,63,13-06-90,Málaga
+2012,a003,Málaga,28,Recio,ESP,M,1.83,74,11-01-91,Málaga
+2012,a003,Málaga,31,Samu,ESP,F,1.79,73,13-07-90,Málaga
+2012,a003,Málaga,33,Juanillo,ESP,M,1.73,63,07-04-91,Málaga
+2012,a003,Málaga,35,Pol Freixanet,ESP,G,1.91,80,22-08-91,Manresa
+2012,a003,Málaga,45,Paco Aguza,ESP,D,1.87,81,09-11-89,Don Benito
+2012,a003,Málaga,46,Adrián,ESP,M,1.65,63,01-08-88,Málaga
+2012,a003,Málaga,49,Víctor Ruiz,ESP,D,1.75,71,12-04-95,Málaga
+2012,a003,Málaga,50,Toni,ESP,G,1.87,81,14-06-93,Barcelona
+2012,a003,Málaga,25,Hélder Rosário,POR,D,1.85,81,09-03-80,Lisbon
+2012,a003,Málaga,10,Apoño,ESP,M,1.73,69,13-02-84,Málaga
+2012,a003,Málaga,4,Kris Stadsgaard,DEN,D,1.85,78,01-08-85,Copenhagen
+2012,a003,Málaga,24,Edinho,POR,F,1.85,74,07-07-82,Aveiro
+2012,a003,Mallorca,1,Juan Catalayud,ESP,G,1.91,85,21-12-79,Málaga
+2012,a003,Mallorca,2,Gianni Zuiverloon,NED,D,1.78,70,30-12-86,Rotterdam
+2012,a003,Mallorca,3,João Victor,BRA,M,1.81,77,07-11-88,Olinda
+2012,a003,Mallorca,4,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla
+2012,a003,Mallorca,5,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid
+2012,a003,Mallorca,7,Michael Pereira,FRA,M,1.8,69,08-12-87,Paris
+2012,a003,Mallorca,8,Emilio Nsue,ESP,F,1.78,75,30-09-89,Palma de Mallorca
+2012,a003,Mallorca,9,Marvin Ogunjimi,BEL,F,1.84,79,12-10-87,Mechelen
+2012,a003,Mallorca,10,Tomer Hemed,ISR,F,1.85,80,02-05-87,Haifa
+2012,a003,Mallorca,11,Gonzalo Castro,URU,M,1.76,70,14-09-84,Trinidad
+2012,a003,Mallorca,12,Chico,ESP,D,1.87,75,06-03-87,Cádiz
+2012,a003,Mallorca,13,Dudu Aouate,ISR,G,1.88,84,17-10-77,Haifa
+2012,a003,Mallorca,15,Pablo Cáceres,URU,D,1.81,75,22-04-85,Montevideo
+2012,a003,Mallorca,16,José Nunes,POR,D,1.85,82,07-03-77,Castelo de Pavia
+2012,a003,Mallorca,18,Víctor,ESP,F,1.8,77,28-02-85,Palma de Mallorca
+2012,a003,Mallorca,19,José Luis Martí,ESP,M,1.8,74,28-04-75,Palma de Mallorca
+2012,a003,Mallorca,21,Martí Crespi,ESP,D,1.81,78,15-06-87,Mallorca
+2012,a003,Mallorca,22,Pau Cendrós,ESP,D,1.76,71,01-04-87,Palma de Mallorca
+2012,a003,Mallorca,23,Fernando Tissone,ARG,M,1.82,75,24-07-86,Quilmes
+2012,a003,Mallorca,24,Alejandro Alfaro,ESP,M,1.73,68,23-11-86,La Palma del Condado
+2012,a003,Mallorca,26,Yeray,ESP,G,1.92,82,10-06-92,Palma de Mallorca
+2012,a003,Mallorca,27,Sergio Tejera,ESP,M,1.83,76,28-05-90,Barcelona
+2012,a003,Mallorca,28,Pedro Bigas,ESP,M,1.81,78,15-05-90,Palma de Mallorca
+2012,a003,Mallorca,29,Kevin,ESP,D,1.77,72,08-09-89,Peguera
+2012,a003,Mallorca,30,Álvaro,ESP,F,1.82,80,19-05-91,Elche
+2012,a003,Mallorca,31,Xisco,ESP,M,1.77,74,31-07-89,Palma de Mallorca
+2012,a003,Mallorca,32,Pablo Marí,ESP,D,1.91,87,31-08-93,Valencia
+2012,a003,Mallorca,33,Abdón,ESP,F,1.78,76,17-12-92,Arta
+2012,a003,Mallorca,34,Tià Sastre,ESP,M,1.74,68,22-06-94,Vilafranca
+2012,a003,Mallorca,35,Biel Company,ESP,D,1.76,73,16-02-92,Maria de la Salut
+2012,a003,Mallorca,20,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN]
+2012,a003,Mallorca,14,Akihiro Ienaga,JPN,M,1.73,70,13-06-86,Hyogo
+2012,a003,Osasuna,1,Ricardo,ESP,G,1.87,88,30-12-71,Madrid
+2012,a003,Osasuna,2,Marc Bertrán,ESP,D,1.81,78,22-05-82,Barcelona
+2012,a003,Osasuna,3,Rubén González,ESP,D,1.87,75,29-01-82,Santiago de Compostela
+2012,a003,Osasuna,4,Miguel Flaño,ESP,D,1.77,72,19-08-84,Pamplona
+2012,a003,Osasuna,5,Lolo,ESP,D,1.82,80,22-08-84,Huelva
+2012,a003,Osasuna,6,Javad Nekounam,IRN,M,1.86,78,07-09-80,Shar Rey
+2012,a003,Osasuna,7,Kike Sola,ESP,F,1.84,84,25-02-86,Tudela
+2012,a003,Osasuna,8,Masoud Shojaei,IRN,M,1.84,73,09-06-84,Shiraz
+2012,a003,Osasuna,9,Dejan Lekić,SRB,F,1.93,88,07-06-85,Kraljevo
+2012,a003,Osasuna,10,Patxi Puñal,ESP,M,1.79,73,06-09-75,Pamplona
+2012,a003,Osasuna,11,Javier Calleja,ESP,M,1.72,70,12-05-78,Madrid
+2012,a003,Osasuna,12,Ion Echaide,ESP,D,1.79,78,05-01-88,Pamplona
+2012,a003,Osasuna,13,Asier Riesgo,ESP,G,1.85,70,06-10-83,Deba
+2012,a003,Osasuna,14,Raúl García,ESP,M,1.83,80,11-07-86,Pamplona
+2012,a003,Osasuna,15,Rovérsio,BRA,D,1.87,70,17-01-84,Igrassú
+2012,a003,Osasuna,16,Álvaro Cejudo,ESP,M,1.8,72,29-01-84,Puente Genil
+2012,a003,Osasuna,17,Nino,ESP,F,1.69,68,10-06-80,Almería
+2012,a003,Osasuna,18,Xavier Annunziata,ESP,M,1.74,63,31-08-87,Santa Cruz de Tenerife
+2012,a003,Osasuna,19,Ibrahima Baldé,SEN,F,1.87,80,01-09-90,Pikine
+2012,a003,Osasuna,20,Jukka Raitala,FIN,D,1.8,77,15-09-88,Kerava
+2012,a003,Osasuna,21,Roland Lamah,BEL,F,1.8,71,31-12-87,Liège
+2012,a003,Osasuna,22,David Tímor,ESP,M,1.85,77,17-10-89,Valencia
+2012,a003,Osasuna,23,Sergio Fernández,ESP,D,1.91,81,23-05-77,Avilés
+2012,a003,Osasuna,24,Damiá,ESP,D,1.88,77,15-04-82,Figueras
+2012,a003,Osasuna,25,Andrés Fernández,ESP,G,1.84,86,17-12-86,Murcia
+2012,a003,Osasuna,27,Eneko Satrústegui,ESP,D,1.85,73,25-09-90,Pamplona
+2012,a003,Osasuna,28,Sergio Postigo,ESP,D,,,04-11-88,Madrid
+2012,a003,Osasuna,29,Marcos Pérez,ESP,D,1.74,72,30-09-89,Lucena
+2012,a003,Osasuna,30,Manuel Onwu,ESP,F,1.85,75,11-01-88,Tudela
+2012,a003,Osasuna,31,Roberto Torres,ESP,M,1.76,69,07-03-89,Pamplona
+2012,a003,Osasuna,32,Joaquín Calderón,ESP,M,1.69,70,10-10-88,Elche
+2012,a003,Osasuna,33,Gonzalo,ESP,D,1.85,80,20-10-88,Cartagena
+2012,a003,Osasuna,34,Raoul Loé,CMR,M,1.92,83,31-01-89,Courbevoie
+2012,a003,Osasuna,35,José Manuel Hermosa,ESP,M,1.78,68,23-04-89,Villajoyosa
+2012,a003,Racing Santander,1,Mario Fernández,ESP,G,1.84,74,30-04-88,Santander
+2012,a003,Racing Santander,2,José Picón,ESP,D,1.82,67,13-05-88,Santander
+2012,a003,Racing Santander,3,Christian,ESP,D,1.82,77,15-10-85,Santander
+2012,a003,Racing Santander,4,Osmar Barba,ESP,D,1.92,84,08-06-88,Santoña
+2012,a003,Racing Santander,5,Papakouli Diop,SEN,M,1.8,73,19-03-86,Kaolack
+2012,a003,Racing Santander,6,Domingo Cisma,ESP,D,1.84,76,09-02-82,Seville
+2012,a003,Racing Santander,7,Manuel Arana,ESP,M,1.75,72,03-12-84,Seville
+2012,a003,Racing Santander,8,Gonzalo Colsa,ESP,M,1.85,77,11-05-79,Ramales de la Victoria
+2012,a003,Racing Santander,9,Lautaro Acosta,ARG,M,1.68,68,14-03-88,Glew
+2012,a003,Racing Santander,10,Pedro Munitis,ESP,F,1.67,70,19-06-75,Santander
+2012,a003,Racing Santander,13,Toño,ESP,G,1.82,81,17-12-79,Alicante
+2012,a003,Racing Santander,14,Álvaro González,ESP,D,1.8,68,08-01-90,Potes
+2012,a003,Racing Santander,15,Francis,ESP,M,1.79,70,17-12-81,Barbate
+2012,a003,Racing Santander,16,Kennedy Bakırcıoğlu,SWE,M,1.81,71,02-11-80,Södertälje
+2012,a003,Racing Santander,17,Julián Luque,ESP,F,1.75,73,27-03-92,Torrelavega
+2012,a003,Racing Santander,18,Bernardo Espinosa,COL,D,1.92,86,11-07-89,Cali
+2012,a003,Racing Santander,19,Marc Torrejón,ESP,D,1.87,87,18-02-86,Barcelona
+2012,a003,Racing Santander,20,Edu Bedia,ESP,M,1.84,74,23-03-89,Santander
+2012,a003,Racing Santander,21,Marcos Gullón,ESP,M,1.85,79,20-02-89,Madrid
+2012,a003,Racing Santander,22,Christian Stuani,URU,F,1.85,74,12-10-86,Tala
+2012,a003,Racing Santander,23,Adrián González,ESP,M,1.83,76,25-05-88,Madrid
+2012,a003,Racing Santander,26,César de la Hoz,ESP,M,1.79,70,30-03-92,Orejo
+2012,a003,Racing Santander,27,Borja Docal,ESP,M,1.75,65,03-10-91,Santander
+2012,a003,Racing Santander,28,Borja García,ESP,D,1.8,74,07-01-90,Laredo
+2012,a003,Racing Santander,29,Jairo,ESP,M,1.7,65,11-07-93,Cabezón de la Sal
+2012,a003,Racing Santander,30,Javi Martínez,ESP,F,1.82,76,05-09-89,Nájera
+2012,a003,Racing Santander,31,Dani Sotres,ESP,G,1.82,78,21-05-93,Santiago de Cudeyo
+2012,a003,Racing Santander,32,Tato,ESP,M,1.78,69,09-07-92,Santander
+2012,a003,Racing Santander,33,Mamadou Koné,CIV,F,1.77,73,25-12-91,Bingerville
+2012,a003,Racing Santander,34,Javi Barrio,ESP,D,1.85,77,21-05-91,Varea
+2012,a003,Racing Santander,35,Alberto Guitián,ESP,M,1.82,74,29-07-90,Los Corrales de Buelna
+2012,a003,Racing Santander,36,Gonzalo,ESP,D,1.76,72,05-10-89,Santander
+2012,a003,Racing Santander,37,Óscar Santiago,ESP,G,1.83,74,20-01-91,Santander
+2012,a003,Racing Santander,39,Quique Rivero,ESP,M,1.76,70,16-04-92,Cabezón de la Sal
+2012,a003,Racing Santander,40,Jaime Isuardi,ESP,F,1.71,65,02-02-92,Santander
+2012,a003,Racing Santander,11,Óscar Serrano,ESP,M,1.75,73,30-09-81,Blanes
+2012,a003,Racing Santander,24,Ariel Nahuelpán,ARG,F,1.9,87,15-10-87,Capital Federal
+2012,a003,Racing Santander,21,Alexandros Tziolis,GRE,M,1.89,84,13-02-85,Katerini
+2012,a003,Racing Santander,11,Khouma Babacar,SEN,F,1.91,85,17-03-93,Thiès
+2012,a003,Rayo Vallecano,1,David Cobeño,ESP,G,1.85,82,06-04-82,Madrid
+2012,a003,Rayo Vallecano,2,Tito,ESP,D,1.74,62,11-07-85,Madrid
+2012,a003,Rayo Vallecano,3,José Manuel Casado,ESP,D,1.73,75,09-08-86,Sevilla
+2012,a003,Rayo Vallecano,4,Mikel Labaka,ESP,D,1.85,78,10-08-80,Azpeitia
+2012,a003,Rayo Vallecano,5,Alejandro Arribas,ESP,D,1.82,75,01-05-89,Madrid
+2012,a003,Rayo Vallecano,7,José Maria Movilla,ESP,M,1.71,70,08-02-75,Madrid
+2012,a003,Rayo Vallecano,8,Michel,ESP,M,1.74,66,30-10-75,Madrid
+2012,a003,Rayo Vallecano,9,Raúl Tamudo,ESP,F,1.8,74,19-10-77,Santa Coloma
+2012,a003,Rayo Vallecano,10,Piti,ESP,F,1.74,69,26-05-81,Barcelona
+2012,a003,Rayo Vallecano,11,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón
+2012,a003,Rayo Vallecano,12,Jorge Pulido,ESP,D,1.81,72,08-04-91,Talavera de la Reina
+2012,a003,Rayo Vallecano,13,Dani Giménez,ESP,G,1.82,77,30-07-83,Vigo
+2012,a003,Rayo Vallecano,15,Raúl Bravo,ESP,D,1.76,62,14-04-81,Gandia
+2012,a003,Rayo Vallecano,17,Roberto Trashorras,ESP,M,1.79,71,28-02-81,Rabade
+2012,a003,Rayo Vallecano,18,Javi Fuego,ESP,M,1.81,74,04-01-84,Pola di Siero
+2012,a003,Rayo Vallecano,19,Diego Costa,BRA,F,1.86,78,07-10-88,Lagarto
+2012,a003,Rayo Vallecano,20,Michu,ESP,M,1.85,80,21-03-86,Oviedo
+2012,a003,Rayo Vallecano,22,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão
+2012,a003,Rayo Vallecano,23,Andrija Delibašić,MNE,F,1.87,84,24-04-81,Nikšić
+2012,a003,Rayo Vallecano,24,Daniel Pacheco,ESP,F,1.68,67,05-01-91,Málaga
+2012,a003,Rayo Vallecano,25,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés
+2012,a003,Rayo Vallecano,26,Ismael,ESP,G,1.85,80,23-01-89,Madrid
+2012,a003,Rayo Vallecano,27,Alhassane Bangoura,GUI,F,1.74,71,30-03-92,Conakry
+2012,a003,Rayo Vallecano,28,José Manuel Alcañiz,ESP,D,1.8,75,12-07-90,Madrid
+2012,a003,Rayo Vallecano,29,Diego Benito,ESP,M,1.78,70,25-08-88,Madrid
+2012,a003,Rayo Vallecano,32,Pape Maly Diamanka,SEN,M,1.84,76,10-01-90,Dakar
+2012,a003,Rayo Vallecano,33,Alberto Perea,ESP,F,1.8,83,16-05-90,Albacete
+2012,a003,Rayo Vallecano,35,Jorge Sáez,ESP,M,1.65,57,05-05-90,Madrid
+2012,a003,Rayo Vallecano,36,Nono,ESP,F,1.7,62,28-05-91,Badajoz
+2012,a003,Rayo Vallecano,38,Róber,ESP,D,1.82,76,29-09-92,Badajoz
+2012,a003,Rayo Vallecano,39,Aitor Núñez,ESP,D,1.78,70,02-10-87,Madrid
+2012,a003,Rayo Vallecano,14,Néstor Susaeta,ESP,M,1.77,74,11-12-84,Eibar
+2012,a003,Rayo Vallecano,19,Koke,ESP,F,1.8,74,27-04-83,Málaga
+2012,a003,Rayo Vallecano,21,Jordi,ESP,D,1.85,82,16-05-87,Lleida
+2012,a003,Rayo Vallecano,11,Botelho,BRA,M,1.88,72,14-12-89,Salvador
+2012,a003,Rayo Vallecano,6,Rafa García,ESP,M,1.88,84,14-01-86,Ciudad Real
+2012,a003,Rayo Vallecano,34,Rayco,ESP,F,1.65,64,23-03-87,Las Palmas
+2012,a003,Real Madrid,1,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid
+2012,a003,Real Madrid,2,Ricardo Carvalho,POR,D,1.83,76,18-05-78,Amarante
+2012,a003,Real Madrid,3,Pepe,POR,D,1.86,72,26-02-83,Maceió
+2012,a003,Real Madrid,4,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas
+2012,a003,Real Madrid,5,Nuri Şahin,TUR,M,1.8,73,05-09-88,Lüdenscheid
+2012,a003,Real Madrid,6,Sami Khedira,GER,M,1.89,83,04-04-87,Stuttgart
+2012,a003,Real Madrid,7,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal
+2012,a003,Real Madrid,8,Kaká,BRA,M,1.86,83,22-04-82,Brasília
+2012,a003,Real Madrid,9,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon
+2012,a003,Real Madrid,10,Mesut Özil,GER,M,1.82,73,15-10-88,Gelsenkirchen
+2012,a003,Real Madrid,11,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid
+2012,a003,Real Madrid,12,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro
+2012,a003,Real Madrid,13,Antonio Adán,ESP,G,1.89,91,13-05-87,Madrid
+2012,a003,Real Madrid,14,Xabi Alonso,ESP,M,1.83,75,25-11-81,Tolosa
+2012,a003,Real Madrid,15,Fábio Coentrão,POR,D,1.78,66,11-03-88,Vila do Conde
+2012,a003,Real Madrid,16,Hamit Altıntop,TUR,M,1.83,82,08-12-82,Gelsenkirchen
+2012,a003,Real Madrid,17,Álvaro Arbeloa,ESP,D,1.83,76,17-01-83,Salamanca
+2012,a003,Real Madrid,18,Raúl Albiol,ESP,D,1.87,74,04-09-85,Valencia
+2012,a003,Real Madrid,19,Raphaël Varane,FRA,D,1.91,76,25-04-93,Lille
+2012,a003,Real Madrid,20,Gonzalo Higuaín,ARG,F,1.84,75,10-12-87,Brest
+2012,a003,Real Madrid,21,José Callejón,ESP,F,1.79,73,11-02-87,Motril
+2012,a003,Real Madrid,22,Ángel Di Maria,ARG,M,1.78,75,14-02-88,Rosario
+2012,a003,Real Madrid,24,Lassana Diarra,FRA,M,1.73,68,10-03-85,Paris
+2012,a003,Real Madrid,26,Álvaro Morata,ESP,F,1.87,80,23-10-92,Madrid
+2012,a003,Real Madrid,27,Nacho Fernández,ESP,D,1.8,74,18-01-90,Madrid
+2012,a003,Real Madrid,28,Jesé,ESP,F,1.78,72,26-02-93,Las Palmas
+2012,a003,Real Madrid,29,Joselu,ESP,F,1.91,79,27-03-90,Stuttgart
+2012,a003,Real Madrid,30,Álex Fernández,ESP,M,1.8,68,15-10-92,Madrid
+2012,a003,Real Madrid,31,Fernando Pacheco,ESP,G,1.87,81,18-05-92,Badajoz
+2012,a003,Real Madrid,33,Mandi,ESP,M,1.78,74,01-03-89,Las Palmas
+2012,a003,Real Madrid,34,Pedro Mendes,POR,D,1.84,69,01-10-90,Queluz
+2012,a003,Real Madrid,35,Jesús Fernández,ESP,G,1.89,79,11-06-88,Madrid
+2012,a003,Real Madrid,36,Daniel Carvajal,ESP,D,1.73,70,11-01-92,Leganés
+2012,a003,Real Madrid,38,Jorge Casado,ESP,D,1.83,77,26-06-89,Madrid
+2012,a003,Real Madrid,40,Andy,ESP,M,1.85,79,30-01-90,Granada
+2012,a003,Real Madrid,52,Tomás Mejías,ESP,G,1.94,81,30-01-89,Madrid
+2012,a003,Real Sociedad,1,Claudio Bravo,CHI,G,1.84,84,13-04-83,Viluco
+2012,a003,Real Sociedad,2,Carlos Martínez,ESP,D,1.88,78,09-04-86,Estella
+2012,a003,Real Sociedad,3,Mikel González,ESP,D,1.88,78,24-09-85,Mondragón
+2012,a003,Real Sociedad,4,Gorka Elustondo,ESP,M,1.82,73,18-03-87,Beasain
+2012,a003,Real Sociedad,5,Markel Bergara,ESP,M,1.8,74,05-05-86,Elgoibar
+2012,a003,Real Sociedad,6,Íñigo Martínez,ESP,D,1.76,62,17-05-91,Ondarroa
+2012,a003,Real Sociedad,7,Antoine Griezmann,FRA,F,1.74,72,21-03-91,Maçon
+2012,a003,Real Sociedad,8,Joseba Llorente,ESP,F,1.84,72,24-11-79,Hondarribia
+2012,a003,Real Sociedad,9,Imanol Agirretxe,ESP,F,1.85,74,24-02-87,Usurbil
+2012,a003,Real Sociedad,10,Xabi Prieto,ESP,M,1.85,77,29-08-83,San Sebastián
+2012,a003,Real Sociedad,11,Mikel Aranburu,ESP,M,1.8,70,18-02-79,Azpeitia
+2012,a003,Real Sociedad,13,Eñaut Zubikarai,ESP,G,1.85,73,26-02-84,Ondarroa
+2012,a003,Real Sociedad,15,Ion Ansotegi,ESP,D,1.92,84,13-07-82,Berriatua
+2012,a003,Real Sociedad,16,Vladim Demidov,NOR,D,1.85,73,10-10-86,Riga
+2012,a003,Real Sociedad,17,David Zurutuza,ESP,M,1.84,70,19-07-86,Rochefort
+2012,a003,Real Sociedad,19,Liassine Cadamuro,ALG,D,1.86,76,05-03-88,Toulouse
+2012,a003,Real Sociedad,20,Asier Illarramendi,ESP,M,1.77,74,08-03-90,Mutriku
+2012,a003,Real Sociedad,21,Diego Ifrán,URU,F,1.71,69,08-06-87,Montevideo
+2012,a003,Real Sociedad,22,Dani Estrada,ESP,M,1.77,68,03-01-87,Zarautz
+2012,a003,Real Sociedad,23,Carlos Vela,MEX,F,1.76,72,01-03-89,Cancún
+2012,a003,Real Sociedad,24,Alberto De La Bella,ESP,M,1.79,72,02-12-85,Santa Coloma de Gramanet
+2012,a003,Real Sociedad,25,Toño Ramírez,ESP,G,1.89,83,23-11-86,Logroño
+2012,a003,Real Sociedad,27,Rubén Pardo,ESP,M,1.75,70,22-10-92,Logroño
+2012,a003,Real Sociedad,28,Iker Hernández,ESP,F,1.81,74,08-04-94,Urnieta
+2012,a003,Real Sociedad,29,Javi Ros,ESP,M,1.72,67,16-02-90,Pamplona
+2012,a003,Real Sociedad,18,McDonald Mariga,KEN,M,1.87,80,04-04-87,Nairobi
+2012,a003,Real Sociedad,14,Jeffrey Sarpong,NED,M,1.76,65,03-08-88,Amsterdam
+2012,a003,Real Sociedad,26,Íñigo Martínez,ESP,D,1.76,62,17-05-91,Ondarroa
+2012,a003,Sevilla,1,Andrés Palop,ESP,G,1.84,75,22-10-73,Valencia
+2012,a003,Sevilla,2,Federico Fazio,ARG,D,1.95,85,17-03-87,Buenos Aires
+2012,a003,Sevilla,3,Fernando Navarro,ESP,D,1.78,70,25-06-82,Barcelona
+2012,a003,Sevilla,6,Emir Spahić,BIH,D,1.83,77,18-08-80,Dubrovnik
+2012,a003,Sevilla,7,Jesús Navas,ESP,M,1.7,60,21-11-85,Los Palacios
+2012,a003,Sevilla,8,Gary Medel,CHI,M,1.72,71,03-08-87,Santiago
+2012,a003,Sevilla,9,Álvaro Negredo,ESP,F,1.86,85,20-08-85,Madrid
+2012,a003,Sevilla,10,Diego Perotti,ARG,F,1.75,67,26-07-88,Moreno
+2012,a003,Sevilla,11,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden
+2012,a003,Sevilla,12,Frédéric Kanouté,MLI,F,1.92,82,02-09-77,Sainte-Foy-le-Grande
+2012,a003,Sevilla,13,Javi Varas,ESP,G,1.82,73,10-09-82,Seville
+2012,a003,Sevilla,14,Julien Escudé,FRA,D,1.83,79,17-08-79,Chartres
+2012,a003,Sevilla,15,Piotr Trochowski,GER,M,1.69,70,22-03-84,Dirschau
+2012,a003,Sevilla,16,José Campaña,ESP,M,1.76,55,30-05-93,Seville
+2012,a003,Sevilla,17,Tiberio Guarente,ITA,M,1.82,74,01-11-85,Pisa
+2012,a003,Sevilla,19,Antonio Luna,ESP,D,1.77,68,17-03-91,Son Servera
+2012,a003,Sevilla,20,Manu del Moral,ESP,F,1.86,77,25-02-84,Jaén
+2012,a003,Sevilla,21,José Antonio Reyes,ESP,M,1.76,76,01-09-83,Utrera
+2012,a003,Sevilla,23,Coke,ESP,D,1.82,78,26-04-87,Madrid
+2012,a003,Sevilla,24,Tom De Mul,BEL,M,1.78,67,04-03-86,Kapellen
+2012,a003,Sevilla,25,Baba Diawara,SEN,F,1.85,79,05-01-88,Dakar
+2012,a003,Sevilla,26,Luis Alberto,ESP,F,1.82,70,28-09-92,Jerez de la Frontera
+2012,a003,Sevilla,27,Salva,ESP,M,1.85,81,01-08-90,Seville
+2012,a003,Sevilla,28,Hiroshi Ibusuki,JPN,F,1.93,83,27-02-91,Nagareyama
+2012,a003,Sevilla,29,Dani Jiménez,ESP,G,1.79,72,05-03-90,Lebrija
+2012,a003,Sevilla,30,Sergio Rico,ESP,G,1.94,88,01-09-93,Seville
+2012,a003,Sevilla,31,Cala,ESP,D,1.85,78,26-11-89,Lebrija
+2012,a003,Sevilla,32,Julián,ESP,G,1.95,91,28-03-91,Granada
+2012,a003,Sevilla,33,Samu,ESP,D,1.82,80,15-02-92,Seville
+2012,a003,Sevilla,34,Deivid,ESP,D,1.88,72,27-01-89,Las Palmas
+2012,a003,Sevilla,36,Alberto Moreno,ESP,D,1.71,64,05-07-92,Seville
+2012,a003,Sevilla,4,Martín Cáceres,URU,D,1.82,77,07-04-87,Montevideo
+2012,a003,Sevilla,18,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón
+2012,a003,Sevilla,5,Alexis,ESP,D,1.83,75,04-08-85,Málaga
+2012,a003,Sporting Gijón,1,Juan Pablo,ESP,G,1.87,83,02-09-78,León
+2012,a003,Sporting Gijón,2,Alberto Botķa,ESP,D,1.87,75,27-01-89,Alquerias
+2012,a003,Sporting Gijón,3,André Castro,POR,M,1.79,75,02-04-88,Gondomar
+2012,a003,Sporting Gijón,5,Alberto Rivera,ESP,M,1.7,68,19-02-78,Puertollano
+2012,a003,Sporting Gijón,6,Carmelo,ESP,M,1.8,70,09-07-83,Las Palmas
+2012,a003,Sporting Gijón,7,Ayoze,ESP,M,1.72,64,22-11-85,Puerto de La Cruz
+2012,a003,Sporting Gijón,8,Sebastiįn Eguren,URU,M,1.86,84,08-01-81,Montevideo
+2012,a003,Sporting Gijón,9,Mate Bilić,CRO,F,1.85,81,23-10-80,Split
+2012,a003,Sporting Gijón,11,Alberto Lora,ESP,M,1.68,67,25-03-87,Móstoles
+2012,a003,Sporting Gijón,12,Gregory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan
+2012,a003,Sporting Gijón,13,Raśl,ESP,G,1.81,75,01-11-86,San Romįn de Cayón
+2012,a003,Sporting Gijón,14,Ivįn Hernįndez,ESP,M,1.85,80,27-02-80,Madrid
+2012,a003,Sporting Gijón,15,Roberto Canella,ESP,M,1.8,68,07-02-88,Pola de Laviana
+2012,a003,Sporting Gijón,16,Sergio Įlvarez,ESP,M,1.8,65,23-01-92,Avilés
+2012,a003,Sporting Gijón,17,Damiįn Suįrez,URU,D,1.73,68,27-04-88,Montevideo
+2012,a003,Sporting Gijón,18,Adriįn Colunga,ESP,F,1.72,70,17-11-84,Oviedo
+2012,a003,Sporting Gijón,19,Gastón Sangoy,ARG,F,1.78,79,05-10-84,Paranį
+2012,a003,Sporting Gijón,20,Miguel de las Cuevas,ESP,M,1.75,70,19-06-86,Alicante
+2012,a003,Sporting Gijón,21,Nacho Cases,ESP,M,1.74,64,22-12-87,Gijón
+2012,a003,Sporting Gijón,22,Ricardo,ESP,M,1.86,67,08-02-83,Santa Cruz de Tenerife
+2012,a003,Sporting Gijón,23,David Barral,ESP,F,1.83,78,10-05-83,Cįdiz
+2012,a003,Sporting Gijón,24,Óscar Trejo,ARG,F,1.8,79,26-04-88,Santiago del Estero
+2012,a003,Sporting Gijón,25,Ivįn Cuéllar,ESP,G,1.85,75,25-05-84,Mérida
+2012,a003,Sporting Gijón,26,Pedro Orfila,ESP,D,1.75,67,06-03-88,Luanco
+2012,a003,Sporting Gijón,28,Juan Muńiz,ESP,M,1.78,74,13-03-92,Gijón
+2012,a003,Sporting Gijón,29,Alain,ESP,D,1.84,73,13-11-89,Gijón
+2012,a003,Sporting Gijón,30,Įlex Barrera,ESP,M,1.9,78,12-05-91,Oviedo
+2012,a003,Sporting Gijón,31,Įlex Menéndez,ESP,F,1.81,67,15-07-91,Gijón
+2012,a003,Sporting Gijón,32,Formose Mendy,SEN,F,1.83,76,23-03-89,Guédiawaye
+2012,a003,Sporting Gijón,33,Alejandro Gįlvez,ESP,D,1.9,84,06-06-89,Granada
+2012,a003,Sporting Gijón,34,Dennis,ESP,G,1.82,65,08-08-92,Mieres
+2012,a003,Sporting Gijón,35,Moisés Garcķa,ESP,D,1.83,78,31-10-89,Seville
+2012,a003,Sporting Gijón,18,Luis Morįn,ESP,F,1.72,67,26-07-87,Luanco
+2012,a003,Sporting Gijón,27,Raśl,ESP,G,1.81,75,01-11-86,San Romįn de Cayón
+2012,a003,Sporting Gijón,10,Nacho Novo,ESP,F,1.75,70,26-03-79,Ferrol
+2012,a003,Valencia,1,Diego Alves,BRA,G,1.88,83,24-06-85,Rio de Janeiro
+2012,a003,Valencia,2,Bruno Saltor,ESP,D,1.81,76,01-10-80,Barcelona
+2012,a003,Valencia,3,Hedwiges Maduro,NED,M,1.85,79,13-02-85,Almere
+2012,a003,Valencia,4,Adil Rami,FRA,D,1.9,90,27-12-85,Bastia
+2012,a003,Valencia,5,Mehmet Topal,TUR,M,1.87,76,03-03-86,Malatya
+2012,a003,Valencia,6,David Albelda,ESP,M,1.81,77,01-09-77,Alzira
+2012,a003,Valencia,7,Jonas,BRA,F,1.83,73,01-04-84,Bebedouro
+2012,a003,Valencia,8,Sofiane Feghouli,ALG,M,1.78,71,26-12-89,Levallois-Perret
+2012,a003,Valencia,9,Roberto Soldado,ESP,F,1.79,81,27-05-85,Valencia
+2012,a003,Valencia,10,Éver Banega,ARG,M,1.74,69,29-06-88,Rosario
+2012,a003,Valencia,11,Aritz Aduriz,ESP,F,1.77,75,11-02-81,San Sebastián
+2012,a003,Valencia,12,Antonio Barragán,ESP,D,1.82,76,12-06-87,Pontedeume
+2012,a003,Valencia,13,Vicente Guaita,ESP,G,1.9,80,18-02-87,Valencia
+2012,a003,Valencia,14,Pablo Piatti,ARG,F,1.63,63,31-03-89,La Carlota
+2012,a003,Valencia,15,Ángel Dealbert,ESP,D,1.85,78,01-01-83,Castellón
+2012,a003,Valencia,16,Sergio Canales,ESP,M,1.76,65,16-02-91,Santander
+2012,a003,Valencia,17,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat
+2012,a003,Valencia,18,Víctor Ruíz,ESP,D,1.84,73,25-01-89,Esplugues de Llobregat
+2012,a003,Valencia,19,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón
+2012,a003,Valencia,20,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia
+2012,a003,Valencia,21,Daniel Parejo,ESP,M,1.8,75,16-04-89,Madrid
+2012,a003,Valencia,22,Jérémy Mathieu,FRA,D,1.9,82,29-10-83,Luxeuil-les-Bains
+2012,a003,Valencia,23,Miguel,POR,D,1.79,78,04-01-80,Lisbon
+2012,a003,Valencia,24,Facundo Alberto Costa,ARG,M,1.76,70,09-01-85,Buenos Aires
+2012,a003,Valencia,26,Adrián,ESP,G,1.8,74,14-01-93,Godella
+2012,a003,Valencia,27,Paco Alcácer,ESP,F,1.74,71,30-08-93,Torrent
+2012,a003,Valencia,28,Juan Bernat,ESP,M,1.72,67,01-03-93,Valencia
+2012,a003,Valencia,30,Héctor Pizana,ESP,G,,,07-02-95,
+2012,a003,Valencia,32,Portu,ESP,M,1.7,70,21-05-92,Beniel
+2012,a003,Valencia,43,Cristiano,POR,G,1.95,90,29-11-90,Satão
+2012,a003,Villarreal,1,César Sánchez,ESP,G,1.85,82,02-09-71,Coria
+2012,a003,Villarreal,2,Gonzalo Rodríguez,ARG,D,1.82,79,10-04-84,Buenos Aires
+2012,a003,Villarreal,3,Joan Oriol,ESP,D,1.75,69,05-11-86,Cambrils
+2012,a003,Villarreal,4,Mateo Musacchio,ARG,D,1.79,72,26-08-90,Rosario
+2012,a003,Villarreal,5,Carlos Marchena,ESP,D,1.83,78,31-07-79,Las Cabezas
+2012,a003,Villarreal,6,Ángel,ESP,D,1.81,71,10-03-81,Santa Lucia de Tirajana
+2012,a003,Villarreal,7,Nilmar,BRA,F,1.8,70,14-07-84,Bandeirantes
+2012,a003,Villarreal,8,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN]
+2012,a003,Villarreal,9,Marco Rubén,ARG,F,1.79,72,26-10-86,Capitán Bermúdez
+2012,a003,Villarreal,10,Cani,ESP,M,1.8,75,03-08-81,Zaragoza
+2012,a003,Villarreal,11,Hernán Pérez,PAR,M,1.77,68,25-02-89,Fernando de la Mora
+2012,a003,Villarreal,12,Cristián Zapata,COL,D,1.86,78,30-09-86,Padilla Cauca
+2012,a003,Villarreal,13,Diego López,ESP,G,1.96,88,03-11-81,Paradela
+2012,a003,Villarreal,14,Mario,ESP,D,1.75,70,24-11-90,Novelda
+2012,a003,Villarreal,15,José Catalá,ESP,D,1.75,72,31-12-84,Villajoyosa
+2012,a003,Villarreal,16,Gonzalo Castellani,ARG,M,1.83,75,10-08-87,Capital Federal
+2012,a003,Villarreal,17,Javier Camuñas,ESP,M,1.73,71,17-07-80,Madrid
+2012,a003,Villarreal,18,Wakaso Mubarak,GHA,M,1.65,79,25-07-90,Tamale
+2012,a003,Villarreal,19,Marcos Senna,ESP,M,1.77,76,17-07-76,São Paulo
+2012,a003,Villarreal,20,Borja Valero,ESP,M,1.74,73,12-01-85,Madrid
+2012,a003,Villarreal,21,Bruno,ESP,M,1.79,70,12-06-84,Artana
+2012,a003,Villarreal,22,Giuseppe Rossi,ITA,F,1.73,73,01-02-87,Clifton
+2012,a003,Villarreal,23,Alejandro Martinuccio,ARG,F,1.73,72,16-12-87,Capital Federal
+2012,a003,Villarreal,31,Diego Mariño,ESP,G,1.85,75,09-05-90,Vigo
+2012,a003,Villarreal,33,Kiko,ESP,D,1.89,83,21-08-88,Málaga
+2012,a003,Villarreal,35,Jorge,ESP,G,1.78,76,18-02-88,Benlloch
+2012,a003,Villarreal,38,Florian Lejeune,FRA,D,1.88,81,20-05-91,Paris
+2012,a003,Villarreal,41,Joselu,ESP,F,1.77,70,03-03-91,Cartaya
+2012,a003,Villarreal,42,Jaume,ESP,D,1.69,67,18-03-88,Valencia
+2012,a003,Villarreal,44,Toño,ESP,D,1.79,70,07-11-89,Alcalá de Henares
+2012,a003,Villarreal,51,Fernando Llorente,ESP,M,1.79,72,18-09-90,Segovia
+2012,a003,Villarreal,52,Manu Trigueros,ESP,F,1.78,70,17-10-91,Talavera de la Reina
+2012,a003,Villarreal,53,Pablo Íñiguez,ESP,D,1.83,72,20-01-94,Burgos
+2012,a003,Villarreal,54,Moi Gómez,ESP,M,1.74,65,23-06-94,Rojales
+2012,a003,Villarreal,34,Gonzalo Castellani,ARG,M,1.83,75,10-08-87,Capital Federal
+2012,a003,Villarreal,30,Carlos Tomás,ESP,D,1.83,78,18-05-88,Ibiza
+2012,a003,Villarreal,50,Fofo,ESP,F,1.82,75,02-03-90,Palma de Mallorca
+2012,a003,Villarreal,23,Gerard Bordas,ESP,M,1.77,70,11-09-81,Manresa
+2012,a003,Villarreal,39,Kike,ESP,F,1.69,65,12-01-88,Salamanca
+2012,a003,Villarreal,49,Nico,ESP,M,1.74,70,11-02-91,Gandía
+2012,a003,Villarreal,26,Marcos Gullón,ESP,M,1.85,79,20-02-89,Madrid
+2012,a003,Villarreal,27,Mano,POR,M,1.68,60,09-04-87,Lisbon
+2012,a003,Villarreal,28,Dorian Dervite,FRA,D,1.92,85,25-07-88,Lille
+2012,a003,Villarreal,32,Jordi Pablo,ESP,M,1.73,75,01-01-90,Vinaròs
+2012,a003,Zaragoza,1,Roberto,ESP,G,1.88,82,10-02-86,Madrid
+2012,a003,Zaragoza,2,Pablo Álvarez,ARG,D,1.84,82,17-04-84,San Martín
+2012,a003,Zaragoza,3,Javier Paredes,ESP,D,1.75,74,05-07-82,Oviedo
+2012,a003,Zaragoza,4,David Mateos,ESP,D,1.9,82,22-04-87,Madrid
+2012,a003,Zaragoza,5,Maurizio Lanzaro,ITA,D,1.83,79,14-03-82,Avellino
+2012,a003,Zaragoza,7,Carlos Aranda,ESP,F,1.86,82,27-07-80,Málaga
+2012,a003,Zaragoza,8,Edu Oriol,ESP,F,1.74,70,05-11-86,Cambrils
+2012,a003,Zaragoza,9,Hélder Postiga,POR,F,1.82,79,02-08-82,Vila do Conde
+2012,a003,Zaragoza,10,Luis García,ESP,F,1.8,68,06-02-81,Oviedo
+2012,a003,Zaragoza,11,Juan Carlos,ESP,M,1.76,68,30-03-90,Madrid
+2012,a003,Zaragoza,14,Paulo da Silva,PAR,D,1.81,76,01-02-80,Asunción
+2012,a003,Zaragoza,15,Tomislav Dujmović,CRO,M,1.88,87,26-02-81,Zagreb
+2012,a003,Zaragoza,16,Pablo Barrera,MEX,M,1.75,65,21-06-87,Tlalnepantla de Baz
+2012,a003,Zaragoza,17,Ángel Lafita,ESP,M,1.88,75,07-08-84,Zaragoza
+2012,a003,Zaragoza,18,Rúben Micael,POR,M,1.75,73,19-08-86,Câmara de Lobos
+2012,a003,Zaragoza,20,Franco Zuculini,ARG,M,1.74,69,05-09-90,La Rioja
+2012,a003,Zaragoza,21,Abraham,ESP,D,1.75,71,22-02-86,Granollers
+2012,a003,Zaragoza,22,Ádám Pintér,HUN,D,1.9,76,12-06-88,Kaposvár
+2012,a003,Zaragoza,23,Apoño,ESP,M,1.73,69,13-02-84,Málaga
+2012,a003,Zaragoza,24,Ivan Obradović,SRB,D,1.81,74,25-07-88,Belgrade
+2012,a003,Zaragoza,25,Leo Franco,ARG,G,1.88,79,20-05-77,San Nicolás
+2012,a003,Zaragoza,26,Jorge Ortí,ESP,F,1.8,72,28-04-93,Zaragoza
+2012,a003,Zaragoza,27,Joel Valencia,ECU,F,1.75,70,16-11-94,Esmereldas
+2012,a003,Zaragoza,28,Ramiro Mayor,ESP,D,1.85,79,09-05-91,Zaragoza
+2012,a003,Zaragoza,29,Kevin Lacruz,ESP,M,1.75,64,13-02-92,Zaragoza
+2012,a003,Zaragoza,30,Pablo Alcolea,ESP,G,1.84,78,23-03-89,Zaragoza
+2012,a003,Zaragoza,42,Kilian,ESP,G,1.88,70,28-09-92,Las Palmas
+2012,a003,Zaragoza,9,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba
+2012,a003,Zaragoza,7,Braulio,ESP,F,1.77,78,18-09-85,Puerto Rosario
+2012,a003,Zaragoza,23,Leonardo Ponzio,ARG,M,1.78,75,29-01-82,Las Rojas
+2012,a003,Zaragoza,2,Efrain Juárez,MEX,D,1.72,65,22-02-88,Mexico City
+2012,a003,Zaragoza,6,Fernando Meira,POR,D,1.9,78,05-06-78,Guimarães
+2012,a003,Zaragoza,19,Antonio Tomás,ESP,M,1.76,75,19-01-85,Torrelavega

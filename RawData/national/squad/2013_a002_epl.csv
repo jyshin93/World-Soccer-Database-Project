@@ -1,0 +1,865 @@
+Season,League,Club,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place
+2013,a002,Arsenal,1,Wojciech Szczęsny,POL,G,1.95,84,18-04-90,Warsaw
+2013,a002,Arsenal,2,Abou Diaby,FRA,M,1.88,75,11-05-86,Paris
+2013,a002,Arsenal,3,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens
+2013,a002,Arsenal,4,Per Mertesacker,GER,D,1.98,90,29-09-84,Hannover
+2013,a002,Arsenal,5,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen
+2013,a002,Arsenal,6,Laurent Koscielny,FRA,D,1.86,75,10-09-85,Tulle
+2013,a002,Arsenal,7,Tomáš Rosický,CZE,M,1.78,67,04-10-80,Prague
+2013,a002,Arsenal,8,Mikel Arteta,ESP,M,1.75,69,26-03-82,San Sebastián
+2013,a002,Arsenal,9,Lukas Podolski,GER,F,1.82,83,04-06-85,Gliwice
+2013,a002,Arsenal,10,Jack Wilshere,ENG,M,1.7,65,01-01-92,Stevenage
+2013,a002,Arsenal,12,Olivier Giroud,FRA,F,1.92,88,30-09-86,Chambéry
+2013,a002,Arsenal,14,Theo Walcott,ENG,F,1.75,68,16-03-89,Stanmore
+2013,a002,Arsenal,15,Alex Oxlade-Chamberlain,ENG,M,1.8,70,15-08-93,Portsmouth
+2013,a002,Arsenal,16,Aaron Ramsey,WAL,M,1.78,76,26-12-90,Caerphilly
+2013,a002,Arsenal,17,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona
+2013,a002,Arsenal,18,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon
+2013,a002,Arsenal,19,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera
+2013,a002,Arsenal,21,Łukasz Fabiański,POL,G,1.9,84,18-04-85,Kostrzyn nad Odrą
+2013,a002,Arsenal,22,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval
+2013,a002,Arsenal,23,Andrey Arshavin,RUS,M,1.72,71,29-05-81,St. Petersburg
+2013,a002,Arsenal,24,Vito Mannone,ITA,G,1.94,73,02-03-88,Desio
+2013,a002,Arsenal,25,Carl Jenkinson,ENG,D,1.85,77,08-02-92,Buckhurst Hill
+2013,a002,Arsenal,27,"Kouassi Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama
+2013,a002,Arsenal,28,Kieran Gibbs,ENG,D,1.8,70,26-09-89,Lambeth
+2013,a002,Arsenal,36,Emiliano Martínez,ARG,G,1.93,85,02-09-92,Mar del Plata
+2013,a002,Arsenal,38,Martin Angha,SUI,D,1.88,81,22-01-94,Zürich
+2013,a002,Arsenal,39,Zak Ansah,ENG,F,1.79,70,04-05-94,Sidcup
+2013,a002,Arsenal,40,Héctor Bellerín,ESP,D,1.77,74,19-03-95,Barcelona
+2013,a002,Arsenal,41,Samir Bihmoutine,ENG,D,1.85,76,08-12-93,Newham
+2013,a002,Arsenal,42,Daniel Boateng,ENG,D,1.83,78,02-09-92,Enfield
+2013,a002,Arsenal,43,Reice Charles-Cook,ENG,G,1.85,80,08-04-94,Lewisham
+2013,a002,Arsenal,44,Craig Eastmond,ENG,D,1.83,75,09-12-90,Wandsworth
+2013,a002,Arsenal,45,Kyle Ebecilio,NED,M,1.8,77,17-02-94,Rotterdam
+2013,a002,Arsenal,46,Thomas Eisfeld,GER,M,1.77,65,18-01-93,Finsterwalde
+2013,a002,Arsenal,47,Serge Gnabry,GER,M,1.73,73,14-07-95,Stuttgart
+2013,a002,Arsenal,48,Sead Hajrovic,SUI,D,1.83,80,04-06-93,Brugg
+2013,a002,Arsenal,49,Isaac Hayden,ENG,D,1.87,79,22-03-95,Chelmsford
+2013,a002,Arsenal,50,Conor Henderson,IRL,M,1.85,76,08-09-91,Sidcup
+2013,a002,Arsenal,51,Benik Afobe,ENG,F,1.79,70,12-02-93,Leyton
+2013,a002,Arsenal,53,Jernade Meade,ENG,M,1.73,74,25-10-92,Luton
+2013,a002,Arsenal,54,Ignasi Miquel,ESP,D,1.93,85,28-09-92,Barcelona
+2013,a002,Arsenal,55,Elton Monteiro,SUI,D,1.92,85,22-02-94,Sion
+2013,a002,Arsenal,56,Nigel Neita,ENG,F,1.81,75,23-12-93,Southwark
+2013,a002,Arsenal,57,Kristoffer Olsson,SWE,M,1.78,70,30-06-95,Vrinnevi
+2013,a002,Arsenal,58,Josh Rees,ENG,M,1.75,70,04-10-93,Hemel Hempstead
+2013,a002,Arsenal,60,James Shea,ENG,G,1.8,76,16-06-91,Islington
+2013,a002,Arsenal,61,Jon Toral,ESP,M,1.84,80,05-02-95,Reus
+2013,a002,Arsenal,62,Sanchez Watt,ENG,M,1.8,76,14-02-91,Hackney
+2013,a002,Arsenal,63,Jordan Wynter,ENG,M,1.86,77,24-11-93,Goodmayes
+2013,a002,Arsenal,64,Nico Yennaris,ENG,D,1.7,65,23-05-93,Leytonstone
+2013,a002,Arsenal,65,Jack Jebb,ENG,M,1.82,74,11-09-95,Kensington
+2013,a002,Arsenal,66,Austin Lipman,ENG,F,,,20-09-95,Leytonstone
+2013,a002,Arsenal,67,Chuba Akpom,ENG,F,1.83,77,09-10-95,Newham
+2013,a002,Arsenal,68,Dejan Iliev,MKD,G,1.95,87,25-02-95,Strumica
+2013,a002,Arsenal,71,Brandon Ormonde-Ottewill,ENG,D,1.76,61,21-12-95,Sutton
+2013,a002,Arsenal,17,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala
+2013,a002,Arsenal,59,Phil Roberts,ENG,F,1.78,71,07-04-94,Newham
+2013,a002,Arsenal,30,Park Chu-Young,KOR,F,1.82,75,10-07-85,Daegu
+2013,a002,Arsenal,52,Nicklas Bendtner,DEN,F,1.92,83,16-01-88,Copenhagen
+2013,a002,Arsenal,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens
+2013,a002,Arsenal,20,Johan Djourou,SUI,D,1.91,83,18-01-87,Abidjan
+2013,a002,Arsenal,26,Emmanuel Frimpong,GHA,M,1.83,83,10-01-92,Accra
+2013,a002,Arsenal,34,Chuks Aneke,ENG,M,1.91,83,03-07-93,Newham
+2013,a002,Arsenal,11,André Santos,BRA,D,1.79,76,08-03-83,São Paulo
+2013,a002,Aston Villa,1,Shay Given,IRL,G,1.88,84,20-04-76,Lifford
+2013,a002,Aston Villa,4,Ron Vlaar,NED,D,1.89,80,16-02-85,Hensbroek
+2013,a002,Aston Villa,5,Richard Dunne,IRL,D,1.88,95,21-09-79,Dublin
+2013,a002,Aston Villa,6,Ciaran Clark,IRL,D,1.88,76,26-09-89,Harrow
+2013,a002,Aston Villa,7,Stephen Ireland,IRL,M,1.75,68,22-08-86,Cork
+2013,a002,Aston Villa,8,Karim El Ahmadi,MAR,M,1.85,78,27-01-85,Enschede
+2013,a002,Aston Villa,9,Darren Bent,ENG,F,1.8,73,06-02-84,Tooting
+2013,a002,Aston Villa,10,Charles N'Zogbia,FRA,M,1.7,70,28-05-86,Harfleur
+2013,a002,Aston Villa,11,Gabriel Agbonlahor,ENG,F,1.8,79,13-10-86,Birmingham
+2013,a002,Aston Villa,12,Marc Albrighton,ENG,M,1.75,67,18-11-89,Tamworth
+2013,a002,Aston Villa,14,Brett Holman,AUS,M,1.77,69,27-03-84,Bankstown
+2013,a002,Aston Villa,15,Ashley Westwood,ENG,M,1.75,67,01-04-90,Nantwich
+2013,a002,Aston Villa,16,Fabian Delph,ENG,M,1.74,60,21-11-89,Bradford
+2013,a002,Aston Villa,18,Yacouba Sylla,FRA,M,1.84,80,29-11-90,Étampes
+2013,a002,Aston Villa,20,Christian Benteke,BEL,F,1.9,83,03-12-90,Kinshasa
+2013,a002,Aston Villa,21,Jordan Bowery,ENG,F,1.85,76,02-07-91,Nottingham
+2013,a002,Aston Villa,22,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen
+2013,a002,Aston Villa,24,Simon Dawkins,ENG,F,1.78,70,01-12-87,Edgware
+2013,a002,Aston Villa,25,Barry Bannan,SCO,M,1.7,60,01-12-89,Glasgow
+2013,a002,Aston Villa,26,Andreas Weimann,AUT,F,1.88,76,05-08-91,Vienna
+2013,a002,Aston Villa,27,Joe Bennett,ENG,D,1.77,74,28-03-90,Rochdale
+2013,a002,Aston Villa,29,Enda Stevens,IRL,D,1.83,78,09-07-90,Dublin
+2013,a002,Aston Villa,30,Eric Lichaj,USA,D,1.8,79,17-11-88,Downers Grove
+2013,a002,Aston Villa,31,Chris Herd,AUS,M,1.73,76,04-04-89,Perth [AUS]
+2013,a002,Aston Villa,32,Nathan Baker,ENG,D,1.91,80,23-04-91,Worcester
+2013,a002,Aston Villa,33,Andy Marshall,ENG,G,1.88,86,14-04-75,Bury St Edmunds
+2013,a002,Aston Villa,34,Matthew Lowton,ENG,D,1.8,78,09-06-89,Chesterfield
+2013,a002,Aston Villa,35,Daniel Johnson,ENG,M,1.74,67,08-10-92,Kingston
+2013,a002,Aston Villa,36,Graham Burke,IRL,F,1.8,75,21-09-93,Dublin
+2013,a002,Aston Villa,37,Derrick Williams,IRL,D,1.8,75,17-01-93,Waterford
+2013,a002,Aston Villa,38,Gary Gardner,ENG,M,1.88,82,29-06-92,Solihull
+2013,a002,Aston Villa,39,Benjamin Siegrist,SUI,G,1.94,85,31-01-92,Basel
+2013,a002,Aston Villa,40,Samir Carruthers,IRL,M,1.73,70,04-04-93,Islington
+2013,a002,Aston Villa,23,Nathan Delfouneso,ENG,F,1.86,78,02-02-91,Birmingham
+2013,a002,Aston Villa,2,Alan Hutton,SCO,D,1.85,72,30-11-84,Glasgow
+2013,a002,Aston Villa,3,Stephen Warnock,ENG,D,1.78,75,12-12-81,Ormskirk
+2013,a002,Aston Villa,19,Stiliyan Petrov,BUL,M,1.8,77,05-07-79,Montana
+2013,a002,Chelsea,1,Petr Čech,CZE,G,1.96,90,20-05-82,Plzeň
+2013,a002,Chelsea,2,Branislav Ivanović,SRB,D,1.88,86,22-02-84,Sremska Mitrovica
+2013,a002,Chelsea,3,Ashley Cole,ENG,D,1.72,67,20-12-80,Stepney
+2013,a002,Chelsea,4,David Luiz,BRA,D,1.89,84,22-04-87,São Paulo
+2013,a002,Chelsea,6,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona
+2013,a002,Chelsea,7,Ramires,BRA,M,1.79,65,24-03-87,Rio de Janeiro
+2013,a002,Chelsea,8,Frank Lampard,ENG,M,1.83,90,20-06-78,Romford
+2013,a002,Chelsea,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid
+2013,a002,Chelsea,10,Juan Mata,ESP,F,1.7,63,28-04-88,Burgos
+2013,a002,Chelsea,11,Oscar,BRA,M,1.79,66,09-09-91,Americana
+2013,a002,Chelsea,12,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos
+2013,a002,Chelsea,13,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos
+2013,a002,Chelsea,15,Florent Malouda,FRA,M,1.81,73,13-06-80,Cayenne
+2013,a002,Chelsea,17,Eden Hazard,BEL,M,1.7,69,07-01-91,La Louvière
+2013,a002,Chelsea,19,Paulo Ferreira,POR,D,1.82,76,18-01-79,Lisbon
+2013,a002,Chelsea,21,Marko Marin,GER,M,1.7,63,13-03-89,Gradiška
+2013,a002,Chelsea,22,Ross Turnbull,ENG,G,1.93,85,04-01-85,Bishop Auckland
+2013,a002,Chelsea,24,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield
+2013,a002,Chelsea,26,John Terry,ENG,D,1.86,91,07-12-80,Barking
+2013,a002,Chelsea,28,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona
+2013,a002,Chelsea,29,Demba Ba,SEN,F,1.89,83,25-05-85,Sèvres
+2013,a002,Chelsea,30,Yossi Benayoun,ISR,M,1.78,70,05-05-80,Beersheba
+2013,a002,Chelsea,32,Andreas Christensen,DEN,D,1.88,68,10-04-96,Allerød
+2013,a002,Chelsea,33,Ruben Loftus-Cheek,ENG,M,1.93,71,23-01-96,Lewisham
+2013,a002,Chelsea,34,Ryan Bertrand,ENG,D,1.79,85,05-08-89,Southwark
+2013,a002,Chelsea,40,Hilário,POR,G,1.88,86,21-10-75,São Pedro da Cova
+2013,a002,Chelsea,46,Jamal Blackman,ENG,G,1.96,82,27-10-93,Croydon
+2013,a002,Chelsea,47,Billy Clifford,ENG,D,1.7,67,18-10-92,Slough
+2013,a002,Chelsea,49,Aziz Deen-Conteh,ENG,D,1.76,70,14-01-93,Bumpeh
+2013,a002,Chelsea,54,Todd Kane,ENG,D,1.8,70,17-09-93,Huntingdon
+2013,a002,Chelsea,56,George Saville,ENG,M,1.76,73,01-06-93,Camberley
+2013,a002,Chelsea,57,Nathan Aké,NED,D,1.8,71,18-02-95,Den Haag
+2013,a002,Chelsea,58,Daniel Pappoe,GHA,D,1.91,93,30-12-93,Accra
+2013,a002,Chelsea,20,Josh McEachran,ENG,M,1.78,65,01-03-93,Oxford
+2013,a002,Chelsea,31,Gaël Kakuta,FRA,F,1.73,65,21-06-91,Lille
+2013,a002,Chelsea,5,Michael Essien,GHA,M,1.78,84,03-12-82,Accra
+2013,a002,Chelsea,16,Raul Meireles,POR,M,1.79,69,17-03-83,Porto
+2013,a002,Chelsea,23,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham
+2013,a002,Chelsea,35,Lucas Piazón,BRA,F,1.82,75,20-01-94,São Paulo
+2013,a002,Chelsea,60,Adam Coombes,ENG,F,1.85,82,19-06-91,Carshalton
+2013,a002,Everton,1,Ján Mucha,SVK,G,1.89,87,05-12-82,Belá nad Cirochou
+2013,a002,Everton,2,Tony Hibbert,ENG,D,1.73,72,20-02-81,Liverpool
+2013,a002,Everton,3,Leighton Baines,ENG,D,1.7,75,11-12-84,Liverpool
+2013,a002,Everton,4,Darron Gibson,IRL,M,1.8,83,25-10-87,Derry
+2013,a002,Everton,5,John Heitinga,NED,D,1.8,72,15-11-83,Alphen aan den Rijn
+2013,a002,Everton,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale
+2013,a002,Everton,7,Nikica Jelavić,CRO,F,1.88,88,27-08-85,Capljina
+2013,a002,Everton,8,Bryan Oviedo,CRC,D,1.72,70,18-02-90,Alajuela
+2013,a002,Everton,11,Kevin Mirallas,BEL,F,1.78,72,05-10-87,Liège
+2013,a002,Everton,14,Steven Naismith,SCO,F,1.78,72,14-09-86,Irvine
+2013,a002,Everton,15,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet
+2013,a002,Everton,16,Thomas Hitzlsperger,GER,M,1.83,80,05-04-82,Munich
+2013,a002,Everton,18,Phil Neville,ENG,D,1.8,75,21-01-77,Bury
+2013,a002,Everton,20,Ross Barkley,ENG,M,1.89,76,05-12-93,Liverpool
+2013,a002,Everton,21,Leon Osman,ENG,M,1.73,62,17-05-81,Billinge
+2013,a002,Everton,22,Steven Pienaar,RSA,M,1.7,66,17-03-82,Johannesburg
+2013,a002,Everton,23,Séamus Coleman,IRL,D,1.93,67,11-10-88,Donegal
+2013,a002,Everton,24,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick
+2013,a002,Everton,25,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek
+2013,a002,Everton,26,John Stones,ENG,D,1.88,70,28-05-94,Barnsley
+2013,a002,Everton,27,Apostolos Vellios,GRE,F,1.91,79,08-01-92,Thessaloniki
+2013,a002,Everton,28,Victor Anichebe,NGA,F,1.85,80,23-04-88,Lagos
+2013,a002,Everton,30,Francisco Júnior,POR,M,1.62,65,18-01-92,Bissau
+2013,a002,Everton,31,Matthew Kennedy,SCO,M,1.75,65,01-11-94,Irvine
+2013,a002,Everton,34,Shane Duffy,IRL,D,1.93,76,01-01-92,Derry
+2013,a002,Everton,40,Tyias Browning,ENG,D,1.81,76,27-05-94,Liverpool
+2013,a002,Everton,41,Jake Bidwell,ENG,D,1.83,70,21-03-93,Southport
+2013,a002,Everton,42,Luke Garbutt,ENG,D,1.78,73,21-05-93,Harrogate
+2013,a002,Everton,43,Conor McAleny,ENG,F,1.78,79,12-08-92,Liverpool
+2013,a002,Everton,46,Mason Springthorpe,ENG,G,1.88,72,01-11-94,Shrewsbury
+2013,a002,Everton,19,Magaye Gueye,SEN,F,1.79,73,06-07-90,Nogent-sur-Marne
+2013,a002,Fulham,1,Mark Schwarzer,AUS,G,1.94,85,06-10-72,Sydney
+2013,a002,Fulham,3,John Arne Riise,NOR,D,1.85,78,24-09-80,Molde
+2013,a002,Fulham,4,Philippe Senderos,SUI,D,1.9,84,14-02-85,Geneva
+2013,a002,Fulham,5,Brede Hangeland,NOR,D,1.95,92,20-06-81,Houston
+2013,a002,Fulham,6,Chris Baird,NIR,D,1.79,71,25-02-82,Ballymena
+2013,a002,Fulham,7,Steve Sidwell,ENG,M,1.78,70,14-12-82,Wandsworth
+2013,a002,Fulham,9,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad
+2013,a002,Fulham,10,Mladen Petrić,CRO,F,1.85,81,01-01-81,Dubrave
+2013,a002,Fulham,11,Bryan Ruiz,CRC,F,1.88,78,18-08-85,San José [CRC]
+2013,a002,Fulham,12,Emmanuel Frimpong,GHA,M,1.83,83,10-01-92,Accra
+2013,a002,Fulham,14,Giorgos Karagounis,GRE,M,1.76,74,6-3-77,Pyrgos
+2013,a002,Fulham,15,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich
+2013,a002,Fulham,16,Damien Duff,IRL,M,1.78,70,02-03-79,Ballyboden
+2013,a002,Fulham,17,Matthew Briggs,ENG,D,1.88,84,09-03-91,Wandsworth
+2013,a002,Fulham,18,Aaron Hughes,NIR,D,1.83,72,08-11-79,Magherafelt
+2013,a002,Fulham,19,Mahamadou Diarra,MLI,M,1.83,76,18-05-81,Bamako
+2013,a002,Fulham,20,Hugo Rodallega,COL,F,1.81,72,25-07-85,El Carmelo
+2013,a002,Fulham,21,Kerim Frei,TUR,M,1.71,66,19-11-93,Feldkirch
+2013,a002,Fulham,22,Csaba Somogyi,HUN,G,1.9,85,07-04-85,Dunaújváros
+2013,a002,Fulham,24,Ashkan Dejagah,IRN,F,1.81,74,05-07-86,Tehran
+2013,a002,Fulham,25,Stanislav Manolev,BUL,D,1.83,72,16-12-85,Blagoevgrad
+2013,a002,Fulham,27,Sascha Riether,GER,D,1.74,70,23-03-83,Lahr
+2013,a002,Fulham,28,Urby Emanuelson,NED,M,1.76,68,16-06-86,Amsterdam
+2013,a002,Fulham,29,Simon Davies,WAL,M,1.78,76,23-10-79,Haverfordwest
+2013,a002,Fulham,31,Alex Kačaniklić,SWE,M,1.75,71,13-08-91,Helsingborg
+2013,a002,Fulham,32,Chris David,NED,M,1.7,71,06-03-93,Amsterdam
+2013,a002,Fulham,33,Eyong Enoh,CMR,M,1.8,76,23-03-86,Kumba
+2013,a002,Fulham,35,Marcus Bettinelli,ENG,G,1.94,82,24-05-92,Camberwell
+2013,a002,Fulham,36,Buomesca Tué Na Bangna,POR,M,1.74,65,06-05-93,Bissau
+2013,a002,Fulham,37,Dan Burn,ENG,D,1.98,83,09-05-92,Blyth
+2013,a002,Fulham,38,Neil Etheridge,PHI,G,1.91,89,07-02-90,Enfield
+2013,a002,Fulham,40,Alex Smith,ENG,D,1.75,54,31-10-91,Clapham
+2013,a002,Fulham,41,Tom Donegan,ENG,M,1.78,70,15-09-92,Fazakerley
+2013,a002,Fulham,42,Charles Banya,ENG,M,1.7,61,18-09-93,Lambeth
+2013,a002,Fulham,43,Muamer Tanković,SWE,F,1.79,74,22-02-95,Tingstad
+2013,a002,Fulham,44,Jack Grimmer,SCO,M,1.84,84,25-01-94,Aberdeen
+2013,a002,Fulham,30,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk
+2013,a002,Fulham,23,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches
+2013,a002,Fulham,32,Rafik Halliche,ALG,D,1.87,77,02-09-86,Algiers
+2013,a002,Fulham,25,Mickaël Tavares,SEN,M,1.86,78,25-10-82,Villeneuve-St-Georges
+2013,a002,Fulham,2,Stephen Kelly,IRL,D,1.84,82,06-09-83,Dublin
+2013,a002,Fulham,39,Marcello Trotta,ITA,F,1.87,82,29-09-92,Santa Maria Capua Vetere
+2013,a002,Fulham,13,David Stockdale,ENG,G,1.91,84,20-09-85,Leeds
+2013,a002,Fulham,8,Pajtim Kasami,SUI,M,1.87,70,02-06-92,Struga
+2013,a002,Liverpool,1,Brad Jones,AUS,G,1.91,76,19-03-82,Armadale
+2013,a002,Liverpool,2,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich
+2013,a002,Liverpool,3,José Enrique,ESP,D,1.84,82,23-01-86,Valencia
+2013,a002,Liverpool,5,Daniel Agger,DEN,D,1.87,75,12-12-84,Hvidovre
+2013,a002,Liverpool,7,Luis Suárez,URU,F,1.81,81,24-01-87,Salto
+2013,a002,Liverpool,8,Steven Gerrard,ENG,M,1.83,79,30-05-80,Whiston
+2013,a002,Liverpool,10,Philippe Coutinho,BRA,M,1.71,68,12-06-92,Rio de Janeiro
+2013,a002,Liverpool,11,Oussama Assaidi,MAR,M,1.78,70,05-08-88,Beni Boughafar
+2013,a002,Liverpool,14,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland
+2013,a002,Liverpool,15,Daniel Sturridge,ENG,F,1.88,76,1-9-89,Birmingham
+2013,a002,Liverpool,16,Sebastián Coates,URU,D,1.96,88,07-10-90,Montevideo
+2013,a002,Liverpool,19,Stewart Downing,ENG,M,1.8,64,22-07-84,Middlesbrough
+2013,a002,Liverpool,21,Lucas Leiva,BRA,M,1.79,74,09-01-87,Dourados
+2013,a002,Liverpool,23,Jamie Carragher,ENG,D,1.85,83,28-01-78,Bootle
+2013,a002,Liverpool,24,Joe Allen,WAL,M,1.68,62,14-03-90,Carmarthen
+2013,a002,Liverpool,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid
+2013,a002,Liverpool,29,Fabio Borini,ITA,F,1.8,74,29-03-91,Bentivoglio
+2013,a002,Liverpool,30,Suso,ESP,F,1.76,69,19-11-93,Cádiz
+2013,a002,Liverpool,31,Raheem Sterling,ENG,M,1.7,69,08-12-94,Kingston
+2013,a002,Liverpool,33,Jonjo Shelvey,ENG,M,1.83,70,27-02-92,Romford
+2013,a002,Liverpool,34,Martin Kelly,ENG,D,1.91,77,27-04-90,Bolton
+2013,a002,Liverpool,35,Conor Coady,ENG,D,1.85,75,25-02-93,Liverpool
+2013,a002,Liverpool,36,Samed Yeşil,GER,F,1.78,72,25-05-94,Düsseldorf
+2013,a002,Liverpool,37,Martin Škrteľ,SVK,D,1.91,81,15-12-84,Handlová
+2013,a002,Liverpool,38,Jon Flanagan,ENG,D,1.81,79,21-01-93,Liverpool
+2013,a002,Liverpool,42,Péter Gulácsi,HUN,G,1.9,83,06-05-90,Budapest
+2013,a002,Liverpool,43,Ryan McLaughlin,NIR,D,1.74,69,03-09-94,Belfast
+2013,a002,Liverpool,44,Jordon Ibe,ENG,F,1.75,70,08-12-95,Southwark
+2013,a002,Liverpool,45,Stephen Sama,GER,D,1.88,83,05-03-93,Bamenda
+2013,a002,Liverpool,47,Andre Wisdom,ENG,D,1.86,78,09-05-93,Leeds
+2013,a002,Liverpool,48,Jerome Sinclair,ENG,F,1.73,79,20-09-96,Birmingham
+2013,a002,Liverpool,49,Jack Robinson,ENG,D,1.8,67,01-09-93,Warrington
+2013,a002,Liverpool,50,Adam Morgan,ENG,F,1.79,71,21-04-94,Liverpool
+2013,a002,Liverpool,51,Krisztián Adorján,HUN,M,1.8,70,19-01-93,Budapest
+2013,a002,Liverpool,52,Danny Ward,WAL,G,1.91,88,22-06-93,Wrexham
+2013,a002,Liverpool,9,Andy Carroll,ENG,F,1.91,65,06-01-89,Gateshead
+2013,a002,Liverpool,20,Jay Spearing,ENG,M,1.68,70,25-11-88,Wirral
+2013,a002,Liverpool,26,Charlie Adam,SCO,M,1.85,83,10-12-85,Dundee
+2013,a002,Liverpool,36,Nathan Eccleston,ENG,F,1.78,66,30-12-90,Manchester
+2013,a002,Liverpool,10,Joe Cole,ENG,M,1.76,73,08-11-81,Paddington
+2013,a002,Liverpool,4,Nuri Şahin,TUR,M,1.8,73,05-09-88,Lüdenscheid
+2013,a002,Liverpool,22,Danny Wilson,SCO,D,1.87,79,27-12-91,Livingston
+2013,a002,Liverpool,12,Daniel Pacheco,ESP,F,1.68,67,05-01-91,Málaga
+2013,a002,Liverpool,32,Doni,BRA,G,1.94,90,22-10-79,Jundiaí
+2013,a002,Manchester City,1,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury
+2013,a002,Manchester City,2,Micah Richards,ENG,D,1.8,83,24-06-88,Birmingham
+2013,a002,Manchester City,3,Maicon,BRA,D,1.84,77,26-07-81,Criciúma
+2013,a002,Manchester City,4,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel
+2013,a002,Manchester City,5,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal
+2013,a002,Manchester City,6,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham
+2013,a002,Manchester City,7,James Milner,ENG,M,1.7,67,04-01-86,Wortley
+2013,a002,Manchester City,8,Samir Nasri,FRA,M,1.77,75,26-06-87,Marseille
+2013,a002,Manchester City,10,Edin Džeko,BIH,F,1.92,80,17-03-86,Doboj
+2013,a002,Manchester City,11,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath
+2013,a002,Manchester City,13,Aleksandar Kolarov,SRB,D,1.87,83,10-11-85,Belgrade
+2013,a002,Manchester City,14,Javi García,ESP,M,1.86,78,08-02-87,Murcia
+2013,a002,Manchester City,16,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal
+2013,a002,Manchester City,17,Jack Rodwell,ENG,M,1.88,70,11-03-91,Birkdale
+2013,a002,Manchester City,18,Gareth Barry,ENG,M,1.83,79,23-02-81,Hastings
+2013,a002,Manchester City,21,David Silva,ESP,M,1.7,67,08-01-86,Arguineguín
+2013,a002,Manchester City,22,Gaël Clichy,FRA,D,1.81,72,26-07-85,Toulouse
+2013,a002,Manchester City,28,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké
+2013,a002,Manchester City,29,Richard Wright,ENG,G,1.87,82,05-11-77,Ipswich
+2013,a002,Manchester City,30,Costel Pantilimon,ROU,G,1.97,96,01-02-87,Bacău
+2013,a002,Manchester City,32,Carlos Tévez,ARG,F,1.71,75,05-02-84,Ciudadela
+2013,a002,Manchester City,33,Matija Nastasić,SRB,D,1.87,79,28-03-93,Belgrade
+2013,a002,Manchester City,36,Denis Suárez,ESP,M,1.81,72,06-01-94,Tui
+2013,a002,Manchester City,38,Dedryck Boyata,BEL,D,1.88,84,08-09-90,Uccle
+2013,a002,Manchester City,42,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké
+2013,a002,Manchester City,44,Karim Rekik,NED,D,1.83,76,02-12-94,Den Haag
+2013,a002,Manchester City,47,Harry Bunn,ENG,F,1.75,75,21-11-92,Oldham
+2013,a002,Manchester City,52,Emyr Huws,WAL,M,1.85,78,30-09-93,Llanelli
+2013,a002,Manchester City,53,Alex Henshall,ENG,F,1.77,71,15-02-94,Swindon
+2013,a002,Manchester City,54,Kieran Kennedy,ENG,D,1.83,70,23-09-93,Urmston
+2013,a002,Manchester City,55,Albert Rusnák,SVK,M,1.75,61,07-07-94,Košice
+2013,a002,Manchester City,56,Courtney Meppen-Walter,ENG,D,1.84,77,02-08-94,Bury
+2013,a002,Manchester City,60,John Guidetti,SWE,F,1.81,79,15-04-92,Stockholm
+2013,a002,Manchester City,62,Abdul Razak,CIV,M,1.8,76,11-11-92,Bouaké
+2013,a002,Manchester City,63,Eirik Johansen,NOR,G,1.93,89,12-07-92,Tønsberg
+2013,a002,Manchester City,64,Marcos Lopes,POR,M,1.74,68,28-12-95,Belém
+2013,a002,Manchester City,74,George Evans,ENG,M,1.84,76,13-12-94,Cheadle
+2013,a002,Manchester City,9,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé
+2013,a002,Manchester City,11,Adam Johnson,ENG,M,1.75,62,14-07-87,Sunderland
+2013,a002,Manchester City,34,Nigel de Jong,NED,M,1.74,72,30-11-84,Amsterdam
+2013,a002,Manchester City,14,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción
+2013,a002,Manchester City,15,Stefan Savić,MNE,D,1.86,73,08-01-91,Belgrade
+2013,a002,Manchester City,48,Ryan McGivern,NIR,D,1.78,74,08-01-90,Newry
+2013,a002,Manchester City,37,Gunnar Nielsen,FRO,G,1.91,89,07-10-86,Tórshavn
+2013,a002,Manchester City,49,Luca Scapuzzi,ITA,F,1.82,75,15-04-91,Milan
+2013,a002,Manchester City,43,Alex Nimely,ENG,F,1.8,72,11-05-91,Monrovia
+2013,a002,Manchester City,61,Jérémy Helan,FRA,M,1.81,76,09-05-92,Clichy
+2013,a002,Manchester City,57,Reece Wabara,ENG,D,1.82,73,28-12-91,Stoke Heath
+2013,a002,Manchester City,45,Mario Balotelli,ITA,F,1.89,88,12-08-90,Palermo
+2013,a002,Manchester City,51,Adam Drury,ENG,F,1.79,69,21-09-93,Grimsby
+2013,a002,Manchester United,1,David De Gea,ESP,G,1.92,82,07-11-90,Madrid
+2013,a002,Manchester United,2,Rafael,BRA,D,1.72,65,09-07-90,Petrópolis
+2013,a002,Manchester United,3,Patrice Evra,FRA,D,1.75,76,15-05-81,Dakar
+2013,a002,Manchester United,4,Phil Jones,ENG,D,1.8,71,21-02-92,Preston
+2013,a002,Manchester United,5,Rio Ferdinand,ENG,D,1.89,82,7-11-78,Peckham
+2013,a002,Manchester United,6,Jonny Evans,NIR,D,1.88,77,02-01-88,Belfast
+2013,a002,Manchester United,7,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio
+2013,a002,Manchester United,8,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre
+2013,a002,Manchester United,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth
+2013,a002,Manchester United,11,Ryan Giggs,WAL,M,1.8,68,29-11-73,Cardiff
+2013,a002,Manchester United,12,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich
+2013,a002,Manchester United,13,Anders Lindegaard,DEN,G,1.93,80,13-04-84,Odense
+2013,a002,Manchester United,14,Javier Hernández,MEX,F,1.72,62,01-06-88,Guadalajara
+2013,a002,Manchester United,15,Nemanja Vidić,SRB,D,1.88,82,21-10-81,Užice
+2013,a002,Manchester United,16,Michael Carrick,ENG,M,1.86,74,28-07-81,Wallsend
+2013,a002,Manchester United,17,Nani,POR,M,1.75,66,17-11-86,Praia
+2013,a002,Manchester United,18,Ashley Young,ENG,M,1.75,65,09-07-85,Stevenage
+2013,a002,Manchester United,19,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester
+2013,a002,Manchester United,20,Robin van Persie,NED,F,1.83,71,06-08-83,Rotterdam
+2013,a002,Manchester United,22,Paul Scholes,ENG,M,1.7,72,16-11-74,Salford
+2013,a002,Manchester United,23,Tom Cleverley,ENG,M,1.75,67,12-08-89,Basingstoke
+2013,a002,Manchester United,24,Darren Fletcher,SCO,M,1.83,83,01-02-84,Edinburgh
+2013,a002,Manchester United,25,Nick Powell,ENG,M,1.83,66,23-03-94,Crewe
+2013,a002,Manchester United,26,Shinji Kagawa,JPN,M,1.72,63,17-03-89,Hyogo
+2013,a002,Manchester United,28,Alexander Büttner,NED,D,1.76,72,11-02-89,Doetinchem
+2013,a002,Manchester United,34,Larnell Cole,ENG,M,1.68,63,9-3-93,Manchester
+2013,a002,Manchester United,35,Jesse Lingard,ENG,M,1.68,58,15-12-92,Warrington
+2013,a002,Manchester United,36,Marnick Vermijl,BEL,D,1.8,70,13-01-92,Peer
+2013,a002,Manchester United,39,Tom Thorpe,ENG,D,1.88,89,13-01-93,Manchester
+2013,a002,Manchester United,40,Ben Amos,ENG,G,1.85,83,10-04-90,Macclesfield
+2013,a002,Manchester United,42,Tyler Blackett,ENG,D,1.86,76,02-04-94,Manchester
+2013,a002,Manchester United,44,Adnan Januzaj,BEL,M,1.8,75,05-02-95,Brussels
+2013,a002,Manchester United,46,Ryan Tunnicliffe,ENG,M,1.83,80,30-12-92,Bury
+2013,a002,Manchester United,48,Will Keane,ENG,F,1.78,78,11-01-93,Stockport
+2013,a002,Manchester United,49,Frédéric Veseli,SUI,D,1.83,80,20-11-92,Renens
+2013,a002,Manchester United,50,Sam Johnstone,ENG,G,1.93,85,25-03-93,Preston
+2013,a002,Manchester United,9,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad
+2013,a002,Manchester United,33,Bebé,POR,F,1.9,75,12-07-90,Agualva-Cacém
+2013,a002,Manchester United,21,Ángelo Henríquez,CHI,F,1.8,77,13-04-94,Santiago
+2013,a002,Manchester United,41,Joshua King,NOR,F,1.8,74,15-01-92,Oslo
+2013,a002,Manchester United,38,Michael Keane,ENG,D,1.72,68,11-01-93,Stockport
+2013,a002,Manchester United,37,Robbie Brady,IRL,M,1.75,69,14-01-92,Dublin
+2013,a002,Manchester United,31,Scott Wootton,ENG,D,1.88,78,12-09-91,Birkenhead
+2013,a002,Manchester United,27,Federico Macheda,ITA,F,1.83,76,22-08-91,Rome
+2013,a002,Manchester United,45,Davide Petrucci,ITA,M,1.88,88,17-10-91,Rome
+2013,a002,Newcastle United,1,Tim Krul,NED,G,1.88,74,03-04-88,Den Haag
+2013,a002,Newcastle United,2,Fabricio Coloccini,ARG,D,1.83,78,22-01-82,Córdoba
+2013,a002,Newcastle United,3,Davide Santon,ITA,D,1.87,77,2-1-91,Portomaggiore
+2013,a002,Newcastle United,4,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing
+2013,a002,Newcastle United,5,Danny Simpson,ENG,D,1.73,74,04-01-87,Salford
+2013,a002,Newcastle United,6,Michael Williamson,ENG,D,1.91,84,08-11-83,Stoke-on-Trent
+2013,a002,Newcastle United,7,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil
+2013,a002,Newcastle United,8,Vurnon Anita,NED,D,1.66,63,04-04-89,Willemstad
+2013,a002,Newcastle United,9,Papiss Demba Cissé,SEN,F,1.83,73,03-06-85,Dakar
+2013,a002,Newcastle United,10,Hatem Ben Arfa,FRA,F,1.78,65,07-03-87,Clamart
+2013,a002,Newcastle United,11,Yoan Gouffran,FRA,F,1.75,70,25-05-86,Villeneuve-st-Georges
+2013,a002,Newcastle United,13,Mapou Yanga-Mbiwa,FRA,D,1.84,77,15-05-89,Bangui
+2013,a002,Newcastle United,14,James Perch,ENG,D,1.8,72,28-09-85,Mansfield
+2013,a002,Newcastle United,15,Dan Gosling,ENG,M,1.78,71,02-02-90,Brixham
+2013,a002,Newcastle United,16,Ryan Taylor,ENG,D,1.73,75,19-08-84,Liverpool
+2013,a002,Newcastle United,17,Romain Amalfitano,FRA,M,1.75,69,27-08-89,Nice
+2013,a002,Newcastle United,18,Jonás Gutiérrez,ARG,M,1.82,70,05-07-82,Sáenz Peña
+2013,a002,Newcastle United,19,Massadio Haïdara,SEN,D,1.79,75,02-12-92,Trappes
+2013,a002,Newcastle United,20,Gaël Bigirimana,BDI,M,1.73,68,22-10-93,Bujumbura
+2013,a002,Newcastle United,21,Robert Elliot,IRL,G,1.9,98,30-04-86,Chatham
+2013,a002,Newcastle United,22,Sylvain Marveaux,FRA,M,1.72,66,15-04-86,Vannes
+2013,a002,Newcastle United,23,Shola Ameobi,NGA,F,1.91,84,12-10-81,Zaria
+2013,a002,Newcastle United,24,Cheik Ismael Tioté,CIV,M,1.8,79,21-06-86,Yamoussoukro
+2013,a002,Newcastle United,25,Gabriel Obertan,FRA,F,1.86,79,26-02-89,Pantin
+2013,a002,Newcastle United,26,Mathieu Debuchy,FRA,D,1.77,74,28-07-85,Fretin
+2013,a002,Newcastle United,27,Steven Taylor,ENG,D,1.88,81,23-01-86,Greenwich
+2013,a002,Newcastle United,28,Sammy Ameobi,ENG,F,1.9,66,01-05-92,Newcastle upon Tyne
+2013,a002,Newcastle United,29,Haris Vučkić,SVN,M,1.88,80,21-08-92,Ljubljana
+2013,a002,Newcastle United,31,Shane Ferguson,NIR,M,1.8,67,12-07-91,Derry
+2013,a002,Newcastle United,33,Curtis Good,AUS,D,1.87,85,23-03-93,Melbourne
+2013,a002,Newcastle United,34,James Tavernier,ENG,D,1.76,70,31-10-91,Bradford
+2013,a002,Newcastle United,37,Steve Harper,ENG,G,1.88,82,14-03-75,Easington
+2013,a002,Newcastle United,42,Jak Alnwick,ENG,G,1.88,82,17-06-93,Prudhoe
+2013,a002,Newcastle United,44,Remie Streete,ENG,D,1.87,83,02-11-94,South Shields
+2013,a002,Newcastle United,49,Adam Campbell,ENG,F,1.7,73,01-01-95,North Shields
+2013,a002,Newcastle United,50,Steven Logan,SCO,M,,,10-09-94,Carlisle
+2013,a002,Newcastle United,51,Yven Moyo,CGO,M,1.75,70,15-03-92,Orléans
+2013,a002,Newcastle United,41,Conor Newton,ENG,M,1.81,70,17-10-91,Whickham
+2013,a002,Newcastle United,19,Demba Ba,SEN,F,1.89,83,25-05-85,Sèvres
+2013,a002,Newcastle United,32,Xisco,ESP,F,1.86,84,27-06-86,Palma de Mallorca
+2013,a002,Newcastle United,36,Paul Dummett,WAL,D,1.78,65,26-09-91,Newcastle upon Tyne
+2013,a002,Newcastle United,38,Bradden Inman,AUS,M,1.85,79,10-12-91,Adelaide
+2013,a002,Newcastle United,39,Mehdi Abeid,ALG,M,1.78,77,06-08-92,Montreuil
+2013,a002,Newcastle United,52,Dennis Knight,ENG,M,1.73,68,30-01-94,Newcastle upon Tyne
+2013,a002,Newcastle United,30,Nile Ranger,ENG,F,1.88,84,11-04-91,Bounds Green
+2013,a002,Norwich City,1,John Ruddy,ENG,G,1.96,97,24-10-86,St Ives
+2013,a002,Norwich City,2,Russell Martin,SCO,D,1.83,74,04-01-86,Brighton
+2013,a002,Norwich City,3,Steven Whittaker,SCO,D,1.85,87,16-06-84,Edinburgh
+2013,a002,Norwich City,4,Bradley Johnson,ENG,M,1.78,68,28-04-87,Hackney
+2013,a002,Norwich City,5,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris
+2013,a002,Norwich City,6,Michael Turner,ENG,D,1.93,85,09-11-83,Lewisham
+2013,a002,Norwich City,7,Robert Snodgrass,SCO,F,1.82,77,07-09-87,Glasgow
+2013,a002,Norwich City,8,Jonathan Howson,ENG,M,1.8,77,21-05-88,Leeds
+2013,a002,Norwich City,9,Grant Holt,ENG,F,1.83,79,12-04-81,Carlisle
+2013,a002,Norwich City,10,Simeon Jackson,CAN,F,1.7,72,28-03-87,Kingston
+2013,a002,Norwich City,11,Andrew Surman,ENG,M,1.78,72,20-08-86,Johannesburg
+2013,a002,Norwich City,12,Anthony Pilkington,IRL,F,1.83,76,06-06-88,Blackburn
+2013,a002,Norwich City,14,Wesley Hoolahan,IRL,M,1.68,71,20-05-82,Dublin
+2013,a002,Norwich City,15,David Fox,ENG,M,1.75,77,13-12-83,Stoke
+2013,a002,Norwich City,17,Elliott Bennett,ENG,M,1.75,69,18-12-88,Telford
+2013,a002,Norwich City,18,Javier Garrido,ESP,D,1.78,75,15-03-85,Irún
+2013,a002,Norwich City,19,Luciano Becchio,ARG,F,1.87,85,28-12-83,Córdoba
+2013,a002,Norwich City,20,Leon Barnett,ENG,D,1.85,71,30-11-85,Luton
+2013,a002,Norwich City,21,Jacob Butterfield,ENG,M,1.8,78,10-06-90,Bradford
+2013,a002,Norwich City,23,Marc Tierney,ENG,D,1.83,71,23-08-85,Prestwich
+2013,a002,Norwich City,24,Ryan Bennett,ENG,D,1.88,70,06-03-90,Orsett
+2013,a002,Norwich City,25,Chris Martin,ENG,F,1.78,73,04-11-88,Beccles
+2013,a002,Norwich City,27,Alexander Tettey,NOR,M,1.8,68,04-04-86,Accra
+2013,a002,Norwich City,28,Mark Bunn,ENG,G,1.83,77,16-11-84,Southgate
+2013,a002,Norwich City,31,Jed Steer,ENG,G,1.88,89,23-09-92,Norwich
+2013,a002,Norwich City,32,Korey Smith,ENG,M,1.83,78,31-01-91,Hatfield
+2013,a002,Norwich City,33,George Francomb,ENG,D,1.8,73,08-09-91,Hackney
+2013,a002,Norwich City,34,Josh Murphy,ENG,F,1.73,67,24-02-95,Wembley
+2013,a002,Norwich City,35,Jacob Murphy,ENG,M,1.76,71,24-02-95,Wembley
+2013,a002,Norwich City,42,Lee Camp,NIR,G,1.83,75,22-08-84,Derby
+2013,a002,Norwich City,19,James Vaughan,ENG,F,1.8,80,14-07-88,Birmingham
+2013,a002,Norwich City,22,Elliott Ward,ENG,D,1.85,83,19-01-85,Harrow
+2013,a002,Norwich City,26,Simon Lappin,SCO,M,1.8,60,25-01-83,Glasgow
+2013,a002,Norwich City,13,Declan Rudd,ENG,G,1.91,75,16-01-91,Diss
+2013,a002,Norwich City,16,Steve Morison,WAL,F,1.88,76,29-08-83,Enfield
+2013,a002,Norwich City,37,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow
+2013,a002,Norwich City,16,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale
+2013,a002,Queens Park Rangers,1,Robert Green,ENG,G,1.91,93,18-01-80,Chertsey
+2013,a002,Queens Park Rangers,2,Samba Diakité,MLI,M,1.86,76,24-01-89,Montfermeil
+2013,a002,Queens Park Rangers,3,Armand Traoré,SEN,D,1.85,82,08-10-89,Paris
+2013,a002,Queens Park Rangers,4,Shaun Derry,ENG,M,1.83,82,06-12-77,Nottingham
+2013,a002,Queens Park Rangers,5,Christopher Samba,CGO,D,1.93,91,28-03-84,Créteil
+2013,a002,Queens Park Rangers,6,Clint Hill,ENG,D,1.83,73,19-10-78,Liverpool
+2013,a002,Queens Park Rangers,7,Park Ji-Sung,KOR,M,1.75,70,25-02-81,Suwon
+2013,a002,Queens Park Rangers,8,Andy Johnson,ENG,F,1.7,64,10-02-81,Bedford
+2013,a002,Queens Park Rangers,10,Adel Taarabt,MAR,M,1.8,76,24-05-89,Taza
+2013,a002,Queens Park Rangers,11,Shaun Wright-Phillips,ENG,M,1.66,64,25-10-81,Greenwich
+2013,a002,Queens Park Rangers,12,Jamie Mackie,SCO,F,1.73,71,22-09-85,Dorking
+2013,a002,Queens Park Rangers,13,Yoon Suk-Young,KOR,D,1.82,74,13-02-90,Suwon
+2013,a002,Queens Park Rangers,14,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid
+2013,a002,Queens Park Rangers,15,Nedum Onuoha,ENG,D,1.83,78,12-11-86,Warri
+2013,a002,Queens Park Rangers,16,Jermaine Jenas,ENG,M,1.77,76,18-02-83,Nottingham
+2013,a002,Queens Park Rangers,18,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon
+2013,a002,Queens Park Rangers,19,José Bosingwa,POR,D,1.83,75,24-08-82,Kinshasa
+2013,a002,Queens Park Rangers,20,Fábio,BRA,D,1.72,65,09-07-90,Petrópolis
+2013,a002,Queens Park Rangers,21,Tal Ben Haim,ISR,D,1.81,74,31-03-82,Rishon LeZion
+2013,a002,Queens Park Rangers,23,Junior Hoilett,CAN,M,1.73,70,05-06-90,Brampton
+2013,a002,Queens Park Rangers,24,Radek Černý,CZE,G,1.87,87,18-02-74,Prague
+2013,a002,Queens Park Rangers,25,Bobby Zamora,ENG,F,1.83,74,16-01-81,Barking
+2013,a002,Queens Park Rangers,26,Brian Murphy,IRL,G,1.83,83,07-05-83,Waterford
+2013,a002,Queens Park Rangers,27,Michael Harriman,IRL,D,1.68,74,23-10-92,Chichester
+2013,a002,Queens Park Rangers,28,Max Ehmer,GER,M,1.88,70,03-02-92,Frankfurt am Main
+2013,a002,Queens Park Rangers,29,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross
+2013,a002,Queens Park Rangers,30,Frankie Sutherland,IRL,M,1.75,64,06-12-93,Hillingdon
+2013,a002,Queens Park Rangers,33,Júlio César,BRA,G,1.86,79,03-09-79,Rio de Janeiro
+2013,a002,Queens Park Rangers,37,Jay Bothroyd,ENG,F,1.91,83,05-05-82,Islington
+2013,a002,Queens Park Rangers,38,Luke Young,ENG,D,1.83,78,19-07-79,Harlow
+2013,a002,Queens Park Rangers,39,DJ Campbell,ENG,F,1.78,72,12-11-81,London
+2013,a002,Queens Park Rangers,40,Stéphane Mbia,CMR,M,1.89,82,20-05-86,Yaoundé
+2013,a002,Queens Park Rangers,16,Matthew Connolly,ENG,D,1.88,84,24-09-87,Barnet
+2013,a002,Queens Park Rangers,18,Kieron Dyer,ENG,M,1.73,64,29-12-78,Ipswich
+2013,a002,Queens Park Rangers,9,Djibril Cissé,FRA,F,1.82,78,12-08-81,Arles
+2013,a002,Queens Park Rangers,5,Anton Ferdinand,ENG,D,1.83,71,18-02-85,Peckham
+2013,a002,Queens Park Rangers,34,Rob Hulse,ENG,F,1.85,78,25-10-79,Crewe
+2013,a002,Queens Park Rangers,29,Michael Doughty,WAL,M,1.85,81,20-11-92,Westminster
+2013,a002,Queens Park Rangers,17,Ryan Nelsen,NZL,D,1.83,90,18-10-77,Christchurch
+2013,a002,Queens Park Rangers,32,Alejandro Faurlín,ARG,M,1.85,79,09-08-86,Rosario
+2013,a002,Queens Park Rangers,22,Hogan Ephraim,ENG,M,1.75,70,31-03-88,Islington
+2013,a002,Reading,1,Adam Federici,AUS,G,1.88,90,31-01-85,Nowra
+2013,a002,Reading,2,Chris Gunter,WAL,D,1.8,71,21-07-89,Newport
+2013,a002,Reading,3,Nicky Shorey,ENG,D,1.75,67,19-02-81,Romford
+2013,a002,Reading,4,Jem Karacan,TUR,M,1.78,76,21-02-89,Catford
+2013,a002,Reading,5,Alex Pearce,IRL,D,1.83,74,09-11-88,Oxford
+2013,a002,Reading,6,Adrian Mariappa,JAM,D,1.8,70,03-10-86,Harrow
+2013,a002,Reading,7,Pavel Pogrebnyak,RUS,F,1.88,91,08-11-83,Moscow
+2013,a002,Reading,8,Mikele Leigertwood,ATG,D,1.88,78,12-11-82,Enfield
+2013,a002,Reading,9,Adam Le Fondre,ENG,F,1.8,73,02-12-86,Stockport
+2013,a002,Reading,10,Noel Hunt,IRL,F,1.73,72,26-12-82,Waterford
+2013,a002,Reading,11,Jobi McAnuff,JAM,M,1.8,72,09-11-81,Edmonton
+2013,a002,Reading,12,Garath McCleary,ENG,F,1.88,76,15-05-87,Oxford
+2013,a002,Reading,14,Jimmy Kébé,MLI,M,1.87,73,19-01-84,Vitry-sur-Seine
+2013,a002,Reading,15,Sean Morrison,ENG,D,1.93,89,08-01-91,Plymouth
+2013,a002,Reading,16,Jay Tabb,IRL,M,1.7,64,21-02-84,Tooting
+2013,a002,Reading,17,Kaspars Gorkšs,LVA,D,1.91,85,06-11-81,Riga
+2013,a002,Reading,18,Simon Church,WAL,F,1.83,84,10-12-88,High Wycombe
+2013,a002,Reading,19,Hal Robson-Kanu,WAL,F,1.7,74,21-05-89,Acton
+2013,a002,Reading,20,Danny Guthrie,ENG,M,1.75,73,18-04-87,Shrewsbury
+2013,a002,Reading,21,Alex McCarthy,ENG,G,1.93,79,03-12-89,Guildford
+2013,a002,Reading,22,Nicholas Bignall,ENG,F,1.77,81,11-07-90,Reading
+2013,a002,Reading,23,Ian Harte,IRL,D,1.77,78,31-08-77,Drogheda
+2013,a002,Reading,24,Shaun Cummings,ENG,D,1.83,76,25-02-89,Hammersmith
+2013,a002,Reading,25,Jake Taylor,WAL,M,1.78,77,01-12-91,Ascot
+2013,a002,Reading,26,Brynjar Gunnarsson,ISL,D,1.85,77,16-10-75,Reykjavik
+2013,a002,Reading,27,Stephen Kelly,IRL,D,1.84,82,06-09-83,Dublin
+2013,a002,Reading,28,Hope Akpan,ENG,M,1.83,67,14-08-91,Liverpool
+2013,a002,Reading,29,Daniel Carriço,POR,D,1.8,75,04-08-88,Cascais
+2013,a002,Reading,30,Nick Blackman,ENG,F,1.88,74,11-11-89,Whitefield
+2013,a002,Reading,31,Mikkel Andersen,DEN,G,1.95,80,17-12-88,Herlev
+2013,a002,Reading,32,Nick Arnold,ENG,D,1.8,82,03-07-93,Tadley
+2013,a002,Reading,33,Jason Roberts,GRN,F,1.85,92,25-01-78,Park Royal
+2013,a002,Reading,34,Angus MacDonald,ENG,D,1.84,70,15-10-92,Winchester
+2013,a002,Reading,35,Michael Hector,ENG,D,1.93,82,19-07-92,Newham
+2013,a002,Reading,36,Gozie Ugwu,ENG,F,1.87,76,22-04-93,Oxford
+2013,a002,Reading,37,Jordan Obita,ENG,F,1.8,73,08-12-93,Oxford
+2013,a002,Reading,38,Charlie Losasso,ENG,M,1.82,72,11-11-92,Marlow
+2013,a002,Reading,40,Lawson D'Ath,ENG,M,1.75,77,24-12-92,Witney
+2013,a002,Reading,41,Stuart Taylor,ENG,G,1.96,86,28-11-80,Romford
+2013,a002,Reading,42,Jonathan Henly,ENG,G,1.93,83,07-06-94,Reading
+2013,a002,Reading,43,Josh Webb,ENG,M,1.8,76,10-08-95,Reading
+2013,a002,Reading,44,Dominic Samuel,ENG,F,1.82,89,01-04-94,Southwark
+2013,a002,Reading,45,Ryan Edwards,AUS,M,1.7,73,17-11-93,Sydney
+2013,a002,Reading,46,Matt Partridge,ENG,D,1.9,84,24-10-94,Reading
+2013,a002,Reading,47,Pierce Sweeney,IRL,D,1.83,80,11-09-94,Dublin
+2013,a002,Southampton,1,Kelvin Davis,ENG,G,1.85,88,29-09-76,Bedford
+2013,a002,Southampton,2,Nathaniel Clyne,ENG,D,1.75,67,05-04-91,Stockwell
+2013,a002,Southampton,3,Maya Yoshida,JPN,D,1.86,78,24-08-88,Nagasaki
+2013,a002,Southampton,4,Morgan Schneiderlin,FRA,M,1.81,75,08-11-89,Zettwiller
+2013,a002,Southampton,5,Jos Hooiveld,NED,D,1.91,75,22-04-83,Zeijen
+2013,a002,Southampton,6,José Fonte,POR,D,1.87,81,22-12-83,Penafiel
+2013,a002,Southampton,7,Rickie Lambert,ENG,F,1.88,77,16-02-82,Liverpool
+2013,a002,Southampton,8,Steven Davis,NIR,M,1.79,72,01-01-85,Ballymena
+2013,a002,Southampton,9,Jay Rodriguez,ENG,F,1.85,70,29-07-89,Burnley
+2013,a002,Southampton,10,Gastón Ramírez,URU,M,1.83,77,02-12-90,Fray Bentos
+2013,a002,Southampton,12,Paulo Gazzaniga,ARG,G,1.96,90,02-01-92,Murphy
+2013,a002,Southampton,13,Danny Fox,SCO,D,1.83,79,29-05-86,Winsford
+2013,a002,Southampton,15,Vegard Forren,NOR,D,1.86,85,16-02-88,Trondheim
+2013,a002,Southampton,16,James Ward-Prowse,ENG,M,1.73,66,01-11-94,Southampton
+2013,a002,Southampton,18,Jack Cork,ENG,M,1.83,69,25-06-89,Carshalton
+2013,a002,Southampton,20,Adam Lallana,ENG,M,1.73,73,10-05-88,St Albans
+2013,a002,Southampton,21,Guilherme do Prado,BRA,M,1.89,78,31-12-81,São Paulo
+2013,a002,Southampton,22,Frazer Richardson,ENG,D,1.8,75,29-10-82,Rotherham
+2013,a002,Southampton,23,Luke Shaw,ENG,D,1.83,75,12-07-95,Kingston upon Thames
+2013,a002,Southampton,24,Emmanuel Mayuka,ZAM,F,1.76,71,21-11-90,Kabwe
+2013,a002,Southampton,26,Jack Stephens,ENG,D,1.85,84,27-01-94,Torpoint
+2013,a002,Southampton,27,Richard Chaplow,ENG,M,1.75,57,02-02-85,Accrington
+2013,a002,Southampton,28,Calum Chambers,ENG,M,1.82,66,20-01-95,Petersfield
+2013,a002,Southampton,29,Ben Reeves,ENG,D,1.78,67,19-11-91,Verwood
+2013,a002,Southampton,30,Cody Cropper,USA,G,1.91,91,16-02-93,Atlanta
+2013,a002,Southampton,31,Artur Boruc,POL,G,1.93,88,20-02-80,Siedlce
+2013,a002,Southampton,32,Danny Butterfield,ENG,D,1.8,71,21-11-79,Boston
+2013,a002,Southampton,33,Steve de Ridder,BEL,F,1.79,73,25-02-87,Gent
+2013,a002,Southampton,34,Corby Moore,ENG,M,1.73,64,21-11-93,Salisbury
+2013,a002,Southampton,36,Jake Sinclair,ENG,F,1.7,70,29-11-94,Bath
+2013,a002,Southampton,37,Dominic Gape,ENG,M,1.8,70,09-09-94,Southampton
+2013,a002,Southampton,38,Andy Robinson,ENG,M,1.88,66,16-10-92,Bournemouth
+2013,a002,Southampton,39,Lloyd Isgrove,ENG,M,1.78,72,12-01-93,Yeovil
+2013,a002,Southampton,42,Jason Puncheon,ENG,M,1.73,71,26-06-86,Croydon
+2013,a002,Southampton,11,Billy Sharp,ENG,F,1.75,70,05-02-86,Sheffield
+2013,a002,Southampton,14,Dean Hammond,ENG,M,1.83,74,07-03-83,Hastings
+2013,a002,Southampton,35,Sam Hoskins,ENG,F,1.72,67,04-02-93,Dorchester
+2013,a002,Southampton,25,Daniel Seaborne,ENG,D,1.83,74,05-03-87,Barnstaple
+2013,a002,Southampton,19,Tadanari Lee,JPN,F,1.82,74,19-12-85,Tokyo
+2013,a002,Stoke City,1,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje
+2013,a002,Stoke City,2,Geoff Cameron,USA,D,1.91,92,11-07-85,Attleboro
+2013,a002,Stoke City,4,Robert Huth,GER,D,1.91,88,18-08-84,Berlin
+2013,a002,Stoke City,6,Glenn Whelan,IRL,M,1.8,79,13-01-84,Dublin
+2013,a002,Stoke City,7,Jermaine Pennant,ENG,M,1.73,64,15-01-83,Nottingham
+2013,a002,Stoke City,8,Wilson Palacios,HON,M,1.78,71,29-07-84,La Ceiba
+2013,a002,Stoke City,9,Kenwyne Jones,TRI,F,1.88,75,05-10-84,Point Fortin
+2013,a002,Stoke City,10,Michael Owen,ENG,F,1.73,70,14-12-79,Chester
+2013,a002,Stoke City,11,Mamady Sidibé,MLI,F,1.93,77,18-12-79,Bamako
+2013,a002,Stoke City,12,Marc Wilson,IRL,D,1.88,80,17-08-87,Belfast
+2013,a002,Stoke City,14,Jamie Ness,SCO,M,1.77,72,02-03-91,Irvine
+2013,a002,Stoke City,15,Steven N'Zonzi,FRA,M,1.9,75,15-12-88,Colombes
+2013,a002,Stoke City,16,Charlie Adam,SCO,M,1.85,83,10-12-85,Dundee
+2013,a002,Stoke City,17,Ryan Shawcross,ENG,D,1.83,76,04-10-87,Chester
+2013,a002,Stoke City,18,Dean Whitehead,ENG,M,1.8,77,12-01-82,Abingdon
+2013,a002,Stoke City,19,Jonathan Walters,IRL,F,1.83,79,20-09-83,Birkenhead
+2013,a002,Stoke City,21,Michael Kightly,ENG,M,1.75,64,24-01-86,Basildon
+2013,a002,Stoke City,22,Brek Shea,USA,M,1.9,82,28-02-90,College Station
+2013,a002,Stoke City,24,Rory Delap,IRL,M,1.83,74,06-07-76,Sutton Coldfield
+2013,a002,Stoke City,25,Peter Crouch,ENG,F,2.01,80,30-01-81,Macclesfield
+2013,a002,Stoke City,26,Matthew Etherington,ENG,M,1.78,64,14-08-81,Truro
+2013,a002,Stoke City,27,Carlo Nash,ENG,G,1.96,89,13-09-73,Bolton
+2013,a002,Stoke City,28,Andy Wilkinson,ENG,D,1.8,70,06-08-84,Stone
+2013,a002,Stoke City,29,Thomas Sørensen,DEN,G,1.96,89,12-06-76,Fredericia
+2013,a002,Stoke City,30,Ryan Shotton,ENG,D,1.91,85,30-09-88,Fenton
+2013,a002,Stoke City,33,Cameron Jerome,ENG,F,1.85,85,14-08-86,Huddersfield
+2013,a002,Stoke City,36,Matthew Lund,NIR,M,1.7,61,21-11-90,Manchester
+2013,a002,Stoke City,38,Florent Cuvelier,BEL,M,1.82,72,12-09-92,Brussels
+2013,a002,Stoke City,32,Diego Arismendi,URU,M,1.89,82,25-01-88,Montevideo
+2013,a002,Stoke City,3,Danny Higginbotham,ENG,D,1.85,78,29-12-78,Manchester
+2013,a002,Stoke City,23,Michael Tonge,ENG,M,1.83,75,07-04-83,Manchester
+2013,a002,Stoke City,13,Maurice Edu,USA,M,1.83,77,18-04-86,San Bernardino
+2013,a002,Stoke City,31,Ryan Brunt,ENG,F,1.85,75,26-05-93,Birmingham
+2013,a002,Stoke City,20,Matthew Upson,ENG,D,1.85,72,18-04-79,Hartismere
+2013,a002,Sunderland,2,Phillip Bardsley,SCO,D,1.79,74,28-06-85,Salford
+2013,a002,Sunderland,3,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster
+2013,a002,Sunderland,4,Alfred N'Diaye,FRA,M,1.87,87,06-03-90,Paris
+2013,a002,Sunderland,5,Wes Brown,ENG,D,1.85,75,13-10-79,Manchester
+2013,a002,Sunderland,6,Lee Cattermole,ENG,M,1.78,76,21-03-88,Stockton-on-Tees
+2013,a002,Sunderland,7,Sebastian Larsson,SWE,M,1.78,70,06-06-85,Eskiltuna
+2013,a002,Sunderland,8,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull
+2013,a002,Sunderland,9,Danny Graham,ENG,F,1.83,87,12-08-85,Gateshead
+2013,a002,Sunderland,10,Connor Wickham,ENG,F,1.91,73,31-03-93,Hereford
+2013,a002,Sunderland,12,Matthew Kilgallon,ENG,D,1.88,81,08-01-84,York
+2013,a002,Sunderland,13,Jordan Pickford,ENG,G,1.85,77,07-03-94,Washington
+2013,a002,Sunderland,14,Jack Colback,ENG,M,1.76,70,24-10-89,Killingworth
+2013,a002,Sunderland,15,David Vaughan,WAL,M,1.7,66,18-02-83,Rhuddlan
+2013,a002,Sunderland,16,John O'Shea,IRL,D,1.9,75,30-04-81,Waterford
+2013,a002,Sunderland,18,Kader Mangane,SEN,D,1.93,87,23-03-83,Thiès
+2013,a002,Sunderland,19,Titus Bramble,ENG,D,1.85,87,21-07-81,Ipswich
+2013,a002,Sunderland,20,Keiren Westwood,IRL,G,1.88,86,23-10-84,Manchester
+2013,a002,Sunderland,21,Adam Johnson,ENG,M,1.75,62,14-07-87,Sunderland
+2013,a002,Sunderland,22,Simon Mignolet,BEL,G,1.93,87,06-03-88,Sint-Truiden
+2013,a002,Sunderland,23,James McClean,IRL,M,1.8,70,22-04-89,Derry
+2013,a002,Sunderland,24,Carlos Cuéllar,ESP,D,1.9,84,23-08-81,Madrid
+2013,a002,Sunderland,26,Steven Fletcher,SCO,F,1.85,76,26-03-87,Shrewsbury
+2013,a002,Sunderland,28,Stéphane Sessegnon,BEN,M,1.72,72,01-06-84,Allahe
+2013,a002,Sunderland,29,Liam Marrs,ENG,D,1.75,72,15-12-92,Cramlington
+2013,a002,Sunderland,30,Mikaël Mandron,SCO,F,1.91,82,11-10-94,Boulogne-sur-Mer
+2013,a002,Sunderland,32,Jordan Laidler,ENG,F,1.78,76,13-10-93,North Shields
+2013,a002,Sunderland,33,Ryan Noble,ENG,F,1.83,69,06-11-91,Sunderland
+2013,a002,Sunderland,34,Billy Knott,ENG,M,1.73,71,28-11-92,Canvey Island
+2013,a002,Sunderland,35,David Ferguson,ENG,D,1.78,76,07-06-94,Sunderland
+2013,a002,Sunderland,36,Scott Harrison,ENG,D,1.83,78,03-09-93,Middlesbrough
+2013,a002,Sunderland,37,Adam Mitchell,IRL,F,,,02-12-94,
+2013,a002,Sunderland,42,John Egan,IRL,D,1.85,75,20-10-92,Cork
+2013,a002,Sunderland,11,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich
+2013,a002,Sunderland,17,Ji Dong-Won,KOR,F,1.87,78,28-05-91,Jeju
+2013,a002,Sunderland,18,David Meyler,IRL,M,1.9,74,29-05-89,Cork
+2013,a002,Sunderland,34,Blair Adams,ENG,D,1.8,72,08-09-91,South Shields
+2013,a002,Sunderland,9,Fraizer Campbell,ENG,F,1.8,78,13-09-87,Huddersfield
+2013,a002,Sunderland,25,Louis Saha,FRA,F,1.84,75,08-08-78,Paris
+2013,a002,Sunderland,27,Ahmed Elmohamady,EGY,M,1.8,81,09-09-87,El-Mahalla El-Kubra
+2013,a002,Sunderland,11,James McFadden,SCO,F,1.78,75,14-04-83,Glasgow
+2013,a002,Swansea City,1,Michel Vorm,NED,G,1.83,84,20-10-83,Nieuwegein
+2013,a002,Swansea City,2,Kyle Bartley,ENG,D,1.8,70,22-05-91,Manchester
+2013,a002,Swansea City,3,Neil Taylor,WAL,D,1.75,64,07-02-89,St Asaph
+2013,a002,Swansea City,4,Chico,ESP,D,1.87,75,06-03-87,Cádiz
+2013,a002,Swansea City,5,Alan Tate,ENG,D,1.85,85,02-09-82,Easington
+2013,a002,Swansea City,6,Ashley Williams,WAL,D,1.83,75,23-08-84,Wolverhampton
+2013,a002,Swansea City,7,Leon Britton,ENG,M,1.68,64,16-09-82,London
+2013,a002,Swansea City,9,Michu,ESP,M,1.85,80,21-03-86,Oviedo
+2013,a002,Swansea City,11,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón
+2013,a002,Swansea City,12,Nathan Dyer,ENG,M,1.65,57,29-11-87,Trowbridge
+2013,a002,Swansea City,13,David Cornell,WAL,G,1.8,73,28-03-91,Swansea
+2013,a002,Swansea City,14,Roland Lamah,BEL,F,1.8,71,31-12-87,Liège
+2013,a002,Swansea City,15,Wayne Routledge,ENG,M,1.7,64,07-01-85,Eltham
+2013,a002,Swansea City,16,Garry Monk,ENG,D,1.83,81,06-03-79,Bedford
+2013,a002,Swansea City,17,Itay Shechter,ISR,F,1.8,77,22-02-87,Ramat Yishai
+2013,a002,Swansea City,19,Luke Moore,ENG,F,1.8,76,13-02-86,Birmingham
+2013,a002,Swansea City,20,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN]
+2013,a002,Swansea City,21,Dwight Tiendalli,NED,D,1.77,68,21-10-85,Paramaribo
+2013,a002,Swansea City,22,Angel Rangel,ESP,D,1.88,84,28-10-82,Tortosa
+2013,a002,Swansea City,23,Darnel Situ,FRA,D,1.87,77,18-03-92,Rouen
+2013,a002,Swansea City,24,Ki Sung-Yueng,KOR,M,1.87,79,24-01-89,Gwangju
+2013,a002,Swansea City,25,Gerhard Tremmel,GER,G,1.9,89,16-11-78,Munich
+2013,a002,Swansea City,26,Kemy Agustien,NED,M,1.78,72,02-08-86,Tilburg
+2013,a002,Swansea City,27,Mark Gower,ENG,M,1.8,75,05-10-78,Edmonton
+2013,a002,Swansea City,28,Curtis Obeng,ENG,D,1.73,67,14-02-89,Manchester
+2013,a002,Swansea City,30,Josh Sheehan,WAL,M,1.84,75,30-03-95,Pembrey
+2013,a002,Swansea City,31,Lee Lucas,WAL,M,1.8,74,10-06-92,Aberdare
+2013,a002,Swansea City,33,Ben Davies,WAL,D,1.7,76,24-04-93,Neath
+2013,a002,Swansea City,34,Henry Jones,WAL,M,1.83,84,18-09-93,Swansea
+2013,a002,Swansea City,35,Daniel Alfei,WAL,D,1.8,77,23-02-92,Swansea
+2013,a002,Swansea City,36,James Loveridge,WAL,F,1.88,85,16-05-94,Llanelli
+2013,a002,Swansea City,37,Scott Tancock,WAL,D,1.85,75,29-12-93,Swansea
+2013,a002,Swansea City,39,Kurtis March,WAL,M,1.75,71,30-03-93,Swansea
+2013,a002,Swansea City,41,Rory Donnelly,NIR,F,1.88,81,18-02-92,Belfast
+2013,a002,Swansea City,8,Andrea Orlandi,ESP,M,1.8,78,03-08-84,Barcelona
+2013,a002,Swansea City,11,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath
+2013,a002,Swansea City,21,Fede Bessone,ARG,D,1.8,76,23-01-84,Córdoba
+2013,a002,Swansea City,14,Stephen Dobbie,SCO,F,1.78,65,05-12-82,Glasgow
+2013,a002,Swansea City,42,Jamie Proctor,ENG,F,1.88,78,25-03-92,Preston
+2013,a002,Swansea City,18,Leroy Lita,ENG,F,1.7,75,28-12-84,Brazzaville
+2013,a002,Swansea City,29,Ashley Richards,WAL,M,1.85,78,12-04-91,Swansea
+2013,a002,Swansea City,10,Danny Graham,ENG,F,1.83,87,12-08-85,Gateshead
+2013,a002,Swansea City,38,Gwion Edwards,WAL,M,1.75,76,01-03-93,Carmarthen
+2013,a002,Tottenham Hotspur,2,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches
+2013,a002,Tottenham Hotspur,4,Younès Kaboul,FRA,D,1.9,87,04-01-86,St-Julien-en-Genevois
+2013,a002,Tottenham Hotspur,5,Jan Vertonghen,BEL,D,1.89,79,24-04-87,Sint-Niklaas
+2013,a002,Tottenham Hotspur,6,Tom Huddlestone,ENG,M,1.88,80,28-12-86,Nottingham
+2013,a002,Tottenham Hotspur,7,Aaron Lennon,ENG,M,1.65,63,16-04-87,Chapeltown
+2013,a002,Tottenham Hotspur,8,Scott Parker,ENG,M,1.75,70,13-10-80,Lambeth
+2013,a002,Tottenham Hotspur,10,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé
+2013,a002,Tottenham Hotspur,11,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff
+2013,a002,Tottenham Hotspur,13,William Gallas,FRA,D,1.83,72,17-08-77,Asnieres
+2013,a002,Tottenham Hotspur,15,David Bentley,ENG,M,1.75,68,27-08-84,Peterborough
+2013,a002,Tottenham Hotspur,16,Kyle Naughton,ENG,D,1.8,73,11-11-88,Sheffield
+2013,a002,Tottenham Hotspur,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton
+2013,a002,Tottenham Hotspur,19,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk
+2013,a002,Tottenham Hotspur,20,Michael Dawson,ENG,D,1.88,76,18-11-83,Northallerton
+2013,a002,Tottenham Hotspur,22,Gylfi Sigurðsson,ISL,M,1.86,77,08-09-89,Reykjavik
+2013,a002,Tottenham Hotspur,23,Lewis Holtby,GER,F,1.74,66,18-09-90,Erkelenz
+2013,a002,Tottenham Hotspur,24,Brad Friedel,USA,G,1.88,91,18-05-71,Lakewood
+2013,a002,Tottenham Hotspur,25,Hugo Lloris,FRA,G,1.88,78,26-12-86,Nice
+2013,a002,Tottenham Hotspur,28,Kyle Walker,ENG,D,1.78,73,28-05-90,Sheffield
+2013,a002,Tottenham Hotspur,29,Jake Livermore,ENG,M,1.8,76,14-11-89,Enfield
+2013,a002,Tottenham Hotspur,30,Sandro,BRA,M,1.87,75,15-03-89,Riachinho
+2013,a002,Tottenham Hotspur,32,Benoît Assou-Ekotto,CMR,D,1.8,69,24-03-84,Arras
+2013,a002,Tottenham Hotspur,33,Steven Caulker,ENG,D,1.9,76,29-12-91,Feltham
+2013,a002,Tottenham Hotspur,37,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow
+2013,a002,Tottenham Hotspur,41,Shaquile Coulthirst,ENG,F,1.8,77,02-11-94,Hackney
+2013,a002,Tottenham Hotspur,42,Nabil Bentaleb,FRA,M,1.87,68,24-11-94,Lille
+2013,a002,Tottenham Hotspur,43,Ryan Fredericks,ENG,M,1.73,72,10-10-92,Potters Bar
+2013,a002,Tottenham Hotspur,44,Cristian Ceballos,ESP,M,1.73,67,03-12-92,Barcelona
+2013,a002,Tottenham Hotspur,45,Jonathan Obika,ENG,F,1.85,78,12-09-90,Enfield
+2013,a002,Tottenham Hotspur,46,Tom Carroll,ENG,M,1.77,71,28-05-92,Watford
+2013,a002,Tottenham Hotspur,47,Jake Nicholson,ENG,M,1.83,73,19-07-92,Harrow
+2013,a002,Tottenham Hotspur,52,Laste Dombaxe,ENG,M,1.71,62,15-05-95,Luanda
+2013,a002,Tottenham Hotspur,53,Cameron Lancaster,ENG,F,1.83,74,05-11-92,Camden
+2013,a002,Tottenham Hotspur,55,William Ekong,NED,D,1.91,74,01-09-93,Haarlem
+2013,a002,Tottenham Hotspur,56,Jonathan Miles,ENG,G,1.81,71,29-03-93,Colchester
+2013,a002,Tottenham Hotspur,57,Jordan Archer,SCO,G,1.86,80,12-04-93,Walthamstow
+2013,a002,Tottenham Hotspur,58,Dean Parrett,ENG,M,1.77,74,16-11-91,Hampstead
+2013,a002,Tottenham Hotspur,59,Kevin Stewart,ENG,D,1.71,73,07-09-93,Enfield
+2013,a002,Tottenham Hotspur,60,Jack Barthram,ENG,D,1.73,75,13-10-93,Newham
+2013,a002,Tottenham Hotspur,61,Jack Munns,ENG,M,1.66,64,18-11-93,Dagenham
+2013,a002,Tottenham Hotspur,62,Ezekiel Fryers,ENG,D,1.83,75,09-09-92,Manchester
+2013,a002,Tottenham Hotspur,19,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris
+2013,a002,Tottenham Hotspur,14,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar
+2013,a002,Tottenham Hotspur,35,David Button,ENG,G,1.91,83,27-02-89,Stevenage
+2013,a002,Tottenham Hotspur,3,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster
+2013,a002,Tottenham Hotspur,10,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk
+2013,a002,Tottenham Hotspur,17,Giovani dos Santos,MEX,M,1.73,77,11-05-89,Monterrey
+2013,a002,Tottenham Hotspur,25,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé
+2013,a002,Tottenham Hotspur,23,Carlo Cudicini,ITA,G,1.85,80,06-09-73,Milan
+2013,a002,Tottenham Hotspur,27,Iago Falqué,ESP,M,1.74,69,04-01-90,Vigo
+2013,a002,Tottenham Hotspur,1,Heurelho Gomes,BRA,G,1.91,82,15-02-81,João Pinheiro
+2013,a002,Tottenham Hotspur,21,Jermaine Jenas,ENG,M,1.77,76,18-02-83,Nottingham
+2013,a002,Tottenham Hotspur,31,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross
+2013,a002,Tottenham Hotspur,38,Ryan Mason,ENG,M,1.75,71,13-06-91,Enfield
+2013,a002,Tottenham Hotspur,39,Adam Smith,ENG,D,1.73,67,29-04-91,Leytonstone
+2013,a002,Tottenham Hotspur,54,Alex Pritchard,ENG,F,1.71,62,03-05-93,Grays
+2013,a002,West Bromwich,1,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington
+2013,a002,West Bromwich,2,Steven Reid,IRL,M,1.85,87,10-03-81,Kingston
+2013,a002,West Bromwich,3,Jonas Olsson,SWE,D,1.95,85,10-03-83,Landskrona
+2013,a002,West Bromwich,4,Goran Popov,MKD,D,1.89,89,02-10-84,Strumica
+2013,a002,West Bromwich,5,Claudio Yacob,ARG,M,1.81,73,18-07-87,Carcarañá
+2013,a002,West Bromwich,6,Liam Ridgewell,ENG,D,1.88,79,21-07-84,Bexley
+2013,a002,West Bromwich,7,James Morrison,SCO,M,1.78,64,25-05-86,Darlington
+2013,a002,West Bromwich,8,Markus Rosenberg,SWE,F,1.85,80,27-09-82,Malmö
+2013,a002,West Bromwich,9,Shane Long,IRL,F,1.78,71,22-01-87,Kilkenny
+2013,a002,West Bromwich,11,Chris Brunt,NIR,M,1.85,84,14-12-84,Belfast
+2013,a002,West Bromwich,13,Boaz Myhill,WAL,G,1.91,92,09-11-82,Modesto
+2013,a002,West Bromwich,14,Jerome Thomas,ENG,M,1.78,79,23-03-83,Brent
+2013,a002,West Bromwich,15,George Thorne,ENG,M,1.88,84,04-01-93,Chatham
+2013,a002,West Bromwich,16,Scott Allan,SCO,M,1.75,70,28-11-91,Glasgow
+2013,a002,West Bromwich,17,Graham Dorrans,SCO,M,1.75,73,05-05-87,Glasgow
+2013,a002,West Bromwich,19,Luke Daniels,ENG,G,1.93,81,05-01-88,Bolton
+2013,a002,West Bromwich,20,Romelu Lukaku,BEL,F,1.9,94,13-05-93,Antwerp
+2013,a002,West Bromwich,21,Youssuf Mulumbu,COD,M,1.77,65,25-01-87,Kinshasa
+2013,a002,West Bromwich,22,Zoltán Gera,HUN,M,1.83,75,22-04-79,Pécs
+2013,a002,West Bromwich,23,Gareth McAuley,NIR,D,1.91,70,05-12-79,Larne
+2013,a002,West Bromwich,24,Peter Odemwingie,NGA,F,1.82,74,15-07-81,Tashkent
+2013,a002,West Bromwich,25,Craig Dawson,ENG,D,1.83,78,06-05-90,Rochdale
+2013,a002,West Bromwich,26,James Hurst,ENG,D,1.83,77,31-01-92,Sutton Coldfield
+2013,a002,West Bromwich,28,Billy Jones,ENG,D,1.81,77,24-03-87,Shrewsbury
+2013,a002,West Bromwich,30,Gabriel Tamaş,ROU,D,1.88,77,09-11-83,Braşov
+2013,a002,West Bromwich,32,Marc-Antoine Fortuné,FRA,F,1.82,82,02-07-81,Cayenne
+2013,a002,West Bromwich,34,Kemar Roofe,ENG,M,1.78,71,06-01-93,Walsall
+2013,a002,West Bromwich,35,Romaine Sawyers,SKN,M,1.75,67,02-11-91,Birmingham
+2013,a002,West Bromwich,36,Adil Nabi,ENG,F,1.72,68,28-02-94,Birmingham
+2013,a002,West Bromwich,37,Kayelden Brown,WAL,M,1.87,80,15-04-92,Birmingham
+2013,a002,West Bromwich,38,Saido Berahino,ENG,F,1.8,82,04-08-93,Bujumbura
+2013,a002,West Bromwich,40,Liam O'Neil,ENG,D,1.8,80,31-07-93,Cambridge
+2013,a002,West Bromwich,41,Cameron Gayle,ENG,D,1.81,70,22-11-92,Birmingham
+2013,a002,West Bromwich,42,Donervon Daniels,ENG,D,1.86,91,24-11-93,Montserrat
+2013,a002,West Bromwich,43,Isaiah Brown,ENG,F,1.82,70,07-01-97,Peterborough
+2013,a002,West Bromwich,39,Chris Wood,NZL,F,1.91,91,07-12-91,Auckland
+2013,a002,West Bromwich,18,Gonzalo Jara,CHI,D,1.78,77,29-08-85,Santiago
+2013,a002,West Bromwich,27,Sam Mantom,ENG,M,1.89,80,20-02-92,Stourbridge
+2013,a002,West Bromwich,10,Yassine El Ghanassy,MAR,M,1.75,69,12-07-90,La Louvière
+2013,a002,West Ham United,2,Winston Reid,NZL,D,1.9,87,03-07-88,Auckland
+2013,a002,West Ham United,3,George McCartney,NIR,D,1.83,79,29-04-81,Belfast
+2013,a002,West Ham United,4,Kevin Nolan,ENG,M,1.83,89,24-06-82,Liverpool
+2013,a002,West Ham United,5,James Tomkins,ENG,D,1.9,74,29-03-89,Basildon
+2013,a002,West Ham United,7,Matthew Jarvis,ENG,M,1.73,70,22-05-86,Middlesbrough
+2013,a002,West Ham United,8,Andy Carroll,ENG,F,1.91,65,06-01-89,Gateshead
+2013,a002,West Ham United,9,Carlton Cole,ENG,F,1.91,78,12-10-83,Croydon
+2013,a002,West Ham United,10,Jack Collison,WAL,M,1.82,87,02-10-88,Watford
+2013,a002,West Ham United,11,Modibo Maïga,MLI,F,1.85,76,03-09-86,Bamako
+2013,a002,West Ham United,12,Ricardo Vaz Té,POR,F,1.88,79,01-10-86,Lisbon
+2013,a002,West Ham United,13,Stephen Henderson,IRL,G,1.88,87,02-05-88,Dublin
+2013,a002,West Ham United,14,Matthew Taylor,ENG,M,1.78,74,27-11-81,Oxford
+2013,a002,West Ham United,16,Mark Noble,ENG,M,1.8,76,08-05-87,West Ham
+2013,a002,West Ham United,17,Joey O'Brien,IRL,M,1.8,69,17-02-86,Dublin
+2013,a002,West Ham United,18,Emanuel Pogatetz,AUT,D,1.89,76,16-01-83,Graz
+2013,a002,West Ham United,19,James Collins,WAL,D,1.88,90,23-08-83,Newport
+2013,a002,West Ham United,20,Guy Demel,CIV,D,1.88,88,13-06-81,Orsay
+2013,a002,West Ham United,21,Mohamed Diamé,SEN,M,1.84,80,14-06-87,Créteil
+2013,a002,West Ham United,22,Jussi Jääskeläinen,FIN,G,1.91,81,19-04-75,Mikkeli
+2013,a002,West Ham United,24,Sean Maguire,IRL,F,1.75,75,01-05-94,Luton
+2013,a002,West Ham United,26,Joe Cole,ENG,M,1.76,73,08-11-81,Paddington
+2013,a002,West Ham United,27,Jordan Spence,ENG,M,1.88,79,24-05-90,Woodford
+2013,a002,West Ham United,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens
+2013,a002,West Ham United,30,Raphael Spiegel,SUI,G,1.96,88,19-12-92,Rüttenen
+2013,a002,West Ham United,31,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo
+2013,a002,West Ham United,32,Gary O'Neil,ENG,M,1.73,61,18-05-83,Beckenham
+2013,a002,West Ham United,33,Dan Potts,ENG,D,1.73,76,13-04-94,Barking
+2013,a002,West Ham United,39,Dylan Tombides,AUS,F,1.8,80,08-03-94,Perth
+2013,a002,West Ham United,40,Matthias Fanimo,ENG,M,1.73,71,28-01-94,Lambeth
+2013,a002,West Ham United,41,Callum Driver,ENG,D,1.74,72,23-10-92,Bexley
+2013,a002,West Ham United,42,George Moncur,ENG,M,1.75,64,18-08-93,Swindon
+2013,a002,West Ham United,43,Sebastian Lletget,USA,M,1.78,69,03-09-92,San Francisco
+2013,a002,West Ham United,44,Leo Chambers,ENG,D,1.86,83,05-08-95,Brixton
+2013,a002,West Ham United,45,Paul McCallum,ENG,F,1.91,76,28-07-93,Streatham
+2013,a002,West Ham United,46,Rob Hall,ENG,F,1.88,66,20-10-93,Aylesbury
+2013,a002,West Ham United,47,Elliott Lee,ENG,F,1.8,72,16-12-94,Durham
+2013,a002,West Ham United,36,Sam Baldock,ENG,F,1.7,67,15-03-89,Bedford
+2013,a002,West Ham United,8,Nicky Maynard,ENG,F,1.8,70,11-12-86,Winsford
+2013,a002,West Ham United,15,Yossi Benayoun,ISR,M,1.78,70,05-05-80,Beersheba
+2013,a002,West Ham United,23,Alou Diarra,FRA,M,1.9,79,15-07-81,Villepinte
+2013,a002,Wigan Athletic,1,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés
+2013,a002,Wigan Athletic,2,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama
+2013,a002,Wigan Athletic,3,Antolín Alcaraz,PAR,D,1.84,80,30-07-82,Roque Gonzalez
+2013,a002,Wigan Athletic,4,James McCarthy,IRL,M,1.8,72,12-11-90,Glasgow
+2013,a002,Wigan Athletic,5,Gary Caldwell,SCO,D,1.85,75,12-04-82,Stirling
+2013,a002,Wigan Athletic,6,David Jones,ENG,M,1.85,80,04-11-84,Southport
+2013,a002,Wigan Athletic,7,Albert Crusat,ESP,M,1.64,65,13-05-82,Barcelona
+2013,a002,Wigan Athletic,8,Ben Watson,ENG,M,1.78,69,09-07-85,Camberwell
+2013,a002,Wigan Athletic,9,Franco Di Santo,ARG,F,1.94,78,07-04-89,Mendoza
+2013,a002,Wigan Athletic,10,Shaun Maloney,SCO,F,1.7,70,24-01-83,Mirri
+2013,a002,Wigan Athletic,11,Ángelo Henríquez,CHI,F,1.8,77,13-04-94,Santiago
+2013,a002,Wigan Athletic,12,Mike Pollitt,ENG,G,1.93,89,29-02-72,Farmworth
+2013,a002,Wigan Athletic,14,Jordi Gómez,ESP,M,1.78,74,24-05-85,Barcelona
+2013,a002,Wigan Athletic,15,Callum McManaman,ENG,F,1.75,71,25-04-91,Knowsley
+2013,a002,Wigan Athletic,16,James McArthur,SCO,M,1.68,63,07-10-87,Glasgow
+2013,a002,Wigan Athletic,17,Emmerson Boyce,BRB,D,1.8,73,24-09-79,Aylesbury
+2013,a002,Wigan Athletic,18,Roger Espinoza,HON,M,1.8,73,25-10-86,Puerto Cortes
+2013,a002,Wigan Athletic,20,Fraser Fyvie,SCO,M,1.72,60,27-03-93,Aberdeen
+2013,a002,Wigan Athletic,21,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla
+2013,a002,Wigan Athletic,22,Jean Beausejour,CHI,M,1.79,80,01-06-84,Santiago
+2013,a002,Wigan Athletic,23,Ronnie Stam,NED,M,1.75,62,18-06-84,Breda
+2013,a002,Wigan Athletic,24,Piscu,ESP,D,1.84,77,25-02-87,As Pontes de García Rodríguez
+2013,a002,Wigan Athletic,25,Román Golobart,ESP,D,1.93,87,21-03-92,Barcelona
+2013,a002,Wigan Athletic,26,Ali Al-Habsi,OMA,G,1.94,79,30-12-81,Muscat
+2013,a002,Wigan Athletic,27,Jordan Mustoe,ENG,D,1.8,75,28-01-91,Wirral
+2013,a002,Wigan Athletic,28,Daniel Redmond,ENG,M,1.6,67,02-03-91,Liverpool
+2013,a002,Wigan Athletic,29,Nouha Dicko,FRA,F,1.73,74,14-05-92,Saint-Maurice
+2013,a002,Wigan Athletic,30,Rob Kiernan,ENG,M,1.86,76,13-01-91,Watford
+2013,a002,Wigan Athletic,31,Maynor Figueroa,HON,D,1.8,85,02-05-83,Juticalpa
+2013,a002,Wigan Athletic,32,Ryo Miyaichi,JPN,F,1.83,71,14-12-92,Okazaki
+2013,a002,Wigan Athletic,33,Paul Scharner,AUT,M,1.91,80,11-03-80,Scheibbs
+2013,a002,Wigan Athletic,34,Jamie McCormack,SCO,D,1.78,74,01-02-92,Edinburgh
+2013,a002,Wigan Athletic,35,Filip Oršula,SVK,F,,,25-02-93,
+2013,a002,Wigan Athletic,36,Rakish Bingham,ENG,F,,,25-10-93,Newham
+2013,a002,Wigan Athletic,37,Callum Morris,ENG,D,1.87,83,01-09-92,Birkenhead
+2013,a002,Wigan Athletic,38,Ryan Watson,ENG,M,1.85,73,07-07-93,Crewe
+2013,a002,Wigan Athletic,39,Tim Chow,ENG,M,1.8,72,18-01-94,Wigan
+2013,a002,Wigan Athletic,40,Peter Aylmer,ENG,M,,,12-02-94,Liverpool
+2013,a002,Wigan Athletic,41,Jonny Lynch,ENG,D,1.8,76,02-11-93,Wigan
+2013,a002,Wigan Athletic,42,Jack Phillips,ENG,M,1.76,75,15-10-93,Liverpool
+2013,a002,Wigan Athletic,43,Adam Buxton,ENG,D,1.85,81,12-05-92,Liverpool
+2013,a002,Wigan Athletic,44,Edu Campabadal,ESP,D,1.77,72,26-01-93,Tarragona
+2013,a002,Wigan Athletic,45,Josh Langley,ENG,D,1.8,73,13-08-92,Warrington
+2013,a002,Wigan Athletic,46,Josh Sumner,ENG,M,,,03-01-94,Liverpool
+2013,a002,Wigan Athletic,47,Jesjua Angoy,ESP,M,1.8,72,11-03-93,Amsterdam
+2013,a002,Wigan Athletic,69,Guille,ESP,F,1.8,68,13-10-92,Quart de Poblet
+2013,a002,Wigan Athletic,18,Conor Sammon,IRL,F,1.78,75,13-04-87,Dublin
+2013,a002,Wigan Athletic,11,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos
+2013,a002,Wigan Athletic,13,Lee Nicholls,ENG,G,1.91,85,05-10-92,Huyton
+2013,a002,Wigan Athletic,19,Mauro Boselli,ARG,F,1.83,75,22-05-85,Capital Federal

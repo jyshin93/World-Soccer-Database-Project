@@ -1,0 +1,7 @@
+LID,LName,Country,Year,Teams,CurChampion,MostChampion,LID
+a001,Bundesliga,Germany,1963,18,Bayern Munich,Bayern Munich,
+a002,Premier League,England,1992,20,Leicester City,Manchester United,
+a003,La Liga,Spain,1929,20,Barcelona,Real Madrid,
+a004,Serie A,Italy,1898,20,Juventus,Juventus,
+a005,Ligue 1,France,1932,20,Paris Saint-Germain,Saint-Etienne,
+a006,Primeira Liga,Portugal,1934,18,Benfica,Benfica,

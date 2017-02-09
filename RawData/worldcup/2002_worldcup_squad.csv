@@ -1,0 +1,739 @@
+Year,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Current Club
+2002,1,Thomas Sørensen,DEN,G,"6'03""",12 05,12-06-76,Fredericia,Sunderland
+2002,2,Stig Tøfting,DEN,M,"5'09""",11 05,14-08-69,Aarhus,Bolton W
+2002,3,René Henriksen,DEN,D,"6'00""",11 07,27-08-69,Glostrup,Panathinaikos
+2002,4,Martin Laursen,DEN,D,"6'02""",12 06,26-07-77,Farvoug,Milan
+2002,5,Jan Heintze,DEN,D,"5'07""",10 03,17-08-63,Tårnby,PSV Eindhoven
+2002,6,Thomas Helveg,DEN,D,"5'11""",12 08,24-06-71,Odense,Milan
+2002,7,Thomas Gravesen,DEN,M,"5'10""",13 06,11-03-76,Vejle,Everton
+2002,8,Jesper Grønkjær,DEN,F,"6'01""",13 03,12-08-77,Nuuk,Chelsea
+2002,9,Jon Dahl Tomasson,DEN,F,"6'00""",11 09,29-08-76,Roskilde,Feyenoord
+2002,10,Martin Jorgensen,DEN,F,"5'10""",11 09,06-10-75,Orstad,Udinese
+2002,11,Ebbe Sand,DEN,F,6'00'',12 04,19-07-72,Hadsund,Schalke
+2002,12,Niclas Jensen,DEN,D,"6'00""",12 00,17-08-74,Copenhagen,Manchester C
+2002,13,Steven Lüstu,DEN,D,"6'00""",12 13,13-04-71,Glostrup,Lyn
+2002,14,Claus Jensen,DEN,M,"5'11""",12 00,29-04-77,Nykobing,Charlton Ath
+2002,15,Jan Michaelsen,DEN,M,"6'00""",12 01,28-11-70,Nantes,Panathinaikos
+2002,16,Peter Kjaer,DEN,G,6'02'',13 12,05-11-65,Silkeborg,Aberdeen
+2002,17,Christian Poulsen,DEN,M,6'00'',12 00,28-02-80,Asnaes,FC København
+2002,18,Peter Lovenkrands,DEN,F,5'11'',11 00,29-01-80,Horsholm,Rangers
+2002,19,Dennis Rommedahl,DEN,F,"5'10""",11 00,22-07-78,Copenhagen,PSV Eindhoven
+2002,20,Kasper Bøgelund,DEN,D,"5'11""",11 11,08-10-80,Odense,PSV Eindhoven
+2002,21,Peter Madsen,DEN,F,6'00'',12 08,26-04-78,Roskilde,Brøndby
+2002,22,Jesper Christansen,DEN,G,"6'04""",,24-08-78,,Rangers
+2002,23,Brian Steen Nielsen,DEN,M,"5'11""",,28-12-68,Vejle,Malmö FF
+2002,1,Ulrich Ramé,FRA,G,"6'01""",13 00,19-09-72,Nantes,Bordeaux
+2002,2,Vincent Candela,FRA,D,"5'11""",12 11,24-10-73,Bedarieux,Roma
+2002,3,Bixente Lizarazu,FRA,D,5'07'',11 05,09-12-69,Saint-Jean-de-Luz,Bayern Munich
+2002,4,Patrick Vieira,FRA,M,"6'04""",13 00,23-06-76,Dakar,Arsenal
+2002,5,Philippe Christanval,FRA,D,"6'02""",12 10,31-08-78,Paris,Monaco
+2002,6,Youri Djorkaeff,FRA,M,"5'10""",11 07,09-03-68,Lyon,Bolton W
+2002,7,Claude Makélélé,FRA,M,"5'07""",10 03,18-02-73,Kinshasa,Real Madrid
+2002,8,Marcel Desailly,FRA,D,"6'02""",12 06,17-09-68,Accra,Chelsea
+2002,9,Djibril Cissé,FRA,F,"5'11""",12 03,12-08-81,Arles,Auxerre
+2002,10,Zinedine Zidane,FRA,M,"6'01""",12 04,23-06-72,Marseille,Real Madrid
+2002,11,Sylvain Wiltord,FRA,F,"5'08""",11 13,10-05-74,Neuilly-sur-Mame,Arsenal
+2002,12,Thierry Henry,FRA,F,"5'11""",12 05,17-08-77,Paris,Arsenal
+2002,13,Mikaël Silvestre,FRA,D,"6'00""",13 01,09-08-77,Chambray-Les-Tours,Manchester U
+2002,14,Alain Boghossian,FRA,M,"6'00""",12 13,27-10-70,Digne,Parma
+2002,15,Lilian Thuram,FRA,D,"6'01""",12 06,01-01-72,Point a Pitre,Juventus
+2002,16,Fabien Barthez,FRA,G,"5'11""",12 08,28-06-71,Lavelanet,Manchester U
+2002,17,Emmanuel Petit,FRA,M,"6'01""",13 03,22-09-70,Dieppe,Chelsea
+2002,18,Franck LeBoeuf,FRA,D,"6'00""",12 00,22-01-68,Marseille,Marseille
+2002,19,Willy Sagnol,FRA,D,5'11'',12 04,18-03-77,Saint-Étienne,Bayern Munich
+2002,20,David Trezeguet,FRA,F,"6'03""",12 08,15-10-77,Rouen,Juventus
+2002,21,Christophe Dugarry,FRA,F,6'02'',12 04,24-03-72,Bordeaux,Bordeaux
+2002,22,Johan Micoud,FRA,M,6'02'',12 13,24-07-73,Cannes,Parma
+2002,23,Grégory Coupet,FRA,G,"5'10""",12 08,31-12-72,Le Puy-en-Velay,Lyon
+2002,1,Tony Mario Sylva,SEN,G,"6'00""",12 01,17-05-75,Guediawaye,Monaco
+2002,2,Omar Daf,SEN,D,"5'09""",11 00,12-02-77,Dakar,Sochaux
+2002,3,Pape Sarr,SEN,M,"5'10""",11 13,07-12-77,Dakar,Lens
+2002,4,Papa Malick Diop,SEN,D,"6'01""",12 12,29-12-74,Cherif Lo,Lorient
+2002,5,Alassane N'Dour,SEN,D,6'01'',11 07,12-12-81,Dakar,St-Etienne
+2002,6,Aliou Cisse,SEN,D,"5'11""",12 08,24-03-76,Zinguinchor,Montpellier
+2002,7,Henri Camara,SEN,F,"5'10""",10 08,10-05-77,Dakar,Sedan
+2002,8,Amara Traoré,SEN,F,"6'01""",14 02,25-09-65,Saint-Louis,Gueugnon
+2002,9,Souleymane Camara,SEN,F,"5'08""",11 04,22-12-82,Dakar,Monaco
+2002,10,Khalilou Fadiga,SEN,M,"6'00""",12 00,30-12-74,Paris,Auxerre
+2002,11,El-Hadji Diouf,SEN,F,5'11'',11 11,15-01-81,Dakar,Lens
+2002,12,Amdy Faye,SEN,M,"6'00""",12 03,12-03-77,Dakar,Auxerre
+2002,13,Lamine Diatta,SEN,D,"6'00""",11 13,02-07-75,Dakar,Rennes
+2002,14,Moussa N'Diaye,SEN,M,"5'10""",12 08,20-02-79,Gire,Sedan
+2002,15,Salif Diao,SEN,M,6'00'',11 07,10-02-77,Kedougou,Sedan
+2002,16,Omar Diallo,SEN,G,"6'02""",13 03,28-09-72,,Khouribga
+2002,17,Ferdinand Coly,SEN,D,"5'11""",12 00,10-09-73,Dakar,Lens
+2002,18,Pape Thiaw,SEN,F,"6'00""",12 01,05-02-81,Khombolé,Strasbourg
+2002,19,Pape Bouba Diop,SEN,M,"6'04""",15 07,28-01-78,Dakar,Lens
+2002,20,Sylvain N'Diaye,SEN,M,"5'10""",11 13,25-06-76,Paris,Lille
+2002,21,Habib Beye,SEN,D,"5'11""",12 06,19-10-77,Suresnes,Strasbourg
+2002,22,Kalidou Cissokho,SEN,G,"6'00""",,14-12-72,,Jeanne d'Arc
+2002,23,Makhtar N'Diaye,SEN,M,"5'08""",10 03,31-12-81,Dakar,Rennes
+2002,1,Fabian Carini,URU,G,"6'02""",13 05,26-12-79,Montevideo,Juventus
+2002,2,Gustavo Méndez,URU,D,"5'09""",11 07,03-02-71,Montevideo,Nacional [URU]
+2002,3,Alejandro Lembo,URU,D,6'00'',12 01,15-02-78,Montevideo,Nacional [URU]
+2002,4,Paolo Montero,URU,D,"5'10""",11 09,03-09-71,Montevideo,Juventus
+2002,5,Pablo García,URU,M,6'00'',12 01,13-05-77,Pando,Venezia
+2002,6,Dario Rodriguez,URU,D,6'02'',12 13,17-09-74,Montevideo,Peñarol
+2002,7,Gianni Guigou,URU,M,"5'10""",11 00,22-02-75,Nueva Palmira,Roma
+2002,8,Gustavo Varela,URU,M,5'08'',11 09,14-05-78,Las Flores,Nacional [URU]
+2002,9,Darío Silva,URU,F,5'10'',11 07,02-11-72,Treinta y Tres,Málaga
+2002,10,Fabian O'Neill,URU,F,"6'01""",12 08,14-10-73,Paso de los Toros,Perugia
+2002,11,Federico Magallanes,URU,F,"6'00""",12 13,22-08-76,Montevideo,Venezia
+2002,12,Gustavo Munúa,URU,G,6'02'',13 10,27-01-78,Montevideo,Nacional [URU]
+2002,13,Sebastián Abreu,URU,F,"6'04""",13 03,17-10-76,Minas Lavalleja,Cruz Azul
+2002,14,Gonzalo Sorondo,URU,D,"6'03""",12 08,09-10-79,Montevideo,Internazionale
+2002,15,Nicolás Olivera,URU,M,"5'05""",10 10,30-05-78,Montevideo,Sevilla
+2002,16,Marcelo Romero,URU,M,5'09'',11 07,04-07-76,Montevideo,Málaga
+2002,17,Mario Regueiro,URU,F,5'09'',12 00,14-09-78,Montevideo,Racing Santander
+2002,18,Richard Morales,URU,F,6'05'',13 10,21-02-75,Montevideo,Nacional [URU]
+2002,19,Joe Bizera,URU,D,"5'11""",12 13,17-05-80,Artigas,Peñarol
+2002,20,Álvaro Recoba,URU,F,"5'10""",12 06,13-03-76,Montevideo,Internazionale
+2002,21,Diego Forlan,URU,F,"5'08""",11 11,19-05-79,Montevideo,Manchester U
+2002,22,Gonzalo De Los Santos,URU,M,6'02'',12 13,19-07-76,Salto,Valencia
+2002,23,Federico Elduayén,URU,G,"5'11""",12 08,11-08-80,,Peñarol
+2002,1,Jose-Luis Chilavert,PAR,G,"6'02""",14 09,26-07-65,Luque,Strasbourg
+2002,2,Francisco Arce,PAR,D,"5'10""",12 00,02-04-71,Ñuati,Palmeiras
+2002,3,Pedro Sarabia,PAR,D,"6'00""",12 08,05-07-77,Asunción,River Plate
+2002,4,Carlos Gamarra,PAR,D,"5'11""",11 11,17-07-71,Capiata,AEK
+2002,5,Celso Ayala,PAR,D,"6'01""",12 13,20-08-70,Resistencia,River Plate
+2002,6,Estanislao Struway,PAR,M,"5'09""",11 11,25-06-68,,Libertad
+2002,7,Richart Báez,PAR,F,"5'11""",13 05,31-07-73,,Olimpia [PAR]
+2002,8,Guido Alvarenga,PAR,M,"5'07""",11 07,24-08-70,,León
+2002,9,Roque Santa Cruz,PAR,F,6'02'',12 08,16-08-81,Asunción,Bayern Munich
+2002,10,Roberto Acuña,PAR,M,5'09'',12 04,25-03-72,Avellaneda,Real Zaragoza
+2002,11,Jorge Campos,PAR,F,"5'09""",11 00,11-08-72,,Universidad Católica
+2002,12,Justo Villar,PAR,G,"5'11""",12 06,30-06-77,Cerrito,Libertad
+2002,13,Carlos Paredes,PAR,M,"5'10""",12 04,16-07-76,Asunción,FC Porto
+2002,14,Diego Gavilán,PAR,M,"5'08""",10 07,01-03-80,Asunción,UAG Tecos
+2002,15,Carlos Bonet,PAR,M,"5'09""",12 01,02-10-77,Asunción,Libertad
+2002,16,Gustavo Morínigo,PAR,M,"5'10""",11 11,23-01-77,Asunción,Libertad
+2002,17,Juan Carlos Franco,PAR,D,"6'00""",12 13,25-04-73,Asunción,Olimpia [PAR]
+2002,18,Julio César Cáceres,PAR,D,"5'11""",12 04,05-10-79,San José dos Arroyos,Olimpia [PAR]
+2002,19,Daniel Sanabria,PAR,D,"6'00""",13 03,08-02-77,Buenos Aires,Libertad
+2002,20,José Cardozo,PAR,F,"5'08""",12 04,19-09-71,Nueva Italia,Toluca
+2002,21,Denis Caniza,PAR,D,"5'09""",11 00,29-08-74,Bella Vista,Santos
+2002,22,Ricardo Tavarelli,PAR,G,"6'00""",12 08,02-08-70,Asunción,Olimpia [PAR]
+2002,23,Nelson Cuevas,PAR,F,"5'08""",09 13,10-01-80,Asunción,River Plate
+2002,1,Marko Simeunovič,SVN,G,"6'03""",12 13,06-12-67,Maribor,Maribor
+2002,2,Goran Sankovič,SVN,D,"6'01""",12 08,18-06-79,,Slavia Prague
+2002,3,Željko Milinovič,SVN,D,"6'02""",13 08,12-01-69,Ljubljana,JEF United
+2002,4,Muamer Vugdalič,SVN,D,"6'03""",12 04,25-08-77,,Maribor
+2002,5,Marinko Galič,SVN,D,"5'09""",11 07,22-04-70,Koper,Koper
+2002,6,Aleksander Knavs,SVN,D,6'03'',13 12,05-12-75,Maribor,Kaiserslautern
+2002,7,Džoni Novak,SVN,M,"5'08""",11 07,04-09-69,Ljubljana,Unterhaching
+2002,8,Aleš Čeh,SVN,M,"5'09""",11 00,22-07-80,Maribor,Grazer AK
+2002,9,Milan Osterc,SVN,F,"5'11""",11 07,17-10-79,Sakarya,Hapoel Tel-Aviv
+2002,10,Zlatko Zahovič,SVN,M,5'11'',12 00,01-02-71,Kovinar,Benfica
+2002,11,Miran Pavlin,SVN,M,"6'02""",12 06,08-10-71,Murska Sobota,FC Porto
+2002,12,Mladen Dabanovič,SVN,G,"6'05""",14 11,13-09-71,,Lokeren
+2002,13,Mladen Rudonja,SVN,F,"5'09""",11 02,26-07-71,Koper,Portsmouth
+2002,14,Saša Gajser,SVN,M,"5'10""",11 11,11-02-74,,KAA Gent
+2002,15,Rajko Tavčar,SVN,M,5'11'',11 09,21-07-74,Kranj,Nürnberg
+2002,16,Senad Tiganj,SVN,F,"5'10""",12 01,28-08-75,Ljubljana,Olimpija Ljubljana
+2002,17,Zoran Pavlovič,SVN,M,"6'03""",12 00,27-06-76,Tuzla,Austria Vienna
+2002,18,Milenko Ačimovič,SVN,M,"6'01""",12 08,15-02-77,Ljubljana,Crvena Zvezda
+2002,19,Amir Karič,SVN,M,"5'11""",12 08,31-12-73,Orahovica Donja,Maribor
+2002,20,Nastja Čeh,SVN,M,"5'11""",11 11,26-01-78,Ptuj,Club Brugge
+2002,21,Sebastjan Cimirotič,SVN,F,"6'00""",11 09,14-09-74,Ljubljana,Lecce
+2002,22,Dejan Nemec,SVN,G,"6'00""",13 10,01-03-77,Murska Sobota,Club Brugge
+2002,23,Spasoje Bulajič,SVN,D,"6'02""",12 13,24-11-75,Slovenj Gradec,Köln
+2002,1,Hans Vonk,RSA,G,"6'05""",12 13,30-01-70,Alberton,Heerenveen
+2002,2,Cyril Nzama,RSA,D,"6'00""",11 11,26-06-74,Pimville,Kaizer Chiefs
+2002,3,Bradley Carnell,RSA,D,5'09'',11 00,22-01-77,Johannesburg,Stuttgart
+2002,4,Aaron Mokoena,RSA,D,"6'02""",12 06,25-11-80,Johannesburg,Germinal Beerschot
+2002,5,Jacob Lekgetho,RSA,D,"5'08""",12 01,25-03-74,Soweto,Lokomotiv Moscow
+2002,6,Macbeth Sibaya,RSA,M,"5'09""",12 06,25-11-77,Durban,Jomo Cosmos
+2002,7,Quinton Fortune,RSA,M,"5'11""",11 11,21-05-77,Cape Town,Manchester U
+2002,8,Thabo Mngomeni,RSA,M,"5'07""",13 01,24-06-69,,Orlando Pirates
+2002,9,MacDonald Mukasi,RSA,M,"5'09""",11 07,26-05-75,,Lokomotiv Plovdiv
+2002,10,Bennett Mnguni,RSA,M,"5'11""",12 00,18-03-74,Refiloe,Lokomotiv Moscow
+2002,11,Jabu Pule,RSA,M,"5'06""",10 08,11-07-80,Benoni,Kaizer Chiefs
+2002,12,Teboho Mokoena,RSA,M,"5'10""",11 05,10-07-74,Thokoza,St Gallen
+2002,13,Pierre Issa,RSA,D,"6'05""",13 05,11-09-75,Johannesburg,Watford
+2002,14,Siyabonga Nomvethe,RSA,F,"5'10""",11 07,02-12-77,Durban,Udinese
+2002,15,Sibusiso Zuma,RSA,M,"5'11""",11 03,23-06-75,Mpumalanga,FC København
+2002,16,Andre Arendse,RSA,G,"6'03""",11 09,27-06-67,Cape Town,Santos [RSA]
+2002,17,Benni McCarthy,RSA,F,6'00'',12 08,11-12-77,Ciudad de Cabo,FC Porto
+2002,18,Delron Buckley,RSA,M,5'09'',11 07,07-12-77,Durban,Bochum
+2002,19,Lucas Radebe,RSA,D,"6'01""",12 04,12-04-69,Johannesburg,Leeds U
+2002,20,Calvin Marlin,RSA,G,"6'00""",12 08,20-04-76,Port Elizabeth,Ajax Cape Town
+2002,21,Steven Pienaar,RSA,M,"5'09""",10 06,17-03-82,Johannesburg,Ajax
+2002,22,Thabang Molefe,RSA,D,"5'10""",12 03,11-04-79,Potchefsproom,Jomo Cosmos
+2002,23,George Koumantarakis,RSA,F,6'04'',13 03,27-03-74,Athens,Basel
+2002,1,Iker Casillas,ESP,G,6'01'',11 00,20-05-81,San Sebastián,Real Madrid
+2002,2,Curro Torres,ESP,D,5'11'',12 00,27-12-76,Ahlen,Valencia
+2002,3,Juanfran,ESP,D,6'00'',12 04,15-07-76,Valencia,Celta Vigo
+2002,4,Ivan Helguera,ESP,M,6'01'',11 07,28-03-75,Santander,Real Madrid
+2002,5,Carlos Puyol,ESP,D,5'10'',12 04,13-04-78,Lleida,Barcelona
+2002,6,Fernando Hierro,ESP,D,"6'02""",13 03,23-03-68,Velez,Real Madrid
+2002,7,Raúl,ESP,F,5'11'',10 06,27-06-77,Madrid,Real Madrid
+2002,8,Rubén Baraja,ESP,M,5'11'',11 11,11-07-75,Valladolid,Valencia
+2002,9,Fernando Morientes,ESP,F,6'00'',12 04,05-04-76,Caceres,Real Madrid
+2002,10,Diego Tristán,ESP,F,6'01'',12 06,05-01-76,La Algaba,Deportivo La Coruña
+2002,11,Francisco De Pedro,ESP,M,5'11'',12 00,04-08-73,Logroño,Real Sociedad
+2002,12,Alberto Luque,ESP,F,6'00'',12 08,11-03-78,Barcelona,Mallorca
+2002,13,Ricardo,ESP,G,6'02'',13 12,30-12-71,Madrid,Valladolid
+2002,14,David Albelda,ESP,M,5'11'',11 11,01-09-77,Alzira,Valencia
+2002,15,Enrique Romero,ESP,D,6'00'',12 06,23-06-71,Jerez de la Frontera,Deportivo La Coruña
+2002,16,Gaizka Mendieta,ESP,M,"5'08""",10 12,27-03-74,Bilbao,Lazio
+2002,17,Juan Carlos Valerón,ESP,M,5'11'',11 05,17-06-75,Las Palmas,Deportivo La Coruña
+2002,18,Sergio Gonzalez,ESP,M,5'10'',11 07,10-11-76,Barcelona,Deportivo La Coruña
+2002,19,Xavi,ESP,M,5'07'',10 10,25-01-80,Barcelona,Barcelona
+2002,20,Miguel Angel Nadal,ESP,D,6'02'',13 01,28-07-66,Manacor,Mallorca
+2002,21,Luis Enrique,ESP,M,5'11'',11 07,08-05-70,Gijón,Barcelona
+2002,22,Joaquín,ESP,M,5'10'',11 11,21-07-81,Puerto de Santa Maria,Betis
+2002,23,Pedro Contreras,ESP,G,5'11'',12 08,07-01-72,Madrid,Málaga
+2002,1,Marcos,BRA,G,"6'04""",13 08,04-08-73,,Palmeiras
+2002,2,Cafu,BRA,D,"5'09""",11 11,07-06-70,São Paulo,Roma
+2002,3,Lúcio,BRA,D,6'02'',12 13,08-05-78,Brasília,Bayer Leverkusen
+2002,4,Roque Junior,BRA,D,"6'02""",11 07,31-08-76,Santa Rita,Milan
+2002,5,Edmilson,BRA,D,"6'01""",11 11,10-07-76,Taguaritinga,Lyon
+2002,6,Roberto Carlos,BRA,D,5'06'',11 00,10-04-73,Garca,Real Madrid
+2002,7,Emerson,BRA,M,"6'00""",13 03,04-04-76,Pelotas,Roma
+2002,8,Gilberto Silva,BRA,M,6'03'',12 02,07-10-76,Lagoa da Prata,Atlético Mineiro
+2002,9,Ronaldo,BRA,F,"6'00""",12 13,22-09-76,Bento Ribeiro,Internazionale
+2002,10,Rivaldo,BRA,M,"6'01""",11 11,19-04-72,Recife,Barcelona
+2002,11,Ronaldinho,BRA,M,5'09'',11 03,21-03-80,Porto Alegre,Paris St-Germain
+2002,12,Dida,BRA,G,"6'05""",13 05,07-10-73,Irarà,Corinthians
+2002,13,Belletti,BRA,D,5'09'',10 12,20-06-76,Casacvel,São Paulo
+2002,14,Anderson Polga,BRA,D,6'00'',11 07,09-02-79,Santiago,Grêmio
+2002,15,Kleberson,BRA,M,"5'09""",10 06,19-06-79,Urai,Atlético Paranaense
+2002,16,Junior,BRA,D,"5'07""",09 13,20-06-73,,Parma
+2002,17,Denilson,BRA,F,"5'09""",10 06,24-08-77,São Bernardo,Betis
+2002,18,Vampeta,BRA,M,"6'00""",12 04,13-03-74,Nazare Das Farinhas,Corinthians
+2002,19,Juninho Paulista,BRA,M,"5'05""",09 06,22-02-73,São Paolo,Flamengo
+2002,20,Edilson,BRA,F,"6'01""",11 07,17-09-70,,Cruzeiro
+2002,21,Luizão,BRA,F,5'10'',12 00,14-11-75,Rubineia,Grêmio
+2002,22,Rogério Ceni,BRA,G,"6'02""",13 05,22-01-73,Pato Branco,São Paulo
+2002,23,Kaká,BRA,M,"6'01""",11 07,22-04-82,Brasília,São Paulo
+2002,1,An Qi,CHN,G,"6'04""",14 02,21-06-81,Dalian,Dalian Shide
+2002,2,Zhang Enhua,CHN,D,"6'00""",13 12,28-04-73,Dalian,Dalian Shide
+2002,3,Pu Yang,CHN,D,"5'10""",11 07,30-03-78,,Beijing Guoan
+2002,4,Wu Chengying,CHN,D,"6'00""",12 04,21-04-75,Shanghai,Shanghai Shenhua
+2002,5,Fan Zhiyi,CHN,D,"6'00""",12 01,22-01-70,Shanghai,Dundee U
+2002,6,Jiayi Shao,CHN,M,6'02'',12 04,10-04-80,Beijing,Beijing Guoan
+2002,7,Sun Jihai,CHN,D,"5'10""",10 07,30-09-77,Dalian,Dalian Shide
+2002,8,Li Tie,CHN,M,"6'00""",11 10,18-09-77,Liaoning,Liaoning
+2002,9,Mingyu Ma,CHN,M,"5'09""",11 09,10-08-72,,Sichuan
+2002,10,Hao Haidong,CHN,F,"5'11""",11 00,09-05-70,Qingdao,Dalian Shide
+2002,11,Yu Genwei,CHN,M,"5'11""",11 09,07-01-74,,Tianjin Teda
+2002,12,Su Maozhen,CHN,F,"6'01""",12 08,30-07-72,,Shandong Luneng
+2002,13,Gao Yao,CHN,M,"6'01""",12 08,13-07-78,,Shandong Luneng
+2002,14,Li Weifeng,CHN,D,"6'00""",11 11,01-12-78,Shenzhen,Shenzhen Pingan
+2002,15,Zhao Junzhe,CHN,M,"5'11""",11 05,18-04-79,,Beijing Guoan
+2002,16,Qu Bo,CHN,F,"6'00""",11 07,15-07-81,Tianjin,Qingdao Hainiu
+2002,17,Du Wei,CHN,D,"6'02""",12 03,09-02-82,Luoyang,Shanghai Shenhua
+2002,18,Li Xiaopeng,CHN,M,"6'00""",12 00,05-11-76,Qingdao,Shandong Luneng
+2002,19,Qi Hong,CHN,M,"5'10""",11 05,03-06-76,Shanghai,Shanghai Zhongyuan
+2002,20,Chen Yang,CHN,F,"6'01""",12 06,17-01-74,Beijing,Eintracht Frankfurt
+2002,21,Xu Yunlong,CHN,D,"5'11""",12 08,17-02-79,Beijing,Beijing Guoan
+2002,22,Jin Jiang,CHN,G,"6'06""",13 10,07-10-69,,Tianjin Teda
+2002,23,Chuliang Ou,CHN,G,"5'11""",11 05,26-08-68,,Yunnan Hongta
+2002,1,Erick Lonnis,CRC,G,"6'00""",12 00,09-09-65,,Deportivo Saprissa
+2002,2,Jervis Drummond,CRC,D,"5'08""",11 07,08-09-76,Limón,Deportivo Saprissa
+2002,3,Luis Antonio Marín,CRC,D,"5'10""",12 04,10-08-74,San José,Alajuelense
+2002,4,Mauricio Wright,CRC,D,"6'02""",12 07,20-12-70,San José,Herediano
+2002,5,Gilberto Martinez,CRC,D,"5'09""",11 05,01-10-79,Golfito,Deportivo Saprissa
+2002,6,Wilmer López,CRC,M,"5'08""",10 10,03-08-71,,Alajuelense
+2002,7,Rolando Fonseca,CRC,F,"5'08""",11 00,06-06-74,San José,Deportivo Saprissa
+2002,8,Mauricio Solis,CRC,M,"5'08""",12 00,13-12-72,San José,Alajuelense
+2002,9,Paulo Wanchope,CRC,F,"6'03""",12 08,31-07-76,Heredia,Manchester C
+2002,10,Walter Centeno,CRC,M,"5'09""",11 00,06-10-74,San José,Deportivo Saprissa
+2002,11,Ronald Gómez,CRC,F,"6'01""",14 00,24-01-75,Puntarenas,OFI
+2002,12,Winston Parks,CRC,F,"6'00""",12 01,12-10-81,Limonence,Udinese
+2002,13,Daniel Vallejos,CRC,M,"5'09""",11 05,27-05-81,,Herediano
+2002,14,Jose Rodríguez,CRC,D,"5'10""",12 00,23-06-67,,San Carlos
+2002,15,Harold Wallace,CRC,D,"5'09""",11 09,07-09-75,San José,Alajuelense
+2002,16,Steven Bryce,CRC,F,"5'07""",11 07,16-08-77,,Alajuelense
+2002,17,Hernán Medford,CRC,F,"5'09""",12 04,23-05-68,San José,Deportivo Saprissa
+2002,18,Alvaro Mesén,CRC,G,"5'11""",12 08,24-12-72,Alajuela,Alajuelense
+2002,19,Rodrigo Cordero,CRC,M,"5'08""",12 00,04-12-73,,Herediano
+2002,20,William Sunsing,CRC,F,"5'10""",11 11,12-05-77,San José,Herediano
+2002,21,Pablo Chinchilla,CRC,D,"6'01""",13 01,21-12-78,San José,Alajuelense
+2002,22,Carlos Castro,CRC,D,"5'08""",10 01,10-09-78,,Alajuelense
+2002,23,Lester Morgan,CRC,G,,,02-05-76,Villanueva de Santa,Herediano
+2002,1,Rüştü Reçber,TUR,G,6'01'',12 00,10-05-73,Antalya,Fenerbahçe
+2002,2,Emre Aşik,TUR,D,"6'00""",12 04,13-12-73,Bura,Galatasaray
+2002,3,Bülent Korkmaz,TUR,D,"5'11""",12 08,24-11-68,Malatya,Galatasaray
+2002,4,Fatih Akyel,TUR,D,"5'11""",12 06,26-12-77,Tekirdag,Fenerbahçe
+2002,5,Ozalan Alpay,TUR,D,"6'02""",14 00,29-05-73,Izmir,Aston Villa
+2002,6,Arif Erdem,TUR,F,"5'10""",11 05,02-01-72,Istanbul,Galatasaray
+2002,7,Okan Buruk,TUR,M,"5'07""",10 12,19-10-73,Istanbul,Internazionale
+2002,8,Tugay Kerimoğlu,TUR,M,"5'11""",11 00,24-08-70,Istanbul,Blackburn R
+2002,9,Hakan Şükür,TUR,F,"6'02""",12 01,01-09-71,Adapazarı,Parma
+2002,10,Yildiray Bastürk,TUR,M,5'06'',10 03,24-12-78,Bochum,Bayer Leverkusen
+2002,11,Hasan Şaş,TUR,F,"5'10""",11 09,01-08-76,Adana,Galatasaray
+2002,12,Ömer Çatkiç,TUR,G,"5'08""",11 00,15-10-74,Eskişehir,Gaziantepspor
+2002,13,Muzzy Izzet,TUR,M,"5'10""",11 02,31-10-74,Mile End,Leicester C
+2002,14,Tayfur Havutçu,TUR,M,"5'11""",11 11,23-04-70,Hanav,Beşiktaş
+2002,15,Nihat Kahveci,TUR,F,5'09'',11 03,23-11-79,Istanbul,Real Sociedad
+2002,16,Ümit Özat,TUR,D,"5'09""",11 05,30-10-76,Ankara,Fenerbahçe
+2002,17,Ilhan Mansiz,TUR,F,"6'00""",12 06,10-08-75,Munich,Beşiktaş
+2002,18,Ergün Penbe,TUR,M,"5'09""",10 10,17-05-72,Zonguldak,Galatasaray
+2002,19,Abdullah Ercan,TUR,M,"6'00""",12 00,08-12-71,Istanbul,Fenerbahçe
+2002,20,Hakan Ünsal,TUR,D,"5'10""",13 01,14-05-73,Sinop,Blackburn R
+2002,21,Emre Belözoğlu,TUR,M,"5'07""",10 10,07-09-80,Istanbul,Internazionale
+2002,22,Ümit Davala,TUR,M,6'01'',11 09,30-07-73,Mannheim,Milan
+2002,23,Zafer Özgültekin,TUR,G,"6'00""",11 07,10-03-76,Kangal,Ankaragücü
+2002,1,Jerzy Dudek,POL,G,6'02'',12 08,23-03-73,Rybnik,Liverpool
+2002,2,Tomasz Klos,POL,D,6'01'',11 07,07-03-73,Zgierz,Kaiserslautern
+2002,3,Jacek Zielinski,POL,D,"6'00""",12 08,10-10-67,Wierzbica,Legia Warszawa
+2002,4,Michal Zewlakow,POL,D,"6'00""",12 01,22-04-76,Warsaw,Excelsior Mouscron
+2002,5,Tomasz Rzasa,POL,M,"5'11""",12 00,11-03-73,Kraków,Feyenoord
+2002,6,Tomasz Hajto,POL,D,6'02'',12 11,16-10-72,Makow Podhalanski,Schalke
+2002,7,Piotr Świerczewski,POL,M,"5'11""",13 05,08-04-72,Nowy Sącz,Marseille
+2002,8,Cezary Kucharski,POL,F,"5'11""",11 09,17-02-72,Łuków,Legia Warszawa
+2002,9,Paweł Kryszałowicz,POL,F,"6'00""",12 08,23-06-74,Słupsk,Eintracht Frankfurt
+2002,10,Radoslaw Kaluzny,POL,M,6'04'',13 01,02-02-74,Warsaw,Energie Cottbus
+2002,11,Emmanuel Olisadebe,POL,F,"5'11""",11 00,22-12-78,Warri,Panathinaikos
+2002,12,Radosław Majdan,POL,G,"6'01""",12 06,10-05-72,Szczecin,Goztepspor
+2002,13,Arkadiusz Głowacki,POL,D,"6'01""",12 04,13-03-79,Poznań,Wisła Kraków
+2002,14,Marcin Żewłakow,POL,F,"6'00""",12 04,22-04-76,Warsaw,Excelsior Mouscron
+2002,15,Tomasz Waldoch,POL,D,6'02'',13 01,10-05-71,Gdansk,Schalke
+2002,16,Maciej Murawski,POL,M,"6'00""",12 08,20-02-74,Zielona Gòra,Legia Warszawa
+2002,17,Arkadiusz Bąk,POL,M,"5'09""",12 13,06-10-74,Stargard Szczeciński,Widzew Łodz
+2002,18,Jacek Krzynówek,POL,M,5'11'',11 07,15-05-76,Kamiensk,Nürnberg
+2002,19,Maciej Żurawski,POL,F,"5'11""",12 00,12-09-76,Poznań,Wisła Kraków
+2002,20,Jacek Bąk,POL,D,"6'01""",12 03,24-03-73,Poznań,Lens
+2002,21,Marek Kozminski,POL,M,"5'10""",11 11,07-02-71,Krakov,Ancona
+2002,22,Adam Matysek,POL,G,"6'02""",13 01,01-09-68,Piekary Slaskie,Radomsko
+2002,23,Pawel Sibik,POL,M,"5'11""",11 09,15-02-71,Niemcza,Odra Wodzisław
+2002,1,Vitor Baia,POR,G,6'01'',12 08,15-10-69,São Pedro da Afurada,FC Porto
+2002,2,Jorge Costa,POR,D,6'02'',13 08,14-10-71,Oporto,FC Porto
+2002,3,Abel Xavier,POR,D,"6'02""",13 06,30-11-72,Nampula,Liverpool
+2002,4,Marco Caneira,POR,D,"5'10""",11 11,09-02-79,Sintra,Benfica
+2002,5,Manuel Fernando Couto,POR,D,"6'00""",13 03,02-08-69,Espinho,Lazio
+2002,6,Paulo Sousa,POR,M,"5'10""",12 00,30-08-70,Viseu,Espanyol
+2002,7,Luis Figo,POR,F,5'11'',11 11,04-11-72,Lisbon,Real Madrid
+2002,8,Joao Pinto,POR,F,5'07'',10 08,19-08-71,Oporto,Sporting CP
+2002,9,Pauleta,POR,F,"5'10""",12 03,28-04-73,Ponta Delgada,Bordeaux
+2002,10,Rui Costa,POR,M,"5'11""",11 09,29-03-72,Lisbon,Milan
+2002,11,Sérgio Conceição,POR,F,"5'10""",12 13,15-11-74,Coimbra,Internazionale
+2002,12,Hugo Viana,POR,M,"5'09""",11 09,15-01-83,Barcelos,Sporting CP
+2002,13,Jorge Andrade,POR,D,6'00'',11 07,09-04-78,Lisbon,FC Porto
+2002,14,Pedro Barbosa,POR,M,6'00'',12 08,06-08-70,Gondomar,Sporting CP
+2002,15,Nélson,POR,G,6'02'',12 01,20-10-75,Torres Vedras,Sporting CP
+2002,16,Ricardo Pereira,POR,G,6'01'',12 08,11-02-76,Montijo,Boavista
+2002,17,Paulo Bento,POR,M,5'09'',11 05,20-06-69,Lisbon,Sporting CP
+2002,18,Nuno Miguel Fréchaut,POR,D,6'00'',12 00,24-09-77,Lisbon,Boavista
+2002,19,Nuno Capucho,POR,F,"5'11""",12 04,21-02-72,Barcelos,FC Porto
+2002,20,Armando Petit,POR,M,5'10'',10 10,25-09-76,Strasbourg,Boavista
+2002,21,Nuno Gomez,POR,F,"5'11""",11 05,05-07-76,Amarante,Fiorentina
+2002,22,Beto,POR,D,6'01'',12 13,03-05-76,Lisbon,Sporting CP
+2002,23,Rui Jorge,POR,D,5'08'',12 01,27-03-73,Vila Nova de Gaia,Sporting CP
+2002,1,Lee Woon-Jae,KOR,G,"6'00""",12 13,26-04-73,Jeonju,Gwangju Sangmu
+2002,2,Hyun Young-Min,KOR,D,"5'10""",11 07,25-12-79,,Ulsan Hyundai Horang-i
+2002,3,Choi Sung-Yong,KOR,M,"5'08""",11 00,15-12-75,,Suwon Samsung Bluewings
+2002,4,Choi Jin-Cheul,KOR,D,"6'02""",12 01,26-03-71,Jeju,Jeonbuk Hyundai Motors
+2002,5,Kim Nam-Il,KOR,M,"6'00""",12 00,14-03-77,Seoul,Chunnam Dragons
+2002,6,Yoo Sang-Chul,KOR,M,"6'00""",12 04,18-10-71,,Kashiwa Reysol
+2002,7,Kim Tae-Young,KOR,D,"5'11""",11 07,08-11-70,,Chunnam Dragons
+2002,8,Choi Tae-Uk,KOR,F,"5'08""",10 08,13-03-81,,Anyang LG Cheetahs
+2002,9,Seol Ki-Hyeon,KOR,F,"6'00""",11 07,08-01-79,Jeongseon,Anderlecht
+2002,10,Lee Young-Pyo,KOR,M,"5'09""",10 06,23-04-77,Hongcheon,Anyang LG Cheetahs
+2002,11,Choi Yong-Soo,KOR,F,"6'00""",12 06,10-09-73,Busan,JEF United
+2002,12,Kim Byung-Ji,KOR,G,"6'00""",12 02,08-04-70,Masan,Pohang Steelers
+2002,13,Lee Eul-Yong,KOR,M,"5'09""",10 12,08-09-75,Taebaek,Bucheon SK
+2002,14,Lee Chun-Soo,KOR,F,"5'09""",10 03,09-07-81,Incheon,Ulsan Hyundai Horang-i
+2002,15,Lee Min-Sung,KOR,D,"6'00""",11 07,23-06-73,,Busan I'cons
+2002,16,Cha Du-Ri,KOR,F,"6'00""",10 03,25-07-80,Frankfurt am Main,Korea Univ.
+2002,17,Yoon Jong-Hwan,KOR,M,"5'08""",09 13,16-02-73,,Cerezo Osaka
+2002,18,Hwang Sun-Hong,KOR,F,"6'00""",12 06,14.07-68,,Kashiwa Reysol
+2002,19,Ahn Jung-Hwan,KOR,M,"5'10""",12 04,27-01-76,Qungiadi,Perugia
+2002,20,Hong Myung-Bo,KOR,D,"5'11""",11 07,12-02-69,Seoul,Pohang Steelers
+2002,21,Park Ji-Sung,KOR,M,"5'09""",11 00,25-02-81,Suwon,Kyoto Purple Sanga
+2002,22,Song Chong-Gug,KOR,M,"5'10""",11 11,20-02-79,Busan,Busan I'cons
+2002,23,Choi Eun-Sung,KOR,G,"6'00""",12 13,05-04-71,,Daejeon Citizen
+2002,1,Brad Friedel,USA,G,"6'03""",14 00,18-05-71,Lakewood,Blackburn R
+2002,2,Frankie Hejduk,USA,D,"5'08""",11 01,05-08-74,La Mesa,Bayer Leverkusen
+2002,3,Gregg Berhalter,USA,D,6'01'',12 05,01-08-73,Eaglewood,Crystal Palace
+2002,4,Pablo Mastroeni,USA,D,5'10'',12 02,29-08-76,Mendoza,Colorado Rapids
+2002,5,John O’Brien,USA,M,"5'10""",11 07,29-08-77,Los Angeles,Ajax Amsterdam
+2002,6,David Régis,USA,D,"5'10""",11 05,02-12-68,La Trinitie,Metz
+2002,7,Eddie Lewis,USA,M,"5'09""",11 12,17-05-74,California,Fulham
+2002,8,Earnie Stewart,USA,M,5'09'',11 08,28-03-69,Veghel,NAC Breda
+2002,9,Joe Max-Moore,USA,F,"5'08""",11 06,23-02-71,Tulsa,Everton
+2002,10,Claudio Reyna,USA,M,"5'09""",11 09,20-07-73,New Jersey,Sunderland
+2002,11,Clint Mathis,USA,F,5'10'',12 02,25-11-76,Conyers,NY/NJ MetroStars
+2002,12,Jeff Agoos,USA,D,5'10'',12 07,02-05-68,Geneva,San Jose Earthquakes
+2002,13,Cobi Jones,USA,M,5'07'',10 05,16-06-70,Detroit,Los Angeles Galaxy
+2002,14,Steven Cherundolo,USA,D,5'07'',10 12,19-02-79,Rockford,Hannover 96
+2002,15,Josh Wolff,USA,F,5'08'',11 06,25-02-77,Stone Mountain,Chicago Fire
+2002,16,Carlos Llamosa,USA,D,5'11'',11 12,30-06-69,Palmira,New England Revolution
+2002,17,DaMarcus Beasley,USA,M,5'07'',09 00,24-05-82,Fort Wayne,Chicago Fire
+2002,18,Kasey Keller,USA,G,6'02'',13 12,27-11-69,Washington,Tottenham H
+2002,19,Tony Meola,USA,G,6'01'',14 09,21-02-69,Belleville,Kansas City Wizards
+2002,20,Brian McBride,USA,F,6'01'',12 02,19-06-72,Arlington Heights,Columbus Crew
+2002,21,Landon Donovan,USA,M,5'08'',10 08,04-03-82,Ontario,San Jose Earthquakes
+2002,22,Anthony Sanneh,USA,D,6'02'',13 08,01-06-71,Minnesota,Nürnberg
+2002,23,Eddie Pope,USA,D,6'00'',12 07,24-12-73,High Point,DC United
+2002,1,Boukar Alioum,CMR,G,"5'11""",12 00,03-01-72,,Samsunspor
+2002,2,Bill Tchato,CMR,D,5'09'',11 11,14-05-74,M'Biam,Montpellier
+2002,3,Pierre Wome,CMR,D,"5'11""",12 04,26-03-79,Douala,Bologna
+2002,4,Rigobert Song,CMR,D,"6'00""",11 13,01-07-76,Nkanglicock,Köln
+2002,5,Raymond Kalla,CMR,D,"6'04""",14 00,24-04-75,Douala,Extremadura
+2002,6,Pierre Njanka,CMR,D,"5'11""",13 00,15-03-75,Douala,Strasbourg
+2002,7,Joseph Ndo,CMR,F,"5'11""",11 11,28-04-76,Yaoundé,Al Khalees
+2002,8,Gérémi,CMR,D,"5'11""",12 04,20-12-78,Bafoussam,Real Madrid
+2002,9,Samuel Eto'o,CMR,F,5'11'',11 11,10-03-81,Nkon,Mallorca
+2002,10,Patrick Mboma,CMR,F,"6'01""",13 06,15-11-70,Douala,Sunderland
+2002,11,Pius N'Diefi,CMR,F,"5'08""",11 09,05-07-75,Douala,Sedan
+2002,12,Lauren Mayer,CMR,M,"5'11""",11 03,19-01-77,Les Ulysses,Arsenal
+2002,13,Lucien Mettomo,CMR,D,"6'00""",12 00,19-04-77,Douala,Manchester C
+2002,14,Joël Epalle,CMR,M,"5'09""",12 08,20-02-78,Yaoundé,Panahaiki
+2002,15,Nicolas Alnoudji,CMR,M,"6'00""",12 08,09-12-79,Garoua,Rizespor
+2002,16,Jacques Songo'o,CMR,G,"6'00""",12 08,17-03-64,Sakbayenne,Metz
+2002,17,Marc-Vivien Foe,CMR,M,6'03'',13 03,01-05-75,Yaounde,Lyon
+2002,18,Patrick Suffo,CMR,F,"5'11""",13 05,17-01-78,Ebolowa,Sheffield U
+2002,19,Eric Djemba Djemba,CMR,F,"5'09""",12 00,04-05-81,Douala,Nantes
+2002,20,Salomon Olembe,CMR,D,"5'07""",10 06,08-12-80,Yaoundé,Marseille
+2002,21,Joseph-Desire Job,CMR,F,"6'01""",11 00,01-12-77,Venissieux,Metz
+2002,22,Idriss Carlos Kameni,CMR,G,"6'00""",12 03,18-02-84,Douala,Le Havre
+2002,23,Daniel Armand N'Kome,CMR,M,5'08'',10 12,17-05-80,Bangou,Numancia
+2002,1,Oliver Kahn,GER,G,6'02'',14 02,15-06-69,Karlsruhe,Bayern Munich
+2002,2,Thomas Linke,GER,D,6'00'',12 06,26-12-69,Sömmerda,Bayern Munich
+2002,3,Marko Rehmer,GER,D,6'02'',13 05,29-04-72,Berlin,Hertha Berlin
+2002,4,Frank Baumann,GER,D,6'02'',12 06,29-10-75,Würzburg,Werder Bremen
+2002,5,Carsten Ramelow,GER,M,6'01'',12 13,20-03-74,Berlin,Bayer Leverkusen
+2002,6,Christian Ziege,GER,D,"6'02""",12 13,01-02-72,Berlin,Tottenham H
+2002,7,Oliver Neuville,GER,F,5'07'',10 01,01-05-73,Locarno,Bayer Leverkusen
+2002,8,Dietmar Hamman,GER,M,"6'03""",12 06,27-08-73,Waldsasson,Liverpool
+2002,9,Carsten Jancker,GER,F,"6'04""",14 09,28-08-74,Wismar,Bayern Munich
+2002,10,Lars Ricken,GER,M,5'10'',11 05,10-07-76,Dortmund,Borussia Dortmund
+2002,11,Miroslav Klose,GER,F,6'00'',12 04,09-06-78,Oppeln,Kaiserslautern
+2002,12,Jens Lehmann,GER,G,"6'02""",12 06,10-11-69,Essen,Borussia Dortmund
+2002,13,Michael Ballack,GER,M,6'02'',12 08,26-09-76,Chemnitz,Bayer Leverkusen
+2002,14,Gerald Asamoah,GER,F,5'11'',13 05,03-10-78,Mampong,Schalke
+2002,15,Sebastian Kehl,GER,D,6'02'',12 08,13-02-80,Fulda,Borussia Dortmund
+2002,16,Jens Jeremies,GER,M,5'10'',12 00,05-03-74,Görlitz,Bayern Munich
+2002,17,Marco Bode,GER,F,"6'02""",13 05,23-07-69,Osterode,Werder Bremen
+2002,18,Jörg Böhme,GER,D,5'10'',11 11,22-01-74,Hohenmölsen,Schalke
+2002,19,Bernd Schneider,GER,M,5'09'',11 09,17-11-73,Jena,Bayer Leverkusen
+2002,20,Oliver Bierhoff,GER,F,"6'03""",14 02,01-05-68,Karlsruhe,Monaco
+2002,21,Christoph Metzelder,GER,D,6'04'',13 03,05-11-80,Halten,Borussia Dortmund
+2002,22,Torsten Frings,GER,M,6'00'',12 08,22-11-76,Würsel,Werder Bremen
+2002,23,Hans-Jorg Butt,GER,G,6'03'',14 05,28-05-74,Berlin,Bayer Leverkusen
+2002,1,Shay Given,IRL,G,"6'00""",11 08,24-04-76,Lifford,Newcastle U
+2002,2,Steve Finnan,IRL,D,"5'10""",12 00,20-04-76,Limerick,Fulham
+2002,3,Ian Harte,IRL,D,"6'00""",12 04,31-08-77,Drogheda,Leeds U
+2002,4,Kenny Cunningham,IRL,D,"5'11""",11 02,28-06-71,Dublin,Wimbledon
+2002,5,Steve Staunton,IRL,D,"6'01""",12 11,19-01-69,Drogheda,Aston Villa
+2002,6,Roy Keane,IRL,M,"5'11""",12 01,10-08-71,Cork,Manchester U
+2002,7,Jason McAteer,IRL,M,"5'11""",11 10,18-06-71,Birkenhead,Sunderland
+2002,8,Matt Holland,IRL,M,"5'10""",11 10,11-04-74,Bury,Ipswich T
+2002,9,Damien Duff,IRL,F,"5'08""",09 07,02-03-79,Ballyboden,Blackburn R
+2002,10,Robbie Keane,IRL,F,"5'09""",12 06,08-07-80,Dublin,Leeds U
+2002,11,Kevin Kilbane,IRL,F,"6'00""",12 07,01-02-77,Preston,Sunderland
+2002,12,Mark Kinsella,IRL,M,"5'09""",11 05,12-08-72,Dublin,Charlton Ath
+2002,13,David Connolly,IRL,F,"5'08""",10 09,06-06-77,Willesden,Wimbledon
+2002,14,Gary Breen,IRL,D,"6'01""",11 12,12-12-73,London,Coventry C
+2002,15,Richard Dunne,IRL,D,"6'02""",15 10,21-09-79,Dublin,Manchester C
+2002,16,Dean Kiely,IRL,G,"6'00""",12 13,10-10-70,Salford,Charlton Ath
+2002,17,Niall Quinn,IRL,F,"6'04""",12 04,06-10-66,Dublin,Sunderland
+2002,18,Gary Kelly,IRL,D,"5'08""",11 00,09-07-74,Drogheda,Leeds U
+2002,19,Clinton Morrison,IRL,F,"6'01""",11 02,14-05-79,Tooting,Crystal Palace
+2002,20,Andy O'Brien,IRL,D,"5'10""",10 06,29-06-79,Harrogate,Newcastle U
+2002,21,Steven Reid,IRL,F,"5'11""",11 10,10-03-81,Kingston,Millwall
+2002,22,Lee Carlsey,IRL,M,"5'09""",12 00,28-02-74,Birmingham,Everton
+2002,23,Alan Kelly,IRL,G,"6'03""",14 02,11-08-68,Preston,Blackburn R
+2002,1,Mohammed Al-Deayea,KSA,G,"6'02""",11 11,02-08-72,Al Tai,Al Hilal
+2002,2,Mohammed Al-Jahani,KSA,D,"5'10""",12 08,28-09-75,,Al Ahli [KSA]
+2002,3,Redha Tukar,KSA,D,"6'01""",12 06,29-11-75,,Al Shabab
+2002,4,Abdullah Sulaiman Zubromawi,KSA,D,"5'11""",12 00,15-11-73,,Al Ahli [KSA]
+2002,5,Mohsin Harthi,KSA,D,"6'00""",12 06,15-08-76,,Al Nassr
+2002,6,Fouzi Al-Shehri,KSA,D,"5'08""",10 08,15-05-80,,Al Ahli [KSA]
+2002,7,Ibrahim Al-Shahrani,KSA,M,"6'00""",10 12,21-07-74,,Al Ahli [KSA]
+2002,8,Mohammed Noor,KSA,M,"5'11""",12 00,26-02-78,Jeddah,Al Ittihad
+2002,9,Sami Al-Jaber,KSA,F,"5'10""",11 00,11-12-72,Riyadh,Al Hilal
+2002,10,Mohammad Al-Shlhoub,KSA,M,"5'04""",09 04,09-12-80,,Al Hilal
+2002,11,Obaid Al-Dossary,KSA,F,"5'09""",11 07,02-10-75,,Al Ahli [KSA]
+2002,12,Ahmed Al-Dossary,KSA,D,"5'10""",11 00,25-10-76,,Al Hilal
+2002,13,Hussein Sulaimani,KSA,D,"5'08""",10 03,23-01-77,,Al Ahli [KSA]
+2002,14,Abdulaziz Al-Khathran,KSA,M,"5'09""",10 03,31-07-73,,Al Shabab
+2002,15,Abdullah Al-Dosary,KSA,F,"6'00""",13 01,10-11-77,,Al Hilal
+2002,16,Khamis Al-Owairan,KSA,M,"5'10""",10 06,08-09-73,,Al Ittihad
+2002,17,Abdullah Al-Waked,KSA,M,"5'11""",11 05,29-09-75,,Al Shabab
+2002,18,Nawaf Al-Temyat,KSA,M,"5'09""",11 00,28-06-76,,Al Hilal
+2002,19,Omar Al-Ghamdi,KSA,M,"5'09""",10 12,11-09-79,,Al Hilal
+2002,20,Hassan Al-Yami,KSA,F,"5'08""",09 04,21-08-72,,Al Ittihad
+2002,21,Mabrouk Zaid,KSA,G,"6'00""",09 13,11-02-79,,Al Ittihad
+2002,22,Mohammed Khojali,KSA,G,"6'01""",11 11,15-01-73,,Al Nassr
+2002,23,Mansour Al-Thagafi,KSA,D,"5'10""",10 06,14-01-79,Jeddah,Al Nassr
+2002,1,Germán Burgos,ARG,G,6'02'',14 11,16-04-69,Mar de Plata,Atlético Madrid
+2002,2,Roberto Ayala,ARG,D,5'10'',11 11,12-04-73,Parana,Valencia
+2002,3,Juan Pablo Sorín,ARG,D,"5'07""",10 09,05-05-76,Buenos Aires,Cruzeiro
+2002,4,Mauricio Pochettino,ARG,D,"5'11""",12 08,12-03-72,Murphy,Paris St-Germain
+2002,5,Matias Almeyda,ARG,M,"5'08""",12 08,23-12-73,Azul,Parma
+2002,6,Walter Samuel,ARG,D,"6'00""",13 01,22-03-78,Firmat,Roma
+2002,7,Claudio Lopez,ARG,F,"5'10""",11 11,17-07-74,Rio Tercero,Lazio
+2002,8,Javier Zanetti,ARG,M,"5'10""",11 11,10-08-73,Buenos Aires,Internazionale
+2002,9,Gabriel Batistuta,ARG,F,"6'01""",11 07,01-02-69,Avellaneda,Roma
+2002,10,Ariel Ortega,ARG,M,"5'07""",10 01,04-03-74,General San Martín,River Plate
+2002,11,Juan Sebastián Verón,ARG,M,"6'01""",12 06,09-03-75,La Plata,Manchester U
+2002,12,Pablo Cavallero,ARG,G,6'00'',12 00,13-04-74,Lomas de Zamora,Celta Vigo
+2002,13,Diego Placente,ARG,D,5'09'',11 05,24-04-77,Buenos Aires,Bayer Leverkusen
+2002,14,Diego Simeone,ARG,M,5'10'',12 00,28-04-70,Capital Federal,Lazio
+2002,15,Claudio Husain,ARG,M,"5'10""",11 11,20-10-74,Buenos Aires,River Plate
+2002,16,Pablo Aimar,ARG,M,5'07'',09 11,03-11-79,Rio Cuarto,Valencia
+2002,17,Gustavo López,ARG,F,5'09'',11 11,13-04-73,Valentin Alsina,Celta Vigo
+2002,18,Kily González,ARG,F,"5'09""",11 03,04-08-74,Rosario,Valencia
+2002,19,Hernán Crespo,ARG,F,"6'02""",12 04,05-07-75,Florida,Lazio
+2002,20,Marcelo Gallardo,ARG,M,"5'07""",11 00,18-01-76,Buenos Aires,Monaco
+2002,21,Claudio Caniggia,ARG,F,5'09'',11 03,09-11-67,Henderson,Rangers
+2002,22,José Chamot,ARG,D,"6'01""",12 04,17-05-69,Concepción del Uruguay,Milan
+2002,23,Roberto Bonano,ARG,G,6'01'',12 13,24-01-70,Rosario,Barcelona
+2002,1,David Seaman,ENG,G,"6'04""",14 10,19-09-63,Rotherham,Arsenal
+2002,2,Danny Mills,ENG,D,"5'11""",11 09,18-05-77,Norwich,Leeds U
+2002,3,Ashley Cole,ENG,D,"5'08""",10 08,20-12-80,Stepney,Arsenal
+2002,4,Trevor Sinclair,ENG,M,"5'10""",12 05,02-03-72,Dulwich,West Ham U
+2002,5,Rio Ferdinand,ENG,D,"6'02""",12 00,07-11-78,Peckham,Leeds U
+2002,6,Sol Campbell,ENG,D,"6'02""",14 04,18-09-74,Newham,Arsenal
+2002,7,David Beckham,ENG,M,"6'00""",11 09,02-05-75,Leytonstone,Manchester U
+2002,8,Paul Scholes,ENG,M,"5'07""",11 08,16-11-74,Salford,Manchester U
+2002,9,Robbie Fowler,ENG,F,"5'11""",11 10,09-04-74,Liverpool,Leeds U
+2002,10,Michael Owen,ENG,F,"5'08""",11 00,14-12-79,Chester,Liverpool
+2002,11,Emile Heskey,ENG,F,"6'02""",13 12,11-01-78,Leicester,Liverpool
+2002,12,Wes Brown,ENG,D,"6'01""",11 11,13-10-79,Manchester,Manchester U
+2002,13,Nigel Martyn,ENG,G,"6'02""",14 10,11-08-66,St Austell,Leeds U
+2002,14,Wayne Bridge,ENG,D,"5'10""",12 04,05-08-80,Southampton,Southampton
+2002,15,Martin Keown,ENG,D,"6'01""",12 04,24-07-66,Oxford,Arsenal
+2002,16,Gareth Southgate,ENG,D,"6'00""",12 06,03-09-70,Watford,Middlesbrough
+2002,17,Teddy Sheringham,ENG,F,"6'00""",13 00,02-04-66,Highams Park,Tottenham H
+2002,18,Owen Hargreaves,ENG,M,5'11'',11 07,20-01-81,Calgary,Bayern Munich
+2002,19,Joe Cole,ENG,M,"5'09""",11 00,08-11-81,North London,West Ham U
+2002,20,Darius Vassell,ENG,F,"5'07""",12 00,13-06-80,Birmingham,Aston Villa
+2002,21,Nicky Butt,ENG,M,"5'10""",11 05,21-01-75,Manchester,Manchester U
+2002,22,David James,ENG,G,"6'05""",14 02,01-08-70,Welwyn,West Ham U
+2002,23,Kieron Dyer,ENG,M,"5'08""",10 01,29-12-78,Ipswich,Newcastle U
+2002,1,Ike Shorunmu,NGA,G,"6'01""",13 03,16-10-67,Lagos,Luzern
+2002,2,Joseph Yobo,NGA,M,6'02'',11 00,06-09-80,Kano,Marseille
+2002,3,Celestine Babayaro,NGA,D,"5'09""",10 12,29-08-78,Kaduna,Chelsea
+2002,4,Nwankwo Kanu,NGA,F,"6'05""",13 00,01-08-76,Owerri,Arsenal
+2002,5,Isaac Okoronkwo,NGA,D,"6'00""",11 09,01-05-78,Abia,Shakhtar Donetsk
+2002,6,Taribo West,NGA,D,"6'01""",12 08,26-03-74,Port Harcourt,Kaiserslautern
+2002,7,Pius Ikedia,NGA,F,"6'01""",09 06,11-07-80,Lagos,Ajax
+2002,8,Mutiu Adepoju,NGA,M,"5'11""",12 00,22-12-70,Ibadan,Salamanca
+2002,9,Bartholomew Ogbeche,NGA,F,"5'09""",12 03,01-10-84,Ogoja,Paris St-Germain
+2002,10,Jay Jay Okocha,NGA,M,5'08'',11 00,14-08-73,Enugu,Paris St-Germain
+2002,11,Garba Lawal,NGA,M,"6'03""",12 13,22-05-74,Kaduna,Roda JC
+2002,12,Austin Ejide,NGA,G,"6'03""",14 02,08-04-84,Onitsha,Gabros International
+2002,13,Rabiu Afolabi,NGA,D,"6'01""",11 11,18-04-80,Osobo,Standard Liège
+2002,14,Ifeanyi Udeze,NGA,D,"6'00""",11 11,21-07-80,Lagos,PAOK
+2002,15,Christopher Justice,NGA,M,"5'11""",11 07,24-12-81,,Royal Antwerp
+2002,16,Efetobar Sodje,NGA,D,"6'01""",12 00,05-10-72,Greenwich,Crewe Alex
+2002,17,Julius Aghahowa,NGA,F,"5'10""",11 07,12-02-82,Benin City,Shakhtar Donetsk
+2002,18,Benedict Akwuegbu,NGA,F,"6'03""",12 06,03-11-74,Lagos,Shenyang Haishi
+2002,19,Eric Ejiofor,NGA,D,"5'11""",12 04,21-07-79,,Maccabi Haifa
+2002,20,James Obiorah,NGA,M,"5'10""",11 05,24-08-78,Lagos,Lokomotiv Moscow
+2002,21,John Utaka,NGA,F,"5'10""",12 12,08-01-82,Legugnu,Al Saad
+2002,22,Vincent Enyeama,NGA,G,"5'11""",12 08,29-08-82,,Enyimba
+2002,23,Femi Opabunmi,NGA,F,"5'07""",10 10,03-03-85,Lagos,3SC Ibadan
+2002,1,Magnus Hedman,SWE,G,"6'03""",14 00,19-03-73,Stockholm,Coventry C
+2002,2,Olof Mellberg,SWE,D,6'01'',12 10,03-09-77,Amncharad,Aston Villa
+2002,3,Patrik Andersson,SWE,D,6'01'',12 13,18-08-71,Borgeby,Barcelona
+2002,4,Johan Mjallby,SWE,D,"6'03""",13 00,09-02-71,Jarfalla,Celtic
+2002,5,Michael Svensson,SWE,D,6'02'',13 08,25-11-75,Varnamo,Troyes
+2002,6,Tobias Linderoth,SWE,M,"5'10""",11 08,21-04-79,Marseille,Everton
+2002,7,Niclas Alexandersson,SWE,M,"6'02""",11 07,29-12-75,Halmstad,Everton
+2002,8,Anders Svensson,SWE,M,"5'10""",12 10,17-07-76,Gothenburg,Southampton
+2002,9,Fredrik Ljungberg,SWE,M,"5'09""",10 13,16-04-77,Halmstad,Arsenal
+2002,10,Marcus Allbäck,SWE,F,5'11'',12 02,01-01-73,Gothenburg,SC Heerenveen
+2002,11,Henrik Larsson,SWE,F,"5'09""",11 02,20-09-71,Helsingborg,Celtic
+2002,12,Magnus Kihlstedt,SWE,G,"6'03""",13 08,29-02-72,Foss,FC København
+2002,13,Tomas Antonelius,SWE,D,"5'10""",10 10,07-05-73,Stockholm,FC København
+2002,14,Erik Edman,SWE,D,"5'10""",12 06,11-11-78,Helsingborg,SC Heerenveen
+2002,15,Andreas Jakobsson,SWE,D,"6'03""",13 05,06-10-72,Teckomatorp,Hansa Rostock
+2002,16,Teddy Lucic,SWE,D,6'02'',12 04,15-04-74,Biskopsgaard,AIK
+2002,17,Magnus Svensson,SWE,M,"5'10""",11 11,10-03-69,Falkenberg,Brøndby
+2002,18,Mattias Jonson,SWE,F,"5'10""",12 01,16-01-74,Gothenburg,Brøndby
+2002,19,Pontus Farnerud,SWE,M,"5'10""",11 09,04-06-80,Helsingborg,Monaco
+2002,20,Daniel Andersson,SWE,M,"5'10""",12 06,28-08-77,Borgholm,Venezia
+2002,21,Zlatan Ibrahimović,SWE,F,"6'04""",13 03,03-10-81,Malmö,Ajax
+2002,22,Anders Andersson,SWE,F,5'09'',11 11,15-03-74,Tomelilla,AIK
+2002,23,Andreas Isaksson,SWE,G,"6'06""",13 12,03-10-81,Trelleborg,Djurgårdens IF
+2002,1,Stipe Pletikosa,CRO,G,"6'04""",13 10,08-01-79,Split,Hajduk Split
+2002,2,Anthony Šerić,CRO,D,"5'11""",11 00,15-01-79,Sydney,Verona
+2002,3,Josip Šimunić,CRO,D,6'05'',14 00,18-02-78,Canberra,Hertha Berlin
+2002,4,Stjepan Tomas,CRO,D,"6'01""",12 13,06-03-76,Zagreb,Vicenza
+2002,5,Milan Rapaić,CRO,M,"6'00""",13 01,16-08-73,Nova Gradiška,Fenerbahçe
+2002,6,Boris Živković,CRO,D,"6'00""",12 11,15-11-75,Živinice,Bayer Leverkusen
+2002,7,Davor Vugrinec,CRO,M,"5'10""",12 00,24-03-75,Varaždin,Lecce
+2002,8,Robert Prosinečki,CRO,M,"6'00""",11 13,12-01-69,Schweiningen,Portsmouth
+2002,9,Davor Šuker,CRO,F,"6'00""",13 01,01-01-68,Osijek,1860 Munich
+2002,10,Niko Kovač,CRO,M,5'10'',11 05,15-10-71,Berlin,Bayern Munich
+2002,11,Alen Bokšić,CRO,F,"6'02""",11 02,21-01-70,Makarska,Middlesbrough
+2002,12,Tomislav Butina,CRO,G,"6'03""",13 08,30-03-74,Zagreb,Dinamo Zagreb
+2002,13,Mario Stanić,CRO,M,"6'02""",13 07,10-04-72,Sarajevo,Chelsea
+2002,14,Zvonimir Soldo,CRO,M,6'02'',13 05,02-11-67,Zagreb,Stuttgart
+2002,15,Daniel Šarić,CRO,D,"5'10""",11 05,04-08-72,Rijeka,Panathinaikos
+2002,16,Jurica Vranješ,CRO,M,6'00'',11 00,30-01-80,Zivinice,Bayer Leverkusen
+2002,17,Robert Jarni,CRO,D,"5'11""",12 01,26-10-68,Čakovec,Panathinaikos
+2002,18,Ivica Olić,CRO,F,"6'00""",12 13,14-09-79,Davor,NK Zagreb
+2002,19,Goran Vlaović,CRO,F,"5'10""",11 11,07-08-72,Nova Gradiška,Panathinaikos
+2002,20,Dario Šimić,CRO,D,"5'10""",11 11,12-11-75,Zagreb,Internazionale
+2002,21,Robert Kovač,CRO,D,6'00'',12 04,06-04-74,Berlin,Bayern Munich
+2002,22,Boško Balaban,CRO,F,5'10'',11 10,15-10-78,Rijeka,Aston Villa
+2002,23,Vladimir Vasilj,CRO,G,"6'02""",12 04,06-07-75,Zagreb,NK Zagreb
+2002,1,José Cevallos,ECU,G,"6'00""",12 04,17-04-71,Ancon,Barcelona [ECU]
+2002,2,Augusto Porozo,ECU,D,"5'11""",12 06,13-04-74,,Emelec
+2002,3,Iván Hurtado,ECU,D,"5'10""",10 10,16-08-74,Esmeraldas,Barcelona [ECU]
+2002,4,Ulises De La Cruz,ECU,D,5'10'',11 09,08-02-74,Piqulucho,Hibernian
+2002,5,Alfonso Obregón,ECU,M,"5'11""",11 07,12-05-72,Portoviejo,LDU Quito
+2002,6,Raul Guerron,ECU,D,"6'00""",12 11,12-10-76,,Deportivo Quito
+2002,7,Nicolás Asencio,ECU,M,"6'01""",10 10,26-04-75,Machala,Barcelona [ECU]
+2002,8,Luis Gómez,ECU,D,"5'08""",10 03,20-04-72,,Barcelona [ECU]
+2002,9,Iván Kaviedes,ECU,F,"6'00""",11 03,24-10-77,Pichincha,Barcelona [ECU]
+2002,10,Álex Aguinaga,ECU,M,"5'08""",11 00,09-07-68,Ibarra,Necaxa
+2002,11,Agustin Delgado,ECU,F,"6'03""",13 08,23-12-74,Ibarra,Southampton
+2002,12,Oswaldo Ibarra,ECU,G,5'10'',12 02,08-09-69,,El Nacional
+2002,13,Ángel Fernández,ECU,F,"5'08""",10 10,02-08-71,Machala,El Nacional
+2002,14,Juan Carlos Burbano,ECU,M,"5'09""",11 03,15-02-69,Quito,El Nacional
+2002,15,Marlon Ayoví,ECU,D,"5'09""",12 00,27-08-71,Guayaquil,Deportivo Quito
+2002,16,Cléber Chalá,ECU,M,"6'00""",12 00,29-06-71,Ibarra,El Nacional
+2002,17,Giovanny Espinoza,ECU,D,"6'01""",10 10,12-04-77,,Aucas
+2002,18,Carlos Tenorio,ECU,F,"6'00""",12 06,14-05-79,Esmeraldas,Deportivo Quito
+2002,19,Édison Méndez,ECU,M,"5'09""",10 10,16-03-79,El Chotal,Deportivo Quito
+2002,20,Edwin Tenorio,ECU,M,"5'08""",10 01,16-06-76,Esmeraldas,Barcelona [ECU]
+2002,21,Wellington Sánchez,ECU,M,"5'09""",11 07,19-06-75,Ambato,Emelec
+2002,22,Daniel Viteri,ECU,G,"6'01""",12 06,12-12-81,Guayaquil,Emelec
+2002,23,Walter Ayoví,ECU,D,"5'07""",10 10,11-08-79,Camarones,Emelec
+2002,1,Gianluigi Buffon,ITA,G,"6'03""",13 01,28-01-78,Carrara,Juventus
+2002,2,Christian Panucci,ITA,D,"6'00""",11 07,12-04-73,Savona,Roma
+2002,3,Paolo Maldini,ITA,D,"6'01""",13 05,26-06-68,Milan,Milan
+2002,4,Francesco Coco,ITA,D,"5'11""",12 04,14-06-77,Paternò,Barcelona
+2002,5,Fabio Cannavaro,ITA,D,"5'09""",11 11,13-09-73,Naples,Parma
+2002,6,Cristiano Zanetti,ITA,M,"5'11""",11 11,14-04-77,Massa,Internazionale
+2002,7,Alessandro Del Piero,ITA,F,"5'08""",11 00,09-11-74,Conegliano,Juventus
+2002,8,Gennaro Gattuso,ITA,M,"5'10""",12 01,09-01-78,Corigliano,Milan
+2002,9,Filippo Inzaghi,ITA,F,"5'11""",11 09,09-08-73,Piacenza,Milan
+2002,10,Francesco Totti,ITA,F,"5'11""",12 13,27-08-76,Roma,Roma
+2002,11,Cristiano Doni,ITA,M,"6'01""",12 04,01-04-73,Roma,Atalanta
+2002,12,Christian Abbiati,ITA,G,"6'03""",14 07,08-07-77,Abbiategrasso,Milan
+2002,13,Alessandro Nesta,ITA,D,"6'02""",12 06,19-03-76,Roma,Lazio
+2002,14,Luigi Di Biagio,ITA,M,"5'09""",11 09,03-06-71,Roma,Internazionale
+2002,15,Mark Iuliano,ITA,D,"6'02""",12 08,12-08-73,Cosenza,Juventus
+2002,16,Angelo Di Livio,ITA,M,"5'08""",11 07,26-07-66,Roma,Fiorentina
+2002,17,Damiano Tommasi,ITA,M,"5'11""",12 04,17-05-74,Negrar,Roma
+2002,18,Marco Delvecchio,ITA,F,"6'01""",13 01,07-04-73,Milan,Roma
+2002,19,Gianluca Zambrotta,ITA,M,"5'11""",12 00,19-02-77,Como,Juventus
+2002,20,Vincenzo Montella,ITA,F,"5'08""",11 03,18-06-74,Pomigliano,Roma
+2002,21,Christian Vieri,ITA,F,"6'01""",12 13,12-07-73,Bologna,Internazionale
+2002,22,Francesco Toldo,ITA,G,"6'05""",14 02,02-12-71,Padova,Internazionale
+2002,23,Marco Materazzi,ITA,D,"6'04""",14 07,19-08-73,Lecce,Internazionale
+2002,1,Oscar Perez,MEX,G,"5'07""",11 05,01-02-73,Mexico City,Cruz Azul
+2002,2,Francisco Gabriel de Anda,MEX,D,"6'02""",12 08,05-06-71,Mexico City,Pachuca
+2002,3,Rafael García,MEX,M,"5'09""",10 03,14-08-74,Mexico City,Toluca
+2002,4,Rafael Márquez,MEX,M,6'00'',12 01,13-02-79,Zamora,Monaco
+2002,5,Manuel Vidrio,MEX,D,"6'00""",12 01,23-08-72,Teovitatlán,Pachuca
+2002,6,Gerardo Torrado,MEX,M,"5'08""",11 07,30-04-79,Mexico City,Seville
+2002,7,Ramón Morales,MEX,M,"5'07""",09 04,10-10-75,La Piedad,Guadalajara
+2002,8,Alberto Garcia Aspe,MEX,M,"5'09""",11 05,11-05-67,Mexico City,Puebla
+2002,9,Jared Borgetti,MEX,F,"6'00""",11 05,14-08-73,Culiacan,Santos Laguna
+2002,10,Cuauhtémoc Blanco,MEX,F,"5'10""",11 07,17-01-73,Mexico City,Valladolid
+2002,11,Braulio Luna,MEX,M,"6'00""",11 11,09-08-74,Mexico City,Necaxa
+2002,12,Oswaldo Sánchez,MEX,G,"6'00""",13 01,21-09-73,Guadalajara,Guadalajara
+2002,13,Sigifredo Mercado,MEX,M,"6'00""",12 04,21-12-68,Toluca,Atlas
+2002,14,Germán Villa,MEX,M,"5'07""",11 05,04-02-73,Mexico City,América
+2002,15,Luis Hernandez,MEX,F,"5'07""",11 06,22-12-68,Poza Rica,América
+2002,16,Salvador Carmona,MEX,D,"5'09""",11 03,22-08-75,Mexico City,Toluca
+2002,17,Juan Francisco Palencia,MEX,F,"5'09""",11 03,28-04-73,Mexico City,Espanyol
+2002,18,Johan Rodríguez,MEX,M,"5'09""",09 13,15-08-75,Monterrey,Santos Laguna
+2002,19,Gabriel Caballero,MEX,M,"5'09""",10 12,05-02-71,Rosario,Pachuca
+2002,20,Melvin Brown,MEX,D,"5'09""","5'09""",28-01-79,Naranjos,Cruz Azul
+2002,21,Jesús Arellano,MEX,F,"5'09""",10 12,08-05-73,Monterrey,Monterrey
+2002,22,Alberto Rodríguez,MEX,D,"5'06""",10 03,01-04-74,Mexico City,Pachuca
+2002,23,Jorge Campos,MEX,G,"5'09""",11 00,15-10-66,Acapulco,UNAM
+2002,1,Geert de Vlieger,BEL,G,"6'01""",12 08,16-10-71,Aalst,Willem II
+2002,2,Eric Deflandre,BEL,D,"5'10""",12 08,02-08-73,Roscourt,Lyon
+2002,3,Glen De Boeck,BEL,D,"6'02""",12 04,22-08-71,Brussels,Anderlecht
+2002,4,Eric van Meir,BEL,D,"6'01""",14 00,28-02-68,Deurne,Standard Liège
+2002,5,Nico van Kerkhoven,BEL,D,6'03'',12 08,14-12-70,Lier,Schalke
+2002,6,Timmy Simons,BEL,M,"6'01""",12 06,11-12-76,Diest,Club Brugge
+2002,7,Marc Wilmots,BEL,F,"6'00""",14 00,22-02-69,Dongelberg,Schalk
+2002,8,Bart Goor,BEL,M,6'00'',12 00,09-04-73,Neerpelt,Hertha Berlin
+2002,9,Wesley Sonck,BEL,F,"5'09""",11 09,09-08-78,Ninove,KRC Genk
+2002,10,Johan Walem,BEL,M,"5'09""",10 12,01-0 2-72,Soignes,Standard Liège
+2002,11,Gert Verheyen,BEL,M,"6'02""",13 08,20-09-72,Hoogstraten,Club Brugge
+2002,12,Peter Van Der Heyden,BEL,D,"6'02""",13 08,16-07-76,Aalst,Club Brugge
+2002,13,Franky Vandendriessche,BEL,G,"6'02""",12 00,07-04-71,Waregem,Excelsior Mouscron
+2002,14,Sven Vermant,BEL,M,6'00'',12 08,04-04-73,Lier,Schalke
+2002,15,Jacky Peeters,BEL,D,"6'00""",13 01,13-12-69,Bree,KRC Gent
+2002,16,Daniel van Buyten,BEL,D,"6'05""",13 09,07-02-78,Chimay,Marseille
+2002,17,Gaetan Englebert,BEL,M,"5'10""",10 10,11-06-76,Luik,Club Brugge
+2002,18,Yves Vanderhaeghe,BEL,M,"5'11""",12 11,30-01-70,Roeselare,Anderlecht
+2002,19,Bernd Thijs,BEL,M,"6'01""",12 08,28-06-78,Hasselt,KRC Genk
+2002,20,Branko Strupar,BEL,F,"6'03""",14 00,09-02-70,Zagreb,Derby Co
+2002,21,Danny Boffin,BEL,M,"5'08""",09 13,07-10-65,Sint-Truiden,Sint-Truiden
+2002,22,Mbo Mpenza,BEL,F,"5'09""",11 11,04-12-76,Kinshasa,Excelsior Mouscron
+2002,23,Frederic Herpoel,BEL,G,"6'00""",12 01,16-08-74,Mons,KAA Gent
+2002,1,Yoshikatsa Kawaguchi,JPN,G,"5'11""",12 04,15-08-75,Shizuoka,Portsmouth
+2002,2,Yutaka Akita,JPN,D,"5'11""",12 04,06-08-70,Aichi,Kashima Antlers
+2002,3,Naoki Matsuda,JPN,D,"6'00""",12 04,14-03-77,Gumma,Yokohama F Marinos
+2002,4,Ryuzo Morioka,JPN,D,"5'11""",11 03,07-10-75,Kanagawa,Shimizu S-Pulse
+2002,5,Junichi Inamoto,JPN,M,"5'11""",11 11,18-09-79,Osaka,Arsenal
+2002,6,Toshihiro Hattori,JPN,D,"5'10""",11 07,23-09-73,Shizuoka,Júbilo Iwata
+2002,7,Hidetoshi Nakata,JPN,M,"5'09""",11 00,22-01-77,Yamanashi,Parma
+2002,8,Hiroaki Morishima,JPN,M,"5'06""",09 11,30-04-72,Hiroshima,Cerezo Osaka
+2002,9,Akinori Nishizawa,JPN,F,"5'11""",11 03,18-06-76,Shizuoka,Cerezo Osaka
+2002,10,Masashi Nakayama,JPN,F,"5'10""",11 05,23-09-67,Shizuoka,Júbilo Iwata
+2002,11,Takayuki Suzuki,JPN,F,"6'00""",11 11,05-06-76,Ibaraki,Kashima Antlers
+2002,12,Seigo Narazaki,JPN,G,"6'01""",12 00,15-04-76,Nara,Nagoya Grampus Eight
+2002,13,Atsushi Yanagisawa,JPN,F,"5'10""",11 11,27-05-77,Toyama,Kashima Antlers
+2002,14,Alex,JPN,M,"5'10""",10 12,20-07-77,Maringá Paraná,Shimizu S-Pulse
+2002,15,Takashi Fukunishi,JPN,M,"5'11""",12 01,01-09-76,Ehime,Júbilo Iwata
+2002,16,Koji Nakata,JPN,D,"5'11""",11 09,09-07-79,Shiga,Kashima Antlers
+2002,17,Tsuneyasu Miyamoto,JPN,D,"5'09""",11 05,07-02-77,Osaka,Gamba Osaka
+2002,18,Shinji Ono,JPN,M,"5'09""",11 09,27-09-79,Numazu,Feyenoord
+2002,19,Mitsuo Ogasawara,JPN,M,"5'08""",11 05,05-04-79,Iwate,Kashima Antlers
+2002,20,Tomokazu Myojin,JPN,M,"5'08""",11 00,24-01-78,Hyogo,Kashiwa Reysol
+2002,21,Kazuyuki Toda,JPN,M,"5'10""",11 11,30-12-77,Tokyo,Shimizu S-Pulse
+2002,22,Daisuke Ichikawa,JPN,M,"5'11""",10 10,14-05-80,Shizuoka,Shimizu S-Pulse
+2002,23,Hitoshi Sogahata,JPN,G,"6'02""",12 08,02-08-79,Ibaraki,Kashima Antlers
+2002,1,Ruslan Nigmatullin,RUS,G,"6'02""",12 06,07-10-74,Kazan,Verona
+2002,2,Yuri Kovtun,RUS,D,"6'02""",12 08,05-01-70,Azov,Spartak Moscow
+2002,3,Yuri Nikiforov,RUS,D,"6'02""",13 12,16-09-70,Odessa,PSV Eindhoven
+2002,4,Alexei Smertin,RUS,M,"5'09""",10 00,01-05-75,Barnaul,Bordeaux
+2002,5,Andrei Solomatin,RUS,M,"6'00""",12 08,09-09-75,Moscow,CSKA Moscow
+2002,6,Igor Semshov,RUS,M,"5'07""",10 01,06-04-78,Moscow,Torpedo Moscow
+2002,7,Viktor Onopko,RUS,D,"6'02""",12 11,14-10-69,Lugansk,Oviedo
+2002,8,Valeri Karpin,RUS,M,6'01'',12 00,02-02-69,Tallin,Celta Vigo
+2002,9,Egor Titov,RUS,M,"6'01""",12 06,29-05-76,Moscow,Spartak Moscow
+2002,10,Alexander Mostovoi,RUS,M,5'11'',11 11,22-08-68,St Petersburg,Celta Vigo
+2002,11,Vladimir Bestchastnykh,RUS,F,"6'01""",12 04,01-04-74,Moscow,Spartak Moscow
+2002,12,Stanislav Cherchesov,RUS,G,"6'00""",12 00,02-09-63,Alagir,Tirol Innsbruck
+2002,13,Viacheslav Daev,RUS,D,"6'01""",12 08,06-09-72,Tula,CSKA Moscow
+2002,14,Igor Chugainov,RUS,D,"6'02""",12 13,06-04-70,Moscow,Uralan Elista
+2002,15,Dmitri Alenichev,RUS,M,"5'10""",11 00,20-10-72,Veliki Luki,FC Porto
+2002,16,Alexander Kerzhakov,RUS,F,"5'09""",10 08,27-11-82,Kingisepp,Zenit St Petersburg
+2002,17,Sergei Semak,RUS,M,"5'09""",11 09,27-02-76,Moscow,CSKA Moscow
+2002,18,Dmitriy Sennikov,RUS,D,"6'00""",11 09,24-06-76,St. Petersburg,Lokomotiv Moscow
+2002,19,Ruslan Pimenov,RUS,F,"5'09""",12 04,25-11-81,Moscow,Lokomotiv Moscow
+2002,20,Marat Izmailov,RUS,M,"5'08""",10 06,21-09-82,Tatarstan,Lokomotiv Moscow
+2002,21,Dmitri Khokhlov,RUS,M,"6'02""",13 03,22-12-75,Moscow,Real Sociedad
+2002,22,Dmitri Sychev,RUS,F,"5'09""",11 00,26-10-83,Omsk,Spartak Moscow
+2002,23,Aleksandr Filimonov,RUS,G,"6'04""",14 05,15-10-73,Yoshkar-Ola,Uralan Elista
+2002,1,Ali Boumnijel,TUN,G,6'01'',13 12,13-04-66,Menzel Jemil,Bastia
+2002,2,Khaled Badra,TUN,D,6'01'',13 05,08-04-73,Kairouan,Espérance
+2002,3,Zoubaier Baya,TUN,M,"5'09""",11 05,15-05-71,M'saken,Beşiktaş
+2002,4,Mohamed Mkacher,TUN,D,"6'00""",11 07,22-05-75,,Etoile du Sahel
+2002,5,Ziad Jaziri,TUN,F,"5'07""",11 03,12-07-78,Tunis,Etoile du Sahel
+2002,6,Hatem Trabelsi,TUN,D,"5'10""",12 11,25-01-77,Ariana,Ajax
+2002,7,Imed Mhedhebi,TUN,F,"5'09""",10 12,22-03-76,Tunis,Genoa
+2002,8,Hassen Gabsi,TUN,M,"5'07""",11 05,23-02-74,Tunis,Genoa
+2002,9,Riadh Jelassi,TUN,F,"5'09""",11 05,07-07-71,,Club Africain
+2002,10,Kaies Ghodhbane,TUN,M,"6'00""",12 04,08-01-76,Ksar Hellal,Etoile du Sahel
+2002,11,Adel Sellimi,TUN,F,"5'09""",12 01,16-11-75,Madhia,Freiburg
+2002,12,Raouf Bouzaiene,TUN,D,"5'09""",11 07,16-08-70,Sousse,Genoa
+2002,13,Riadh Bouazizi,TUN,M,"6'00""",12 06,08-04-73,Bizerte,Bursaspor
+2002,14,Hamdi Marzouki,TUN,D,"6'00""",12 06,23-01-77,,Club Africain
+2002,15,Radhi Jaidi,TUN,D,"6'04""",14 00,30-08-75,Tunis,Espérance
+2002,16,Hassen Bejaoui,TUN,G,"6'02""",13 05,14-02-76,,Bizerte
+2002,17,Tarek Thabet,TUN,D,"5'09""",11 05,16-08-71,,Espérance
+2002,18,Selim Ben Achour,TUN,M,"5'07""",11 07,08-09-81,Paris,Martigues
+2002,19,Emir Mkademi,TUN,D,"5'10""",11 09,20-08-78,,Etoile du Sahel
+2002,20,Ali Zitouni,TUN,F,"5'10""",11 03,11-01-81,Tunis,Espérance
+2002,21,Mourad Melki,TUN,M,"5'10""",11 09,09-05-75,,Espérance
+2002,22,Ahmed Jaouachi,TUN,G,"6'02""",13 05,13-07-75,Mareth,Monastir
+2002,23,José Clayton,TUN,D,"6'00""",12 11,21-03-74,São Luis de Maranhão,Espérance
+,,,,,,,,,
+,"All Rights Reserved © FootballSquads.com, 1999 - 2016.",,,,,,,,
